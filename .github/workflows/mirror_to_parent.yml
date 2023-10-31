@@ -17,10 +17,10 @@ jobs:
           token: ${{ secrets.UPDATE_SUBMODULE }}
           submodules: true
 
-      - name: Pull & update submodules recursively
+      - name: Pull & update the "klein" submodule
         run: |
-          git submodule update --init --recursive
-          git submodule update --recursive --remote
+          git submodule update --init --recursive klein
+          git submodule update --remote klein
 
       - name: Commit
         run: |
