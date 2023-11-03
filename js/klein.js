@@ -1,3 +1,83 @@
+// Define the variable that will hold your data
+let protokolle = [];
+
+// Function to load your JSON and return a promise that resolves with the data
+function loadProtokolle() {
+  return fetch('./js/data/protokolle.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      protokolle = data;
+      console.log(protokolle.length);
+      return protokolle; // Resolve the promise with the data
+    })
+    .catch(error => {
+      console.error('There has been a problem with your fetch operation:', error);
+      throw error; // Re-throw the error to be handled by the caller
+    });
+}
+
+function processProtokolle() {
+protokolle[0].titel=protokolle[0].titel.replace("[","<span class=\"hiddenkomm\">[").replace("]","]</span>");
+var Monat = new Array("Januar", "Februar", "M&auml;rz", "April", "Mai", "Juni",
+                      "Juli", "August", "September", "Oktober", "November", "Dezember");
+var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
+                      "VII", "VIII", "IX", "X", "XI", "XII");
+var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
+                          "Donnerstag", "Freitag", "Samstag");
+for(var i=0;i<protokolle.length;i++){
+	protokolle[i].titel=protokolle[i].titel.replace(/\\\[/g,"latexinlinelinks").replace(/\\\]/g,"latexinlinerechts").replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\\\newline/g,"<br>").replace(/\\newline/g,"<br>").replace(/\\textsuperscript{(.*?)}/g,"<sup>$1</sup>").replace(/--/g,"—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/latexinlinelinks/g,"\\\[").replace(/latexinlinerechts/g,"\\\]").replace(/!eKl!/g,"\$\[\$").replace(/!eKr!/g,"\$\]\$");
+	protokolle[i].ktitel=protokolle[i].ktitel.replace(/\\\[/g,"latexinlinelinks").replace(/\\\]/g,"latexinlinerechts").replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\\\newline/g,"<br>").replace(/\\newline/g,"<br>").replace(/\\textsuperscript{(.*?)}/g,"<sup>$1</sup>").replace(/--/g,"—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/latexinlinelinks/g,"\\\[").replace(/latexinlinerechts/g,"\\\]").replace(/!eKl!/g,"\$\[\$").replace(/!eKr!/g,"\$\]\$");
+	protokolle[i].name=protokolle[i].name.replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\newline/g,"<br>").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/\\begin\{CJK\}\{UTF8\}\{min\}吉江琢兒\\end\{CJK\}/,"japanisch: 吉江琢兒");
+
+	if (protokolle[i].dok) {
+		var dt = new Date(protokolle[i].datum);
+		var TagInWoche = dt.getDay();
+		var Jahresmonat = dt.getMonth();
+    	protokolle[i].datum=Wochentag[TagInWoche]+', '+dt.getDate()+'.'+RMonat[Jahresmonat]+'.'+dt.getFullYear();
+    }
+    else{ protokolle[i].datum='<i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="Unklarheit beim Datum"></i> <span class="komm1">'+protokolle[i].datum+"</span>";}
+
+    if (protokolle[i]['derror']) {
+		if (protokolle[i]['derror']=='andere Quelle'){
+			protokolle[i].datum='<i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="Datum der Niederschrift oder aus anderer Quelle"></i> '+protokolle[i].datum;
+		}
+		if (protokolle[i]['derror']=='unbekannt'){
+			protokolle[i].datum='<i class="fa fa-question-circle"></i><span class="komm"> ohne Datum</span>';
+		}
+		if (protokolle[i]['derror']=='dito'){
+			var olddate ='';
+			olddate=protokolle[i-1].datum;
+			protokolle[i].datum='<i class="fa fa-ellipsis-h" data-toggle="tooltip" data-placement="left" title="Datum vom vorigen Vortrag übernommen"></i> '+olddate;
+		}
+	}
+
+	if (!(protokolle[i].sok)){
+		protokolle[i].seite='<i class="fa fa-question-circle"></i> '+protokolle[i].seite;
+	}
+	if (protokolle[i].titel==""){
+		if (protokolle[i].ktitel!=""){
+			protokolle[i].titel='<i class="fa fa-info-circle" data-toggle="tooltip" data-placement="left" title="Titel aus Inhaltsverzeichnis von F. Klein"></i> '+protokolle[i].ktitel;
+		}
+		else {
+			protokolle[i].titel='<i class="fa fa-question-circle"></i><span class="komm"> ohne Titel</span>';
+		}
+	}
+    if (protokolle[i].name.indexOf('?')>-1) {
+        protokolle[i].name='<i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="Unsicherheit beim Namen"></i> ' +protokolle[i].name.replace(/\?/g,'');
+    }
+}
+}
+
+// Call the function to load your protokolle
+loadProtokolle();
+console.log("in klein:", protokolle.length);
+
+
 $(function() {
 			$('#side-menu').metisMenu();	//side menu collapse
 		});
@@ -10,7 +90,7 @@ $(function() {
 function hideprevnext(idnr) {
 	if (idnr==1) {
 		$('#einzelalarm .prev').addClass("disabled");
-		
+
 	}
 	else if (idnr==1204) {
 		$('#einzelalarm .next').addClass("disabled");
@@ -21,12 +101,12 @@ function hideprevnext(idnr) {
 	}
 	return false;
 }
-            
+
 var updateeinzelwarnung=function(){
 		if (typeof tabledata.settings.dataset.queries.frage != "undefined"){
 			if (tabledata.settings.dataset.queries.frage.indexOf("id")>-1){
 				idnr=tabledata.settings.dataset.queries.frage.split('-')[1];
-				
+
 				semstr=protokolle[idnr-1].sn;
 				semstr=semstr%1 ? semstr : semstr+'.0';
 				semstr='sn-'+semstr
@@ -35,11 +115,11 @@ var updateeinzelwarnung=function(){
 				$('#einzelband').attr("href", '#band-'+protokolle[idnr-1].band);
 				$('#einzelsemester').html(titeldict[semstr].replace('<br>',''));
 				$('#einzelsemester').attr("href", '#'+semstr);
-				
+
 				var idzahl = parseInt(tabledata.settings.dataset.queries.frage.split('-')[1])
 				var prevint=parseInt(idzahl)-1
 				var nextint=parseInt(prevint)+2
-				
+
 				hideprevnext(idnr);
 				$('#einzelalarm a.controls.previous').attr("href",'#id-'+prevint)
 				$('#einzelalarm a.controls.next').attr("href",'#id-'+nextint)
@@ -52,7 +132,7 @@ var updateeinzelwarnung=function(){
 		else{
 			$('#einzelalarm').hide();
 		}
-		
+
 }
 var updatesuchwarnung=function(){
 		if (typeof tabledata.settings.dataset.queries.search != "undefined"){
@@ -70,7 +150,7 @@ var updatesuchwarnung=function(){
 		else{
 			$('.suchalarm').hide();
 		}
-		
+
 }
 var updatetitel = function(){
 		if (typeof tabledata.settings.dataset.queries.frage != "undefined"){
@@ -81,7 +161,7 @@ var updatetitel = function(){
 			}
 			else if (anfrage[0]=='id'){
 				$('#seitentitel').hide();
-				
+
 			}
 			else{
 				$('#seitentitel').show();
@@ -93,47 +173,48 @@ var updatetitel = function(){
 			$('#seitentitel').html('Sämtliche Protokolle 1872–1912');
 		}
 		$('#seitentitel').find('.nonorigtitel').prepend('<i class="fa fa-info-circle"></i> ');
-		
+
 }
 
 
 mytable = "";
-tabledata =""; 
-$.fn.bootstrapSwitch.defaults.offText= 'aus'; 
+tabledata ="";
+$.fn.bootstrapSwitch.defaults.offText= 'aus';
 $.fn.bootstrapSwitch.defaults.onText= 'an';
 $.fn.bootstrapSwitch.defaults.size="normal";
+
 
 var processingComplete = function(){
             $(function () {
                 $("[data-toggle='tooltip']").tooltip();
             });
-			updatetitel();	
+			updatetitel();
 			if ($('#check').is(':checked')){
 							 $('#seitentitel').find('.hiddenkomm').show();
 							 $( ".hiddenkomm" ).show();
 														 }
-					 else{	 
+					 else{
 							 $('#seitentitel').find('.hiddenkomm').hide();
 							 $( ".hiddenkomm" ).hide();
 					 }
-			
+
 			MathJax.Hub.Queue(["Typeset",MathJax.Hub,"my-final-table"]);
 			updatesuchwarnung();
             updateeinzelwarnung();
             $(function () {
                 $("[data-toggle='tooltip']").tooltip();
             });
-            
+
 	}
 		function meinsemestersort(record, queryValue) {
 				if (queryValue == record.sn){
-						return true;                    
+						return true;
 				}
 				return false;
 	   }
 	   function meinbandsort(record, queryValue)  {
 		if (queryValue == record.band){
-				return true;                    
+				return true;
 		}
 		return false;
 		}
@@ -141,8 +222,8 @@ var processingComplete = function(){
 			anfrage=queryValue.split('-');
 			return (anfrage[1]==record[anfrage[0]]) ?  true : false;
 		 }
-		
-		 
+
+
 	   function pad(n) {
 			return (n < 10) ? ("00" + n) : (n<100) ? ("0"+n) : n;
 		}
@@ -161,7 +242,7 @@ var processingComplete = function(){
 				}
 			}
 		return '<a class="oeffneModal" href="#"  band="'+record.band+'" seite="'+record.seite.toString().replace(/\D/g, '')+'" prefix="'+prefix+ '" teil="'+teil+'" ><i data-toggle="tooltip" data-placement="left" title="Öffne in Viewer" class="fa fa-file-text-o"></i> Band '+record.band+teil2+', Seite '+record.seite+'</a>'
-		}	
+		}
 		function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			  var cssClass = "list-group-item", li, seitenzahllink;
 			  seitenzahllink=genseitenlink(record)
@@ -169,7 +250,8 @@ var processingComplete = function(){
 			  return li;
 		}
 		$('.englisch').toggle();
-$( document ).ready(  function() {
+$( document ).ready(function() {
+	loadProtokolle().then(function(loadedProtokolle) {
 	$('.englisch').toggle();
 	$('[data-toggle=offcanvas]').click(function () {
 		$('.row-offcanvas').toggleClass('active')
@@ -199,7 +281,7 @@ $( document ).ready(  function() {
 			e.preventDefault();
 			$('.englisch').toggle();
 			$('.deutsch').toggle();
-		}); 			
+		});
 		mytable = $('#my-final-table').dynatable({
 				dataset: {
 					records:protokolle
@@ -207,7 +289,7 @@ $( document ).ready(  function() {
 				table: {
 					bodyRowSelector: 'li'
 				},
-				features: { 
+				features: {
 					pushState: false,
 					search: false
 				},
@@ -227,14 +309,14 @@ $( document ).ready(  function() {
 				},
 				writers: {_rowWriter: meinRowWriter},
 		});
-		
+
 		$('#dynatable-record-count-my-final-table').appendTo('#erstercontainer');
 		$('#dynatable-pagination-links-my-final-table').appendTo('#zweitercontainer');
 		$('.dynatable-per-page').appendTo('#drittercontainer');
 		tabledata=mytable.data("dynatable");
 		mytable.bind('dynatable:afterProcess', processingComplete);
 		tabledata.queries.functions['frage'] = meinsort;
-		
+
 		function tabelleanfrage (){
 			if ((window.location.hash=='') || (window.location.hash=='#')) {
 				tabledata.queries.remove("frage");
@@ -256,8 +338,8 @@ $( document ).ready(  function() {
 		return false;
 		}
 		tabelleanfrage();
-		$(window).on('hashchange', function() { 
-			tabelleanfrage();                    
+		$(window).on('hashchange', function() {
+			tabelleanfrage();
 		});
 		processingComplete();
 		$("#dynatable-per-page-my-final-table").select2({
@@ -265,15 +347,15 @@ $( document ).ready(  function() {
 		});
 		$( "#kommentarlabel").click(function(e) {
 			e.preventDefault();
-			
+
 			$("[name='my-checkbox']").bootstrapSwitch('toggleState');
-			processingComplete();                   
+			processingComplete();
 		});
 		$('input[name="my-checkbox"]').on('switchChange.bootstrapSwitch', function(event, state) {
 			processingComplete();
-		}); 
-		
-		
+		});
+
+
 		$('#my-final-table').delegate("a.oeffneModal", "click",  function(event) {
 			e=$(event.target)
 			var prefix=$(event.target).attr("prefix")
@@ -283,11 +365,11 @@ $( document ).ready(  function() {
 			var bildurl='http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/'+prefix+'/V'+band+teil+'-p'+pad(seite)+'_low.jpg'
 			var longprefix='http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/'+prefix+'/V'+band+teil+'-p'
 			hideprev(seite);
-			
+
 			processbild="ico/proc.gif";
 			$('#hauptbild').attr("src", processbild);
 			$('.magnify-large').css("background","url('" + processbild + "') no-repeat");
-			
+
 			$('#myModal').modal({
 				"backdrop" : "true",
 				"show":true
@@ -298,15 +380,15 @@ $( document ).ready(  function() {
 			$('#hauptbild').attr("seite", seite);
 			$('.magnify-large').css("background","url('" + bildurl + "') no-repeat");
 			fuellelowmedhigh();
-			
+
 			return false;
 		});
 		$('#myModal').on('hidden.bs.modal', function () {
 			processbild="ico/proc.gif";
 			$('#hauptbild').attr("src", processbild);
 			$('.magnify-large').css("background","url('" + processbild + "') no-repeat");
-			})	
-			
+			})
+
 		$('#myModal .controls').click( function(event) {
 			var seite = parseInt($('#hauptbild').attr("seite"));
 			var prevint=parseInt(seite)-1
@@ -321,16 +403,16 @@ $( document ).ready(  function() {
 				"backdrop" : "true",
 				"show":true
 			})
-			if($(this).hasClass('previous')){ 
+			if($(this).hasClass('previous')){
 				neuseite=prevint;
 			}
 			else{
 				neuseite=nextint;
-			}	
+			}
 			hideprev(neuseite);
-			
-			
-			var bildurl=$('#hauptbild').attr("longprefix")+pad(neuseite)+'_low.jpg';  
+
+
+			var bildurl=$('#hauptbild').attr("longprefix")+pad(neuseite)+'_low.jpg';
 			$('#hauptbild').attr("src", bildurl);
 			$('#hauptbild').attr("seite", neuseite);
 			$('.magnify-large').css("background","url('" + bildurl + "') no-repeat");
@@ -340,7 +422,7 @@ $( document ).ready(  function() {
 		function hideprev(seite) {
 			if (seite==1) {
 				$('#myModal .prev').addClass("disabled");
-				
+
 			}
 			else {
 				$('#myModal .prev').removeClass("disabled");
@@ -357,7 +439,7 @@ $( document ).ready(  function() {
             $('#myModalLabel').html("Band "+band+", Seite "+seite);
 			return false;
 		}
-        
+
 		$('.sucheloeschen').click( function(e){
             e.preventDefault();
 			tabledata.queries.remove('search');
@@ -376,5 +458,8 @@ $( document ).ready(  function() {
 		$('#searchbutton').on("click",  function(event){
             $("#homelink").trigger( "click" );
         });
-        
+	}).catch(function(error) {
+		// Handle any errors from loading the JSON here
+		console.error('Failed to load protokolle:', error);
+	});
 });
