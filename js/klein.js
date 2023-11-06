@@ -23,7 +23,6 @@ function loadProtokolle() {
 }
 
 function processProtokolle() {
-protokolle[0].titel=protokolle[0].titel.replace("[","<span class=\"hiddenkomm\">[").replace("]","]</span>");
 var Monat = new Array("Januar", "Februar", "M&auml;rz", "April", "Mai", "Juni",
                       "Juli", "August", "September", "Oktober", "November", "Dezember");
 var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
