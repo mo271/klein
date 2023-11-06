@@ -13,6 +13,7 @@ function loadProtokolle() {
     .then(data => {
       protokolle = data;
       console.log(protokolle.length);
+      processProtokolle();
       return protokolle; // Resolve the promise with the data
     })
     .catch(error => {
