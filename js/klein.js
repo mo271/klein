@@ -197,7 +197,7 @@ var updatetitel = function () {
 }
 
 
-mytable = "";
+protokolle_table = "";
 tabledata = "";
 $.fn.bootstrapSwitch.defaults.offText = 'aus';
 $.fn.bootstrapSwitch.defaults.onText = 'an';
@@ -304,7 +304,7 @@ $(document).ready(function () {
 			$('.englisch').toggle();
 			$('.deutsch').toggle();
 		});
-		mytable = $('#my-final-table').dynatable({
+		protokolle_table = $('#my-final-table').dynatable({
 			dataset: {
 				records: protokolle
 			},
@@ -335,8 +335,8 @@ $(document).ready(function () {
 		$('#dynatable-record-count-my-final-table').appendTo('#erstercontainer');
 		$('#dynatable-pagination-links-my-final-table').appendTo('#zweitercontainer');
 		$('.dynatable-per-page').appendTo('#drittercontainer');
-		tabledata = mytable.data("dynatable");
-		mytable.bind('dynatable:afterProcess', processingComplete);
+		tabledata = protokolle_table.data("dynatable");
+		protokolle_table.bind('dynatable:afterProcess', processingComplete);
 		tabledata.queries.functions['frage'] = meinsort;
 
 		function tabelleanfrage() {
