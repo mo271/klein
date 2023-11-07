@@ -1,7 +1,27 @@
-// Define the variable that will hold your data
+// Define the variable that will hold data from protokolle.json
 let protokolle = [];
 
-// Function to load your JSON and return a promise that resolves with the data
+// Define the variable that will hold data from teilnehmer.json
+let teilnehmer = [];
+
+function loadTeilnehmer() {
+  return fetch('./js/data/teilnehmer.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      teilnehmer = data;
+      return teilnehmer; // Resolve the promise with the data
+    })
+    .catch(error => {
+      console.error('There has been a problem with your fetch operation:', error);
+      throw error; // Re-throw the error to be handled by the caller
+    });
+}
+
 function loadProtokolle() {
   return fetch('./js/data/protokolle.json')
     .then(response => {
@@ -12,7 +32,6 @@ function loadProtokolle() {
     })
     .then(data => {
       protokolle = data;
-      console.log(protokolle.length);
       processProtokolle();
       return protokolle; // Resolve the promise with the data
     })
@@ -72,11 +91,6 @@ for(var i=0;i<protokolle.length;i++){
     }
 }
 }
-
-// Call the function to load your protokolle
-loadProtokolle();
-console.log("in klein:", protokolle.length);
-
 
 $(function() {
 			$('#side-menu').metisMenu();	//side menu collapse
@@ -251,7 +265,7 @@ var processingComplete = function(){
 		}
 		$('.englisch').toggle();
 $( document ).ready(function() {
-	loadProtokolle().then(function(loadedProtokolle) {
+	Promise.all([loadProtokolle(), loadTeilnehmer()]).then(function(loadedProtokolle) {
 	$('.englisch').toggle();
 	$('[data-toggle=offcanvas]').click(function () {
 		$('.row-offcanvas').toggleClass('active')
@@ -460,6 +474,6 @@ $( document ).ready(function() {
         });
 	}).catch(function(error) {
 		// Handle any errors from loading the JSON here
-		console.error('Failed to load protokolle:', error);
+		console.error('Failed to load protokolle or teilnehmer:', error);
 	});
 });
