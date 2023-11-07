@@ -41,6 +41,10 @@ function loadProtokolle() {
     });
 }
 
+function processTeilnehmer() {
+
+}
+
 function processProtokolle() {
 var Monat = new Array("Januar", "Februar", "M&auml;rz", "April", "Mai", "Juni",
                       "Juli", "August", "September", "Oktober", "November", "Dezember");
@@ -51,7 +55,8 @@ var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
 for(var i=0;i<protokolle.length;i++){
 	protokolle[i].titel=protokolle[i].titel.replace(/\\\[/g,"latexinlinelinks").replace(/\\\]/g,"latexinlinerechts").replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\\\newline/g,"<br>").replace(/\\newline/g,"<br>").replace(/\\textsuperscript{(.*?)}/g,"<sup>$1</sup>").replace(/--/g,"—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/latexinlinelinks/g,"\\\[").replace(/latexinlinerechts/g,"\\\]").replace(/!eKl!/g,"\$\[\$").replace(/!eKr!/g,"\$\]\$");
 	protokolle[i].ktitel=protokolle[i].ktitel.replace(/\\\[/g,"latexinlinelinks").replace(/\\\]/g,"latexinlinerechts").replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\\\newline/g,"<br>").replace(/\\newline/g,"<br>").replace(/\\textsuperscript{(.*?)}/g,"<sup>$1</sup>").replace(/--/g,"—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/latexinlinelinks/g,"\\\[").replace(/latexinlinerechts/g,"\\\]").replace(/!eKl!/g,"\$\[\$").replace(/!eKr!/g,"\$\]\$");
-	protokolle[i].name=protokolle[i].name.replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\newline/g,"<br>").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/\\begin\{CJK\}\{UTF8\}\{min\}吉江琢兒\\end\{CJK\}/,"japanisch: 吉江琢兒");
+	// TODO: move to processTeilnehmer
+	//protokolle[i].name=protokolle[i].name.replace(/\[/g,"<span class=\"hiddenkomm\">[").replace(/\]/g,"]</span>").replace(/\\newline/g,"<br>").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g,"$1: $2").replace(/\\begin\{CJK\}\{UTF8\}\{min\}吉江琢兒\\end\{CJK\}/,"japanisch: 吉江琢兒");
 
 	if (protokolle[i].dok) {
 		var dt = new Date(protokolle[i].datum);
@@ -86,9 +91,10 @@ for(var i=0;i<protokolle.length;i++){
 			protokolle[i].titel='<i class="fa fa-question-circle"></i><span class="komm"> ohne Titel</span>';
 		}
 	}
-    if (protokolle[i].name.indexOf('?')>-1) {
-        protokolle[i].name='<i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="Unsicherheit beim Namen"></i> ' +protokolle[i].name.replace(/\?/g,'');
-    }
+	// TODO: move to processTeilnehmer
+  //  if (protokolle[i].name.indexOf('?')>-1) {
+  //      protokolle[i].name='<i class="fa fa-question-circle" data-toggle="tooltip" data-placement="left" title="Unsicherheit beim Namen"></i> ' +protokolle[i].name.replace(/\?/g,'');
+  //  }
 }
 }
 
