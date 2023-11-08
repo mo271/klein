@@ -250,10 +250,18 @@ function genseitenlink(record) {
 }
 function meinRowWriter(rowIndex, record, columns, cellWriter) {
 	var cssClass = "list-group-item", li, seitenzahllink;
-	seitenzahllink = genseitenlink(record);
-	speakers = record.speaker;
-	let speaker_name = teilnehmer[speakers[0]]["ids_to_signatures"][record.id];
-	li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
+	//seitenzahllink = genseitenlink(record);
+	//speakers = record.speaker;
+	//let speaker_name = teilnehmer[speakers[0]]["ids_to_signatures"][record.id];
+	//li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
+	let talks = Object.entries(record.ids_to_signatures)
+		.map(([key, value]) => {
+			// TODO: find and fix the "kein Datum" entries
+			const datum = protokolle[key] && protokolle[key].datum ? protokolle[key].datum : 'kein Datum';
+			return '<a href="../#id-' + key + '">' + datum + '</a>';
+		}).join(', ');
+	li = '<li class="' + cssClass + '"<div<p class="namep"><span id="namespan">' + record.name + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+	//li = '<li class="' + cssClass + '><div>hello!!</div></li>';
 	return li;
 }
 $('.englisch').toggle();
@@ -289,9 +297,29 @@ $(document).ready(function () {
 			$('.englisch').toggle();
 			$('.deutsch').toggle();
 		});
+		var teilnehmerArray = Object.keys(teilnehmer).map(function (key) {
+			var item = teilnehmer[key];
+			return {
+				id: key,
+				name: item.name,
+				ids_to_signatures: item.ids_to_signatures
+			};
+		});
+		// Sorting the array alphabetically by name
+		// TODO: split first and last name and sort by last name...
+		teilnehmerArray.sort(function (a, b) {
+			if (a.name < b.name) {
+				return -1;
+			}
+			if (a.name > b.name) {
+				return 1;
+			}
+			return 0;
+		});
+		console.log(teilnehmerArray.length)
 		protokolle_table = $('#my-final-table').dynatable({
 			dataset: {
-				records: protokolle
+				records: teilnehmerArray
 			},
 			table: {
 				bodyRowSelector: 'li'

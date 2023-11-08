@@ -267,7 +267,10 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 	var cssClass = "list-group-item", li, seitenzahllink;
 	seitenzahllink = genseitenlink(record);
 	speakers = record.speaker;
-	let speaker_name = teilnehmer[speakers[0]]["ids_to_signatures"][record.id];
+	// TODO handle the case with multiple speakers
+	let speaker_id = speakers[0]
+
+	let speaker_name = '<a href="teilnehmer/#id-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
 	li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
 	return li;
 }
