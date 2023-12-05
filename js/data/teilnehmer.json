@@ -312,7 +312,7 @@
         "O[tto]. Weerth"
       ]
     },
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27"
   },
   "473": {
@@ -325,7 +325,7 @@
         "R[ichard]. Börnstein"
       ]
     },
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27"
   },
   "582": {
@@ -335,7 +335,7 @@
         "Dr. A[nton]. Baule"
       ]
     },
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27"
   },
   "419": {
@@ -365,7 +365,7 @@
         "C[arl]. Rodenberg"
       ]
     },
-    "semester" : "so1872",
+   "sn" : 1872.0,
     "source" : "P1, S. 27"
   },
   "885": {
@@ -381,7 +381,7 @@
         "A[dolf] Weiler"
       ]
     },
-    "semester" : ["so1872","so1873"],
+    "sn" : 1872.0,
     "source" : ["P1, S. 27","P1 S. 106"]
   },
   "44": {
@@ -394,7 +394,7 @@
         "Ern[est]. Pasquier"
       ]
     },
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27" 
   },
   "1123": {
@@ -407,7 +407,7 @@
         "W[ilhelm]. Godt"
       ]
     },    
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27" 
   },
   "572": {
@@ -420,7 +420,7 @@
         "Dr. F[riedrich]. Neesen"
       ]
     },    
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27" 
   },
   "358": {
@@ -430,7 +430,7 @@
         "A[?]. Humbert[?]"
       ]
     },    
-    "semester" : "so1872",
+    "sn" : 1872.0,
     "source" : "P1, S. 27" 
   },
   "258": {
@@ -456,8 +456,8 @@
         "S[iegmund]. Günther"
       ]
     },
-    "semester" : [{"so1873"},{"wi73-74"}],
-    "source" : [{"P1 S. 106"},{"P1 S. 107"}]
+    "sn" : [1872.0,1873.5],
+    "source" : ["P1 S. 106","P1 S. 107"]
   },
    "659": {
     "name": "Ferdinand von Lindemann",
@@ -520,8 +520,8 @@
         "F[erdinand von] Lindemann"
       ]
     },
-    "semester" : [{"so1873"},{"wi73-74"},{"so1874"},{"wi1874-75"},{"so1875"},{"wi1875-76"}],
-    "source" : [{"P1 S. 106"},{"P1 S. 107"},{"P1 S. 189"},{"P1 S. 190"},{"P1 S. 191"}]
+    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0,1875.5],
+    "source" : ["P1 S. 106","P1 S. 107","P1 S. 189","P1 S. 190","P1 S. 191"]
   },
   "267": {
     "name": "Wilhelm Bretschneider",
@@ -539,8 +539,8 @@
         "W[ilhelm]. Bretschneider"
       ]
     },
-    "semester" : [{"so1873"},{"wi73-74"},{"so1874"}],
-    "source" : [{"P1 S. 106"},{"P1 S. 107"}]
+    "sn" : [1873.0,1873.5,1874.0],
+    "source" : ["P1 S. 106","P1 S. 107"]
   },
   "9": {
     "name": "Ludwig Wedekind",
@@ -573,8 +573,8 @@
         "L[udwig] Wedekind"
       ]
     },
-    "semester" : [{"so1873"},{"wi73-74"},{"so1874"},{"wi1874-75"},{"so1875"}],
-    "source" : [{"P1 S. 106"},{"P1 S. 107"},{"P1 S. 108"},{"P1 S. 189"},{"P1 S. 191"}]
+    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0],
+    "source" : ["P1 S. 106","P1 S. 107","P1 S. 108","P1 S. 189","P1 S. 191"]
   },
   "1015": {
     "name": "Axel Harnack",
@@ -621,9 +621,9 @@
       "105": [
         "Axel Harnack"
       ]
-    },
-    "semester" : [{"so1873"},{"wi73-74"},{"so1874"},{"wi1874-75"},{"so1875"}],
-    "source" : [{"P1 S. 106"},{"P1 S. 107"},{"P1 S. 108"},{"P1 S. 189"},{"P1 S. 190"}]
+   },
+    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0],
+    "source" : ["P1 S. 106","P1 S. 107","P1 S. 108","P1 S. 189","P1 S. 190"]
   },
   "1056": {
     "kommentar": "ab wi73-74",
@@ -636,8 +636,8 @@
         "Wilhelm Braun"
       ]
     },
-    "semester" : [{"wi73-74"},{"so1874"}],
-    "source" : [{"P1 S. 107"},{"P1 S. 189"}]
+    "sn" : [1873.5,1874.0],
+    "source" : ["P1 S. 107","P1 S. 189"]
   },
   "359": {
     "name": "Elling Bolt Holst",
@@ -664,8 +664,8 @@
         "[Elling Holst]"
       ]
     },
-    "semester": [{"wi1874-75"},{"so1875"}],
-    "source": [{"P1 S. 189"},{"P1 S. 190"}]
+    "sn": [1874.5,1875.0],
+    "source": ["P1 S. 189","P1 S. 190"]
   },
   "634": {
     "kommentar": "ab wi1874-75",
@@ -675,7 +675,7 @@
         "[Paul] Gordan"
       ]
     },
-    "semester": "wi1874-75",
+    "sn": 1874.5,
     "source": "P1 S. 189"
   }
   "1076": {
@@ -692,8 +692,8 @@
         "A[lexander] [später: von] Brill"
       ]
     },
-    "semester" : [{"so1875"},{"wi1875-76"}],
-    "source" : [{"P1 S. 190"},{"P1 S. 191"}]
+    "sn" : [1875.0,1875.5],
+    "source" : ["P1 S. 190","P1 S. 191"]
   },
   "534": {
     "name": "Wilhelm Frahm",
@@ -705,7 +705,7 @@
         "W[ilhelm] Frahm"
       ]
     },
-    "semester": "so1875",
+    "sn": 1875.0,
     "source": "P1 S. 190"
   },
   "641": {
@@ -731,7 +731,7 @@
         "Ant[on] Puchta"
       ]
     },
-    "semester": [{"wi1876-77"},{"so1877"}],
+    "sn": [1876.5,1877.0],
     "source": "P1 S. 251"
   },
   "21": {
@@ -756,7 +756,7 @@
         "L[udwig] Schleiermacher"
       ]
     },
-    "semester": [{"wi1876-77"},{"so1877"}],
+    "sn": [1876.5,1877.0],
     "source": [{"P1 S. 251"}, {"P1 S. 252"}]
   },
   "478": {
@@ -805,8 +805,8 @@
         "[Walther [später: von]] Dyck"
       ]
     },
-    "semester": [{"wi1876-77"},{"so1877"}],
-    "source": [{"P1 S. 251"},{"P1 S. 252"}]
+    "sn": [1876.5,1877.0],
+    "source": ["P1 S. 251","P1 S. 252"]
   },
   "339": {
     "name": "Isaac Bacharach",
@@ -818,7 +818,7 @@
         "I[saac]. Bacharach"
       ]
     },
-    "semester": "wi1876-77",
+    "sn": 1876.5,
     "source": "P1 S. 251"
   },
   "35": {
@@ -840,7 +840,7 @@
         "[Friedrich Wilhelm \\emph{Franz}] Meyer"
       ]
     },
-    "semester": [{"wi1876-77"},{"so1877"}],
+    "sn": [1876.5,1877.0],
     "source": "P1 S. 251"
   },
   "278": {
@@ -871,7 +871,7 @@
         "K[arl Friedrich Wilhelm] Rohn"
       ]
     },
-    "semester": [{"wi1876-77"},{"so1877"}],
+    "sn": [1876.5,1877.0],
     "source": "P1 S. 251"
   },
   "909": {
@@ -890,7 +890,7 @@
         "G[ottlob]. Fischer"
       ]
     },
-    "semester": "wi1876-77",
+    "sn": 1876.5,
     "source": "P1 S. 251"
   },
   "423": {
@@ -925,7 +925,7 @@
         "A[nton]. v[on]. Braunmühl"
       ]
     },
-    "semester": "wi1877-78",
+    "sn": 1877.5,
     "source": "P1 S. 252"
   }, 
   "121": {
