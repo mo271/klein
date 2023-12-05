@@ -1,933 +1,4 @@
 {
-  "940": {
-    "name": "Felix Klein",
-    "ids_to_signatures": {
-      "24": [
-        "[Felix] Klein"
-      ],
-      "30": [
-        "[Felix] Klein"
-      ],
-      "37": [
-        "[Felix] Klein"
-      ],
-      "44": [
-        "F[elix] Klein"
-      ],
-      "50": [
-        "F[elix] Klein"
-      ],
-      "53": [
-        "F[elix] Klein"
-      ],
-      "57": [
-        "[Felix] Klein"
-      ],
-      "61": [
-        "F[elix] Klein"
-      ],
-      "64": [
-        "F[elix] Klein"
-      ],
-      "67": [
-        "F[elix] Klein"
-      ],
-      "69": [
-        "F[elix] Klein"
-      ],
-      "70": [
-        "F[elix] Klein"
-      ],
-      "74": [
-        "F[elix] Klein"
-      ],
-      "82": [
-        "F[elix] Klein"
-      ],
-      "84": [
-        "F[elix] Klein"
-      ],
-      "85": [
-        "F[elix] Klein"
-      ],
-      "86": [
-        "F[elix] Klein"
-      ],
-      "90": [
-        "F[elix] Klein"
-      ],
-      "93": [
-        "F[elix] Klein"
-      ],
-      "103": [
-        "F[elix] Klein"
-      ],
-      "104": [
-        "F[elix] Klein"
-      ],
-      "106": [
-        "F[elix] Klein"
-      ],
-      "109": [
-        "F[elix] Klein"
-      ],
-      "207": [
-        "F[elix] Klein"
-      ],
-      "213": [
-        "F[elix] Klein"
-      ],
-      "214": [
-        "F[elix] Klein"
-      ],
-      "215": [
-        "F[elix] Klein"
-      ],
-      "216": [
-        "F[elix] Klein"
-      ],
-      "217": [
-        "F[elix] Klein"
-      ],
-      "233": [
-        "[Felix Klein]"
-      ],
-      "253": [
-        "[Felix] Klein"
-      ],
-      "256": [
-        "F[elix] Klein"
-      ],
-      "257": [
-        "F[elix] Klein"
-      ],
-      "259": [
-        "F[elix] Klein"
-      ],
-      "260": [
-        "F[elix] Klein"
-      ],
-      "296": [
-        "[Felix] Klein"
-      ],
-      "297": [
-        "[Felix] Klein"
-      ],
-      "299": [
-        "[Felix] Klein"
-      ],
-      "300": [
-        "[Felix] Klein"
-      ],
-      "316": [
-        "[Felix] Klein"
-      ],
-      "318": [
-        "[Felix] Klein"
-      ],
-      "320": [
-        "[Felix] Klein"
-      ],
-      "322": [
-        "[Felix] Klein"
-      ],
-      "323": [
-        "[Felix] Klein"
-      ],
-      "325": [
-        "[Felix] Klein"
-      ],
-      "330": [
-        "[Felix] Klein"
-      ],
-      "331": [
-        "[Felix] Klein"
-      ],
-      "343": [
-        "[Felix] Klein"
-      ],
-      "349": [
-        "[Felix] Klein"
-      ],
-      "350": [
-        "[Felix] Klein"
-      ],
-      "351": [
-        "[Felix] Klein"
-      ],
-      "356": [
-        "[Felix] Klein"
-      ],
-      "357": [
-        "[Felix] Klein"
-      ],
-      "405": [
-        "[Felix] Klein"
-      ],
-      "410": [
-        "F[elix]. Klein"
-      ],
-      "412": [
-        "F[elix]. Klein"
-      ],
-      "413": [
-        "[Felix] Klein"
-      ],
-      "442": [
-        "F[elix]. Klein"
-      ],
-      "443": [
-        "F[elix]. Klein"
-      ],
-      "556": [
-        "[Felix] Klein"
-      ],
-      "578": [
-        "[Felix] Klein"
-      ],
-      "579": [
-        "[Felix] Klein"
-      ],
-      "580": [
-        "[Felix] Klein"
-      ],
-      "581": [
-        "[Felix] Klein"
-      ],
-      "775": [
-        "[Felix Klein]"
-      ],
-      "903": [
-        "[Felix] Klein"
-      ],
-      "909": [
-        "[Felix] Klein"
-      ],
-      "919": [
-        "[Felix] Klein"
-      ],
-      "931": [
-        "[Felix] Klein"
-      ],
-      "958": [
-        "[Felix] Klein"
-      ],
-      "994": [
-        "[Felix Klein]"
-      ],
-      "1015": [
-        "[Felix] Klein"
-      ],
-      "1026": [
-        "[Felix Klein]"
-      ],
-      "1027": [
-        "[Felix Klein]"
-      ],
-      "1028": [
-        "[Felix Klein]"
-      ],
-      "1029": [
-        "[Felix Klein]"
-      ],
-      "1030": [
-        "[Felix Klein]"
-      ],
-      "1031": [
-        "[Felix Klein]"
-      ],
-      "1032": [
-        "[Felix Klein]"
-      ],
-      "1033": [
-        "[Felix Klein]"
-      ],
-      "1034": [
-        "[Felix Klein]"
-      ],
-      "1035": [
-        "[Felix Klein]"
-      ],
-      "1039": [
-        "[Felix] Klein"
-      ],
-      "1040": [
-        "[Felix] Klein"
-      ],
-      "1056": [
-        "[Felix] Klein"
-      ],
-      "1087": [
-        "[Felix] Klein"
-      ],
-      "1112": [
-        "[Felix] Klein"
-      ],
-      "1114": [
-        "[Felix] Klein"
-      ],
-      "1115": [
-        "[Felix] Klein"
-      ],
-      "1121": [
-        "[Felix] Klein"
-      ],
-      "1123": [
-        "[Felix] Klein"
-      ],
-      "1125": [
-        "[Felix] Klein"
-      ],
-      "1127": [
-        "[Felix] Klein"
-      ],
-      "1131": [
-        "[Felix] Klein"
-      ],
-      "1134": [
-        "[Felix] Klein"
-      ],
-      "1135": [
-        "[Felix] Klein"
-      ],
-      "1140": [
-        "[Felix] Klein"
-      ],
-      "1158": [
-        "[Felix] Klein"
-      ]
-    }
-  },
-"217": {
-    "kommentar": "ab so1872",
-    "name": "Otto Weerth",
-    "ids_to_signatures": {
-      "1": [
-        "O[tto]. Weerth"
-      ],
-      "6": [
-        "O[tto]. Weerth"
-      ],
-      "18": [
-        "O[tto]. Weerth"
-      ]
-    },
-    "sn" : 1872.0,
-    "source" : "P1, S. 27"
-  },
-  "473": {
-    "name": "Richard Börnstein",
-    "ids_to_signatures": {
-      "2": [
-        "R[ichard]. Börnstein"
-      ],
-      "11": [
-        "R[ichard]. Börnstein"
-      ]
-    },
-    "sn" : 1872.0,
-    "source" : "P1, S. 27"
-  },
-  "582": {
-    "name": "Dr. Anton Baule",
-    "ids_to_signatures": {
-      "3": [
-        "Dr. A[nton]. Baule"
-      ]
-    },
-    "sn" : 1872.0,
-    "source" : "P1, S. 27"
-  },
-  "419": {
-    "name": "Christoph Ernst",
-    "ids_to_signatures": {
-      "4": [
-        "Ch[ristoph]. Ernst"
-      ],
-      "8": [
-        "Ch[ristoph]. Ernst"
-      ],
-      "14": [
-        "Ch[ristoph]. Ernst"
-      ]
-    }
-    },    
-  "877": {
-    "name": "Carl Rodenberg",
-    "ids_to_signatures": {
-      "5": [
-        "C[arl]. Rodenberg"
-      ],
-      "12": [
-        "C[arl]. Rodenberg"
-      ],
-      "15": [
-        "C[arl]. Rodenberg"
-      ]
-    },
-   "sn" : 1872.0,
-    "source" : "P1, S. 27"
-  },
-  "885": {
-    "name": "Adolf Weiler",
-    "ids_to_signatures": {
-      "7": [
-        "A[dolf]. Weiler"
-      ],
-      "27": [
-        "A[dolf] Weiler"
-      ],
-      "28": [
-        "A[dolf] Weiler"
-      ]
-    },
-    "sn" : 1872.0,
-    "source" : ["P1, S. 27","P1 S. 106"]
-  },
-  "44": {
-    "name": "Ernest Pasquier",
-    "ids_to_signatures": {
-      "9": [
-        "Ern[est]. Pasquier"
-      ],
-      "17": [
-        "Ern[est]. Pasquier"
-      ]
-    },
-    "sn" : 1872.0,
-    "source" : "P1, S. 27" 
-  },
-  "1123": {
-    "name": "Wilhelm Godt",
-    "ids_to_signatures": {
-      "10": [
-        "W[ilhelm]. Godt"
-      ],
-      "16": [
-        "W[ilhelm]. Godt"
-      ]
-    },    
-    "sn" : 1872.0,
-    "source" : "P1, S. 27" 
-  },
-  "572": {
-    "name": "Dr. Friedrich Neesen",
-    "ids_to_signatures": {
-      "13": [
-        "Dr. [Friedrich] Neesen"
-      ],
-      "20": [
-        "Dr. F[riedrich]. Neesen"
-      ]
-    },    
-    "sn" : 1872.0,
-    "source" : "P1, S. 27" 
-  },
-  "358": {
-    "name": "A? Humbert?",
-    "ids_to_signatures": {
-      "19": [
-        "A[?]. Humbert[?]"
-      ]
-    },    
-    "sn" : 1872.0,
-    "source" : "P1, S. 27" 
-  },
-  "258": {
-    "kommentar": "ab so1873",
-    "name": "Siegmund Günther",
-    "ids_to_signatures": {
-      "21": [
-        "S[iegmund]. Günther"
-      ],
-      "26": [
-        "S[iegmund]. Günther"
-      ],
-      "32": [
-        "S[iegmund]. Günther"
-      ],
-      "36": [
-        "[Siegmund] Günther"
-      ],
-      "41": [
-        "S[iegmund]. Günther"
-      ],
-      "46": [
-        "S[iegmund]. Günther"
-      ]
-    },
-    "sn" : [1872.0,1873.5],
-    "source" : ["P1 S. 106","P1 S. 107"]
-  },
-   "659": {
-    "name": "Ferdinand von Lindemann",
-    "ids_to_signatures": {
-      "22": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "29": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "39": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "40": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "48": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "52": [
-        "F[erdinand von]. Lindemann"
-      ],
-      "58": [
-        "F[erdinand von] Lindemann"
-      ],
-      "59": [
-        "F[erdinand von] Lindemann"
-      ],
-      "60": [
-        "F[erdinand von] Lindemann"
-      ],
-      "65": [
-        "F[erdinand von] Lindemann"
-      ],
-      "68": [
-        "F[erdinand von] Lindemann"
-      ],
-      "72": [
-        "F[erdinand von] Lindemann"
-      ],
-      "83": [
-        "F[erdinand von] Lindemann"
-      ],
-      "87": [
-        "F[erdinand von] Lindemann"
-      ],
-      "89": [
-        "F[erdinand von] Lindemann"
-      ],
-      "96": [
-        "F[erdinand von] Lindemann"
-      ],
-      "101": [
-        "F[erdinand von] Lindemann"
-      ],
-      "107": [
-        "F[erdinand von] Lindemann"
-      ],
-      "108": [
-        "F[erdinand von] Lindemann"
-      ]
-    },
-    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0,1875.5],
-    "source" : ["P1 S. 106","P1 S. 107","P1 S. 189","P1 S. 190","P1 S. 191"]
-  },
-  "267": {
-    "name": "Wilhelm Bretschneider",
-    "ids_to_signatures": {
-      "23": [
-        "W[ilhelm]. Bretschneider"
-      ],
-      "31": [
-        "W[ilhelm] Bretschneider"
-      ],
-      "43": [
-        "W[ilhelm]. Bretschneider"
-      ],
-      "51": [
-        "W[ilhelm]. Bretschneider"
-      ]
-    },
-    "sn" : [1873.0,1873.5,1874.0],
-    "source" : ["P1 S. 106","P1 S. 107"]
-  },
-  "9": {
-    "name": "Ludwig Wedekind",
-    "ids_to_signatures": {
-      "25": [
-        "L[udwig]. Wedekind"
-      ],
-      "33": [
-        "L[udwig] Wedekind"
-      ],
-      "34": [
-        "L[udwig] Wedekind"
-      ],
-      "35": [
-        "L[udwig] Wedekind"
-      ],
-      "38": [
-        "[Ludwig] Wedekind"
-      ],
-      "55": [
-        "L[udwig] Wedekind"
-      ],
-      "73": [
-        "[Ludwig] Wedekind"
-      ],
-      "78": [
-        "[Ludwig] Wedekind"
-      ],
-      "111": [
-        "L[udwig] Wedekind"
-      ]
-    },
-    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0],
-    "source" : ["P1 S. 106","P1 S. 107","P1 S. 108","P1 S. 189","P1 S. 191"]
-  },
-  "1015": {
-    "name": "Axel Harnack",
-    "ids_to_signatures": {
-      "42": [
-        "Axel Harnack"
-      ],
-      "45": [
-        "Axel Harnack"
-      ],
-      "49": [
-        "Axel Harnack"
-      ],
-      "54": [
-        "Axel Harnack"
-      ],
-      "56": [
-        "Axel Harnack"
-      ],
-      "62": [
-        "Axel Harnack"
-      ],
-      "63": [
-        "Axel Harnack"
-      ],
-      "71": [
-        "Axel Harnack"
-      ],
-      "77": [
-        "Axel Harnack"
-      ],
-      "80": [
-        "Axel Harnack"
-      ],
-      "91": [
-        "Axel Harnack"
-      ],
-      "95": [
-        "Axel Harnack"
-      ],
-      "102": [
-        "Axel Harnack"
-      ],
-      "105": [
-        "Axel Harnack"
-      ]
-   },
-    "sn" : [1873.0,1873.5,1874.0,1874.5,1875.0],
-    "source" : ["P1 S. 106","P1 S. 107","P1 S. 108","P1 S. 189","P1 S. 190"]
-  },
-  "1056": {
-    "kommentar": "ab wi73-74",
-    "name": "Wilhelm Braun",
-    "ids_to_signatures": {
-      "47": [
-        "Wilhelm Braun"
-      ],
-      "66": [
-        "Wilhelm Braun"
-      ]
-    },
-    "sn" : [1873.5,1874.0],
-    "source" : ["P1 S. 107","P1 S. 189"]
-  },
-  "359": {
-    "name": "Elling Bolt Holst",
-    "ids_to_signatures": {
-      "75": [
-        "Elling Holst"
-      ],
-      "76": [
-        "Elling B[olt]. Holst"
-      ],
-      "81": [
-        "Elling Holst"
-      ],
-      "88": [
-        "Elling Holst"
-      ],
-      "94": [
-        "Elling Holst"
-      ],
-      "97": [
-        "Elling Holst"
-      ],
-      "100": [
-        "[Elling Holst]"
-      ]
-    },
-    "sn": [1874.5,1875.0],
-    "source": ["P1 S. 189","P1 S. 190"]
-  },
-  "634": {
-    "kommentar": "ab wi1874-75",
-    "name": "Paul Gordan",
-    "ids_to_signatures": {
-      "79": [
-        "[Paul] Gordan"
-      ]
-    },
-    "sn": 1874.5,
-    "source": "P1 S. 189"
-  },
-  "1076": {
-    "kommentar": "ab so1875",
-    "name": "Alexander später: von Brill",
-    "ids_to_signatures": {
-      "92": [
-        "A[lexander]. [später: von] Brill"
-      ],
-      "110": [
-        "A[lexander] [später: von] Brill"
-      ],
-      "112": [
-        "A[lexander] [später: von] Brill"
-      ]
-    },
-    "sn" : [1875.0,1875.5],
-    "source" : ["P1 S. 190","P1 S. 191"]
-  },
-  "534": {
-    "name": "Wilhelm Frahm",
-    "ids_to_signatures": {
-      "98": [
-        "W[ilhelm] Frahm"
-      ],
-      "99": [
-        "W[ilhelm] Frahm"
-      ]
-    },
-    "sn": 1875.0,
-    "source": "P1 S. 190"
-  },
-  "641": {
-    "kommentar": "ab wi186-77",
-    "name": "Anton Puchta",
-    "ids_to_signatures": {
-      "113": [
-        "Anton Puchta"
-      ],
-      "121": [
-        "Dr[?]. Ant[on]. Puchta"
-      ],
-      "124": [
-        "Phil. Dr. Ant[on]. Puchta"
-      ],
-       "132": [
-        "[Dr[?]. Ant[on]. Puchta]"
-      ],
-      "133": [
-        "Dr[?]. Ant[on]. Puchta"
-      ],
-      "137": [
-        "Ant[on] Puchta"
-      ]
-    },
-    "sn": [1876.5,1877.0],
-    "source": "P1 S. 251"
-  },
-  "21": {
-    "name": "Ludwig Schleiermacher",
-    "ids_to_signatures": {
-      "119": [
-        "L[udwig] Schleiermacher"
-      ],
-      "120": [
-        "L[udwig] Schleiermacher"
-      ],
-      "125": [
-        "L[udwig] Schleiermacher"
-      ],
-      "128": [
-        "L[udwig]. Schleiermacher"
-      ],
-      "138": [
-        "L[udwig] Schleiermacher"
-      ],
-      "139": [
-        "L[udwig] Schleiermacher"
-      ]
-    },
-    "sn": [1876.5,1877.0],
-    "source": ["P1 S. 251", "P1 S. 252"]
-  },
-  "478": {
-    "name": "Walther von Dyck",
-    "ids_to_signatures": {
-      "114": [
-        "Walther [[später: von]] Dyck"
-      ],
-      "130": [
-        "W[alther]. [später: von] D[yck]."
-      ],
-      "131": [
-        "W[alther]. [später: von] Dyck"
-      ],
-      "140": [
-        "W[alther] [später: von] Dyck"
-      ],
-      "219": [
-        "W[alther] [später: von] Dyck"
-      ],
-      "227": [
-        "W[alther] [später: von] Dyck"
-      ],
-      "234": [
-        "[Walther] [später: von] Dyck"
-      ],
-      "235": [
-        "[Walther] [später: von] Dyck"
-      ],
-      "261": [
-        "[Walther] [später: von] Dyck"
-      ],
-      "264": [
-        "[Walther [später: von]] Dyck"
-      ],
-      "265": [
-        "[Walther [später: von]] Dyck"
-      ],
-      "272": [
-        "Walther [[später: von]] Dyck"
-      ],
-      "286": [
-        "[Walther [später: von]] Dyck"
-      ],
-      "367": [
-        "[Walther [später: von]] Dyck"
-      ]
-    },
-    "sn": [1876.5,1877.0],
-    "source": ["P1 S. 251","P1 S. 252"]
-  },
-  "339": {
-    "name": "Isaac Bacharach",
-    "ids_to_signatures": {
-      "115": [
-        "I[saac] Bacharach"
-      ],
-      "129": [
-        "I[saac]. Bacharach"
-      ]
-    },
-    "sn": 1876.5,
-    "source": "P1 S. 251"
-  },
-  "35": {
-    "name": "Friedrich Wilhelm \\emph{Franz} Meyer",
-    "ids_to_signatures": {
-      "116": [
-        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
-      ],
-      "118": [
-        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
-      ],
-      "123": [
-        "[[Friedrich Wilhelm \\emph{Franz}] Meyer]"
-      ],
-      "134": [
-        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
-      ],
-      "142": [
-        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
-      ]
-    },
-    "sn": [1876.5,1877.0],
-    "source": "P1 S. 251"
-  },
-  "278": {
-    "name": "Karl Friedrich Wilhelm Rohn",
-    "ids_to_signatures": {
-      "117": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "122": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "135": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "136": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "143": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "205": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "209": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ],
-      "212": [
-        "K[arl Friedrich Wilhelm] Rohn"
-      ]
-    },
-    "sn": [1876.5,1877.0],
-    "source": "P1 S. 251"
-  },
-  "909": {
-    "name": "Gottlob Fischer",
-    "ids_to_signatures": {
-      "126": [
-        "G[ottlob]. Fischer"
-      ],
-      "127": [
-        "G[ottlob]. Fischer"
-      ],
-      "150": [
-        "G[ottlob] Fischer"
-      ],
-      "156": [
-        "G[ottlob]. Fischer"
-      ]
-    },
-    "sn": 1876.5,
-    "source": "P1 S. 251"
-  },
-  "423": {
-    "kommentar" : "ab wi1877-78",
-    "name": "Anton von Braunmühl",
-    "ids_to_signatures": {
-      "141": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "148": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "164": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "165": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "170": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "171": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "172": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "208": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "223": [
-        "A[nton]. v[on]. Braunmühl"
-      ]
-    },
-    "sn": 1877.5,
-    "source": "P1 S. 252"
-  }, 
   "121": {
     "name": "",
     "ids_to_signatures": {
@@ -1527,6 +598,26 @@
         "O[tto] Mühlendyck."
       ]
     }
+  },
+  "1056": {
+    "kommentar": "ab wi73-74",
+    "name": "Wilhelm Braun",
+    "ids_to_signatures": {
+      "47": [
+        "Wilhelm Braun"
+      ],
+      "66": [
+        "Wilhelm Braun"
+      ]
+    },
+    "sn": [
+      1873.5,
+      1874.0
+    ],
+    "source": [
+      "P1 S. 107",
+      "P1 S. 189"
+    ]
   },
   "198": {
     "name": "G Weigand",
@@ -2200,6 +1291,67 @@
       ]
     }
   },
+  "1015": {
+    "name": "Axel Harnack",
+    "ids_to_signatures": {
+      "42": [
+        "Axel Harnack"
+      ],
+      "45": [
+        "Axel Harnack"
+      ],
+      "49": [
+        "Axel Harnack"
+      ],
+      "54": [
+        "Axel Harnack"
+      ],
+      "56": [
+        "Axel Harnack"
+      ],
+      "62": [
+        "Axel Harnack"
+      ],
+      "63": [
+        "Axel Harnack"
+      ],
+      "71": [
+        "Axel Harnack"
+      ],
+      "77": [
+        "Axel Harnack"
+      ],
+      "80": [
+        "Axel Harnack"
+      ],
+      "91": [
+        "Axel Harnack"
+      ],
+      "95": [
+        "Axel Harnack"
+      ],
+      "102": [
+        "Axel Harnack"
+      ],
+      "105": [
+        "Axel Harnack"
+      ]
+    },
+    "sn": [
+      1873.0,
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0
+    ],
+    "source": [
+      "P1 S. 106",
+      "P1 S. 107",
+      "P1 S. 108",
+      "P1 S. 189",
+      "P1 S. 190"
+    ]
+  },
   "969": {
     "name": "Häster?",
     "ids_to_signatures": {
@@ -2455,6 +1607,25 @@
         "Dr Alfred Lorey."
       ]
     }
+  },
+  "909": {
+    "name": "Gottlob Fischer",
+    "ids_to_signatures": {
+      "126": [
+        "G[ottlob]. Fischer"
+      ],
+      "127": [
+        "G[ottlob]. Fischer"
+      ],
+      "150": [
+        "G[ottlob] Fischer"
+      ],
+      "156": [
+        "G[ottlob]. Fischer"
+      ]
+    },
+    "sn": 1876.5,
+    "source": "P1 S. 251"
   },
   "764": {
     "name": "B? Meese",
@@ -3078,6 +2249,40 @@
       ]
     }
   },
+  "359": {
+    "name": "Elling Bolt Holst",
+    "ids_to_signatures": {
+      "75": [
+        "Elling Holst"
+      ],
+      "76": [
+        "Elling B[olt]. Holst"
+      ],
+      "81": [
+        "Elling Holst"
+      ],
+      "88": [
+        "Elling Holst"
+      ],
+      "94": [
+        "Elling Holst"
+      ],
+      "97": [
+        "Elling Holst"
+      ],
+      "100": [
+        "[Elling Holst]"
+      ]
+    },
+    "sn": [
+      1874.5,
+      1875.0
+    ],
+    "source": [
+      "P1 S. 189",
+      "P1 S. 190"
+    ]
+  },
   "481": {
     "name": "Paul Epstein",
     "ids_to_signatures": {
@@ -3126,6 +2331,31 @@
         "G[eorge]. [A]shley. Campbell"
       ]
     }
+  },
+  "35": {
+    "name": "Friedrich Wilhelm \\emph{Franz} Meyer",
+    "ids_to_signatures": {
+      "116": [
+        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      ],
+      "118": [
+        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      ],
+      "123": [
+        "[[Friedrich Wilhelm \\emph{Franz}] Meyer]"
+      ],
+      "134": [
+        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      ],
+      "142": [
+        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      ]
+    },
+    "sn": [
+      1876.5,
+      1877.0
+    ],
+    "source": "P1 S. 251"
   },
   "1093": {
     "name": "Joh|s? Ehlers?",
@@ -3701,6 +2931,40 @@
       ]
     }
   },
+  "278": {
+    "name": "Karl Friedrich Wilhelm Rohn",
+    "ids_to_signatures": {
+      "117": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "122": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "135": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "136": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "143": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "205": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "209": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ],
+      "212": [
+        "K[arl Friedrich Wilhelm] Rohn"
+      ]
+    },
+    "sn": [
+      1876.5,
+      1877.0
+    ],
+    "source": "P1 S. 251"
+  },
   "494": {
     "name": "Gottfried Rückle.",
     "ids_to_signatures": {
@@ -3724,6 +2988,41 @@
         "T[atjana Alexejewna] Afanassjewa [später Ehrenfest][\\foreignlanguage{russian}{Татьяна Алексеевна Афанасьева}]"
       ]
     }
+  },
+  "423": {
+    "kommentar": "ab wi1877-78",
+    "name": "Anton von Braunmühl",
+    "ids_to_signatures": {
+      "141": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "148": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "164": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "165": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "170": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "171": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "172": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "208": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "223": [
+        "A[nton]. v[on]. Braunmühl"
+      ]
+    },
+    "sn": 1877.5,
+    "source": "P1 S. 252"
   },
   "988": {
     "name": "H? Duncker??",
@@ -3840,6 +3139,16 @@
       ]
     }
   },
+  "358": {
+    "name": "A? Humbert?",
+    "ids_to_signatures": {
+      "19": [
+        "A[?]. Humbert[?]"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
+  },
   "115": {
     "name": "Willy Weber",
     "ids_to_signatures": {
@@ -3859,7 +3168,19 @@
       ]
     }
   },
-
+  "44": {
+    "name": "Ernest Pasquier",
+    "ids_to_signatures": {
+      "9": [
+        "Ern[est]. Pasquier"
+      ],
+      "17": [
+        "Ern[est]. Pasquier"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
+  },
   "383": {
     "name": "Mary Frances Winston",
     "ids_to_signatures": {
@@ -4209,6 +3530,19 @@
       ]
     }
   },
+  "339": {
+    "name": "Isaac Bacharach",
+    "ids_to_signatures": {
+      "115": [
+        "I[saac] Bacharach"
+      ],
+      "129": [
+        "I[saac]. Bacharach"
+      ]
+    },
+    "sn": 1876.5,
+    "source": "P1 S. 251"
+  },
   "425": {
     "name": "Franz Adami?",
     "ids_to_signatures": {
@@ -4321,6 +3655,29 @@
       ]
     }
   },
+  "1076": {
+    "kommentar": "ab so1875",
+    "name": "Alexander später: von Brill",
+    "ids_to_signatures": {
+      "92": [
+        "A[lexander]. [später: von] Brill"
+      ],
+      "110": [
+        "A[lexander] [später: von] Brill"
+      ],
+      "112": [
+        "A[lexander] [später: von] Brill"
+      ]
+    },
+    "sn": [
+      1875.0,
+      1875.5
+    ],
+    "source": [
+      "P1 S. 190",
+      "P1 S. 191"
+    ]
+  },
   "757": {
     "name": "Dr Adolf Krazer",
     "ids_to_signatures": {
@@ -4426,6 +3783,19 @@
       ]
     }
   },
+  "1123": {
+    "name": "Wilhelm Godt",
+    "ids_to_signatures": {
+      "10": [
+        "W[ilhelm]. Godt"
+      ],
+      "16": [
+        "W[ilhelm]. Godt"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
+  },
   "866": {
     "name": "Henri/einrich Dörrie",
     "ids_to_signatures": {
@@ -4433,6 +3803,23 @@
         "H[enri/einrich] Dörrie"
       ]
     }
+  },
+  "217": {
+    "kommentar": "ab so1872",
+    "name": "Otto Weerth",
+    "ids_to_signatures": {
+      "1": [
+        "O[tto]. Weerth"
+      ],
+      "6": [
+        "O[tto]. Weerth"
+      ],
+      "18": [
+        "O[tto]. Weerth"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
   },
   "579": {
     "name": "Anna H? Palmie Palmié?",
@@ -4505,6 +3892,37 @@
       ]
     }
   },
+  "21": {
+    "name": "Ludwig Schleiermacher",
+    "ids_to_signatures": {
+      "119": [
+        "L[udwig] Schleiermacher"
+      ],
+      "120": [
+        "L[udwig] Schleiermacher"
+      ],
+      "125": [
+        "L[udwig] Schleiermacher"
+      ],
+      "128": [
+        "L[udwig]. Schleiermacher"
+      ],
+      "138": [
+        "L[udwig] Schleiermacher"
+      ],
+      "139": [
+        "L[udwig] Schleiermacher"
+      ]
+    },
+    "sn": [
+      1876.5,
+      1877.0
+    ],
+    "source": [
+      "P1 S. 251",
+      "P1 S. 252"
+    ]
+  },
   "356": {
     "name": "Max Born",
     "ids_to_signatures": {
@@ -4537,6 +3955,360 @@
       ]
     }
   },
+  "940": {
+    "name": "Felix Klein",
+    "ids_to_signatures": {
+      "24": [
+        "[Felix] Klein"
+      ],
+      "30": [
+        "[Felix] Klein"
+      ],
+      "37": [
+        "[Felix] Klein"
+      ],
+      "44": [
+        "F[elix] Klein"
+      ],
+      "50": [
+        "F[elix] Klein"
+      ],
+      "53": [
+        "F[elix] Klein"
+      ],
+      "57": [
+        "[Felix] Klein"
+      ],
+      "61": [
+        "F[elix] Klein"
+      ],
+      "64": [
+        "F[elix] Klein"
+      ],
+      "67": [
+        "F[elix] Klein"
+      ],
+      "69": [
+        "F[elix] Klein"
+      ],
+      "70": [
+        "F[elix] Klein"
+      ],
+      "74": [
+        "F[elix] Klein"
+      ],
+      "82": [
+        "F[elix] Klein"
+      ],
+      "84": [
+        "F[elix] Klein"
+      ],
+      "85": [
+        "F[elix] Klein"
+      ],
+      "86": [
+        "F[elix] Klein"
+      ],
+      "90": [
+        "F[elix] Klein"
+      ],
+      "93": [
+        "F[elix] Klein"
+      ],
+      "103": [
+        "F[elix] Klein"
+      ],
+      "104": [
+        "F[elix] Klein"
+      ],
+      "106": [
+        "F[elix] Klein"
+      ],
+      "109": [
+        "F[elix] Klein"
+      ],
+      "207": [
+        "F[elix] Klein"
+      ],
+      "213": [
+        "F[elix] Klein"
+      ],
+      "214": [
+        "F[elix] Klein"
+      ],
+      "215": [
+        "F[elix] Klein"
+      ],
+      "216": [
+        "F[elix] Klein"
+      ],
+      "217": [
+        "F[elix] Klein"
+      ],
+      "233": [
+        "[Felix Klein]"
+      ],
+      "253": [
+        "[Felix] Klein"
+      ],
+      "256": [
+        "F[elix] Klein"
+      ],
+      "257": [
+        "F[elix] Klein"
+      ],
+      "259": [
+        "F[elix] Klein"
+      ],
+      "260": [
+        "F[elix] Klein"
+      ],
+      "296": [
+        "[Felix] Klein"
+      ],
+      "297": [
+        "[Felix] Klein"
+      ],
+      "299": [
+        "[Felix] Klein"
+      ],
+      "300": [
+        "[Felix] Klein"
+      ],
+      "316": [
+        "[Felix] Klein"
+      ],
+      "318": [
+        "[Felix] Klein"
+      ],
+      "320": [
+        "[Felix] Klein"
+      ],
+      "322": [
+        "[Felix] Klein"
+      ],
+      "323": [
+        "[Felix] Klein"
+      ],
+      "325": [
+        "[Felix] Klein"
+      ],
+      "330": [
+        "[Felix] Klein"
+      ],
+      "331": [
+        "[Felix] Klein"
+      ],
+      "343": [
+        "[Felix] Klein"
+      ],
+      "349": [
+        "[Felix] Klein"
+      ],
+      "350": [
+        "[Felix] Klein"
+      ],
+      "351": [
+        "[Felix] Klein"
+      ],
+      "356": [
+        "[Felix] Klein"
+      ],
+      "357": [
+        "[Felix] Klein"
+      ],
+      "405": [
+        "[Felix] Klein"
+      ],
+      "410": [
+        "F[elix]. Klein"
+      ],
+      "412": [
+        "F[elix]. Klein"
+      ],
+      "413": [
+        "[Felix] Klein"
+      ],
+      "442": [
+        "F[elix]. Klein"
+      ],
+      "443": [
+        "F[elix]. Klein"
+      ],
+      "556": [
+        "[Felix] Klein"
+      ],
+      "578": [
+        "[Felix] Klein"
+      ],
+      "579": [
+        "[Felix] Klein"
+      ],
+      "580": [
+        "[Felix] Klein"
+      ],
+      "581": [
+        "[Felix] Klein"
+      ],
+      "775": [
+        "[Felix Klein]"
+      ],
+      "903": [
+        "[Felix] Klein"
+      ],
+      "909": [
+        "[Felix] Klein"
+      ],
+      "919": [
+        "[Felix] Klein"
+      ],
+      "931": [
+        "[Felix] Klein"
+      ],
+      "958": [
+        "[Felix] Klein"
+      ],
+      "994": [
+        "[Felix Klein]"
+      ],
+      "1015": [
+        "[Felix] Klein"
+      ],
+      "1026": [
+        "[Felix Klein]"
+      ],
+      "1027": [
+        "[Felix Klein]"
+      ],
+      "1028": [
+        "[Felix Klein]"
+      ],
+      "1029": [
+        "[Felix Klein]"
+      ],
+      "1030": [
+        "[Felix Klein]"
+      ],
+      "1031": [
+        "[Felix Klein]"
+      ],
+      "1032": [
+        "[Felix Klein]"
+      ],
+      "1033": [
+        "[Felix Klein]"
+      ],
+      "1034": [
+        "[Felix Klein]"
+      ],
+      "1035": [
+        "[Felix Klein]"
+      ],
+      "1039": [
+        "[Felix] Klein"
+      ],
+      "1040": [
+        "[Felix] Klein"
+      ],
+      "1056": [
+        "[Felix] Klein"
+      ],
+      "1087": [
+        "[Felix] Klein"
+      ],
+      "1112": [
+        "[Felix] Klein"
+      ],
+      "1114": [
+        "[Felix] Klein"
+      ],
+      "1115": [
+        "[Felix] Klein"
+      ],
+      "1121": [
+        "[Felix] Klein"
+      ],
+      "1123": [
+        "[Felix] Klein"
+      ],
+      "1125": [
+        "[Felix] Klein"
+      ],
+      "1127": [
+        "[Felix] Klein"
+      ],
+      "1131": [
+        "[Felix] Klein"
+      ],
+      "1134": [
+        "[Felix] Klein"
+      ],
+      "1135": [
+        "[Felix] Klein"
+      ],
+      "1140": [
+        "[Felix] Klein"
+      ],
+      "1158": [
+        "[Felix] Klein"
+      ]
+    }
+  },
+  "478": {
+    "name": "Walther von Dyck",
+    "ids_to_signatures": {
+      "114": [
+        "Walther [[später: von]] Dyck"
+      ],
+      "130": [
+        "W[alther]. [später: von] D[yck]."
+      ],
+      "131": [
+        "W[alther]. [später: von] Dyck"
+      ],
+      "140": [
+        "W[alther] [später: von] Dyck"
+      ],
+      "219": [
+        "W[alther] [später: von] Dyck"
+      ],
+      "227": [
+        "W[alther] [später: von] Dyck"
+      ],
+      "234": [
+        "[Walther] [später: von] Dyck"
+      ],
+      "235": [
+        "[Walther] [später: von] Dyck"
+      ],
+      "261": [
+        "[Walther] [später: von] Dyck"
+      ],
+      "264": [
+        "[Walther [später: von]] Dyck"
+      ],
+      "265": [
+        "[Walther [später: von]] Dyck"
+      ],
+      "272": [
+        "Walther [[später: von]] Dyck"
+      ],
+      "286": [
+        "[Walther [später: von]] Dyck"
+      ],
+      "367": [
+        "[Walther [später: von]] Dyck"
+      ]
+    },
+    "sn": [
+      1876.5,
+      1877.0
+    ],
+    "source": [
+      "P1 S. 251",
+      "P1 S. 252"
+    ]
+  },
   "730": {
     "name": "Robert  Wiebrecht",
     "ids_to_signatures": {
@@ -4566,6 +4338,52 @@
         "R[obert]. Künzer"
       ]
     }
+  },
+  "9": {
+    "name": "Ludwig Wedekind",
+    "ids_to_signatures": {
+      "25": [
+        "L[udwig]. Wedekind"
+      ],
+      "33": [
+        "L[udwig] Wedekind"
+      ],
+      "34": [
+        "L[udwig] Wedekind"
+      ],
+      "35": [
+        "L[udwig] Wedekind"
+      ],
+      "38": [
+        "[Ludwig] Wedekind"
+      ],
+      "55": [
+        "L[udwig] Wedekind"
+      ],
+      "73": [
+        "[Ludwig] Wedekind"
+      ],
+      "78": [
+        "[Ludwig] Wedekind"
+      ],
+      "111": [
+        "L[udwig] Wedekind"
+      ]
+    },
+    "sn": [
+      1873.0,
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0
+    ],
+    "source": [
+      "P1 S. 106",
+      "P1 S. 107",
+      "P1 S. 108",
+      "P1 S. 189",
+      "P1 S. 191"
+    ]
   },
   "1166": {
     "name": "Th? Mens|zinger?",
@@ -4629,7 +4447,25 @@
       ]
     }
   },
-
+  "885": {
+    "name": "Adolf Weiler",
+    "ids_to_signatures": {
+      "7": [
+        "A[dolf]. Weiler"
+      ],
+      "27": [
+        "A[dolf] Weiler"
+      ],
+      "28": [
+        "A[dolf] Weiler"
+      ]
+    },
+    "sn": 1872.0,
+    "source": [
+      "P1, S. 27",
+      "P1 S. 106"
+    ]
+  },
   "427": {
     "name": "David Hilbert Dr. phil.",
     "ids_to_signatures": {
@@ -4848,6 +4684,19 @@
         "H[ugo] Kistler"
       ]
     }
+  },
+  "572": {
+    "name": "Dr. Friedrich Neesen",
+    "ids_to_signatures": {
+      "13": [
+        "Dr. [Friedrich] Neesen"
+      ],
+      "20": [
+        "Dr. F[riedrich]. Neesen"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
   },
   "349": {
     "name": "James Harrington Boyd",
@@ -5557,6 +5406,16 @@
       ]
     }
   },
+  "582": {
+    "name": "Dr. Anton Baule",
+    "ids_to_signatures": {
+      "3": [
+        "Dr. A[nton]. Baule"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
+  },
   "960": {
     "name": "Tscheslaw Retschinsky",
     "ids_to_signatures": {
@@ -5655,6 +5514,32 @@
       ]
     }
   },
+  "267": {
+    "name": "Wilhelm Bretschneider",
+    "ids_to_signatures": {
+      "23": [
+        "W[ilhelm]. Bretschneider"
+      ],
+      "31": [
+        "W[ilhelm] Bretschneider"
+      ],
+      "43": [
+        "W[ilhelm]. Bretschneider"
+      ],
+      "51": [
+        "W[ilhelm]. Bretschneider"
+      ]
+    },
+    "sn": [
+      1873.0,
+      1873.5,
+      1874.0
+    ],
+    "source": [
+      "P1 S. 106",
+      "P1 S. 107"
+    ]
+  },
   "795": {
     "name": "G?? Lindemann??",
     "ids_to_signatures": {
@@ -5722,6 +5607,22 @@
         "Henry Siedentopf"
       ]
     }
+  },
+  "877": {
+    "name": "Carl Rodenberg",
+    "ids_to_signatures": {
+      "5": [
+        "C[arl]. Rodenberg"
+      ],
+      "12": [
+        "C[arl]. Rodenberg"
+      ],
+      "15": [
+        "C[arl]. Rodenberg"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
   },
   "803": {
     "name": "Almstedt?",
@@ -6043,6 +5944,83 @@
       ]
     }
   },
+  "659": {
+    "name": "Ferdinand von Lindemann",
+    "ids_to_signatures": {
+      "22": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "29": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "39": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "40": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "48": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "52": [
+        "F[erdinand von]. Lindemann"
+      ],
+      "58": [
+        "F[erdinand von] Lindemann"
+      ],
+      "59": [
+        "F[erdinand von] Lindemann"
+      ],
+      "60": [
+        "F[erdinand von] Lindemann"
+      ],
+      "65": [
+        "F[erdinand von] Lindemann"
+      ],
+      "68": [
+        "F[erdinand von] Lindemann"
+      ],
+      "72": [
+        "F[erdinand von] Lindemann"
+      ],
+      "83": [
+        "F[erdinand von] Lindemann"
+      ],
+      "87": [
+        "F[erdinand von] Lindemann"
+      ],
+      "89": [
+        "F[erdinand von] Lindemann"
+      ],
+      "96": [
+        "F[erdinand von] Lindemann"
+      ],
+      "101": [
+        "F[erdinand von] Lindemann"
+      ],
+      "107": [
+        "F[erdinand von] Lindemann"
+      ],
+      "108": [
+        "F[erdinand von] Lindemann"
+      ]
+    },
+    "sn": [
+      1873.0,
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0,
+      1875.5
+    ],
+    "source": [
+      "P1 S. 106",
+      "P1 S. 107",
+      "P1 S. 189",
+      "P1 S. 190",
+      "P1 S. 191"
+    ]
+  },
   "346": {
     "name": "Wilhelm? Zorn",
     "ids_to_signatures": {
@@ -6131,6 +6109,35 @@
         "Hermann Martini"
       ]
     }
+  },
+  "641": {
+    "kommentar": "ab wi186-77",
+    "name": "Anton Puchta",
+    "ids_to_signatures": {
+      "113": [
+        "Anton Puchta"
+      ],
+      "121": [
+        "Dr[?]. Ant[on]. Puchta"
+      ],
+      "124": [
+        "Phil. Dr. Ant[on]. Puchta"
+      ],
+      "132": [
+        "[Dr[?]. Ant[on]. Puchta]"
+      ],
+      "133": [
+        "Dr[?]. Ant[on]. Puchta"
+      ],
+      "137": [
+        "Ant[on] Puchta"
+      ]
+    },
+    "sn": [
+      1876.5,
+      1877.0
+    ],
+    "source": "P1 S. 251"
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -6523,11 +6530,38 @@
       ]
     }
   },
+  "534": {
+    "name": "Wilhelm Frahm",
+    "ids_to_signatures": {
+      "98": [
+        "W[ilhelm] Frahm"
+      ],
+      "99": [
+        "W[ilhelm] Frahm"
+      ]
+    },
+    "sn": 1875.0,
+    "source": "P1 S. 190"
+  },
   "151": {
     "name": "Erich Müller",
     "ids_to_signatures": {
       "763": [
         "Erich Müller"
+      ]
+    }
+  },
+  "419": {
+    "name": "Christoph Ernst",
+    "ids_to_signatures": {
+      "4": [
+        "Ch[ristoph]. Ernst"
+      ],
+      "8": [
+        "Ch[ristoph]. Ernst"
+      ],
+      "14": [
+        "Ch[ristoph]. Ernst"
       ]
     }
   },
@@ -6579,6 +6613,17 @@
         "Fr[?] Hanker?"
       ]
     }
+  },
+  "634": {
+    "kommentar": "ab wi1874-75",
+    "name": "Paul Gordan",
+    "ids_to_signatures": {
+      "79": [
+        "[Paul] Gordan"
+      ]
+    },
+    "sn": 1874.5,
+    "source": "P1 S. 189"
   },
   "943": {
     "name": "Oskar Herrmann",
@@ -6647,6 +6692,38 @@
       ]
     }
   },
+  "258": {
+    "kommentar": "ab so1873",
+    "name": "Siegmund Günther",
+    "ids_to_signatures": {
+      "21": [
+        "S[iegmund]. Günther"
+      ],
+      "26": [
+        "S[iegmund]. Günther"
+      ],
+      "32": [
+        "S[iegmund]. Günther"
+      ],
+      "36": [
+        "[Siegmund] Günther"
+      ],
+      "41": [
+        "S[iegmund]. Günther"
+      ],
+      "46": [
+        "S[iegmund]. Günther"
+      ]
+    },
+    "sn": [
+      1872.0,
+      1873.5
+    ],
+    "source": [
+      "P1 S. 106",
+      "P1 S. 107"
+    ]
+  },
   "1091": {
     "name": "A? Sass?",
     "ids_to_signatures": {
@@ -6710,6 +6787,19 @@
         "Wilhelm Ihlenburg"
       ]
     }
+  },
+  "473": {
+    "name": "Richard Börnstein",
+    "ids_to_signatures": {
+      "2": [
+        "R[ichard]. Börnstein"
+      ],
+      "11": [
+        "R[ichard]. Börnstein"
+      ]
+    },
+    "sn": 1872.0,
+    "source": "P1, S. 27"
   },
   "461": {
     "name": "Christoph Gerhard? Rabba",
