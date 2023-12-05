@@ -64,7 +64,6 @@ if __name__ == "__main__":
 
     prot_data = read_json_file(prot_path)
     teil_data = read_json_file(teil_path)
-
     errors = []
 
     # Check if the files were read successfully
@@ -79,9 +78,10 @@ if __name__ == "__main__":
         test_unique_protocol_ids(prot_data, errors)
         test_valid_speaker_protocol_ids(prot_data, teil_data, errors)
 
-        if errors:
-            print("Errors found during tests:")
-            for error in errors:
-                print(error)
-        else:
-            print("All tests passed successfully.")
+    if errors:
+       print("Errors found during tests:")
+       for error in errors:
+           print(error)
+       exit(1)
+    else:
+       print("All tests passed successfully.")
