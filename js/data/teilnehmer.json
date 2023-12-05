@@ -1,5 +1,5 @@
   "940": {
-    "commentar" : "keine sources oder semester nötig?!",
+    "commentar" : "keine sources oder semester nötig",
     "name": "Felix Klein",
     "ids_to_signatures": {
       "24": [
@@ -350,6 +350,7 @@
       "14": [
         "Ch[ristoph]. Ernst"
       ]
+    }
     },    
   "877": {
     "name": "Carl Rodenberg",
@@ -663,8 +664,6 @@
         "[Elling Holst]"
       ]
     },
-    "birthyear": 1849,
-    "deathyear": 1915,
     "semester": [{"wi1874-75"},{"so1875"}],
     "source": [{"P1 S. 189"},{"P1 S. 190"}]
   },
