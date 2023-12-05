@@ -67,6 +67,13 @@ if __name__ == "__main__":
 
     errors = []
 
+    # Check if the files were read successfully
+    if prot_data is None:
+        errors.append(f"Failed to read or parse {prot_path}.")
+    if teil_data is None:
+        errors.append(f"Failed to read or parse {teil_path}.")
+
+    # Proceed with tests only if both files were read successfully
     if prot_data is not None and teil_data is not None:
         test_speakers_exist_in_participants(prot_data, teil_data, errors)
         test_unique_protocol_ids(prot_data, errors)
