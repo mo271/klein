@@ -519,7 +519,7 @@
         "F[erdinand von] Lindemann"
       ]
     },
-    "semester" : [{"so1873"},{"wi73-74"},{"so1874"},{"wi1874-75"},{"so1875"},"{wi1875-76"}],
+    "semester" : [{"so1873"},{"wi73-74"},{"so1874"},{"wi1874-75"},{"so1875"},{"wi1875-76"}],
     "source" : [{"P1 S. 106"},{"P1 S. 107"},{"P1 S. 189"},{"P1 S. 190"},{"P1 S. 191"}]
   },
   "267": {
@@ -676,8 +676,8 @@
         "[Paul] Gordan"
       ]
     },
-    semester: "wi1874-75",
-    source: "P1 S. 189"
+    "semester": "wi1874-75",
+    "source": "P1 S. 189"
   }
   "1076": {
     "kommentar": "ab so1875"
