@@ -1,5 +1,5 @@
   "940": {
-    "commentar" : "keine sources oder semester nötig",
+    "kommentar" : "keine sources oder semester nötig",
     "name": "Felix Klein",
     "ids_to_signatures": {
       "24": [
@@ -6866,4 +6866,3 @@
       ]
     }
   }
-}
