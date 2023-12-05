@@ -2,7 +2,6 @@ name: Data Integrity Check
 
 on:
   push:
-  pull_request:
 
 jobs:
   run-integrity-check:
