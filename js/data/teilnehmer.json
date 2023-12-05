@@ -381,8 +381,8 @@
         "A[dolf] Weiler"
       ]
     },
-    "semester" : [{"so1872"},{"so1873"}],
-    "source" : [{"P1, S. 27"},{"P1 S. 106"}]
+    "semester" : ["so1872","so1873"],
+    "source" : ["P1, S. 27","P1 S. 106"]
   },
   "44": {
     "name": "Ernest Pasquier",
