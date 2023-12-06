@@ -2349,13 +2349,20 @@
       ],
       "142": [
         "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      ],
+      "146": [
+        "[Friedrich Wilhelm \\emph{Franz}] Meyer"
       ]
     },
     "sn": [
       1876.5,
-      1877.0
+      1877.0,
+      1877.5
     ],
-    "source": "P1 S. 251"
+    "source": [
+      "P1 S. 251",
+      "P1 S. 252"
+    ],
   },
   "1093": {
     "name": "Joh|s? Ehlers?",
@@ -6869,14 +6876,6 @@
       ],
       "310": [
         "H[?][einrich]. Dreßler"
-      ]
-    }
-  },
-  "201": {
-    "name": "Franz Meyer",
-    "ids_to_signatures": {
-      "146": [
-        "[Franz] Meyer"
       ]
     }
   },
