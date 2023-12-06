@@ -56,14 +56,6 @@
       ]
     }
   },
-  "677": {
-    "name": "Wilhelm? Hecht?",
-    "ids_to_signatures": {
-      "158": [
-        "Wilh[elm]? Hecht?"
-      ]
-    }
-  },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
     "ids_to_signatures": {
@@ -142,8 +134,13 @@
     "ids_to_signatures": {
       "152": [
         "Wilh[elm]?. Hecht?"
+      ],
+      "158": [
+        "Wilh[elm]? Hecht?"
       ]
-    }
+    },
+    "sn" : 1876.4,
+    "source" : "P1 S. 319"
   },
   "10": {
     "name": "Reinhold Rüdenberg",
