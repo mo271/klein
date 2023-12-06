@@ -110,5 +110,5 @@ titeldict = (
  "sn-1876.9" : "<span class='nonorigtitel'>Mathematische Vorträge<br> Wintersemester 1876 – 77 </span>" ,
  "sn-1877.4" : "<span class='nonorigtitel'>Mathematische Vorträge<br> Sommersemester 1877</span>" ,
  "sn-1877.9" : "<span class='nonorigtitel'>Mathematische Vorträge<br> Wintersemester 1877 – 78 </span>" ,
- "sn-1878.4" : "<span class='nonorigtitel'>Mathematische Vorträge<br> Sommersemester 1878</span>" 
+ "sn-1878.4" : "<span class='nonorigtitel'>Mathematische Vorträge<br> Sommersemester 1878</span>" ,
 });
