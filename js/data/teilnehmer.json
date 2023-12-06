@@ -1616,8 +1616,14 @@
         "G[ottlob]. Fischer"
       ]
     },
-    "sn": 1876.5,
-    "source": "P1 S. 251"
+    "sn": [
+      1876.4,
+      1876.5
+    ]
+    "source": [
+      "P1 S. 251",
+      "P1 S. 319"
+    ]
   },
   "764": {
     "name": "B? Meese",
@@ -1974,9 +1980,18 @@
     "name": "Geo?? Büttner",
     "ids_to_signatures": {
       "151": [
-        "Geo?? Büttner"
+        "Geo[?] Büttner"
+      ],
+      "157": [
+        "[] Büttner"
       ]
-    }
+    },
+    "sn": [
+      1876.4
+    ],
+    "source": [
+      "P1 S. 319"
+    ]
   },
   "569": {
     "name": "Furtwängler?",
@@ -3650,14 +3665,6 @@
       ]
     }
   },
-  "985": {
-    "name": "Büttner",
-    "ids_to_signatures": {
-      "157": [
-        "[] Büttner"
-      ]
-    }
-  },
   "1076": {
     "kommentar": "ab so1875",
     "name": "Alexander später: von Brill",
@@ -4594,7 +4601,13 @@
       "237": [
         "J[oseph] Gierster"
       ]
-    }
+    },
+    "sn" : [
+      1877.5
+      }
+    "source" : [
+      "P1 S. 252"
+    ]
   },
   "658": {
     "name": "William Fogg Osgood",
