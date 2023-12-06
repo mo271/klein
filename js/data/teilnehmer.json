@@ -1377,14 +1377,6 @@
       ]
     }
   },
-  "902": {
-    "name": "Dr Anton Puchta",
-    "ids_to_signatures": {
-      "144": [
-        "Dr Ant[on] Puchta"
-      ]
-    }
-  },
   "492": {
     "name": "Hans von Schaper.",
     "ids_to_signatures": {
@@ -2968,9 +2960,13 @@
     },
     "sn": [
       1876.5,
-      1877.0
+      1877.0,
+      1877.5
     ],
-    "source": "P1 S. 251"
+    "source": [
+      "P1 S. 251",
+      "P1 S. 252"
+    ]
   },
   "494": {
     "name": "Gottfried Rückle.",
@@ -4478,14 +4474,6 @@
     "ids_to_signatures": {
       "439": [
         "David Hilbert Dr. phil."
-      ]
-    }
-  },
-  "605": {
-    "name": "Dr. Anton Puchta",
-    "ids_to_signatures": {
-      "206": [
-        "Dr. An[ton] Puchta"
       ]
     }
   },
@@ -6117,7 +6105,7 @@
       ]
     }
   },
-  "641": {
+  "605": {
     "kommentar": "ab wi186-77",
     "name": "Anton Puchta",
     "ids_to_signatures": {
@@ -6138,13 +6126,23 @@
       ],
       "137": [
         "Ant[on] Puchta"
+      ],
+      "144": [
+        "Dr Ant[on] Puchta"
+      ],
+      "206": [
+        "Dr. An[ton] Puchta"
       ]
     },
     "sn": [
       1876.5,
-      1877.0
+      1877.0,
+      1877.5,
+      1878.0
     ],
-    "source": "P1 S. 251"
+    "source": [
+      "P1 S. 251",
+      "P1 S. 252"
   },
   "566": {
     "name": "Charles Jaccottet",
