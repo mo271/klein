@@ -2368,7 +2368,7 @@
     "source": [
       "P1 S. 251",
       "P1 S. 252"
-    ],
+    ]
   },
   "1093": {
     "name": "Joh|s? Ehlers?",
@@ -3593,7 +3593,9 @@
       "153": [
         "W[?]. Küffner"
       ]
-    }
+    },
+    "sn" : 1876.4,
+    "source: "P1 S. 319"
   },
   "548": {
     "name": "Theophil Friesendorff",
