@@ -56,14 +56,6 @@
       ]
     }
   },
-  "677": {
-    "name": "Wilhelm? Hecht?",
-    "ids_to_signatures": {
-      "158": [
-        "Wilh[elm]? Hecht?"
-      ]
-    }
-  },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
     "ids_to_signatures": {
@@ -142,6 +134,9 @@
     "ids_to_signatures": {
       "152": [
         "Wilh[elm]?. Hecht?"
+      ],
+      "158": [
+        "Wilh[elm]? Hecht?"
       ]
     }
   },
