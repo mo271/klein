@@ -3824,9 +3824,9 @@
         "R[udolph] Hansen\\newline stud. math."
       ]
     },
-    "first": "FIXMERudolph Hansen\\newline stud. math.",
-    "last": "FIXMERudolph Hansen\\newline stud. math.",
-    "titel": "FIXMERudolph Hansen\\newline stud. math."
+    "first": "Rudolph",
+    "last": "Hansen",
+    "titel": "stud. math."
   },
   "358": {
     "name": "A? Humbert?",
@@ -3852,14 +3852,14 @@
     "last": "Weber"
   },
   "490": {
-    "name": "J.V.Westfall Wilhelmus David Allen Westfall ",
+    "name": "J.V.Westfall Wilhelmus David Allen Westfall",
     "ids_to_signatures": {
       "674": [
         "J.V.Westfall [Wilhelmus David Allen Westfall] "
       ]
     },
-    "first": "FIXMEJ.V.Westfall Wilhelmus David Allen Westfall ",
-    "last": "FIXMEJ.V.Westfall Wilhelmus David Allen Westfall "
+    "first": "Wilhelmus David Allen",
+    "last": "Westfall "
   },
   "44": {
     "name": "Ernest Pasquier",
@@ -4116,8 +4116,8 @@
         "E[?]?. v. Grienburg?"
       ]
     },
-    "first": "FIXMEE??. v. Grienburg?",
-    "last": "FIXMEE??. v. Grienburg?"
+    "first": "",
+    "last": "v. Grienburg?"
   },
   "61": {
     "name": "Friedrich Schröder",
@@ -4238,9 +4238,9 @@
         "Walther Zurhellen\\newline stud. astr."
       ]
     },
-    "first": "FIXMEWalther Zurhellen\\newline stud. astr.",
-    "last": "FIXMEWalther Zurhellen\\newline stud. astr.",
-    "titel": "FIXMEWalther Zurhellen\\newline stud. astr."
+    "first": "Walther",
+    "last": "Zurhellen",
+    "titel": "stud. astr."
   },
   "608": {
     "name": "Karl Schulz?",
@@ -4391,8 +4391,8 @@
         "[J|I]? De[u|n][v[er]gl[eiche] mit 26/07/1905]ker?"
       ]
     },
-    "first": "FIXMEJ|I? Deu|nvergleiche mit 26/07/1905ker?",
-    "last": "FIXMEJ|I? Deu|nvergleiche mit 26/07/1905ker?"
+    "first": "I?",
+    "last": "Deu|nvergleiche mit 26/07/1905ker?"
   },
   "706": {
     "name": "Carl Seefried",
@@ -4421,8 +4421,8 @@
         "[Hermann Weyl] [Felix] Klein"
       ]
     },
-    "first": "FIXMEHermann Weyl Felix Klein",
-    "last": "FIXMEHermann Weyl Felix Klein"
+    "first": "TODOHermann Weyl Felix Klein",
+    "last": "TODOHermann Weyl Felix Klein"
   },
   "881": {
     "name": "Norbert Pinkus",
@@ -4457,8 +4457,8 @@
         "A[lexander] [später: von] Brill"
       ]
     },
-    "first": "FIXMEAlexander später: von Brill",
-    "last": "FIXMEAlexander später: von Brill"
+    "first": "Alexander",
+    "last": "von Brill"
   },
   "757": {
     "name": "Dr Adolf Krazer",
@@ -4540,8 +4540,8 @@
         "[Mrs [Grace] Young [geb.Chisholm?]]"
       ]
     },
-    "first": "FIXMEMrs Grace Young geb.Chisholm?",
-    "last": "FIXMEMrs Grace Young geb.Chisholm?"
+    "first": "Grace",
+    "last": "Young"
   },
   "561": {
     "name": "Paul Voigt",
@@ -4666,8 +4666,8 @@
         "A[nna]. H[?]. Palmie [Palmié?]"
       ]
     },
-    "first": "FIXMEAnna H? Palmie Palmié?",
-    "last": "FIXMEAnna H? Palmie Palmié?"
+    "first": "Anna H?",
+    "last": "Palmié?"
   },
   "544": {
     "name": "W?? Schmidt?",
@@ -4796,8 +4796,8 @@
         "[[Felix] Bernstein] [St[e|r]okel?] [Dec[o|a]ster?] [Felix] Klein"
       ]
     },
-    "first": "FIXMEFelix Bernstein Ste|rokel? Deco|aster? Felix Klein",
-    "last": "FIXMEFelix Bernstein Ste|rokel? Deco|aster? Felix Klein"
+    "first": "TODOFelix Bernstein Ste|rokel? Deco|aster? Felix Klein",
+    "last": "TODOFelix Bernstein Ste|rokel? Deco|aster? Felix Klein"
   },
   "629": {
     "name": "Otto Kindling?",
@@ -5158,8 +5158,8 @@
         "E[duard] [Ritter] v[on] Weber"
       ]
     },
-    "first": "FIXMEEduard Ritter von Weber",
-    "last": "FIXMEEduard Ritter von Weber"
+    "first": "Eduard",
+    "last": "Ritter von Weber"
   },
   "511": {
     "name": "Robert Künzer",
@@ -5305,9 +5305,9 @@
         "David Hilbert Dr. phil."
       ]
     },
-    "first": "FIXMEDavid Hilbert Dr. phil.",
-    "last": "FIXMEDavid Hilbert Dr. phil.",
-    "titel": "FIXMEDavid Hilbert Dr. phil."
+    "first": "David",
+    "last": "Hilbert",
+    "titel": "Dr. phil."
   },
   "605": {
     "name": "Dr. Anton Puchta",
@@ -5346,9 +5346,9 @@
         "[Felix Klein], [Dr. Graf]"
       ]
     },
-    "first": "FIXMEFelix Klein, Dr. Graf",
-    "last": "FIXMEFelix Klein, Dr. Graf",
-    "titel": "FIXMEFelix Klein, Dr. Graf"
+    "first": "TODOFelix Klein, Dr. Graf",
+    "last": "TODOFelix Klein, Dr. Graf",
+    "titel": "TODOFelix Klein, Dr. Graf"
   },
   "182": {
     "name": "Felix Klein, Otto Toeplitz",
@@ -5402,8 +5402,8 @@
         "[Felix Klein], [Otto Toeplitz]"
       ]
     },
-    "first": "FIXMEFelix Klein, Otto Toeplitz",
-    "last": "FIXMEFelix Klein, Otto Toeplitz"
+    "first": "TODOFelix Klein, Otto Toeplitz",
+    "last": "TODOFelix Klein, Otto Toeplitz"
   },
   "238": {
     "name": "Joseph Gierster",
@@ -5514,8 +5514,8 @@
         "C[arl David Tolmé] Runge"
       ]
     },
-    "first": "FIXMECarl David Tolmé Runge",
-    "last": "FIXMECarl David Tolmé Runge"
+    "first": "Carl David Tolmé",
+    "last": "Runge"
   },
   "63": {
     "name": "Albert von Brunn.",
@@ -5534,8 +5534,8 @@
         "[Anton] Aloys Timpe."
       ]
     },
-    "first": "FIXMEAnton Aloys Timpe.",
-    "last": "FIXMEAnton Aloys Timpe."
+    "first": "Anton Aloys",
+    "last": "Timpe"
   },
   "462": {
     "name": "Hugo Kistler",
@@ -5745,8 +5745,8 @@
         "[[Otto] Tö[!]plitz] [Felix] Klein"
       ]
     },
-    "first": "FIXMEOtto Tö!plitz Felix Klein",
-    "last": "FIXMEOtto Tö!plitz Felix Klein"
+    "first": "TODOOtto Tö!plitz Felix Klein",
+    "last": "TODOOtto Tö!plitz Felix Klein"
   },
   "355": {
     "name": "Wilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
@@ -5755,8 +5755,8 @@
         "[[Wilhelm] Behrens] [[Alfred] Errera] [[Hermann] Weyl] [Felix Klein]"
       ]
     },
-    "first": "FIXMEWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
-    "last": "FIXMEWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein"
+    "first": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
+    "last": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein"
   },
   "70": {
     "name": "Henri Padé",
@@ -5843,14 +5843,14 @@
     "last": "Büttner"
   },
   "156": {
-    "name": "Alexei Konstantinowitsch  Wlassoff \\foreignlanguage{russian}{Алексей Константинович Власов},\\newline Privat-Docent in Moskau andere Schrift? ",
+    "name": "Alexei Konstantinowitsch Wlassoff \\foreignlanguage{russian}{Алексей Константинович Власов},\\newline Privat-Docent in Moskau andere Schrift? ",
     "ids_to_signatures": {
       "917": [
         "A[lexei Konstantinowitsch]  Wlassoff [\\foreignlanguage{russian}{Алексей Константинович Власов}],\\newline Privat-Docent in Moskau [andere Schrift?] "
       ]
     },
-    "first": "FIXMEAlexei Konstantinowitsch  Wlassoff \\foreignlanguage{russian}{Алексей Константинович Власов},\\newline Privat-Docent in Moskau andere Schrift? ",
-    "last": "FIXMEAlexei Konstantinowitsch  Wlassoff \\foreignlanguage{russian}{Алексей Константинович Власов},\\newline Privat-Docent in Moskau andere Schrift? "
+    "first": "Alexei Konstantinowitsch",
+    "last": "Wlassoff"
   },
   "59": {
     "name": "Otto Richter",
@@ -5882,8 +5882,8 @@
         "H[arry]. W[alter]. Tyler "
       ]
     },
-    "first": "FIXMEHarry Walter Tyler ",
-    "last": "FIXMEHarry Walter Tyler "
+    "first": "Harry Walter",
+    "last": "Tyler "
   },
   "159": {
     "name": "O? Reifenstahl?",
@@ -5911,8 +5911,8 @@
         "Gustav Raussnitz [Gustáv Rados]"
       ]
     },
-    "first": "FIXMEGustav Raussnitz Gustáv Rados",
-    "last": "FIXMEGustav Raussnitz Gustáv Rados"
+    "first": "Gustáv",
+    "last": "Rados"
   },
   "210": {
     "name": "Joseph von Kowalski",
@@ -6080,8 +6080,8 @@
         "Herr[? voriger Tippfehler?]mann Wiener"
       ]
     },
-    "first": "FIXMEHerr? voriger Tippfehler?mann Wiener",
-    "last": "FIXMEHerr? voriger Tippfehler?mann Wiener"
+    "first": "Herr? voriger Tippfehler?mann",
+    "last": "Wiener"
   },
   "378": {
     "name": "Bügerer?",
@@ -6103,9 +6103,9 @@
         "K. Laubert. stud. math."
       ]
     },
-    "first": "FIXMEK. Laubert. stud. math.",
-    "last": "FIXMEK. Laubert. stud. math.",
-    "titel": "FIXMEK. Laubert. stud. math."
+    "first": "K.",
+    "last": "Laubert",
+    "titel": "stud. math."
   },
   "1141": {
     "name": "Paul Biedermann",
@@ -6323,9 +6323,9 @@
         "Rudolf Hansen[?],\\newline stud.math."
       ]
     },
-    "first": "FIXMERudolf Hansen?,\\newline stud.math.",
-    "last": "FIXMERudolf Hansen?,\\newline stud.math.",
-    "titel": "FIXMERudolf Hansen?,\\newline stud.math."
+    "first": "Rudolf",
+    "last": "Hansen",
+    "titel": "stud.math."
   },
   "1020": {
     "name": "Ernst Harald Schütz",
@@ -6387,8 +6387,8 @@
         "[unleserliches Kürzel:q.e.d?]A[?]. Zeilbehr"
       ]
     },
-    "first": "FIXMEunleserliches Kürzel:q.e.d?A? Zeilbehr",
-    "last": "FIXMEunleserliches Kürzel:q.e.d?A? Zeilbehr"
+    "first": "A?",
+    "last": "Zeilbehr"
   },
   "758": {
     "name": "Johannes Schröder.",
@@ -6417,8 +6417,9 @@
         "J[ohannes] Schröder, cand. math."
       ]
     },
-    "first": "FIXMEJohannes Schröder, cand. math.",
-    "last": "FIXMEJohannes Schröder, cand. math."
+    "first": "Johannes",
+    "last": "Schröder",
+    "titel": "cand. math."
   },
   "582": {
     "name": "Dr. Anton Baule",
@@ -6448,8 +6449,8 @@
         "Fr[iedrich] Kuhse?, [unleserlich]?  Wiec[k|h]mann"
       ]
     },
-    "first": "FIXMEFriedrich Kuhse?, unleserlich?  Wieck|hmann",
-    "last": "FIXMEFriedrich Kuhse?, unleserlich?  Wieck|hmann"
+    "first": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann",
+    "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
   },
   "1144": {
     "name": "John Henry Tanner",
@@ -6585,8 +6586,8 @@
         "W[acław Michał] Dziewulski."
       ]
     },
-    "first": "FIXMEWacław Michał Dziewulski.",
-    "last": "FIXMEWacław Michał Dziewulski."
+    "first": "Wacław Michał",
+    "last": "Dziewulski."
   },
   "1087": {
     "name": "Bernhard Bavink",
@@ -6723,8 +6724,8 @@
         "K[azimierz Zorawski [mg:akzent auf Z?]"
       ]
     },
-    "first": "FIXMEKazimierz Zorawski mg:akzent auf Z?",
-    "last": "FIXMEKazimierz Zorawski mg:akzent auf Z?"
+    "first": "Kazimierz",
+    "last": "Zorawski [mg:akzent auf Z?]"
   },
   "1165": {
     "name": "Alfred Alfréd Haar",
@@ -6765,8 +6766,8 @@
         "E[dward]. B[urr]. Van Vleok"
       ]
     },
-    "first": "FIXMEEdward Burr Van Vleok",
-    "last": "FIXMEEdward Burr Van Vleok"
+    "first": "Edward Burr",
+    "last": "Van Vleok"
   },
   "955": {
     "name": "Anton Aloys Timpe",
@@ -6791,9 +6792,9 @@
         "Dr. Ing. R[einhold]. Proell"
       ]
     },
-    "first": "FIXMEDr. Ing. Reinhold Proell",
-    "last": "FIXMEDr. Ing. Reinhold Proell",
-    "titel": "FIXMEDr. Ing. Reinhold Proell"
+    "first": "Reinhold",
+    "last": "Proell",
+    "titel": "Dr. Ing."
   },
   "1148": {
     "name": "Felix Klein, ? Schritfvergleich!",
@@ -6805,8 +6806,8 @@
         "[Felix Klein], [? Schritfvergleich!]"
       ]
     },
-    "first": "FIXMEFelix Klein, ? Schritfvergleich!",
-    "last": "FIXMEFelix Klein, ? Schritfvergleich!"
+    "first": "TODOFelix Klein, ? Schritfvergleich!",
+    "last": "TODOFelix Klein, ? Schritfvergleich!"
   },
   "1007": {
     "name": "Artur Rosenthal",
@@ -6835,8 +6836,9 @@
         "Richard Greiner\\newline st. math.?"
       ]
     },
-    "first": "FIXMERichard Greiner\\newline st. math.?",
-    "last": "FIXMERichard Greiner\\newline st. math.?"
+    "first": "Richard",
+    "last": "Greiner",
+    "titel": "st. math.?"
   },
   "155": {
     "name": "Fritz Lüdemann",
