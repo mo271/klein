@@ -88,16 +88,6 @@
     "first": "Franz",
     "last": "Adami?"
   },
-  "379": {
-    "name": "L|C|S Ae|ie|nhenn?",
-    "ids_to_signatures": {
-      "644": [
-        "[L|C|S] A[e|ie|n]henn?"
-      ]
-    },
-    "first": "L|C|S",
-    "last": "Ae|ie|nhenn?"
-  },
   "992": {
     "name": "Tatjana Alexejewna Afanassjewa später Ehrenfest\\foreignlanguage{russian}{Татьяна Алексеевна Афанасьева}",
     "ids_to_signatures": {
@@ -217,16 +207,6 @@
     "first": "Albert",
     "last": "Andrae"
   },
-  "254": {
-    "name": "L. Antenn?",
-    "ids_to_signatures": {
-      "662": [
-        "L. Antenn?"
-      ]
-    },
-    "first": "L.",
-    "last": "Antenn?"
-  },
   "166": {
     "name": "Fr Arensmeier",
     "ids_to_signatures": {
@@ -240,28 +220,27 @@
     "first": "Fr",
     "last": "Arensmeier"
   },
-  "34": {
-    "name": "C?? Anbenn?vgl. unten C. Auhenn",
-    "ids_to_signatures": {
-      "639": [
-        "C?[?]. Anbenn?[vgl. unten C. Auhenn]"
-      ]
-    },
-    "first": "C.",
-    "last": "Auhenn"
-  },
   "1101": {
-    "name": "L? Auhenn?",
+    "name": "L Anhenn",
     "ids_to_signatures": {
       "652": [
-        "L[?] Auhenn?"
+        "L Anhenn"
       ],
       "653": [
-        "L[?] Auhenn?"
+        "L Anhenn"
+      ],
+      "639": [
+        "L. Anhenn"
+      ],
+      "662": [
+        "L. Antenn"
+      ],
+      "644": [
+        "L Anhenn"
       ]
     },
-    "first": "L?",
-    "last": "Auhenn?"
+    "first": "L.",
+    "last": "Anhenn"
   },
   "1022": {
     "name": "W? Ausborn",
