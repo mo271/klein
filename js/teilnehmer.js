@@ -260,7 +260,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			const datum = protokolle[key] && protokolle[key].datum ? protokolle[key].datum : 'kein Datum';
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
-	li = '<li class="' + cssClass + '"<div<p class="namep"><span id="namespan">' + record.name + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
 	//li = '<li class="' + cssClass + '><div>hello!!</div></li>';
 	return li;
 }
@@ -302,16 +302,18 @@ $(document).ready(function () {
 			return {
 				id: key,
 				name: item.name,
+				first: item.first,
+				last: item.last,
 				ids_to_signatures: item.ids_to_signatures
 			};
 		});
 		// Sorting the array alphabetically by name
 		// TODO: split first and last name and sort by last name...
 		teilnehmerArray.sort(function (a, b) {
-			if (a.name < b.name) {
+			if (a.last < b.last) {
 				return -1;
 			}
-			if (a.name > b.name) {
+			if (a.last > b.last) {
 				return 1;
 			}
 			return 0;
