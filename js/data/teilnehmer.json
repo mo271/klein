@@ -63,16 +63,6 @@
     "first": "Hans??",
     "last": "Schröoeder?"
   },
-  "677": {
-    "name": "Wilhelm? Hecht?",
-    "ids_to_signatures": {
-      "158": [
-        "Wilh[elm]? Hecht?"
-      ]
-    },
-    "first": "Wilhelm?",
-    "last": "Hecht?"
-  },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
     "ids_to_signatures": {
@@ -167,6 +157,9 @@
     "ids_to_signatures": {
       "152": [
         "Wilh[elm]?. Hecht?"
+      ],
+      "158": [
+        "Wilh[elm]? Hecht?"
       ]
     },
     "first": "Wilhelm?.",
