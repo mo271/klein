@@ -232,20 +232,13 @@
     "ids_to_signatures": {
       "820": [
         "[Fr] Arensmeier"
-      ]
-    },
-    "first": "Fr",
-    "last": "Arensmeier"
-  },
-  "432": {
-    "name": "Fr? Arensmeier?",
-    "ids_to_signatures": {
+      ],
       "804": [
         "Fr[?] Arensmeier?"
       ]
     },
-    "first": "Fr?",
-    "last": "Arensmeier?"
+    "first": "Fr",
+    "last": "Arensmeier"
   },
   "34": {
     "name": "C?? Anbenn?vgl. unten C. Auhenn",
