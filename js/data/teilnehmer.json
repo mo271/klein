@@ -1625,14 +1625,17 @@
     "last": "Fischer"
   },
   "1192": {
-    "name": "H? Fitschen?",
+    "name": "Heinrich Fitschen",
     "ids_to_signatures": {
       "1195": [
-        "H[?] Fitschen?"
+        "H[einrich] Fitschen"
       ]
     },
-    "first": "H?",
-    "last": "Fitschen?"
+    "first": "Heinrich",
+    "last": "Fitschen",
+    "source": [
+      "AV 1912.0 S. 54"
+    ]
   },
   "330": {
     "name": "E?? Foerster?",
