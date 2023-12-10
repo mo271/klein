@@ -1911,14 +1911,17 @@
     "titel": "Dr."
   },
   "1100": {
-    "name": "G. Gersting?",
+    "name": "Gustav Gersting",
     "ids_to_signatures": {
       "923": [
-        "G. Gersting?"
+        "G[ustav]. Gersting stud. math."
       ]
     },
-    "first": "G.",
-    "last": "Gersting?"
+    "first": "Gustav",
+    "last": "Gersting",
+    "source": [
+      "AV 1904.0 S. 47"
+    ]
   },
   "845": {
     "name": "Friedrich Giebel",
