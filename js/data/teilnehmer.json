@@ -142,14 +142,15 @@
     "last": "Almstedt?"
   },
   "647": {
-    "name": "J? Als?en?",
+    "name": "Julius Alsen",
     "ids_to_signatures": {
       "1005": [
-        "J[?] Als[?]en?"
+        "J[ulius] Alsen?"
       ]
     },
-    "first": "J?",
-    "last": "Als?en?"
+    "first": "Julius",
+    "last": "Alsen?",
+    "source": "AV 1906.0 S. 38"
   },
   "656": {
     "name": "Julius Amelung",
@@ -181,14 +182,15 @@
     "last": "Ameseder"
   },
   "679": {
-    "name": "A v Amsel?",
+    "name": "August Ansel",
     "ids_to_signatures": {
       "1068": [
-        "A[]. v Amsel?"
+        "A. Ansel"
       ]
     },
-    "first": "A Amsel?",
-    "last": "Amsel?"
+    "first": "August",
+    "last": "Ansel",
+    "source": "AV 1908.0 S. 39"
   },
   "178": {
     "name": "Albert Andrae",
