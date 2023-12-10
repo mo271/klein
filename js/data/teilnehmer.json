@@ -142,14 +142,15 @@
     "last": "Almstedt?"
   },
   "647": {
-    "name": "J? Als?en?",
+    "name": "Julius Alsen",
     "ids_to_signatures": {
       "1005": [
-        "J[?] Als[?]en?"
+        "J[ulius] Alsen?"
       ]
     },
-    "first": "J?",
-    "last": "Als?en?"
+    "first": "Julius",
+    "last": "Alsen?",
+    "source": "AV 1906.0 S. 38"
   },
   "656": {
     "name": "Julius Amelung",
