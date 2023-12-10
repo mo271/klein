@@ -376,14 +376,17 @@
     "last": "Behrens"
   },
   "171": {
-    "name": "L? Behse?",
+    "name": "L. Behse.",
     "ids_to_signatures": {
       "529": [
         "L[?]. Behse?"
       ]
     },
-    "first": "L?",
-    "last": "Behse?"
+    "first": "L.",
+    "last": "Behse",
+    "source" : [
+      "AV 1892.0 S. 38"
+    ]
   },
   "964": {
     "name": "Dr. Emanuel Beke",
