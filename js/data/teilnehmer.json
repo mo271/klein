@@ -493,19 +493,6 @@
     "first": "Th? ?",
     "last": "Beschen?"
   },
-  "433": {
-    "name": "Luigi Bianchi",
-    "ids_to_signatures": {
-      "254": [
-        "Luigi Bianchi"
-      ],
-      "255": [
-        "Luigi Bianchi"
-      ]
-    },
-    "first": "Luigi",
-    "last": "Bianchi"
-  },
   "591": {
     "name": "Luigi Bianci",
     "ids_to_signatures": {
@@ -523,6 +510,12 @@
       ],
       "270": [
         "[L[uigi]. Bianci]"
+      ],
+      "254": [
+        "Luigi Bianchi"
+      ],
+      "255": [
+        "Luigi Bianchi"
       ]
     },
     "first": "Luigi",
