@@ -207,17 +207,20 @@
     "last": "Andrae"
   },
   "166": {
-    "name": "Fr Arensmeier",
+    "name": "Friedrich Arensmeier",
     "ids_to_signatures": {
       "820": [
-        "[Fr] Arensmeier"
+        "[Friedrich] Arensmeier"
       ],
       "804": [
-        "Fr[?] Arensmeier?"
+        "Fr[iedrich] Arensmeier"
       ]
     },
-    "first": "Fr",
-    "last": "Arensmeier"
+    "first": "Friedrich",
+    "last": "Arensmeier",
+    "source": [
+      "AV 1900.5 S. 36"
+    ]
   },
   "1101": {
     "name": "L Anhenn",
