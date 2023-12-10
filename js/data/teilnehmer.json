@@ -911,14 +911,17 @@
     "last": "Brügmann"
   },
   "1167": {
-    "name": "Brühl?",
+    "name": "Hermann[?] Brühl",
     "ids_to_signatures": {
       "1103": [
-        "Brühl?"
+        "Brühl"
       ]
     },
-    "first": "",
-    "last": "Brühl?"
+    "first": "Hermann[?]",
+    "last": "Brühl",
+    "source": [
+      "AV 1911.0 S. 47"
+    ]
   },
   "69": {
     "name": "Arthur Buchheim",
