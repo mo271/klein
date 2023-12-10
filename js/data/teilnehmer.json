@@ -1234,28 +1234,21 @@
     "first": "H?einrich",
     "last": "Dreßler"
   },
-  "640": {
-    "name": "Hans Drucker??",
-    "ids_to_signatures": {
-      "924": [
-        "Hans Drucker[?]?"
-      ],
-      "925": [
-        "Hans Drucker[?]?"
-      ]
-    },
-    "first": "Hans",
-    "last": "Drucker??"
-  },
   "988": {
-    "name": "H? Duncker??",
+    "name": "Hans Duncker",
     "ids_to_signatures": {
       "974": [
-        "H[?] Duncker[?]?"
+        "H Duncker"
+      ],
+      "924": [
+        "Hans Duncker"
+      ],
+      "925": [
+        "Hans Drucker"
       ]
     },
-    "first": "H?",
-    "last": "Duncker??"
+    "first": "Hans Julius",
+    "last": "Duncker"
   },
   "16": {
     "name": "Walther Dyck",
