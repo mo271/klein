@@ -658,21 +658,14 @@
     "first": "Paul",
     "last": "Bode"
   },
-  "1088": {
-    "name": "Hans Boegehold.",
-    "ids_to_signatures": {
-      "745": [
-        "Hans Boegehold."
-      ]
-    },
-    "first": "Hans",
-    "last": "Boegehold."
-  },
   "738": {
     "name": "Hans Boegenhold",
     "ids_to_signatures": {
       "746": [
         "H[ans] Boegenhold"
+      ],
+      "745": [
+        "Hans Boegehold."
       ]
     },
     "first": "Hans",
