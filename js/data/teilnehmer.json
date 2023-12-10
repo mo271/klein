@@ -1717,14 +1717,17 @@
     "last": "Friedrich"
   },
   "892": {
-    "name": "Hartung John Friedrich?",
+    "name": "Julius Hartung",
     "ids_to_signatures": {
       "848": [
-        "Hartung [John Friedrich?]"
+        "J[ulius] Hartung"
       ]
     },
-    "first": "Hartung Friedrich?",
-    "last": "Friedrich?"
+    "first": "Julius",
+    "last": "Hartung",
+    "source": [
+      "AV 1902.5 S. 48"
+    ]
   },
   "887": {
     "name": "Thophil Friesendorff",
