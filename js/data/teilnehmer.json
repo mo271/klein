@@ -500,14 +500,17 @@
     "last": "Bertheau"
   },
   "796": {
-    "name": "Th? Beschen ?",
+    "name": "Theodor Bechen",
     "ids_to_signatures": {
       "1179": [
-        "Th[?] Beschen [?]"
+        "Th[eodor] Bechen"
       ]
     },
-    "first": "Th? ?",
-    "last": "Beschen?"
+    "first": "Theodor",
+    "last": "Bechen",
+    "source": [
+      "AV 1912.0 S. 43"
+    ]
   },
   "591": {
     "name": "Luigi Bianci",
