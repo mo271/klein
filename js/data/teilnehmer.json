@@ -1414,22 +1414,14 @@
     "ids_to_signatures": {
       "397": [
         "Friedrich Engel\\newline Dr. phil"
+      ],
+      "400": [
+        "F. Engel\\newline Dr. phil."
       ]
     },
     "first": "Friedrich",
     "last": "Engel",
     "titel": "Dr. phil"
-  },
-  "1170": {
-    "name": "F. Engel\\newline Dr. phil.",
-    "ids_to_signatures": {
-      "400": [
-        "F. Engel\\newline Dr. phil."
-      ]
-    },
-    "first": "F.",
-    "last": "Engel",
-    "titel": "Dr. phil."
   },
   "481": {
     "name": "Paul Epstein",
