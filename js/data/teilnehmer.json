@@ -413,14 +413,17 @@
     "last": "Bendz"
   },
   "1103": {
-    "name": "A? Benecke??",
+    "name": "A[lfred] Benecke",
     "ids_to_signatures": {
       "891": [
-        "A[?] Benecke[?]?"
+        "A[lfred] Benecke"
       ]
     },
-    "first": "A?",
-    "last": "Benecke??"
+    "first": "Alfred",
+    "last": "Benecke",
+    "source": [
+      "AV 1903.5 S. 38"
+    ]
   },
   "248": {
     "name": "Sigfrid Berliner",
