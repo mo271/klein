@@ -1158,14 +1158,17 @@
     "last": "Chisholm"
   },
   "935": {
-    "name": "Cordes?",
+    "name": "Wilhelm[?] Cordes",
     "ids_to_signatures": {
       "890": [
-        "[?]Cordes?"
+        "[Wilhelm[?]] Cordes?"
       ]
     },
-    "first": "",
-    "last": "Cordes?"
+    "first": "Wilhelm[?]",
+    "last": "Cordes",
+    "source": [
+      "AV 1903.5 S. 42"
+    ]
   },
   "603": {
     "name": "Adam Comstock",
