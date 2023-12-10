@@ -2013,14 +2013,15 @@
     "last": "Godt"
   },
   "161": {
-    "name": "Max Goldman?",
+    "name": "Meier[?] Goldman?",
     "ids_to_signatures": {
       "1000": [
-        "Max Goldman?"
+        "[Meier[?] Goldman]"
       ]
     },
-    "first": "Max",
-    "last": "Goldman?"
+    "first": "Meier[?]",
+    "last": "Goldman",
+    "source": "AV 1906.0 S. 49"
   },
   "634": {
     "name": "Paul Gordan",
