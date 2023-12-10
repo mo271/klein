@@ -1139,25 +1139,18 @@
     "first": "",
     "last": "Cordes?"
   },
-  "341": {
-    "name": "John?H? Cowstock",
-    "ids_to_signatures": {
-      "671": [
-        "[J[ohn?].H[?].[] C[owstock]"
-      ]
-    },
-    "first": "John?H?",
-    "last": "Cowstock"
-  },
   "603": {
-    "name": "A? Cowstock",
+    "name": "Adam Comstock",
     "ids_to_signatures": {
       "685": [
-        "A[?]. Cowstock"
+        "A. Cowstock"
+      ],
+      "671": [
+        "AC"
       ]
     },
-    "first": "A?",
-    "last": "Cowstock"
+    "first": "Adam",
+    "last": "Comstock"
   },
   "321": {
     "name": "Charles Emerson Curry",
