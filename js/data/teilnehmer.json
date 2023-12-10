@@ -1638,14 +1638,15 @@
     ]
   },
   "330": {
-    "name": "E?? Foerster?",
+    "name": "Emil Foerster",
     "ids_to_signatures": {
       "857": [
-        "E[?]? Foerster?"
+        "E[mil] Foerster"
       ]
     },
-    "first": "E??",
-    "last": "Foerster?"
+    "first": "Emil",
+    "last": "Foerster",
+    "source": "AV 1902.5 S. 45"
   },
   "534": {
     "name": "Wilhelm Frahm",
