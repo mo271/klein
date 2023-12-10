@@ -1214,14 +1214,17 @@
     "last": "Dehn"
   },
   "712": {
-    "name": "J|I? Deu|nvergleiche mit 26/07/1905ker?",
+    "name": "Johannes Denker",
     "ids_to_signatures": {
       "842": [
-        "[J|I]? De[u|n][v[er]gl[eiche] mit 26/07/1905]ker?"
+        "J[ohannes]. Denker"
       ]
     },
-    "first": "I?",
-    "last": "Deu|nvergleiche mit 26/07/1905ker?"
+    "first": "Johannes",
+    "last": "Denker",
+    "source": [
+      "AV 1902.0 S. 43"
+    ]
   },
   "1110": {
     "name": "Friedrich Dingeldey",
