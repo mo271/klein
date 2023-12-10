@@ -625,14 +625,17 @@
     "last": "Blasius"
   },
   "611": {
-    "name": "K? Blumenfeld?",
+    "name": "K[?]. Blumenfeld",
     "ids_to_signatures": {
       "537": [
-        "K[?] Blumenfeld?"
+        "K[?] Blumenfeld"
       ]
     },
-    "first": "K?",
-    "last": "Blumenfeld?"
+    "first": "K[?]",
+    "last": "Blumenfeld",
+    "source": [
+      "AV 1892.0 S. 39"
+    ]
   },
   "1200": {
     "name": "Otto Blumenthal",
