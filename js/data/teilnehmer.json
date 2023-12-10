@@ -1861,14 +1861,17 @@
     "last": "Geck"
   },
   "753": {
-    "name": "A? Gehring? ",
+    "name": "Alfred Gehring",
     "ids_to_signatures": {
       "756": [
-        "A[?] Gehring? "
+        "A[lfred] Gehring"
       ]
     },
-    "first": "A?",
-    "last": "Gehring"
+    "first": "Alfred",
+    "last": "Gehring",
+    "source": [
+      "AV 1899.5 S. 43"
+    ]
   },
   "1182": {
     "name": "Ludwig Carl Geiger",
