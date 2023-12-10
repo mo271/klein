@@ -1074,23 +1074,16 @@
     "last": "Bürger?"
   },
   "705": {
-    "name": "Geo?? Büttner",
+    "name": "Geo. Büttner",
     "ids_to_signatures": {
       "151": [
-        "Geo?? Büttner"
-      ]
-    },
-    "first": "Geo??",
-    "last": "Büttner"
-  },
-  "985": {
-    "name": "Büttner",
-    "ids_to_signatures": {
+        "Geo. Büttner"
+      ],
       "157": [
         "[] Büttner"
       ]
     },
-    "first": "",
+    "first": "Geo.",
     "last": "Büttner"
   },
   "469": {
