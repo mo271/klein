@@ -1050,14 +1050,17 @@
     "last": "Büchel"
   },
   "378": {
-    "name": "Bügerer?",
+    "name": "Oskar Bürgener",
     "ids_to_signatures": {
       "718": [
-        "[Bügerer?]"
+        "[Oskar] Bürgener"
       ]
     },
-    "first": "",
-    "last": "Bügerer?"
+    "first": "Oskar",
+    "last": "Bürgener",
+    "source": [
+      "AV 1898.0 S. 39"
+    ]
   },
   "467": {
     "name": "Curt Bürger?",
