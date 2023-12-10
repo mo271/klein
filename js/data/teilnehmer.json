@@ -831,20 +831,13 @@
     "ids_to_signatures": {
       "466": [
         "C[arl]. Brochmann"
-      ]
-    },
-    "first": "Carl",
-    "last": "Brochmann"
-  },
-  "240": {
-    "name": "Brochmann.?",
-    "ids_to_signatures": {
+      ],
       "505": [
         "[Brochmann.?]"
       ]
     },
-    "first": "",
-    "last": "Brochmann.?"
+    "first": "Carl",
+    "last": "Brochmann"
   },
   "880": {
     "name": "Adolf Brosinsky",
