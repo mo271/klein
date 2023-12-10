@@ -705,14 +705,17 @@
     "last": "Born"
   },
   "1102": {
-    "name": "F? Bornemann?",
+    "name": "Ferdiand Bornemann",
     "ids_to_signatures": {
       "831": [
-        "F[?] Bornemann?"
+        "F[erdinand] Bornemann"
       ]
     },
-    "first": "F?",
-    "last": "Bornemann?"
+    "first": "Ferdinand",
+    "last": "Bornemann",
+    "source": [
+      "AV 1902.0 S. 40"
+    ]
   },
   "407": {
     "name": "Helene von Bortkewitsch",
