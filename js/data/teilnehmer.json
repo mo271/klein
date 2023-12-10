@@ -7918,15 +7918,7 @@
     "ids_to_signatures": {
       "824": [
         "W[alther] Zurhellen, stud. astr."
-      ]
-    },
-    "first": "Walther",
-    "last": "Zurhellen",
-    "titel": "stud. astr."
-  },
-  "549": {
-    "name": "Walther Zurhellen\\newline stud. astr.",
-    "ids_to_signatures": {
+      ],
       "815": [
         "Walther Zurhellen\\newline stud. astr."
       ]
@@ -7952,8 +7944,9 @@
         "Dr. fleischer"
       ]
     },
-    "first": "Dr.",
-    "last": "fleischer"
+    "first": "",
+    "last": "Fleischer",
+    "titel": "Dr."
   },
   "72": {
     "name": "E?Schulze mahn?vllt math",
@@ -8070,6 +8063,6 @@
       ]
     },
     "first": "Constantin Καραθεοδωρή}",
-    "last": "Καραθεοδωρή}"
+    "last": "Carathéodory"
   }
 }
