@@ -1502,14 +1502,17 @@
     "last": "Errara"
   },
   "251": {
-    "name": "Georg. Faber",
+    "name": "Georg Faber",
     "ids_to_signatures": {
       "805": [
         "G[eor]g. Faber"
       ]
     },
-    "first": "Georg.",
-    "last": "Faber"
+    "first": "Georg",
+    "last": "Faber",
+    "source": [
+      "AV 1900.5 S. 42"
+    ]
   },
   "692": {
     "name": "H Fabusch?",
