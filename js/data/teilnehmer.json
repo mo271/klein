@@ -564,14 +564,17 @@
     "last": "Biedlingsmeier"
   },
   "1138": {
-    "name": "H??. Biesterfeld.?",
+    "name": "Heinrich Biesterfeld",
     "ids_to_signatures": {
       "967": [
-        "H[?]?. Biesterfeld.?"
+        "H[einrich]. Biesterfeld"
       ]
     },
-    "first": "H??.",
-    "last": "Biesterfeld.?"
+    "first": "Heinrich",
+    "last": "Biesterfeld",
+    "source": [
+      "AV 1905.0 S. 40"
+    ]
   },
   "277": {
     "name": "Otto Birck",
