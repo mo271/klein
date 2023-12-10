@@ -758,24 +758,17 @@
     "first": "Werner",
     "last": "Boy"
   },
-  "336": {
-    "name": "Boyd",
-    "ids_to_signatures": {
-      "550": [
-        "[Boyd]"
-      ]
-    },
-    "first": "",
-    "last": "Boyd"
-  },
   "349": {
     "name": "James Harrington Boyd",
     "ids_to_signatures": {
       "526": [
         "James H[arrington] Boyd"
+      ],
+      "550": [
+        "[Boyd]"
       ]
     },
-    "first": "James Boyd",
+    "first": "James",
     "last": "Boyd"
   },
   "789": {
