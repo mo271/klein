@@ -236,14 +236,15 @@
     "last": "Anhenn"
   },
   "1022": {
-    "name": "W? Ausborn",
+    "name": "Wilhelm Ausborn",
     "ids_to_signatures": {
       "1189": [
-        "W[?]. Ausborn"
+        "W[ilhelm]. Ausborn"
       ]
     },
-    "first": "W?",
-    "last": "Ausborn"
+    "first": "Wilhlem",
+    "last": "Ausborn",
+    "source": "AV 1912.0 S. 42"
   },
   "818": {
     "name": "Dr. Aleksander Axer",
