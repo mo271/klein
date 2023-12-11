@@ -258,6 +258,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		.map(([key, value]) => {
 			adjusted_key = key - 1
 			// The adjusted key should always be present, but we kept the check...
+			// TODO: find and fix the "kein Datum" entries
 			const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
