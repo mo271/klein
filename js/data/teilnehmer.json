@@ -119,17 +119,20 @@
     "last": "Alexjewoky?"
   },
   "949": {
-    "name": "Alfke",
+    "name": "Friedrich[?] Alfke",
     "ids_to_signatures": {
       "1202": [
-        "Alfke"
+        "[Friedrich?] Alfke"
       ],
       "1183": [
-        "Alfke?"
+        "[Friedrich?] Alfke"
       ]
     },
-    "first": "",
-    "last": "Alfke"
+    "first": "Friedrich[?]",
+    "last": "Alfke",
+    "source": [
+      "AV 1912.0 S. 41"
+    ]
   },
   "803": {
     "name": "Karl Almstedt",
