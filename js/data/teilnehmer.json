@@ -157,7 +157,7 @@
     },
     "first": "Julius",
     "last": "Alsen",
-    "source": "AV 1906.0 S. 38"
+    "source": [ "AV 1906.0 S. 38" ]
   },
   "656": {
     "name": "Julius Amelung",
@@ -197,7 +197,7 @@
     },
     "first": "August",
     "last": "Ansel",
-    "source": "AV 1908.0 S. 39"
+    "source": [ "AV 1908.0 S. 39" ]
   },
   "178": {
     "name": "Albert Andrae",
@@ -266,7 +266,7 @@
       ]
     },
     "first": "Aleksander",
-    "last": "Axer",
+    "last": "Axer"
   },
   "339": {
     "name": "Isaac Bacharach",
@@ -312,7 +312,7 @@
       ]
     },
     "first": "Anton",
-    "last": "Baule",
+    "last": "Baule"
   },
   "422": {
     "name": "Max Baumeister?",
@@ -409,7 +409,7 @@
       ]
     },
     "first": "Emanuel",
-    "last": "Beke",
+    "last": "Beke"
   },
   "474": {
     "name": "Torsten Ragnar Bendz",
@@ -1456,7 +1456,7 @@
       ]
     },
     "first": "Friedrich",
-    "last": "Engel",
+    "last": "Engel"
   },
   "481": {
     "name": "Paul Epstein",
@@ -1908,7 +1908,7 @@
       ]
     },
     "first": "Francesco",
-    "last": "Gerbaldi",
+    "last": "Gerbaldi"
   },
   "1100": {
     "name": "Gustav Gersting",
@@ -2053,7 +2053,7 @@
       ]
     },
     "first": "Richard",
-    "last": "Greiner",
+    "last": "Greiner"
   },
   "130": {
     "name": "Gressler",
@@ -2116,7 +2116,7 @@
       ]
     },
     "first": "Zemplén",
-    "last": "Győző",
+    "last": "Győző"
   },
   "258": {
     "name": "Siegmund Günther",
@@ -2189,7 +2189,7 @@
       ]
     },
     "first": "Hans",
-    "last": "Hahn",
+    "last": "Hahn"
   },
   "619": {
     "name": "Georg Hamel",
@@ -2222,7 +2222,7 @@
       ]
     },
     "first": "Rudolph",
-    "last": "Hansen",
+    "last": "Hansen"
   },
   "982": {
     "name": "Rudolf Hansen?,\\newline stud.math.",
@@ -2232,7 +2232,7 @@
       ]
     },
     "first": "Rudolf",
-    "last": "Hansen",
+    "last": "Hansen"
   },
   "360": {
     "name": "Hans Happel",
@@ -2469,7 +2469,7 @@
       ]
     },
     "first": "J?ohann",
-    "last": "Heinrich?!",
+    "last": "Heinrich?!"
   },
   "290": {
     "name": "Ernst Hellinger",
@@ -2508,7 +2508,7 @@
       ]
     },
     "first": "Gustav",
-    "last": "Herglotz",
+    "last": "Herglotz"
   },
   "798": {
     "name": "Robert Hermann",
@@ -2633,7 +2633,7 @@
       ]
     },
     "first": "David",
-    "last": "Hilbert",
+    "last": "Hilbert"
   },
   "142": {
     "name": "David Hilbert Dr. phil.",
@@ -2643,7 +2643,7 @@
       ]
     },
     "first": "David",
-    "last": "Hilbert",
+    "last": "Hilbert"
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -2748,7 +2748,7 @@
       ]
     },
     "first": "P?aul",
-    "last": "Holtzhül?er?",
+    "last": "Holtzhül?er?"
   },
   "779": {
     "name": "Paul Hommel",
@@ -2957,7 +2957,7 @@
       ]
     },
     "first": "Otto",
-    "last": "Hölder",
+    "last": "Hölder"
   },
   "402": {
     "name": "An|v Hölscher",
@@ -3158,7 +3158,7 @@
       ]
     },
     "first": "Edward",
-    "last": "Kasner",
+    "last": "Kasner"
   },
   "1196": {
     "name": "S? Kempińsky",
@@ -3572,7 +3572,7 @@
       ]
     },
     "first": "Johannes",
-    "last": "Klien??",
+    "last": "Klien??"
   },
   "749": {
     "name": "Karl Knoke",
@@ -3612,7 +3612,7 @@
       ]
     },
     "first": "Paul",
-    "last": "Koebe",
+    "last": "Koebe"
   },
   "106": {
     "name": "Julius Kollert",
@@ -3742,7 +3742,7 @@
       ]
     },
     "first": "Adolf",
-    "last": "Krazer",
+    "last": "Krazer"
   },
   "704": {
     "name": "Franz von Krieg",
@@ -3991,7 +3991,7 @@
       ]
     },
     "first": "K.",
-    "last": "Laubert",
+    "last": "Laubert"
   },
   "707": {
     "name": "H? Laubert",
@@ -4024,7 +4024,7 @@
       ]
     },
     "first": "K.",
-    "last": "Laubert",
+    "last": "Laubert"
   },
   "623": {
     "name": "Laubert??",
@@ -4233,7 +4233,7 @@
       ]
     },
     "first": "Alfred",
-    "last": "Lorey",
+    "last": "Lorey"
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -4271,7 +4271,7 @@
       ]
     },
     "first": "Walter",
-    "last": "Ludwig",
+    "last": "Ludwig"
   },
   "657": {
     "name": "A Maurernicht Ludwig?!",
@@ -4412,7 +4412,7 @@
       ]
     },
     "first": "Erwin",
-    "last": "Madelung",
+    "last": "Madelung"
   },
   "528": {
     "name": "Alf Mahlke",
@@ -4503,7 +4503,7 @@
       ]
     },
     "first": "Heinrich",
-    "last": "Maschke",
+    "last": "Maschke"
   },
   "916": {
     "name": "A? Maurer",
@@ -4770,7 +4770,7 @@
       ]
     },
     "first": "Fritz?",
-    "last": "Möller?",
+    "last": "Möller?"
   },
   "625": {
     "name": "Otto Mühlendyck.",
@@ -4839,7 +4839,7 @@
       ]
     },
     "first": "Friedrich",
-    "last": "Neesen",
+    "last": "Neesen"
   },
   "895": {
     "name": "Burt L? Newkirk",
@@ -4859,7 +4859,7 @@
       ]
     },
     "first": "Nicolas J?",
-    "last": "Nicolas J?",
+    "last": "Nicolas J?"
   },
   "742": {
     "name": "Paul Nimsch",
@@ -5031,7 +5031,7 @@
       ]
     },
     "first": "Erwin",
-    "last": "Papperitz",
+    "last": "Papperitz"
   },
   "44": {
     "name": "Ernest Pasquier",
@@ -5270,7 +5270,7 @@
       ]
     },
     "first": "Reinhold",
-    "last": "Proell",
+    "last": "Proell"
   },
   "793": {
     "name": "Dr. Ing. Reinhold Proell",
@@ -5280,7 +5280,7 @@
       ]
     },
     "first": "Reinhold",
-    "last": "Proell",
+    "last": "Proell"
   },
   "470": {
     "name": "Erich Prümm",
@@ -5313,7 +5313,7 @@
       ]
     },
     "first": "Anton",
-    "last": "Pucha",
+    "last": "Pucha"
   },
   "1150": {
     "name": "Titel? unleserlichAnton Puchta",
@@ -5356,7 +5356,7 @@
       ]
     },
     "first": "Anton",
-    "last": "Puchta",
+    "last": "Puchta"
   },
   "641": {
     "name": "Dr? Anton Puchta",
@@ -5666,7 +5666,7 @@
       ]
     },
     "first": "Paul",
-    "last": "Roth",
+    "last": "Roth"
   },
   "775": {
     "name": "Rothe",
@@ -5686,7 +5686,7 @@
       ]
     },
     "first": "",
-    "last": "Roö?ttgardt?",
+    "last": "Roö?ttgardt?"
   },
   "401": {
     "name": "Ernst Rudel",
@@ -6020,7 +6020,7 @@
       ]
     },
     "first": "Johannes",
-    "last": "Schröder",
+    "last": "Schröder"
   },
   "2": {
     "name": "Johannes Schröder, cand. math.",
@@ -6030,7 +6030,7 @@
       ]
     },
     "first": "Johannes",
-    "last": "Schröder",
+    "last": "Schröder"
   },
   "61": {
     "name": "Friedrich Schröder",
@@ -6053,7 +6053,7 @@
       ]
     },
     "first": "Johannes",
-    "last": "Schröder",
+    "last": "Schröder"
   },
   "758": {
     "name": "Johannes Schröder.",
@@ -6146,7 +6146,7 @@
       ]
     },
     "first": "E? Schulze?",
-    "last": "Schulze?",
+    "last": "Schulze?"
   },
   "212": {
     "name": "Schwarzschild",
@@ -6209,7 +6209,7 @@
       ]
     },
     "first": "Ernst Harald",
-    "last": "Schütz",
+    "last": "Schütz"
   },
   "1020": {
     "name": "Ernst Harald Schütz",
@@ -6232,7 +6232,7 @@
       ]
     },
     "first": "Ernst Harald",
-    "last": "Schütz",
+    "last": "Schütz"
   },
   "786": {
     "name": "Ludwig Schütz",
@@ -6373,7 +6373,7 @@
       ]
     },
     "first": "Julius",
-    "last": "Sommer",
+    "last": "Sommer"
   },
   "4": {
     "name": "Arnold Sommerfeld",
@@ -6437,7 +6437,7 @@
       ]
     },
     "first": "Otto",
-    "last": "Staude",
+    "last": "Staude"
   },
   "307": {
     "name": "Alexandra von Stebnitzky",
@@ -6470,7 +6470,7 @@
       ]
     },
     "first": "Ludwig",
-    "last": "Steiner",
+    "last": "Steiner"
   },
   "143": {
     "name": "Washington Irving Stringham",
@@ -6597,7 +6597,7 @@
       ]
     },
     "first": "TODO Felix Klein Dr. Heinrich Liebmann",
-    "last": "TODO Felix Klein Dr. Heinrich Liebmann",
+    "last": "TODO Felix Klein Dr. Heinrich Liebmann"
   },
   "972": {
     "name": "Felix Klein, Dr. Karl Wieghardt.",
@@ -6607,7 +6607,7 @@
       ]
     },
     "first": "TODO Felix Klein, Dr. Karl Wieghardt.",
-    "last": "TODO Felix Klein, Dr. Karl Wieghardt.",
+    "last": "TODO Felix Klein, Dr. Karl Wieghardt."
   },
   "283": {
     "name": "Felix Klein, Herrmann? Rothe, ",
@@ -6702,7 +6702,7 @@
       ]
     },
     "first": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?",
-    "last": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?",
+    "last": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?"
   },
   "655": {
     "name": "Felix Klein, Dr. Graf",
@@ -6715,7 +6715,7 @@
       ]
     },
     "first": "TODOFelix Klein, Dr. Graf",
-    "last": "TODOFelix Klein, Dr. Graf",
+    "last": "TODOFelix Klein, Dr. Graf"
   },
   "182": {
     "name": "Felix Klein, Otto Toeplitz",
@@ -7024,7 +7024,7 @@
       ]
     },
     "first": "Otto",
-    "last": "Toeplitz",
+    "last": "Toeplitz"
   },
   "780": {
     "name": "Edgar Townsend",
@@ -7114,7 +7114,7 @@
       ]
     },
     "first": "Giuseppe",
-    "last": "Veronese",
+    "last": "Veronese"
   },
   "250": {
     "name": "Giuseppe Veronese",
@@ -7242,7 +7242,7 @@
       ]
     },
     "first": "Alois???",
-    "last": "Walter.",
+    "last": "Walter."
   },
   "115": {
     "name": "Willy Weber",
@@ -7265,7 +7265,7 @@
       ]
     },
     "first": "W?",
-    "last": "Wecken?",
+    "last": "Wecken?"
   },
   "815": {
     "name": "W? Wecken?\\newline stud. math.",
@@ -7275,7 +7275,7 @@
       ]
     },
     "first": "W?",
-    "last": "Wecken?",
+    "last": "Wecken?"
   },
   "9": {
     "name": "Ludwig Wedekind",
@@ -7406,7 +7406,7 @@
       ]
     },
     "first": "Hermann",
-    "last": "Weinreich",
+    "last": "Weinreich"
   },
   "800": {
     "name": "Wilhelm Weiß",
@@ -7551,7 +7551,7 @@
       ]
     },
     "first": "Hermann",
-    "last": "Wiener",
+    "last": "Wiener"
   },
   "411": {
     "name": "Julius Wigger",
@@ -7793,7 +7793,7 @@
       ]
     },
     "first": "Rudolf",
-    "last": "Zahler",
+    "last": "Zahler"
   },
   "454": {
     "name": "A? Zeilbehr",
@@ -7908,7 +7908,7 @@
       ]
     },
     "first": "Walther",
-    "last": "Zurhellen",
+    "last": "Zurhellen"
   },
   "62": {
     "name": "A?? nicht Otto oder Paul? Zühlke",
@@ -7928,7 +7928,7 @@
       ]
     },
     "first": "Hermann",
-    "last": "Fleischer",
+    "last": "Fleischer"
   },
   "72": {
     "name": "E?Schulze mahn?vllt math",
@@ -7948,7 +7948,7 @@
       ]
     },
     "first": "Franz?",
-    "last": "nicht",
+    "last": "nicht"
   },
   "994": {
     "name": "E??. v. Grienburg?",
@@ -7981,7 +7981,7 @@
       ]
     },
     "first": "Max",
-    "last": "von",
+    "last": "von Laue"
   },
   "291": {
     "name": "Helene von Bortkewitsch. Schwester von Ladislaus",
