@@ -1407,16 +1407,6 @@
     "first": "",
     "last": "E??Grassmann??"
   },
-  "680": {
-    "name": "Jos|f Ehlers",
-    "ids_to_signatures": {
-      "588": [
-        "Jo[s|f] Ehlers"
-      ]
-    },
-    "first": "Jos|f",
-    "last": "Ehlers"
-  },
   "1119": {
     "name": "Joh? Ehlers",
     "ids_to_signatures": {
@@ -1425,20 +1415,16 @@
       ],
       "622": [
         "Joh[?] Ehlers"
-      ]
-    },
-    "first": "Joh?",
-    "last": "Ehlers"
-  },
-  "1093": {
-    "name": "Joh|s? Ehlers?",
-    "ids_to_signatures": {
+      ],
+      "588": [
+        "Jo[s|f] Ehlers"
+      ],
       "564": [
         "Jo[h|s][?] Ehlers?"
       ]
     },
-    "first": "Joh|s?",
-    "last": "Ehlers?"
+    "first": "Joh?",
+    "last": "Ehlers"
   },
   "47": {
     "name": "Paul Ehrenfest",
