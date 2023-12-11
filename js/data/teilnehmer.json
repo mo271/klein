@@ -157,7 +157,9 @@
     },
     "first": "Julius",
     "last": "Alsen",
-    "source": [ "AV 1906.0 S. 38" ]
+    "source": [
+      "AV 1906.0 S. 38"
+    ]
   },
   "656": {
     "name": "Julius Amelung",
@@ -197,7 +199,9 @@
     },
     "first": "August",
     "last": "Ansel",
-    "source": [ "AV 1908.0 S. 39" ]
+    "source": [
+      "AV 1908.0 S. 39"
+    ]
   },
   "178": {
     "name": "Albert Andrae",
@@ -391,7 +395,7 @@
     },
     "first": "L.",
     "last": "Behse",
-    "source" : [
+    "source": [
       "AV 1892.0 S. 38"
     ]
   },
@@ -1134,14 +1138,18 @@
     "last": "Campbell"
   },
   "664": {
-    "name": "Constantin Carathéodory \\foreignlanguage{greek}{Κωνσταντίνος Καραθεοδωρή}",
+    "name": "Constantin Carathéodory",
     "ids_to_signatures": {
       "844": [
-        "C[onstantin] Carathéodory [\\foreignlanguage{greek}{Κωνσταντίνος Καραθεοδωρή}]"
+        "C[onstantin] Carathéodory"
+      ],
+      "912": [
+        "C[onstantin] Carathéodory"
       ]
     },
     "first": "Constantin",
-    "last": "Carathéodory"
+    "last": "Carathéodory",
+    "name_non_latin": "Κωνσταντίνος Καραθεοδωρή"
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -8034,15 +8042,5 @@
     },
     "first": "Hans",
     "last": "von Schaper."
-  },
-  "752": {
-    "name": "Constantin Carathéodory\\foreignlanguage{greek}{Κωνσταντίνος Καραθεοδωρή}",
-    "ids_to_signatures": {
-      "912": [
-        "C[onstantin] Carathéodory[\\foreignlanguage{greek}{Κωνσταντίνος Καραθεοδωρή}]"
-      ]
-    },
-    "first": "Constantin Καραθεοδωρή}",
-    "last": "Carathéodory"
   }
 }
