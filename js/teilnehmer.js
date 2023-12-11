@@ -256,8 +256,9 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 	//li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
 	let talks = Object.entries(record.ids_to_signatures)
 		.map(([key, value]) => {
-			// TODO: find and fix the "kein Datum" entries
-			const datum = protokolle[key] && protokolle[key].datum ? protokolle[key].datum : 'kein Datum';
+			adjusted_key = key - 1
+			// The adjusted key should always be present, but we kept the check...
+			const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
 	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
