@@ -1704,19 +1704,12 @@
       "AV 1902.5 S. 48"
     ]
   },
-  "887": {
-    "name": "Thophil Friesendorff",
-    "ids_to_signatures": {
-      "599": [
-        "Th[ophil]. Friesendorff"
-      ]
-    },
-    "first": "Thophil",
-    "last": "Friesendorff"
-  },
   "548": {
     "name": "Theophil Friesendorff",
     "ids_to_signatures": {
+      "599": [
+        "Th[ophil]. Friesendorff"
+      ],
       "618": [
         "Th[eophil] Friesendorff"
       ],
