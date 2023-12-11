@@ -1365,29 +1365,15 @@
     "ids_to_signatures": {
       "635": [
         "Henri [Heinrich] Dörrie"
-      ]
-    },
-    "first": "Henri Dörrie",
-    "last": "Dörrie"
-  },
-  "1179": {
-    "name": "Henri|einrich Dörrie",
-    "ids_to_signatures": {
+      ],
       "645": [
         "H[enri|einrich] Dörrie"
-      ]
-    },
-    "first": "Henri|einrich",
-    "last": "Dörrie"
-  },
-  "866": {
-    "name": "Henri/einrich Dörrie",
-    "ids_to_signatures": {
+      ],
       "636": [
         "H[enri/einrich] Dörrie"
       ]
     },
-    "first": "Henri/einrich",
+    "first": "Henri",
     "last": "Dörrie"
   },
   "824": {
