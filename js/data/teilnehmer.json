@@ -280,14 +280,17 @@
     "last": "Bacharach"
   },
   "745": {
-    "name": "E? Backhaus?",
+    "name": "Erwin Backhaus",
     "ids_to_signatures": {
       "819": [
-        "E[?]. Backhaus?"
+        "E[rwin]. Backhaus"
       ]
     },
-    "first": "E?",
-    "last": "Backhaus?"
+    "first": "Erwin",
+    "last": "Backhaus",
+    "source": [
+      "AV 1900.5 S. 36"
+    ]
   },
   "495": {
     "name": "Heinrich Barkhausen",
