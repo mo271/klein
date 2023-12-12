@@ -2263,25 +2263,21 @@
     "first": "Axel",
     "last": "Harnack"
   },
-  "891": {
-    "name": "R Hartenstein",
-    "ids_to_signatures": {
-      "977": [
-        "R[]. Hartenstein"
-      ]
-    },
-    "first": "R",
-    "last": "Hartenstein"
-  },
   "654": {
-    "name": "R Hartenstein.",
+    "name": "Roderich Hartenstein.",
     "ids_to_signatures": {
       "946": [
-        "R[]. Hartenstein."
+        "R[oderich]. Hartenstein."
+      ], 
+      "977": [
+        "R[oderich]. Hartenstein."
       ]
     },
-    "first": "R",
-    "last": "Hartenstein."
+    "first": "Roderich",
+    "last": "Hartenstein",
+    "source": [
+      "AV 1904.5 S. 49"
+    ]
   },
   "731": {
     "name": "Johannes? Hartmann",
