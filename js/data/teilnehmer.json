@@ -2023,18 +2023,14 @@
     "last": "Greiner"
   },
   "130": {
-    "name": "Julius[?] Greßler",
+    "name": "Gressler",
     "ids_to_signatures": {
       "769": [
         "[Gressler]"
       ]
     },
-    "first": "Julius[?]",
-    "last": "Gressler",
-    "source": [
-      "P 1899.5, S. 441",
-      "AV 1899.5 S. 44"
-    ]
+    "first": "",
+    "last": "Gressler"
   },
   "224": {
     "name": "Walther Greve",
