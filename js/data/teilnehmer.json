@@ -2186,24 +2186,21 @@
     "last": "Hanker?"
   },
   "525": {
-    "name": "Rudolph Hansen\\newline stud. math.",
+    "name": "Rudolph Hansen",
     "ids_to_signatures": {
       "812": [
         "R[udolph] Hansen\\newline stud. math."
+      ],
+      "759": [
+        "Rudolf Hansen,\\newline stud.math."
       ]
     },
     "first": "Rudolph",
-    "last": "Hansen"
-  },
-  "982": {
-    "name": "Rudolf Hansen?,\\newline stud.math.",
-    "ids_to_signatures": {
-      "759": [
-        "Rudolf Hansen[?],\\newline stud.math."
-      ]
-    },
-    "first": "Rudolf",
-    "last": "Hansen"
+    "last": "Hansen",
+    "source": [
+      "AV 1899.5 S. 45",
+      "AV 1901.0 S. 46"
+    ]
   },
   "360": {
     "name": "Hans Happel",
@@ -2272,7 +2269,7 @@
     "ids_to_signatures": {
       "946": [
         "R[oderich]. Hartenstein."
-      ], 
+      ],
       "977": [
         "R[oderich]. Hartenstein."
       ]
