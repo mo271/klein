@@ -918,13 +918,13 @@
     "last": "Brügmann"
   },
   "1167": {
-    "name": "Hermann[?] Brühl",
+    "name": "Hermann Brühl",
     "ids_to_signatures": {
       "1103": [
-        "Brühl"
+        "[[Hermann] Brühl]"
       ]
     },
-    "first": "Hermann[?]",
+    "first": "Hermann",
     "last": "Brühl",
     "source": [
       "AV 1911.0 S. 47"
@@ -2400,14 +2400,14 @@
     "last": "Heegaard"
   },
   "314": {
-    "name": "Fritz Heiligenpahl?",
+    "name": "Fritz Heiligenpahl",
     "ids_to_signatures": {
       "1102": [
-        "F[ritz]. Heiligenpahl?"
+        "F[ritz]. Heiligenpahl"
       ]
     },
     "first": "Fritz",
-    "last": "Heiligenpahl?"
+    "last": "Heiligenpahl"
   },
   "893": {
     "name": "Käthe Heinemann",
@@ -5125,14 +5125,14 @@
     "last": "Pinkus"
   },
   "905": {
-    "name": "Pistol?",
+    "name": "Johannes Pistel",
     "ids_to_signatures": {
       "1104": [
-        "Pistol?"
+        "[Johannes Pistel]"
       ]
     },
-    "first": "",
-    "last": "Pistol?"
+    "first": "Johannes",
+    "last": "Pistel"
   },
   "1201": {
     "name": "Max Planck.",
@@ -5197,14 +5197,14 @@
     "last": "Pollak"
   },
   "1193": {
-    "name": "Post?",
+    "name": "Hubert Post",
     "ids_to_signatures": {
       "1107": [
-        "[[]? Post?]"
+        "[[Hubert] Post]"
       ]
     },
-    "first": "",
-    "last": "Post?"
+    "first": "Hubert",
+    "last": "Post"
   },
   "802": {
     "name": "Ludwig Prandtl",
@@ -5633,13 +5633,13 @@
     "last": "Roth"
   },
   "775": {
-    "name": "Rothe",
+    "name": "Wilhelm Rothe",
     "ids_to_signatures": {
       "1106": [
-        "[[?] Rothe]"
+        "[[Wilhelm] Rothe]"
       ]
     },
-    "first": "",
+    "first": "Wilhelm",
     "last": "Rothe"
   },
   "1089": {
@@ -7830,13 +7830,13 @@
     "last": "Zorawski [mg:akzent auf Z?]"
   },
   "346": {
-    "name": "Wilhelm? Zorn",
+    "name": "Theodor Zorn",
     "ids_to_signatures": {
       "1105": [
-        "[[Wilhelm?] Zorn]"
+        "[[Theodor] Zorn]"
       ]
     },
-    "first": "Wilhelm?",
+    "first": "Theodor",
     "last": "Zorn"
   },
   "938": {
