@@ -2321,29 +2321,22 @@
     "last": "Hartmann?"
   },
   "126": {
-    "name": "Mellon Woodman Haskell",
-    "ids_to_signatures": {
-      "453": [
-        "M[ellon]. W[oodman]. Haskell"
-      ],
-      "460": [
-        "M[ellon]. W[oodman]. Haskell"
-      ]
-    },
-    "first": "Mellon Haskell",
-    "last": "Haskell"
-  },
-  "728": {
     "name": "Mellen Woodman Haskell",
     "ids_to_signatures": {
       "449": [
         "Mellen W[oodman]. Haskell"
       ],
+      "453": [
+        "M[ellen]. W[oodman]. Haskell"
+      ],
+      "460": [
+        "M[ellen]. W[oodman]. Haskell"
+      ],
       "479": [
         "[[Mellen Woodman] Haskell]"
       ]
     },
-    "first": "Mellen Haskell",
+    "first": "Mellen Woodman",
     "last": "Haskell"
   },
   "729": {
