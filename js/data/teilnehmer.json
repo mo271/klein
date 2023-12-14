@@ -2474,52 +2474,48 @@
     "first": "Gustav",
     "last": "Herglotz"
   },
-  "798": {
-    "name": "Robert Hermann",
-    "ids_to_signatures": {
-      "222": [
-        "Robert Hermann"
-      ]
-    },
-    "first": "Robert",
-    "last": "Hermann"
-  },
   "465": {
-    "name": "Oskar Herr\\-mann",
+    "name": "Oskar Herrmann",
     "ids_to_signatures": {
       "302": [
-        "Oskar Herr\\-mann"
+        "Oskar Herrmann"
       ],
       "305": [
-        "Oskar Herr\\-mann"
+        "Oskar Herrmann"
+      ],
+      "327": [
+        "Oskar Herrmann"
       ]
     },
     "first": "Oskar",
-    "last": "Herr\\-mann"
+    "last": "Herrmann"
   },
   "514": {
-    "name": "nicht Oskar Herrmann",
+    "name": "Theodor[?] Herrmann",
     "ids_to_signatures": {
       "433": [
-        "[nicht Oskar] Herrmann"
-      ]
-    },
-    "first": "nicht Herrmann",
-    "last": "Herrmann"
-  },
-  "604": {
-    "name": "TIJ? Herrmann",
-    "ids_to_signatures": {
+        "T[heodor[?]] Herrmann"
+      ],
       "440": [
-        "[TIJ?] Herrmann"
+        "T[heodor[?]] Herrmann"
       ]
     },
-    "first": "TIJ?",
-    "last": "Herrmann"
+    "first": "Theodor[?]",
+    "last": "Herrmann",
+    "source" : [
+      "KT foll. 142",
+    ],
+    "origin": "Eberbach?"
   },
-  "912": {
+  "620": {
     "name": "Robert Herrmann",
     "ids_to_signatures": {
+      "198": [
+        "Robert Herrmann"
+      ],
+      "222": [
+        "Robert Hermann"
+      ],
       "230": [
         "Robert Herrmann"
       ],
@@ -2529,26 +2525,6 @@
     },
     "first": "Robert",
     "last": "Herrmann"
-  },
-  "943": {
-    "name": "Oskar Herrmann",
-    "ids_to_signatures": {
-      "327": [
-        "Oskar Herrmann"
-      ]
-    },
-    "first": "Oskar",
-    "last": "Herrmann"
-  },
-  "620": {
-    "name": "Robert Herrmann?",
-    "ids_to_signatures": {
-      "198": [
-        "Robert Herrmann?"
-      ]
-    },
-    "first": "Robert",
-    "last": "Herrmann?"
   },
   "45": {
     "name": "Wilhelm Hess",
