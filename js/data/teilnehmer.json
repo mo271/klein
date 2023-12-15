@@ -2447,14 +2447,18 @@
     "last": "Hellinger"
   },
   "622": {
-    "name": "Henninger?",
+    "name": "Theodor Henninger",
     "ids_to_signatures": {
       "1193": [
-        "[?] Henninger?"
+        "[Theodor] Henninger"
       ]
     },
-    "first": "",
-    "last": "Henninger?"
+    "first": "Theodor",
+    "last": "Henninger",
+    "source": [
+      "AV. 1912.0 S. 60"
+    ],
+    "origin": "Neuwied, Rheinprovinz"
   },
   "545": {
     "name": "Dr. Gustav Herglotz",
