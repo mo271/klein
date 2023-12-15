@@ -2589,20 +2589,13 @@
     "first": "Emil",
     "last": "Hilb"
   },
-  "427": {
-    "name": "David Hilbert Dr. phil.",
-    "ids_to_signatures": {
-      "439": [
-        "David Hilbert Dr. phil."
-      ]
-    },
-    "first": "David",
-    "last": "Hilbert"
-  },
   "142": {
-    "name": "David Hilbert Dr. phil.",
+    "name": "David Hilbert",
     "ids_to_signatures": {
       "434": [
+        "David Hilbert Dr. phil."
+      ],
+      "439": [
         "David Hilbert Dr. phil."
       ]
     },
