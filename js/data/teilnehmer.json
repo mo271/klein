@@ -2656,14 +2656,18 @@
     "last": "Holst"
   },
   "888": {
-    "name": "P?aul Holtzhül?er?\\newline stud. math.",
+    "name": "Paul Holtzhüter",
     "ids_to_signatures": {
       "911": [
-        "P[?]aul Holtzhül[?]er?\\newline stud. math."
+        "Paul Holtzhüter stud. math."
       ]
     },
-    "first": "P?aul",
-    "last": "Holtzhül?er?"
+    "first": "Paul",
+    "last": "Holtzhüter",
+    "source": [
+      "AV 1904.0 S. 52"
+    ],
+    "origin": "Charlottenburg [Berlin]"
   },
   "779": {
     "name": "Paul Hommel",
