@@ -2651,21 +2651,14 @@
     ],
     "origin": "Lübeck"
   },
-  "359": {
-    "name": "Elling Bolt Holst",
-    "ids_to_signatures": {
-      "76": [
-        "Elling B[olt]. Holst"
-      ]
-    },
-    "first": "Elling Holst",
-    "last": "Holst"
-  },
   "1025": {
-    "name": "Elling Holst",
+    "name": "Elling Bolt Holst",
     "ids_to_signatures": {
       "75": [
         "Elling Holst"
+      ],
+      "76": [
+        "Elling B[olt]. Holst"
       ],
       "81": [
         "Elling Holst"
@@ -2683,7 +2676,7 @@
         "[Elling Holst]"
       ]
     },
-    "first": "Elling",
+    "first": "Elling Bolt",
     "last": "Holst"
   },
   "888": {
