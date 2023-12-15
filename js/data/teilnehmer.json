@@ -2690,20 +2690,24 @@
     "last": "Hondel?"
   },
   "141": {
-    "name": "Reinhold?? Hoppe",
+    "name": "Heinrich Hoppe",
     "ids_to_signatures": {
       "308": [
-        "R[einhold][??]. Hoppe"
+        "H[einrich]. Hoppe"
       ],
       "328": [
-        "R[einhold]?? Hoppe"
+        "H[einrich]. Hoppe"
       ],
       "329": [
-        "R[einhold]?? Hoppe"
+        "H[einrich]. Hoppe"
       ]
     },
-    "first": "Reinhold??",
-    "last": "Hoppe"
+    "first": "Heinrich",
+    "last": "Hoppe",
+    "source": [
+      "TO 2021 S. 231"
+    ],
+    "origin": "Chemnitz"
   },
   "444": {
     "name": "Guido Horn",
