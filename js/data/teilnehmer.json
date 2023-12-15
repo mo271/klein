@@ -2676,14 +2676,18 @@
     "last": "Hommel"
   },
   "1028": {
-    "name": "Hondel?",
+    "name": "Stanko Hondl",
     "ids_to_signatures": {
       "784": [
-        "Hondel?"
+        "Stanko Hondl"
       ]
     },
-    "first": "",
-    "last": "Hondel?"
+    "first": "Stanko",
+    "last": "Hondl",
+    "source": [
+      "AV 1900.0 S. 47"
+    ],
+    "origin": "Agram [Zagreb]"
   },
   "141": {
     "name": "Reinhold?? Hoppe",
