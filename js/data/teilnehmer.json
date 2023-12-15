@@ -2748,14 +2748,19 @@
     "last": "Hort"
   },
   "163": {
-    "name": "Hozzickakes??",
+    "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
     "ids_to_signatures": {
       "717": [
-        "[Hozzickakes??]"
+        "[Hazzidakis [Chatzidakis]]"
       ]
     },
-    "first": "",
-    "last": "Hozzickakes??"
+    "first": "Nicolaus [Nikolaos]",
+    "last": "Chatzidakis [Hatzdakis]",
+    "source": [
+      "AV 1998.0 S. 39",
+      "KT foll. 187"
+    ],
+    "origin": "Athen"
   },
   "536": {
     "name": "G? Huber?",
