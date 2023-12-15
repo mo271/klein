@@ -2719,6 +2719,9 @@
     "ids_to_signatures": {
       "933": [
         "Hermann Hort"
+      ],
+      "951": [
+        "Hermann Hort."
       ]
     },
     "first": "Hermann",
@@ -2735,16 +2738,6 @@
       ]
     },
     "first": "Wilhelm",
-    "last": "Hort"
-  },
-  "1175": {
-    "name": "Hermann Hort.",
-    "ids_to_signatures": {
-      "951": [
-        "Hermann Hort."
-      ]
-    },
-    "first": "Hermann",
     "last": "Hort"
   },
   "163": {
