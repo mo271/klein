@@ -2280,16 +2280,6 @@
       "AV 1904.5 S. 49"
     ]
   },
-  "731": {
-    "name": "Johannes? Hartmann",
-    "ids_to_signatures": {
-      "782": [
-        "[[Johannes]? Hartmann]"
-      ]
-    },
-    "first": "Johannes?",
-    "last": "Hartmann"
-  },
   "928": {
     "name": "Chr Hartmann",
     "ids_to_signatures": {
@@ -2300,25 +2290,27 @@
     "first": "Chr",
     "last": "Hartmann"
   },
-  "1157": {
-    "name": "Hartmann",
+  "372": {
+    "name": "Balthasar Hartmann",
     "ids_to_signatures": {
       "774": [
-        "Hartmann"
-      ]
-    },
-    "first": "",
-    "last": "Hartmann"
-  },
-  "372": {
-    "name": "Johannes? Hartmann?",
-    "ids_to_signatures": {
+        "[Balthasar] Hartmann"
+      ],
       "777": [
-        "[[Johannes?] Hartmann?]"
+        "[[Balthasar] Hartmann]"
+      ],
+      "782": [
+        "[[Balthasar] Hartmann]"
       ]
     },
-    "first": "Johannes?",
-    "last": "Hartmann?"
+    "first": "Balthasar",
+    "last": "Hartmann",
+    "source": [
+      "AV 1899.5 S. 45",
+      "AV 1900.0 S. 45",
+      "KT foll. 191",
+      "KT foll. 192"
+    ]
   },
   "126": {
     "name": "Mellon Woodman Haskell",
