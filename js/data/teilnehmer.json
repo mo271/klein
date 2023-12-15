@@ -2632,24 +2632,24 @@
     "last": "Hochschild"
   },
   "510": {
-    "name": "G? Hoffmann?",
-    "ids_to_signatures": {
-      "860": [
-        "G[?] Hoffmann?"
-      ]
-    },
-    "first": "G?",
-    "last": "Hoffmann?"
-  },
-  "547": {
-    "name": "G?? Hoffmann?",
+    "name": "Gerhard Hoffmann",
     "ids_to_signatures": {
       "845": [
-        "G?[?]. Hoffmann?"
+        "G[erhard] Hoffmann"
+      ],
+      "860": [
+        "G[erhard] Hoffmann"
       ]
     },
-    "first": "G??",
-    "last": "Hoffmann?"
+    "first": "Gerhard",
+    "last": "Hoffmann",
+    "source": [
+      "AV 1902.0 S. 50",
+      "AV 1902.5 S. 49",
+      "KT foll. 207",
+      "KT foll. 211"
+    ],
+    "origin": "Lübeck"
   },
   "359": {
     "name": "Elling Bolt Holst",
