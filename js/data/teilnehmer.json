@@ -2855,14 +2855,15 @@
     "last": "Häster?"
   },
   "1024": {
-    "name": "H? Hårdh?\\newline Lektor in Kuopio\\newline (Finnland).",
+    "name": "Henrik Edvard Johannes (Heikki) Hårdh",
     "ids_to_signatures": {
       "1200": [
-        "H[?]. Hårdh?\\newline Lektor in Kuopio\\newline (Finnland)."
+        "H[enrik]. Hårdh Lektor in Kuopio (Finnland)."
       ]
     },
-    "first": "H?",
-    "last": "Hårdh?"
+    "first": "Henrik Edvard Johannes (Heikki)",
+    "last": "Hårdh",
+    "origin: "
   },
   "455": {
     "name": "Georg Höckner",
