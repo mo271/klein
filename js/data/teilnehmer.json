@@ -2784,7 +2784,7 @@
         "L[orrain] S[herman] Hulburt"
       ]
     },
-    "first": "Lorrain Hulburt",
+    "first": "Lorrain Sherman",
     "last": "Hulburt"
   },
   "358": {
@@ -2982,7 +2982,7 @@
         "[A[?]. M[?]. Johnson]"
       ]
     },
-    "first": "A? Johnson",
+    "first": "A? M?",
     "last": "Johnson"
   },
   "164": {
@@ -3641,7 +3641,7 @@
         "Dr [Adolf] Krazer"
       ]
     },
-    "first": "Dr Krazer",
+    "first": "Adolf",
     "last": "Krazer"
   },
   "1162": {
@@ -3676,8 +3676,8 @@
         "F[ranz]. v[on]. Krieg"
       ]
     },
-    "first": "Franz Krieg",
-    "last": "Krieg"
+    "first": "Franz",
+    "last": "von Krieg"
   },
   "978": {
     "name": "Xenia Kucharsky?",
@@ -3771,8 +3771,8 @@
         "Th[eodore] v[on] Kármán"
       ]
     },
-    "first": "Theodore Kármán",
-    "last": "Kármán"
+    "first": "Theodore",
+    "last": "von Kármán"
   },
   "253": {
     "name": "Dénes König",
@@ -4030,62 +4030,62 @@
     "name": "Ferdinand von Lindemann",
     "ids_to_signatures": {
       "22": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "29": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "39": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "40": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "48": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "52": [
-        "F[erdinand von]. Lindemann"
+        "F[erdinand]. Lindemann"
       ],
       "58": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "59": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "60": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "65": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "68": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "72": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "83": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "87": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "96": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "101": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "107": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ],
       "108": [
-        "F[erdinand von] Lindemann"
+        "F[erdinand] Lindemann"
       ]
     },
-    "first": "Ferdinand Lindemann",
-    "last": "Lindemann"
+    "first": "Ferdinand",
+    "last": "[später: von] Lindemann"
   },
   "659": {
     "name": "Ferdinand Lindemann",
@@ -4095,7 +4095,7 @@
       ]
     },
     "first": "Ferdinand",
-    "last": "Lindemann"
+    "last": "[später: von] Lindemann"
   },
   "1171": {
     "name": "G? Lindemann.",
@@ -4297,7 +4297,7 @@
         "Annie L[ouise] MacKinnon"
       ]
     },
-    "first": "Annie MacKinnon",
+    "first": "Annie Louise",
     "last": "MacKinnon"
   },
   "986": {
@@ -4372,7 +4372,7 @@
         "J[oseph] L[ybrand] Markley"
       ]
     },
-    "first": "Joseph Markley",
+    "first": "Joseph Lybrand",
     "last": "Markley"
   },
   "567": {
@@ -4530,7 +4530,7 @@
         "Geo[rge]. F[rederick]. Metzler"
       ]
     },
-    "first": "George Metzler",
+    "first": "George Frederick",
     "last": "Metzler"
   },
   "502": {
@@ -4644,7 +4644,7 @@
         "Erwin  Moll"
       ]
     },
-    "first": "Erwin Moll",
+    "first": "Erwin",
     "last": "Moll"
   },
   "175": {
@@ -4750,7 +4750,7 @@
         "C[onrad]. H[einrich]. Müller"
       ]
     },
-    "first": "Conrad Müller",
+    "first": "Conrad Heinrich",
     "last": "Müller"
   },
   "572": {
@@ -4828,7 +4828,7 @@
         "Charles A[lbert]. Noble"
       ]
     },
-    "first": "Charles Noble",
+    "first": "Charles Albert",
     "last": "Noble"
   },
   "1137": {
@@ -4880,7 +4880,7 @@
         "W[illiam]. F[ogg]. Osgood"
       ]
     },
-    "first": "William Osgood",
+    "first": "William Fogg",
     "last": "Osgood"
   },
   "56": {
@@ -5034,7 +5034,7 @@
     "last": "Philippow?"
   },
   "1058": {
-    "name": "Dr Georg Pick",
+    "name": "Georg Pick",
     "ids_to_signatures": {
       "376": [
         "Dr G[eorg]. Pick"
@@ -5052,7 +5052,7 @@
         "Dr Georg Pick"
       ]
     },
-    "first": "Dr Pick",
+    "first": "Georg",
     "last": "Pick"
   },
   "43": {
@@ -5326,7 +5326,7 @@
         "Christoph [Gerhard?] Rabba"
       ]
     },
-    "first": "Christoph Rabba",
+    "first": "Christoph Gerhard?",
     "last": "Rabba"
   },
   "1078": {
@@ -5381,7 +5381,7 @@
         "Legh W[ilber] Reid"
       ]
     },
-    "first": "Legh Reid",
+    "first": "Legh Wilber",
     "last": "Reid"
   },
   "159": {
@@ -5751,8 +5751,8 @@
         "Hans von Schaper"
       ]
     },
-    "first": "Hans Schaper",
-    "last": "Schaper"
+    "first": "Hans",
+    "last": "von Schaper"
   },
   "971": {
     "name": "K? Scharer?",
@@ -5874,7 +5874,7 @@
         "D[?] [Wilhelm?] Schlüter?"
       ]
     },
-    "first": "D? Schlüter?",
+    "first": "D? Wilhelm??",
     "last": "Schlüter?"
   },
   "544": {
@@ -6070,7 +6070,7 @@
         "E[?]. Schulze?\\newline math.[?]"
       ]
     },
-    "first": "E? Schulze?",
+    "first": "E?",
     "last": "Schulze?"
   },
   "212": {
@@ -6146,7 +6146,7 @@
         "Ernst Harald Schütz"
       ]
     },
-    "first": "Ernst Schütz",
+    "first": "Ernst Harald",
     "last": "Schütz"
   },
   "274": {
@@ -6374,8 +6374,8 @@
         "Alexandra v[on]. Stebnitzky"
       ]
     },
-    "first": "Alexandra Stebnitzky",
-    "last": "Stebnitzky"
+    "first": "Alexandra",
+    "last": "von Stebnitzky"
   },
   "33": {
     "name": "Adolf Steichen",
@@ -6410,7 +6410,7 @@
         "W[ashington]. I[rving]. Stringham"
       ]
     },
-    "first": "Washington Stringham",
+    "first": "Washington Irving",
     "last": "Stringham"
   },
   "1161": {
@@ -6819,7 +6819,7 @@
         "H[enry]. D[allas]. Thompson"
       ]
     },
-    "first": "Henry Thompson",
+    "first": "Henry Dallas",
     "last": "Thompson"
   },
   "624": {
@@ -6978,7 +6978,7 @@
         "Joseph H[]. Tudor"
       ]
     },
-    "first": "Joseph Tudor",
+    "first": "Joseph H",
     "last": "Tudor"
   },
   "768": {
@@ -7383,7 +7383,7 @@
         "J[ames]. K[elsey]. Whittemore"
       ]
     },
-    "first": "James Whittemore",
+    "first": "James Kelsey",
     "last": "Whittemore"
   },
   "515": {
@@ -7409,7 +7409,7 @@
         "R[obert]  Wiebrecht"
       ]
     },
-    "first": "Robert Wiebrecht",
+    "first": "Robert",
     "last": "Wiebrecht"
   },
   "889": {
@@ -7708,7 +7708,7 @@
         "Everett J[?]. Yowell"
       ]
     },
-    "first": "Everett Yowell",
+    "first": "Everett J[?]",
     "last": "Yowell"
   },
   "1153": {
