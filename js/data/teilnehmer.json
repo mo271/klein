@@ -2845,14 +2845,19 @@
     "last": "Hänert"
   },
   "969": {
-    "name": "Häster?",
+    "name": "Walter Härter",
     "ids_to_signatures": {
       "1141": [
-        "[?] Häster?"
+        "[Walter] Härter"
       ]
     },
-    "first": "",
-    "last": "Häster?"
+    "first": "Walter",
+    "last": "Härter",
+    "source": [
+      "KT foll. 284",
+      "AV 1910.5 S. 55"
+    ],
+    "origin": "Alsfeld, Hessen-Darmstadt"
   },
   "1024": {
     "name": "H? Hårdh?\\newline Lektor in Kuopio\\newline (Finnland).",
