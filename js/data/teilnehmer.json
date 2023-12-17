@@ -2916,14 +2916,17 @@
     "last": "Ihlenburg"
   },
   "718": {
-    "name": "N? J?errett?",
+    "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
     "ids_to_signatures": {
       "750": [
-        "N[?]. J[?]errett?"
+        "N[adezhda]. Gernett"
       ]
     },
-    "first": "N?",
-    "last": "J?errett?"
+    "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
+    "last": "Gernet [Gernett]",
+    "source": [
+      "TO S. 396"
+    ]
   },
   "821": {
     "name": "D\\textsuperscript{r} Charles Jaccottet",
