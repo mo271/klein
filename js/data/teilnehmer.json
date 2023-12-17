@@ -2890,14 +2890,19 @@
     "last": "Hölder"
   },
   "402": {
-    "name": "An|v Hölscher",
+    "name": "Augustin Hölscher",
     "ids_to_signatures": {
       "530": [
-        "A[n|v] Hölscher"
+        "Au[gustin] Hölscher"
       ]
     },
-    "first": "An|v",
-    "last": "Hölscher"
+    "first": "Augustin",
+    "last": "Hölscher",
+    "source": [
+      "AV 1892.0 S. 45",
+      "https://westerode.de/unserdorf/westeroeder-buerger/"
+    ],
+    "origin": "Westerode, Hannover"
   },
   "300": {
     "name": "Wilhelm Ihlenburg",
