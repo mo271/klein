@@ -3173,14 +3173,19 @@
     "origin": "Garssen, Hannover"
   },
   "908": {
-    "name": "Steakel? Felix Klein",
+    "name": "Fritz Steckel",
     "ids_to_signatures": {
       "1130": [
-        "[Steakel?] [Felix] Klein"
+        "[Fritz Steckel] [Felix] Klein"
       ]
     },
-    "first": "Steakel? Klein",
-    "last": "Klein"
+    "first": "Fritz",
+    "last": "Steckel",
+    "source": [
+      "AV 1909.5 S. 44",
+      "TO S. 491f.n"
+    ],
+    "origin": "Marienburg, Westpreußen"
   },
   "558": {
     "name": "Elisabeth Klein",
