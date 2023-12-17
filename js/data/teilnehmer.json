@@ -4275,14 +4275,18 @@
     "last": "Löwenstein"
   },
   "232": {
-    "name": "Ernst K? W? Lübeke",
+    "name": "Ernst Carl Wilhelm Lübcke",
     "ids_to_signatures": {
       "1177": [
-        "Ernst K[?]. W[?]. Lübeke"
+        "Ernst K. [Carl] W[ilhlem]. Lübcke"
       ]
     },
-    "first": "Ernst K? W?",
-    "last": "Lübeke"
+    "first": "Ernst Karl Wilhelm",
+    "last": "Lübcke",
+    "source": [
+      "AV 1911.5 S. 69"
+    ],
+    "origin": "Wolfenbüttel"
   },
   "715": {
     "name": "O. Lüdecke",
