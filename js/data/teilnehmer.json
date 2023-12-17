@@ -2955,14 +2955,18 @@
     "last": "Jaccottet"
   },
   "1044": {
-    "name": "Kurt? Jan|uke",
+    "name": "Karl Janke",
     "ids_to_signatures": {
       "1076": [
-        "K[urt]? Ja[n|u]ke"
+        "K[arl] Janke"
       ]
     },
-    "first": "Kurt?",
-    "last": "Jan|uke"
+    "first": "Karl",
+    "last": "Janke",
+    "source": [
+      "AV 1908.5 S. 57"
+    ],
+    "origin": "Schwerin, Mecklenburg"
   },
   "963": {
     "name": "H??. Johannes?",
