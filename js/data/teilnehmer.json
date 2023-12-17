@@ -3041,14 +3041,18 @@
     "last": "JuliusAmelung"
   },
   "38": {
-    "name": "P? Jungmann?",
+    "name": "Paul Jungmann",
     "ids_to_signatures": {
       "900": [
-        "P[?]. Jungmann?"
+        "P[aul]. Jungmann"
       ]
     },
-    "first": "P?",
-    "last": "Jungmann?"
+    "first": "Paul",
+    "last": "Jungmann",
+    "source": [
+      "AV 1903.5 S. 50"
+    ],
+    "origin": "Kassel, Hessen-Nassau"
   },
   "493": {
     "name": "Manfred Jäger.",
