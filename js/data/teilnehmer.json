@@ -3131,14 +3131,18 @@
     "last": "Kistler"
   },
   "504": {
-    "name": "Walther Klebe?",
+    "name": "Walther Klebe",
     "ids_to_signatures": {
       "1178": [
-        "Walther Klebe[?]"
+        "Walther Klebe"
       ]
     },
     "first": "Walther",
-    "last": "Klebe?"
+    "last": "Klebe",
+    "source": [
+      "AV 1910.5 S. 64"
+    ],
+    "origin": "Garssen, Hannover"
   },
   "908": {
     "name": "Steakel? Felix Klein",
