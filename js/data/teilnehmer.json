@@ -3550,17 +3550,25 @@
       ]
     },
     "first": "Hugo",
-    "last": "Koch"
+    "last": "Koch",
+    "origin": "Hamburg",
+    "source": [
+      "AV 1904.5 S. 54"
+    ]
   },
   "869": {
-    "name": "W? Koch?",
+    "name": "Wilhelm Koch",
     "ids_to_signatures": {
       "937": [
-        "W[?]. Koch?"
+        "W[ilhelm]. Koch"
       ]
     },
-    "first": "W?",
-    "last": "Koch?"
+    "first": "Wilhelm",
+    "last": "Koch",
+    "origin": "Hamburg",
+    "source": [
+      "AV 1904.5 S. 54"
+    ]
   },
   "7": {
     "name": "Dr. Paul Koebe",
