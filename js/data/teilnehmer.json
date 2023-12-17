@@ -4143,25 +4143,22 @@
     "first": "Ferdinand",
     "last": "[später: von] Lindemann"
   },
-  "1171": {
-    "name": "G? Lindemann.",
-    "ids_to_signatures": {
-      "883": [
-        "G[?]. Lindemann."
-      ]
-    },
-    "first": "G?",
-    "last": "Lindemann"
-  },
   "795": {
-    "name": "G?? Lindemann??",
+    "name": "Georg Lindemann",
     "ids_to_signatures": {
       "835": [
-        "G?[?] Lindemann[?]?"
+        "G[eorg] Lindemann"
+      ],
+      "883": [
+        "G[eorg]. Lindemann."
       ]
     },
-    "first": "G??",
-    "last": "Lindemann??"
+    "first": "Georg",
+    "last": "Lindemann",
+    "source": [
+      "AV 1902.0 S. 54"
+    ],
+    "origin": "Hameln an der Weser"
   },
   "701": {
     "name": "Martin Linnemann",
