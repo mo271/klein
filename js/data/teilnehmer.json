@@ -2972,16 +2972,6 @@
       "TO S. 396"
     ]
   },
-  "821": {
-    "name": "D\\textsuperscript{r} Charles Jaccottet",
-    "ids_to_signatures": {
-      "768": [
-        "D\\textsuperscript{r} C[harles] Jaccottet"
-      ]
-    },
-    "first": "D\\textsuperscript{r} Jaccottet",
-    "last": "Jaccottet"
-  },
   "566": {
     "name": "Charles Jaccottet",
     "ids_to_signatures": {
@@ -2993,6 +2983,9 @@
       ],
       "616": [
         "C[harles] Jaccottet"
+      ],
+      "768": [
+        "Dr [Charles] Jaccottet"
       ],
       "787": [
         "C[harles] Jaccottet"
@@ -3065,24 +3058,17 @@
     "last": "Jordan"
   },
   "137": {
-    "name": "Hans Josephson.",
+    "name": "Hans Josephson",
     "ids_to_signatures": {
+      "960": [
+        "Hans Josephson.?"
+      ],
       "998": [
         "Hans Josephson."
       ]
     },
     "first": "Hans",
     "last": "Josephson"
-  },
-  "158": {
-    "name": "Hans Josephson.?",
-    "ids_to_signatures": {
-      "960": [
-        "Hans Josephson.?"
-      ]
-    },
-    "first": "Hans",
-    "last": "Josephson.?"
   },
   "38": {
     "name": "Paul Jungmann",
@@ -3632,24 +3618,17 @@
     "last": "Kollert"
   },
   "210": {
-    "name": "Joseph von Kowalski",
+    "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
     "ids_to_signatures": {
+      "446": [
+        "J[oseph]. v[on]. Kowalski"
+      ],
       "459": [
         "J[oseph]. v[on]. Kowalski"
       ]
     },
-    "first": "Joseph Kowalski",
-    "last": "Kowalski"
-  },
-  "840": {
-    "name": "Joseph von Kowalski?",
-    "ids_to_signatures": {
-      "446": [
-        "J[oseph]. v[on]. Kowalski?"
-      ]
-    },
-    "first": "Joseph Kowalski?",
-    "last": "Kowalski?"
+    "first": "Józef [Joseph]",
+    "last": "Wierusz-Kowalski [von Kowalski]"
   },
   "416": {
     "name": "Albert Kraft",
@@ -3682,11 +3661,20 @@
       "220": [
         "Lud[wig]. Kraus"
       ],
+      "228": [
+        "Lud[wig]. Kraus?"
+      ],
       "231": [
         "Lud[wig] Kraus"
       ],
       "239": [
         "Lud[wig] Kraus"
+      ],
+      "247": [
+        "Lud[wig]. Kraus?"
+      ],
+      "248": [
+        "Lud[wig]. Kraus?"
       ],
       "263": [
         "Lud[wig]. Kraus"
@@ -3694,22 +3682,6 @@
     },
     "first": "Ludwig",
     "last": "Kraus"
-  },
-  "185": {
-    "name": "Ludwig Kraus?",
-    "ids_to_signatures": {
-      "228": [
-        "Lud[wig]. Kraus?"
-      ],
-      "247": [
-        "Lud[wig]. Kraus?"
-      ],
-      "248": [
-        "Lud[wig]. Kraus?"
-      ]
-    },
-    "first": "Ludwig",
-    "last": "Kraus?"
   },
   "1156": {
     "name": "Franz Krauß",
@@ -3721,21 +3693,14 @@
     "first": "Franz",
     "last": "Krauß"
   },
-  "757": {
-    "name": "Dr Adolf Krazer",
-    "ids_to_signatures": {
-      "338": [
-        "Dr [Adolf] Krazer"
-      ]
-    },
-    "first": "Adolf",
-    "last": "Krazer"
-  },
   "1162": {
-    "name": "Dr. Adolf Krazer",
+    "name": "Adolf Krazer",
     "ids_to_signatures": {
       "332": [
         "Dr. A[dolf]. Krazer"
+      ],
+      "338": [
+        "Dr [Adolf] Krazer"
       ],
       "347": [
         "Dr. [Adolf] Krazer"
@@ -3779,6 +3744,9 @@
   "676": {
     "name": "Theodor Kuen",
     "ids_to_signatures": {
+      "181": [
+        "Theod[or] Kuen?"
+      ],
       "187": [
         "[Theodor Kuen]"
       ],
@@ -3791,16 +3759,6 @@
     },
     "first": "Theodor",
     "last": "Kuen"
-  },
-  "189": {
-    "name": "Theodor Kuen?",
-    "ids_to_signatures": {
-      "181": [
-        "Theod[or] Kuen?"
-      ]
-    },
-    "first": "Theodor",
-    "last": "Kuen?"
   },
   "546": {
     "name": "Friedrich Kuhse",
