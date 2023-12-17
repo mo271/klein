@@ -3073,14 +3073,18 @@
     "last": "Jäger"
   },
   "562": {
-    "name": "P|T Kaltenbach|ky?",
+    "name": "Paul Kaltenbach",
     "ids_to_signatures": {
       "799": [
-        "[P|T] Kaltenbac[h|k][y]?"
+        "[Paul] Kaltenbach"
       ]
     },
-    "first": "P|T",
-    "last": "Kaltenbach|ky?"
+    "first": "Paul",
+    "last": "Kaltenbach",
+    "source": [
+      "AV 1900.5 S. 48"
+    ],
+    "origin": "Dessau"
   },
   "666": {
     "name": "Heinrich Karstens",
