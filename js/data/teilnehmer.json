@@ -4191,7 +4191,10 @@
       ]
     },
     "first": "Alfred",
-    "last": "Lorey"
+    "last": "Lorey",
+    "source": [
+      "KT foll. 179"
+    ]
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -4227,7 +4230,9 @@
     "first": "Wilhelm",
     "last": "Lorey",
     "source": [
-      "AV 1895.5 S. 44"
+      "AV 1895.5 S. 44",
+      "KT foll. 178",
+      "KT foll. 179"
     ],
     "origin": "Frankfurt am Main"
   },
