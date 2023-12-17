@@ -3621,14 +3621,19 @@
     "last": "Kraft"
   },
   "53": {
-    "name": "Kramer?",
+    "name": "Hans Kramer",
     "ids_to_signatures": {
       "1142": [
-        "[?] Kramer?"
+        "[Hans] Kramer"
       ]
     },
-    "first": "",
-    "last": "Kramer?"
+    "first": "Hans",
+    "last": "Kramer",
+    "source": [
+      "KT foll. 284",
+      "AV 1910.5 S. 63"
+    ],
+    "origin": "Hannover"
   },
   "55": {
     "name": "Ludwig Kraus",
