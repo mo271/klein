@@ -3495,14 +3495,18 @@
     "last": "Kletzkowki"
   },
   "97": {
-    "name": "Johannes Klien??, stud. cam??",
+    "name": "Johannes Klien",
     "ids_to_signatures": {
       "910": [
-        "Johannes Klien[?]?, stud. cam?[?]"
+        "Johannes Klien, stud. can"
       ]
     },
     "first": "Johannes",
-    "last": "Klien??"
+    "last": "Klien",
+    "source": [
+      "AV 1904.0 S. 54"
+    ],
+    "origin": "Dresden, Sachsen"
   },
   "749": {
     "name": "Karl Knoke",
