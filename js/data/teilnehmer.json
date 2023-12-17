@@ -3117,14 +3117,18 @@
     "last": "Kępiński"
   },
   "629": {
-    "name": "Otto Kindling?",
+    "name": "Otto Kindling",
     "ids_to_signatures": {
       "798": [
-        "Otto Kindling?"
+        "Otto Kindling"
       ]
     },
     "first": "Otto",
-    "last": "Kindling?"
+    "last": "Kindling",
+    "source": [
+      "AV 1900.5 S. 48"
+    ],
+    "origin": "Niedernstöcken"
   },
   "1199": {
     "name": "Paul Kirchberger",
