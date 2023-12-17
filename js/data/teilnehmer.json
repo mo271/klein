@@ -3777,22 +3777,15 @@
   "546": {
     "name": "Friedrich Kuhse",
     "ids_to_signatures": {
+      "872": [
+        "Friedrich Kuhse"
+      ],
       "873": [
         "Fr[iedrich] Kuhse"
       ]
     },
     "first": "Friedrich",
     "last": "Kuhse"
-  },
-  "890": {
-    "name": "Friedrich Kuhse?",
-    "ids_to_signatures": {
-      "872": [
-        "Friedrich Kuhse?"
-      ]
-    },
-    "first": "Friedrich",
-    "last": "Kuhse?"
   },
   "751": {
     "name": "Stefan Kwietniewski.",
@@ -3948,18 +3941,11 @@
     "last": "Lange"
   },
   "302": {
-    "name": "Eduard Langebeck ?",
-    "ids_to_signatures": {
-      "1181": [
-        "Eduard Langebeck [?]"
-      ]
-    },
-    "first": "Eduard ?",
-    "last": "Langebeck"
-  },
-  "1133": {
     "name": "Eduard Langebeck",
     "ids_to_signatures": {
+      "1181": [
+        "Eduard Langebeck"
+      ],
       "1184": [
         "Ed[uard]. Langebeck"
       ]
@@ -3968,67 +3954,51 @@
     "last": "Langebeck"
   },
   "77": {
-    "name": "K. Laubert. stud. math.?",
+    "name": "C. Laubert. stud. math.",
     "ids_to_signatures": {
       "673": [
-        "K. Laubert. stud. math.?"
-      ]
-    },
-    "first": "K.",
-    "last": "Laubert"
-  },
-  "707": {
-    "name": "H? Laubert",
-    "ids_to_signatures": {
-      "879": [
-        "H[?] Laubert"
-      ]
-    },
-    "first": "H?",
-    "last": "Laubert"
-  },
-  "348": {
-    "name": "Laubert",
-    "ids_to_signatures": {
-      "915": [
-        "[?] Laubert"
-      ]
-    },
-    "first": "",
-    "last": "Laubert"
-  },
-  "207": {
-    "name": "K. Laubert. stud. math.",
-    "ids_to_signatures": {
+        "K. [C.] Laubert. stud. math."
+      ],
       "686": [
-        "K. Laubert. stud. math."
+        "K. [C.] Laubert. stud. math."
       ],
       "687": [
-        "K. Laubert. stud. math."
+        "K. [C.] Laubert. stud. math."
       ]
     },
-    "first": "K.",
-    "last": "Laubert"
+    "first": "K. [C.]",
+    "last": "Laubert",
+    "source": [
+      "AV 1896.5 S. 47"
+    ],
+    "origin": "Hildesheim"
   },
-  "623": {
-    "name": "Laubert??",
-    "ids_to_signatures": {
-      "887": [
-        "[?] Laubert?"
-      ]
-    },
-    "first": "",
-    "last": "Laubert??"
-  },
-  "1130": {
-    "name": "H? Laubert??",
+  "348": {
+    "name": "Heinrich Laubert",
     "ids_to_signatures": {
       "875": [
-        "H[?] Laubert[?]?"
-      ]
+        "H[einrich] Laubert"
+      ],
+      "879": [
+        "H[einrich] Laubert"
+      ],
+      "887": [
+        "[Heinrich] Laubert"
+      ],
+      "915": [
+        "[Heinrich] Laubert"
+      ]     
     },
-    "first": "H?",
-    "last": "Laubert??"
+    "first": "Heinrich",
+    "last": "Laubert",
+    "source": [
+      "AV 1903.0 S. 55",
+      "AV 1903.5 S. 53",
+      "AV 1904.0 S. 56",
+      "KT foll. 220"
+      "KT foll. 270"
+    ],
+    "origin": "Hildesheim, Hannover"
   },
   "408": {
     "name": "Ludwig Lauer",
