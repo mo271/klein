@@ -2987,20 +2987,23 @@
     "last": "Johannes?"
   },
   "719": {
-    "name": "A? M? Johnson",
+    "name": "Ada Maria Jane Elizabeth Johnson",
     "ids_to_signatures": {
       "628": [
-        "A[?]. M[?]. Johnson"
+        "A[da]. M[aria]. Johnson"
       ],
       "642": [
-        "A[?]. M[?]. Johnson"
+        "A[da]. M[aria]. Johnson"
       ],
       "657": [
-        "[A[?]. M[?]. Johnson]"
+        "[A[da]. M[aria]. Johnson]"
       ]
     },
-    "first": "A? M?",
-    "last": "Johnson"
+    "first": "Ada Maria Jane Elizabeth",
+    "last": "Johnson",
+    "source": [
+      "https://renate.tobies.org/fileadmin/2022/2020_Tobies_Klein_Women_in%20his%20courses.pdf"
+    ]
   },
   "164": {
     "name": "Herbert? Jordan",
