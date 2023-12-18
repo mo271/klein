@@ -4319,14 +4319,18 @@
     "last": "Lüdemann"
   },
   "279": {
-    "name": "G?? Lüttemeyer?",
+    "name": "Georg Lüttemeyer",
     "ids_to_signatures": {
       "760": [
-        "G?[?]. Lüttemeyer?"
+        "G[eorg]. Lüttemeyer"
       ]
     },
-    "first": "G??",
-    "last": "Lüttemeyer?"
+    "first": "Georg",
+    "last": "Lüttemeyer",
+    "source": [
+      "AV 1899.5 S. 51"
+    ],
+    "origin": "Wiedenbrück"
   },
   "1124": {
     "name": "Annie Louise MacKinnon",
