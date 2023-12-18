@@ -4249,14 +4249,17 @@
     "last": "Ludwig"
   },
   "657": {
-    "name": "A Maurernicht Ludwig?!",
+    "name": "August Maurer",
     "ids_to_signatures": {
       "184": [
-        "A[]. Maurer[nicht Ludwig?!]"
+        "A[ugust]. Maurer"
       ]
     },
-    "first": "A Ludwig?!",
-    "last": "Ludwig?!"
+    "first": "August",
+    "last": "Maurer",
+    "source": [
+      "KT foll. 83"
+    ]
   },
   "399": {
     "name": "Luyken??",
