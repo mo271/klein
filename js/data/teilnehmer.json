@@ -4185,28 +4185,18 @@
     "first": "Alfred",
     "last": "Loewy"
   },
-  "966": {
-    "name": "Alfred Lorey",
-    "ids_to_signatures": {
-      "654": [
-        "[Alfred] Lorey"
-      ],
-      "658": [
-        "[Alfred Lorey]"
-      ]
-    },
-    "first": "Alfred",
-    "last": "Lorey"
-  },
   "1002": {
-    "name": "Dr Alfred Lorey.",
+    "name": "Alfred Lorey",
     "ids_to_signatures": {
       "650": [
         "Dr Alfred Lorey."
       ]
     },
     "first": "Alfred",
-    "last": "Lorey"
+    "last": "Lorey",
+    "source": [
+      "KT foll. 179"
+    ]
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -4231,13 +4221,25 @@
       ],
       "646": [
         "W[ilhelm] Lorey"
+      ],
+      "654": [
+        "[Wilhelm[?]] Lorey"
+      ],
+      "658": [
+        "[Wilhelm[?] Lorey]"
       ]
     },
     "first": "Wilhelm",
-    "last": "Lorey"
+    "last": "Lorey",
+    "source": [
+      "AV 1895.5 S. 44",
+      "KT foll. 178",
+      "KT foll. 179"
+    ],
+    "origin": "Frankfurt am Main"
   },
   "913": {
-    "name": "Dr. Walter Ludwig",
+    "name": "Walter Ludwig",
     "ids_to_signatures": {
       "792": [
         "Dr. W[alter]. Ludwig"
