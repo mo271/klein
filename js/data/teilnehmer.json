@@ -4292,24 +4292,21 @@
     "last": "Lübeke"
   },
   "715": {
-    "name": "O. Lüdecke",
-    "ids_to_signatures": {
-      "954": [
-        "O. Lüdecke"
-      ]
-    },
-    "first": "O.",
-    "last": "Lüdecke"
-  },
-  "1203": {
-    "name": "O Lüdecke?",
+    "name": "Oskar Lüdecke",
     "ids_to_signatures": {
       "949": [
-        "O[] Lüdecke?"
+        "O[skar] Lüdecke"
+      ],
+      "954": [
+        "O[skar]. Lüdecke"
       ]
     },
-    "first": "O",
-    "last": "Lüdecke?"
+    "first": "Oskar",
+    "last": "Lüdecke",
+    "source": [
+      "AV 1904.5 S. 57"
+    ],
+    "origin": "Vegesack, Bremen"
   },
   "155": {
     "name": "Fritz Lüdemann",
