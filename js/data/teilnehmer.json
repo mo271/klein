@@ -4038,13 +4038,13 @@
     "last": "Lebedewa"
   },
   "491": {
-    "name": "H?einrich Liebmann",
+    "name": "Karl Otto Heinrich Liebmann",
     "ids_to_signatures": {
       "664": [
-        "H?[einrich] Liebmann"
+        "H[einrich] Liebmann"
       ]
     },
-    "first": "H?einrich",
+    "first": "Karl Otto Heinrich",
     "last": "Liebmann"
   },
   "630": {
@@ -4070,7 +4070,12 @@
       ]
     },
     "first": "Heinrich",
-    "last": "Liebmann"
+    "last": "Liebmann",
+    "source": [
+      "AV 1896.5 S. 47",
+      "AV 1897.0 S. 49"
+    ],
+    "origin": "Jena"
   },
   "854": {
     "name": "Ferdinand von Lindemann",
