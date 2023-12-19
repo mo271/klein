@@ -252,7 +252,7 @@ function genseitenlink(record) {
 	var teil = '';
 	var teil2 = '';
 	if (record.band == 1 || record.band == 16) {
-		if (record.sn >= 1878.5 && record.sn != 1900) {
+		if ((record.sn >= 1878.5 || record.sn == 1878.0) && record.sn != 1900) {
 			var teil = '-part2';
 			var teil2 = '.2';
 		}
