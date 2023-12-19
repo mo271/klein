@@ -5253,61 +5253,8 @@
     "first": "Erich",
     "last": "Prümm"
   },
-  "152": {
-    "name": "Dr. Anton Pucha",
-    "ids_to_signatures": {
-      "149": [
-        "Dr. A[nton] Pucha"
-      ]
-    },
-    "first": "Anton",
-    "last": "Pucha"
-  },
-  "1150": {
-    "name": "Titel? unleserlichAnton Puchta",
-    "ids_to_signatures": {
-      "124": [
-        "[Titel[?] unleserlich]Ant[on]. Puchta"
-      ]
-    },
-    "first": "Titel? Puchta",
-    "last": "Puchta"
-  },
-  "1183": {
-    "name": "Anton Puchta",
-    "ids_to_signatures": {
-      "113": [
-        "Anton Puchta"
-      ],
-      "137": [
-        "Ant[on] Puchta"
-      ]
-    },
-    "first": "Anton",
-    "last": "Puchta"
-  },
-  "902": {
-    "name": "Dr Anton Puchta",
-    "ids_to_signatures": {
-      "144": [
-        "Dr Ant[on] Puchta"
-      ]
-    },
-    "first": "Dr Puchta",
-    "last": "Puchta"
-  },
-  "605": {
-    "name": "Dr. Anton Puchta",
-    "ids_to_signatures": {
-      "206": [
-        "Dr. An[ton] Puchta"
-      ]
-    },
-    "first": "Anton",
-    "last": "Puchta"
-  },
   "641": {
-    "name": "Dr? Anton Puchta",
+    "name": "Anton Puchta",
     "ids_to_signatures": {
       "121": [
         "Dr[?]. Ant[on]. Puchta"
@@ -5317,9 +5264,27 @@
       ],
       "133": [
         "Dr[?]. Ant[on]. Puchta"
+      ],
+      "149": [
+        "Dr. A[nton] Pucha"
+      ],
+      "124": [
+        "[Titel[?] unleserlich]Ant[on]. Puchta"
+      ],
+      "113": [
+        "Anton Puchta"
+      ],
+      "137": [
+        "Ant[on] Puchta"
+      ],
+      "144": [
+        "Dr Ant[on] Puchta"
+      ],
+      "206": [
+        "Dr. An[ton] Puchta"
       ]
     },
-    "first": "Dr? Puchta",
+    "first": "Anton",
     "last": "Puchta"
   },
   "1063": {
