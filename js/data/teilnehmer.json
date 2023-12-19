@@ -5217,21 +5217,14 @@
     "first": "Georg",
     "last": "Prange"
   },
-  "965": {
-    "name": "Dr. Ing. Reinhold Proell.",
-    "ids_to_signatures": {
-      "898": [
-        "Dr. Ing. R[einhold]. Proell."
-      ]
-    },
-    "first": "Reinhold",
-    "last": "Proell"
-  },
   "793": {
     "name": "Dr. Ing. Reinhold Proell",
     "ids_to_signatures": {
       "902": [
         "Dr. Ing. R[einhold]. Proell"
+      ],
+      "898": [
+        "Dr. Ing. R[einhold]. Proell."
       ]
     },
     "first": "Reinhold",
