@@ -4884,9 +4884,12 @@
     "first": "Richard",
     "last": "Olbricht"
   },
-  "1059": {
+  "814": {
     "name": "Albert Oppermann",
     "ids_to_signatures": {
+      "878": [
+        "Albert Oppermann"
+      ],
       "834": [
         "Albert Oppermann"
       ],
@@ -4895,16 +4898,6 @@
       ]
     },
     "first": "Albert",
-    "last": "Oppermann"
-  },
-  "814": {
-    "name": "Albrecht Oppermann",
-    "ids_to_signatures": {
-      "878": [
-        "Albrecht Oppermann"
-      ]
-    },
-    "first": "Albrecht",
     "last": "Oppermann"
   },
   "658": {
