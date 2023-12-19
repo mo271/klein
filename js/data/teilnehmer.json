@@ -4253,6 +4253,12 @@
     "ids_to_signatures": {
       "184": [
         "A[ugust]. Maurer"
+      ],
+      "191": [
+        "A[ugust]. Maurer"
+      ],
+      "200": [
+        "A[ugust]. Maurer"
       ]
     },
     "first": "August",
@@ -4480,26 +4486,6 @@
     },
     "first": "Heinrich",
     "last": "Maschke"
-  },
-  "916": {
-    "name": "A? Maurer",
-    "ids_to_signatures": {
-      "200": [
-        "A[?]. Maurer"
-      ]
-    },
-    "first": "A?",
-    "last": "Maurer"
-  },
-  "517": {
-    "name": "A Maurer",
-    "ids_to_signatures": {
-      "191": [
-        "A[]. Maurer"
-      ]
-    },
-    "first": "A",
-    "last": "Maurer"
   },
   "843": {
     "name": "P. Mayer?",
