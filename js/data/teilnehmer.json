@@ -2494,7 +2494,7 @@
     },
     "first": "Theodor[?]",
     "last": "Herrmann",
-    "source" : [
+    "source": [
       "KT foll. 142"
     ],
     "origin": "Eberbach?"
@@ -4467,14 +4467,7 @@
       ],
       "482": [
         "[[Heinrich] Maschke]"
-      ]
-    },
-    "first": "Heinrich",
-    "last": "Maschke"
-  },
-  "23": {
-    "name": "Dr. Heinrich Maschke.",
-    "ids_to_signatures": {
+      ],
       "455": [
         "Dr. H[einrich]. Maschke."
       ],
