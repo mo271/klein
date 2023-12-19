@@ -5443,6 +5443,9 @@
     "ids_to_signatures": {
       "1002": [
         "Louis Richter"
+      ],
+      "959": [
+        "Louis Richter?"
       ]
     },
     "first": "Louis",
@@ -5460,16 +5463,6 @@
     },
     "first": "Otto",
     "last": "Richter"
-  },
-  "25": {
-    "name": "Louis Richter?",
-    "ids_to_signatures": {
-      "959": [
-        "Louis Richter?"
-      ]
-    },
-    "first": "Louis",
-    "last": "Richter?"
   },
   "1094": {
     "name": "Ernst Ritter",
