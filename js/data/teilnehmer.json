@@ -2494,7 +2494,7 @@
     },
     "first": "Theodor[?]",
     "last": "Herrmann",
-    "source" : [
+    "source": [
       "KT foll. 142"
     ],
     "origin": "Eberbach?"
@@ -4382,14 +4382,7 @@
       ],
       "1067": [
         "E[rwin] Madelung"
-      ]
-    },
-    "first": "Erwin",
-    "last": "Madelung"
-  },
-  "31": {
-    "name": "Dr. Erwin Madelung",
-    "ids_to_signatures": {
+      ],
       "976": [
         "Dr. E[rwin] Madelung"
       ]
