@@ -5078,14 +5078,18 @@
     "last": "Piechler"
   },
   "1125": {
-    "name": "Pietzner?",
+    "name": "Alfred Pietzner",
     "ids_to_signatures": {
       "810": [
-        "[]? Pietzner?"
+        "[Alfred] Pietzner"
       ]
     },
-    "first": "",
-    "last": "Pietzner?"
+    "first": "Alfred",
+    "last": "Pietzner",
+    "source": [
+      "AV 1901.0 S. 58"
+    ],
+    "origin": "Liegnitz"
   },
   "881": {
     "name": "Norbert Pinkus",
