@@ -5868,14 +5868,17 @@
     "last": "Schniete"
   },
   "529": {
-    "name": "Schreiner",
+    "name": "Josef Schreiner",
     "ids_to_signatures": {
       "197": [
         "Schreiner"
       ]
     },
-    "first": "",
-    "last": "Schreiner"
+    "first": "Josef",
+    "last": "Schreiner",
+    "source": [
+      "KT foll. 94"
+    ]
   },
   "362": {
     "name": "Schriftenvergleich?!",
