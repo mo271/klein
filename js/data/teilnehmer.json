@@ -6005,17 +6005,21 @@
     "last": "Schwienhorst"
   },
   "111": {
-    "name": "A? Schöning?",
+    "name": "Aruthr Schöning",
     "ids_to_signatures": {
       "896": [
-        "A[?]. Schöning?"
+        "A[rthur]. Schöning"
       ],
       "901": [
-        "A[?] Schöning?"
+        "A[rthur] Schöning"
       ]
     },
-    "first": "A?",
-    "last": "Schöning?"
+    "first": "Arthur",
+    "last": "Schöning",
+    "source": [
+      "AV. 1903.5 S. 62"
+    ],
+    "origin": "Reelkirchen, Lippe-Detmold"
   },
   "1020": {
     "name": "Ernst Harald Schütz",
