@@ -42,7 +42,6 @@ titeldict = (
  "sn-1910.5" : "Winterseminar 1910–11 (Mathemat<span class='hiddenkomm'>[ischer]</span>. Unterricht)." ,
  "sn-1897.0" : "<span class='nonorigtitel'>Sommerseminar 1897</span>" ,
  "sn-1886.5" : "Winter-Semester 1886-87" ,
- "sn-1890.5" : "Wintersemester 1890–90." ,
  "sn-1880.5" : "Leipzig<br> Herbst 1880 – Ostern 1881" ,
  "sn-1894.5" : "Wintersemester 1894 – 95" ,
  "sn-1911.5" : "Winterseminar 1911–12 = Literatur der Differential- und Integralrechnung." ,
