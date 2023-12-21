@@ -5532,14 +5532,20 @@
     "last": "Rothe"
   },
   "1089": {
-    "name": "Roö?ttgardt?\\newline stud. math.",
+    "name": "Emil Rottgardt",
     "ids_to_signatures": {
       "921": [
-        "[?] Ro[ö?]ttgardt?\\newline stud. math."
+        "[Emil] Rottgardt stud. math."
       ]
     },
-    "first": "",
-    "last": "Roö?ttgardt?"
+    "first": "Emil",
+    "last": "Rottgardt",
+    "source": [
+      "AV 1903.0 S. 62",
+      "AV 1904.0 S. 64",
+      "KT foll. 226"
+    ],
+    "origin": "Geschendorf, Schleswig-Holstein"
   },
   "401": {
     "name": "Ernst Rudel",
