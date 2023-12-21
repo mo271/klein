@@ -5266,14 +5266,18 @@
     "last": "Puhl?"
   },
   "979": {
-    "name": "E? Pulpe?.",
+    "name": "Eduard Pulpe",
     "ids_to_signatures": {
       "1060": [
-        "E[?]. Pulpe?."
+        "E[duard]. Pulpe."
       ]
     },
-    "first": "E?",
-    "last": "Pulpe?"
+    "first": "Eduard",
+    "last": "Pulpe",
+    "source": [
+      "AV 1908.0 S. 68"
+    ],
+    "origin": "Riga, Rußland"
   },
   "461": {
     "name": "Christoph Gerhard? Rabba",
