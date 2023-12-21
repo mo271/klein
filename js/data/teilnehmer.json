@@ -5256,14 +5256,18 @@
     "last": "Puchta"
   },
   "1063": {
-    "name": "Hans Puhl?",
+    "name": "Hans Puhl",
     "ids_to_signatures": {
       "794": [
-        "Hans Puhl?"
+        "Hans Puhl"
       ]
     },
     "first": "Hans",
-    "last": "Puhl?"
+    "last": "Puhl",
+    "source": [
+      "AV 1900.5 S. 56"
+    ],
+    "origin": "Duisburg"
   },
   "979": {
     "name": "E? Pulpe?.",
