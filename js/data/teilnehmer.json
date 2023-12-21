@@ -5026,17 +5026,21 @@
     "last": "Pfeiffer"
   },
   "1187": {
-    "name": "v? Philippow?",
+    "name": "Wladimir von Philippow",
     "ids_to_signatures": {
       "1089": [
-        "[?] v[?]. Philippow?"
+        "[Wladimir] v[on]. Philippow"
       ],
       "1090": [
-        "[?] v[?]. Philippow?"
+        "[Wladimir] v[on]. Philippow"
       ]
     },
-    "first": "v?",
-    "last": "Philippow?"
+    "first": "Wladimir",
+    "last": "von Philippow",
+    "source": [
+      "AV 1909.0 S. 72"
+    ],
+    "origin": "St. Petersburg, Rußland"
   },
   "1058": {
     "name": "Georg Pick",
