@@ -4687,14 +4687,18 @@
     "last": "Mosbacher?"
   },
   "762": {
-    "name": "P Mulden?",
+    "name": "Piet Mulder",
     "ids_to_signatures": {
       "1069": [
-        "P[]. Mulden?"
+        "P[iet]. Mulder"
       ]
     },
-    "first": "P",
-    "last": "Mulden?"
+    "first": "Piet",
+    "last": "Mulder",
+    "source": [
+      "AV 1908.0 S. 67"
+    ],
+    "origin": "Leiden, Holland"
   },
   "801": {
     "name": "Alexander Myller",
