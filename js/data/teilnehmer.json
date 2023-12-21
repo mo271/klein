@@ -7520,23 +7520,16 @@
     "last": "Zahler"
   },
   "454": {
-    "name": "A? Zeilbehr",
+    "name": "Anton Zeilbehr",
     "ids_to_signatures": {
       "183": [
-        "A[?]. Zeilbehr"
-      ]
-    },
-    "first": "A?",
-    "last": "Zeilbehr"
-  },
-  "1037": {
-    "name": "unleserliches Kürzel:q.e.d?A? Zeilbehr",
-    "ids_to_signatures": {
+        "A[nton]. Zeilbehr"
+      ],
       "190": [
-        "[unleserliches Kürzel:q.e.d?]A[?]. Zeilbehr"
+        "[unleserliches Kürzel:q.e.d?]A[nton]. Zeilbehr"
       ]
     },
-    "first": "A?",
+    "first": "Anton",
     "last": "Zeilbehr"
   },
   "670": {
