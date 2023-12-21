@@ -7427,27 +7427,20 @@
     "last": "Wlassoff"
   },
   "1036": {
-    "name": "Christop Wolff",
+    "name": "Christoph Wolff",
     "ids_to_signatures": {
       "195": [
-        "Christop Wolff"
-      ]
-    },
-    "first": "Christop",
-    "last": "Wolff"
-  },
-  "1040": {
-    "name": "Christoph Wolff?",
-    "ids_to_signatures": {
+        "Christoph Wolff"
+      ],
       "182": [
-        "Christoph Wolff?"
+        "Christoph Wolff"
       ],
       "189": [
-        "Christoph Wolff?"
+        "Christoph Wolff"
       ]
     },
     "first": "Christoph",
-    "last": "Wolff?"
+    "last": "Wolff"
   },
   "1047": {
     "name": "Ernst Wolfhagen?",
