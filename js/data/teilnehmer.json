@@ -6882,21 +6882,14 @@
     "first": "Edward Burr",
     "last": "Van Vleok"
   },
-  "925": {
-    "name": "Dr. Giuseppe Veronese",
-    "ids_to_signatures": {
-      "280": [
-        "Dr. G[iuseppe]. Veronese"
-      ]
-    },
-    "first": "Giuseppe",
-    "last": "Veronese"
-  },
   "250": {
     "name": "Giuseppe Veronese",
     "ids_to_signatures": {
       "290": [
         "G[iuseppe]. Veronese"
+      ],
+      "280": [
+        "Dr. G[iuseppe]. Veronese"
       ]
     },
     "first": "Giuseppe",
