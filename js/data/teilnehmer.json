@@ -6138,18 +6138,19 @@
         "P[ercy]. F[ranklyn]. Smith"
       ]
     },
-    "first": "Percy Smith",
+    "first": "Percy Franklyn",
     "last": "Smith"
   },
   "112": {
-    "name": "G R Snellman.",
+    "name": "Gustaf Robert Snellman.",
     "ids_to_signatures": {
       "532": [
-        "G[]. R[]. Snellman."
+        "G[ustaf]. R[obert]. Snellman."
       ]
     },
     "first": "G R",
-    "last": "Snellman"
+    "last": "Snellman",
+    "origin": "Helsinki"
   },
   "136": {
     "name": "Virgil Snyder",
@@ -6165,7 +6166,7 @@
     "last": "Snyder"
   },
   "1030": {
-    "name": "Dr. Julius Sommer",
+    "name": "Julius Sommer",
     "ids_to_signatures": {
       "708": [
         "Dr. [Julius] Sommer"
