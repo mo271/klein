@@ -5353,14 +5353,18 @@
     "last": "Reid"
   },
   "159": {
-    "name": "O? Reifenstahl?",
+    "name": "Otto Reifenstahl",
     "ids_to_signatures": {
       "1194": [
-        "O[?]. Reifenstahl[?]"
+        "O[tto]. Reifenstahl"
       ]
     },
-    "first": "O?",
-    "last": "Reifenstahl?"
+    "first": "Otto",
+    "last": "Reifenstahl",
+    "source": [
+      "AV 1912.0 S. 80"
+    ],
+    "origin": "Braunschweig"
   },
   "1185": {
     "name": "Ludwig Reingardt",
