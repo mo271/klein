@@ -5869,14 +5869,18 @@
     "origin": "Dresden"
   },
   "682": {
-    "name": "Heinrich Schmidt?",
+    "name": "Heinrich Schmidt",
     "ids_to_signatures": {
       "947": [
-        "Heinrich Schmidt?"
+        "Heinrich Schmidt"
       ]
     },
     "first": "Heinrich",
-    "last": "Schmidt?"
+    "last": "Schmidt",
+    "source": [
+      "AV 1904.5 S. 65"
+    ],
+    "origin": "Leer, Hannover"
   },
   "1073": {
     "name": "Walther Schmiedeberg",
