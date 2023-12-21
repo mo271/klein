@@ -7345,19 +7345,6 @@
     "first": "Max",
     "last": "Winkelmann"
   },
-  "550": {
-    "name": "Mary Winston",
-    "ids_to_signatures": {
-      "589": [
-        "M[ary] Winston"
-      ],
-      "620": [
-        "Mary Winston"
-      ]
-    },
-    "first": "Mary",
-    "last": "Winston"
-  },
   "383": {
     "name": "Mary Frances Winston",
     "ids_to_signatures": {
@@ -7366,9 +7353,15 @@
       ],
       "607": [
         "Mary F[rances] Winston"
+      ],
+      "589": [
+        "M[ary] Winston"
+      ],
+      "620": [
+        "Mary Winston"
       ]
     },
-    "first": "Mary",
+    "first": "Mary Frances",
     "last": "Winston"
   },
   "872": {
