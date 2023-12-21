@@ -5869,26 +5869,6 @@
     "first": "",
     "last": "Schriftenvergleich?!"
   },
-  "1060": {
-    "name": "Johannes Schröder stud. math.?",
-    "ids_to_signatures": {
-      "487": [
-        "J[ohannes]. Schröder stud. math.?"
-      ]
-    },
-    "first": "Johannes",
-    "last": "Schröder"
-  },
-  "2": {
-    "name": "Johannes Schröder, cand. math.",
-    "ids_to_signatures": {
-      "494": [
-        "J[ohannes] Schröder, cand. math."
-      ]
-    },
-    "first": "Johannes",
-    "last": "Schröder"
-  },
   "61": {
     "name": "Friedrich Schröder",
     "ids_to_signatures": {
@@ -5902,21 +5882,20 @@
     "first": "Friedrich",
     "last": "Schröder"
   },
-  "1098": {
-    "name": "Johannes Schröder, cand. math.",
-    "ids_to_signatures": {
-      "504": [
-        "J[ohannes] Schröder, cand. math."
-      ]
-    },
-    "first": "Johannes",
-    "last": "Schröder"
-  },
   "758": {
-    "name": "Johannes Schröder.",
+    "name": "Johannes Schröder",
     "ids_to_signatures": {
       "497": [
         "J[ohannes] Schröder."
+      ],
+      "487": [
+        "J[ohannes]. Schröder stud. math.?"
+      ],
+      "494": [
+        "J[ohannes] Schröder, cand. math."
+      ],
+      "504": [
+        "J[ohannes] Schröder, cand. math."
       ]
     },
     "first": "Johannes",
