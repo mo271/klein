@@ -6058,16 +6058,6 @@
     "first": "A?",
     "last": "Schöning?"
   },
-  "602": {
-    "name": "Ernst Harald Schütz, stud. math.",
-    "ids_to_signatures": {
-      "688": [
-        "Ernst Harald Schütz, stud. math."
-      ]
-    },
-    "first": "Ernst Harald",
-    "last": "Schütz"
-  },
   "1020": {
     "name": "Ernst Harald Schütz",
     "ids_to_signatures": {
@@ -6076,14 +6066,10 @@
       ],
       "751": [
         "Ernst Harald Schütz"
-      ]
-    },
-    "first": "Ernst Harald",
-    "last": "Schütz"
-  },
-  "274": {
-    "name": "Ernst Harald Schütz\\newline stud. math.",
-    "ids_to_signatures": {
+      ],
+      "688": [
+        "Ernst Harald Schütz, stud. math."
+      ],
       "706": [
         "E[rnst]. H[arald]. Schütz\\newline stud. math."
       ]
