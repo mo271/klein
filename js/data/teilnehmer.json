@@ -5670,6 +5670,15 @@
     "ids_to_signatures": {
       "667": [
         "Hans von Schaper"
+      ],
+      "682": [
+        "Hans v[on]. Schaper."
+      ],
+      "683": [
+        "Hans v[on]. Schaper."
+      ],
+      "684": [
+        "H[ans] v[on]. Schaper."
       ]
     },
     "first": "Hans",
@@ -7694,21 +7703,5 @@
     },
     "first": "Alexander",
     "last": "von Brill"
-  },
-  "492": {
-    "name": "Hans von Schaper.",
-    "ids_to_signatures": {
-      "682": [
-        "Hans v[on]. Schaper."
-      ],
-      "683": [
-        "Hans v[on]. Schaper."
-      ],
-      "684": [
-        "H[ans] v[on]. Schaper."
-      ]
-    },
-    "first": "Hans",
-    "last": "von Schaper"
   }
 }
