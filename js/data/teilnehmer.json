@@ -6026,18 +6026,11 @@
     "last": "Schweikert?"
   },
   "929": {
-    "name": "Heinrich Schwienborst",
-    "ids_to_signatures": {
-      "806": [
-        "H[einrich] Schwienborst"
-      ]
-    },
-    "first": "Heinrich",
-    "last": "Schwienborst"
-  },
-  "523": {
     "name": "Heinrich Schwienhorst",
     "ids_to_signatures": {
+      "806": [
+        "H[einrich] Schwienhorst"
+      ],
       "791": [
         "H[einrich]. Schwienhorst"
       ]
