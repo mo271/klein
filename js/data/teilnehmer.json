@@ -892,6 +892,9 @@
     "ids_to_signatures": {
       "928": [
         "A[lbert]. v[on]. Brunn"
+      ],
+      "832": [
+        "A[lbert] v[on]. Brunn."
       ]
     },
     "first": "Albert",
@@ -7761,16 +7764,6 @@
     },
     "first": "Alexander",
     "last": "von Brill"
-  },
-  "63": {
-    "name": "Albert von Brunn.",
-    "ids_to_signatures": {
-      "832": [
-        "A[lbert] v[on]. Brunn."
-      ]
-    },
-    "first": "Albert",
-    "last": "von Brunn"
   },
   "492": {
     "name": "Hans von Schaper.",
