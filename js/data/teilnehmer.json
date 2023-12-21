@@ -5910,14 +5910,19 @@
     "last": "Schröder"
   },
   "350": {
-    "name": "Hans?? Schröoeder?",
+    "name": "Johannes Schröder",
     "ids_to_signatures": {
       "1045": [
-        "H[ans??] Schrö[oe]der?"
+        "J[ohannes] Schröder"
       ]
     },
-    "first": "Hans??",
-    "last": "Schröoeder?"
+    "first": "Johannes",
+    "last": "Schröder",
+    "source": [
+      "AV 1907.5 S. 72",
+      "KT foll. 264"
+    ],
+    "origin": "Erfurt, Provinz Sachsen"
   },
   "357": {
     "name": "M? Schuc?hardt",
