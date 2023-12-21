@@ -892,6 +892,9 @@
     "ids_to_signatures": {
       "928": [
         "A[lbert]. v[on]. Brunn"
+      ],
+      "832": [
+        "A[lbert] v[on]. Brunn."
       ]
     },
     "first": "Albert",
@@ -4133,14 +4136,7 @@
       ],
       "108": [
         "F[erdinand] Lindemann"
-      ]
-    },
-    "first": "Ferdinand",
-    "last": "[später: von] Lindemann"
-  },
-  "659": {
-    "name": "Ferdinand Lindemann",
-    "ids_to_signatures": {
+      ],
       "89": [
         "F[erdinand] Lindemann"
       ]
@@ -7029,18 +7025,11 @@
     "last": "Weber"
   },
   "999": {
-    "name": "W? Wecken?, stud. math.",
+    "name": "W? Wecken?",
     "ids_to_signatures": {
       "821": [
         "W[?]. Wecken?, stud. math."
-      ]
-    },
-    "first": "W?",
-    "last": "Wecken?"
-  },
-  "815": {
-    "name": "W? Wecken?\\newline stud. math.",
-    "ids_to_signatures": {
+      ],
       "843": [
         "W[?] Wecken?\\newline stud. math."
       ]
@@ -7243,16 +7232,9 @@
       ],
       "562": [
         "R[obert] Wiebrecht"
-      ]
-    },
-    "first": "Robert",
-    "last": "Wiebrecht"
-  },
-  "730": {
-    "name": "Robert  Wiebrecht",
-    "ids_to_signatures": {
+      ],
       "545": [
-        "R[obert]  Wiebrecht"
+        "R[obert] Wiebrecht"
       ]
     },
     "first": "Robert",
@@ -7299,24 +7281,10 @@
     "ids_to_signatures": {
       "340": [
         "H[ermann]. Wiener"
-      ]
-    },
-    "first": "Hermann",
-    "last": "Wiener"
-  },
-  "459": {
-    "name": "Herr? voriger Tippfehler?mann Wiener",
-    "ids_to_signatures": {
+      ],
       "312": [
-        "Herr[? voriger Tippfehler?]mann Wiener"
-      ]
-    },
-    "first": "Herr?mann",
-    "last": "Wiener"
-  },
-  "784": {
-    "name": "Dr. Hermann Wiener",
-    "ids_to_signatures": {
+        "Hermann Wiener"
+      ],
       "337": [
         "Dr. H[ermann] Wiener"
       ]
@@ -7339,20 +7307,13 @@
     "ids_to_signatures": {
       "761": [
         "Fr[?] Wilde"
-      ]
-    },
-    "first": "Fr?",
-    "last": "Wilde"
-  },
-  "109": {
-    "name": "Fr? Wilde?",
-    "ids_to_signatures": {
+      ],
       "726": [
         "Fr[?]. Wilde?"
       ]
     },
     "first": "Fr?",
-    "last": "Wilde?"
+    "last": "Wilde"
   },
   "788": {
     "name": "Franz Willers",
@@ -7378,33 +7339,13 @@
       ],
       "839": [
         "Max Winkelmann"
-      ]
-    },
-    "first": "Max",
-    "last": "Winkelmann"
-  },
-  "73": {
-    "name": "Max Winkelmann.",
-    "ids_to_signatures": {
+      ],
       "807": [
         "M[ax] Winkelmann."
       ]
     },
     "first": "Max",
     "last": "Winkelmann"
-  },
-  "550": {
-    "name": "Mary Winston",
-    "ids_to_signatures": {
-      "589": [
-        "M[ary] Winston"
-      ],
-      "620": [
-        "Mary Winston"
-      ]
-    },
-    "first": "Mary",
-    "last": "Winston"
   },
   "383": {
     "name": "Mary Frances Winston",
@@ -7414,9 +7355,15 @@
       ],
       "607": [
         "Mary F[rances] Winston"
+      ],
+      "589": [
+        "M[ary] Winston"
+      ],
+      "620": [
+        "Mary Winston"
       ]
     },
-    "first": "Mary",
+    "first": "Mary Frances",
     "last": "Winston"
   },
   "872": {
@@ -7475,27 +7422,20 @@
     "last": "Wlassoff"
   },
   "1036": {
-    "name": "Christop Wolff",
+    "name": "Christoph Wolff",
     "ids_to_signatures": {
       "195": [
-        "Christop Wolff"
-      ]
-    },
-    "first": "Christop",
-    "last": "Wolff"
-  },
-  "1040": {
-    "name": "Christoph Wolff?",
-    "ids_to_signatures": {
+        "Christoph Wolff"
+      ],
       "182": [
-        "Christoph Wolff?"
+        "Christoph Wolff"
       ],
       "189": [
-        "Christoph Wolff?"
+        "Christoph Wolff"
       ]
     },
     "first": "Christoph",
-    "last": "Wolff?"
+    "last": "Wolff"
   },
   "1047": {
     "name": "Ernst Wolfhagen?",
@@ -7568,23 +7508,16 @@
     "last": "Zahler"
   },
   "454": {
-    "name": "A? Zeilbehr",
+    "name": "Anton Zeilbehr",
     "ids_to_signatures": {
       "183": [
-        "A[?]. Zeilbehr"
-      ]
-    },
-    "first": "A?",
-    "last": "Zeilbehr"
-  },
-  "1037": {
-    "name": "unleserliches Kürzel:q.e.d?A? Zeilbehr",
-    "ids_to_signatures": {
+        "A[nton]. Zeilbehr"
+      ],
       "190": [
-        "[unleserliches Kürzel:q.e.d?]A[?]. Zeilbehr"
+        "[unleserliches Kürzel:q.e.d?]A[nton]. Zeilbehr"
       ]
     },
-    "first": "A?",
+    "first": "Anton",
     "last": "Zeilbehr"
   },
   "670": {
@@ -7770,15 +7703,5 @@
     },
     "first": "Alexander",
     "last": "von Brill"
-  },
-  "63": {
-    "name": "Albert von Brunn.",
-    "ids_to_signatures": {
-      "832": [
-        "A[lbert] v[on]. Brunn."
-      ]
-    },
-    "first": "Albert",
-    "last": "von Brunn"
   }
 }
