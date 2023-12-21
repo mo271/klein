@@ -6095,14 +6095,18 @@
     "last": "Sendler"
   },
   "384": {
-    "name": "Siebert?",
+    "name": "Friedrich[?] Siebert",
     "ids_to_signatures": {
       "1155": [
-        "[?] Siebert?"
+        "Friedrich[?] Siebert"
       ]
     },
-    "first": "",
-    "last": "Siebert?"
+    "first": "Friedrich[?]",
+    "last": "Siebert",
+    "source": [
+      "AV 1910.5 S. 80"
+    ],
+    "origin": "Hannover"
   },
   "1042": {
     "name": "Henry Siedentopf",
