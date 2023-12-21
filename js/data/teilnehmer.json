@@ -5990,20 +5990,16 @@
     "ids_to_signatures": {
       "997": [
         "[Edwin Schulze]"
+      ],
+      "972": [
+        "E[dwin] Schulze math"
+      ],
+      "969": [
+        "E[dwin]. Schulze math."
       ]
     },
     "first": "Edwin",
     "last": "Schulze"
-  },
-  "13": {
-    "name": "E? Schulze?\\newline math.?",
-    "ids_to_signatures": {
-      "969": [
-        "E[?]. Schulze?\\newline math.[?]"
-      ]
-    },
-    "first": "E?",
-    "last": "Schulze?"
   },
   "212": {
     "name": "Schwarzschild",
@@ -7787,16 +7783,6 @@
     },
     "first": "Hermann",
     "last": "Fleischer"
-  },
-  "72": {
-    "name": "E?Schulze mahn?vllt math",
-    "ids_to_signatures": {
-      "972": [
-        "E[?]Schulze mahn[?vllt math]"
-      ]
-    },
-    "first": "E?",
-    "last": "Schulze"
   },
   "829": {
     "name": "Dr. Franz? nicht Paul, könnte a 'Tiram' sein Graf",
