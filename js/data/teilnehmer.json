@@ -6754,20 +6754,13 @@
     "first": "Henry Dallas",
     "last": "Thompson"
   },
-  "624": {
-    "name": "P. Thormeyer",
-    "ids_to_signatures": {
-      "952": [
-        "P. Thormeyer"
-      ]
-    },
-    "first": "P.",
-    "last": "Thormeyer"
-  },
   "315": {
     "name": "Paul Thormeyer",
     "ids_to_signatures": {
       "948": [
+        "P[aul]. Thormeyer"
+      ],
+      "952": [
         "P[aul]. Thormeyer"
       ]
     },
