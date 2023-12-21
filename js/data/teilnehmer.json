@@ -7290,24 +7290,10 @@
     "ids_to_signatures": {
       "340": [
         "H[ermann]. Wiener"
-      ]
-    },
-    "first": "Hermann",
-    "last": "Wiener"
-  },
-  "459": {
-    "name": "Herr? voriger Tippfehler?mann Wiener",
-    "ids_to_signatures": {
+      ],
       "312": [
-        "Herr[? voriger Tippfehler?]mann Wiener"
-      ]
-    },
-    "first": "Herr?mann",
-    "last": "Wiener"
-  },
-  "784": {
-    "name": "Dr. Hermann Wiener",
-    "ids_to_signatures": {
+        "Hermann Wiener"
+      ],
       "337": [
         "Dr. H[ermann] Wiener"
       ]
