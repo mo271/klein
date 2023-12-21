@@ -5950,17 +5950,21 @@
     "last": "Schuh"
   },
   "608": {
-    "name": "Karl Schulz?",
+    "name": "Karl Schulz",
     "ids_to_signatures": {
       "866": [
-        "Karl Schulz?"
+        "Karl Schulz"
       ],
       "908": [
-        "Karl Schulz?"
+        "Karl Schulz"
       ]
     },
     "first": "Karl",
-    "last": "Schulz?"
+    "last": "Schulz",
+    "source": [
+      "AV 1903.0. S. 66"
+    ],
+    "origin": "Guben, Brandenburg"
   },
   "805": {
     "name": "Edwin Schulze",
