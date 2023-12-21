@@ -7017,20 +7017,13 @@
       ],
       "174": [
         "P[eter]. Vogel"
+      ],
+      "161": [
+        "Peter Vogel"
       ]
     },
     "first": "Peter",
     "last": "Vogel"
-  },
-  "264": {
-    "name": "Peter Vogel?",
-    "ids_to_signatures": {
-      "161": [
-        "Peter Vogel?"
-      ]
-    },
-    "first": "Peter",
-    "last": "Vogel?"
   },
   "561": {
     "name": "Paul Voigt",
