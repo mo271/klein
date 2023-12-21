@@ -5877,6 +5877,9 @@
       ],
       "167": [
         "Friedrich Schröder"
+      ],
+      "160": [
+        "Friedrich Schröder"
       ]
     },
     "first": "Friedrich",
@@ -5900,16 +5903,6 @@
     },
     "first": "Johannes",
     "last": "Schröder"
-  },
-  "871": {
-    "name": "Friedrich Schröder?",
-    "ids_to_signatures": {
-      "160": [
-        "Friedrich Schröder?"
-      ]
-    },
-    "first": "Friedrich",
-    "last": "Schröder?"
   },
   "350": {
     "name": "Hans?? Schröoeder?",
