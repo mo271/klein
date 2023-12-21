@@ -5732,14 +5732,18 @@
     "last": "Schenkel"
   },
   "746": {
-    "name": "H?? Schering?",
+    "name": "Harald Schering",
     "ids_to_signatures": {
       "818": [
-        "H[?]? Schering?"
+        "H[arald] Schering"
       ]
     },
-    "first": "H??",
-    "last": "Schering?"
+    "first": "Harald",
+    "last": "Schering",
+    "source": [
+      "AV 1901.5 S. 60"
+    ],
+    "origin": "Göttingen"
   },
   "924": {
     "name": "Helmuth Schickert",
