@@ -5910,14 +5910,18 @@
     "origin": "Erfurt, Provinz Sachsen"
   },
   "357": {
-    "name": "M? Schuc?hardt",
+    "name": "M[?] Schuchardt",
     "ids_to_signatures": {
       "561": [
-        "M[?]. Schu[c]?hardt"
+        "M[?]. Schuchardt"
       ]
     },
-    "first": "M?",
-    "last": "Schuc?hardt"
+    "first": "M[?]",
+    "last": "Schuchardt",
+    "source": [
+      "AV 1893.0 S. 50"
+    ],
+    "origin": "Halberstadt"
   },
   "154": {
     "name": "Hermann Schuepp",
