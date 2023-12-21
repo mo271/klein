@@ -5815,14 +5815,19 @@
     "last": "Schlüter?"
   },
   "544": {
-    "name": "W?? Schmidt?",
+    "name": "Willy Schmidt",
     "ids_to_signatures": {
       "771": [
-        "W?[?] Schmidt?"
+        "W[illy] Schmidt"
       ]
     },
-    "first": "W??",
-    "last": "Schmidt?"
+    "first": "Willy",
+    "last": "Schmidt",
+    "source": [
+      "AV 1899.5 S. 58",
+      "FT foll. 192"
+    ],
+    "origin": "Dresden"
   },
   "682": {
     "name": "Heinrich Schmidt?",
