@@ -6112,20 +6112,13 @@
     "ids_to_signatures": {
       "192": [
         "Carl Seefried"
+      ],
+      "185": [
+        "Carl Seefried"
       ]
     },
     "first": "Carl",
     "last": "Seefried"
-  },
-  "860": {
-    "name": "Carl Seefried?",
-    "ids_to_signatures": {
-      "185": [
-        "Carl Seefried?"
-      ]
-    },
-    "first": "Carl",
-    "last": "Seefried?"
   },
   "627": {
     "name": "Alexander Sendler",
