@@ -4991,14 +4991,18 @@
     "last": "Penseler"
   },
   "311": {
-    "name": "H?? Personn?",
+    "name": "Heinrich Personn",
     "ids_to_signatures": {
       "833": [
-        "H[?].? Personn?"
+        "H[einrich]. Personn"
       ]
     },
-    "first": "H??",
-    "last": "Personn?"
+    "first": "Heinrich",
+    "last": "Personn",
+    "source": [
+      "AV 1902.0 S. 58"
+    ],
+    "origin": "Göttingen"
   },
   "540": {
     "name": "E. Hilda? Petersen",
