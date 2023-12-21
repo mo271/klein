@@ -4997,14 +4997,17 @@
     "last": "Personn?"
   },
   "540": {
-    "name": "E??. Hilda? Petersen",
+    "name": "E. Hilda? Petersen",
     "ids_to_signatures": {
       "1148": [
-        "E[?]?. [Hilda?] Petersen"
+        "E[?]. [Hilda?] Petersen"
       ]
     },
     "first": "Hilda?",
-    "last": "Petersen"
+    "last": "Petersen",
+    "source": [
+      "KT foll. 283"
+    ]
   },
   "884": {
     "name": "Friedrich Pfeiffer",
