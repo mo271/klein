@@ -7115,18 +7115,11 @@
     "last": "Weber"
   },
   "999": {
-    "name": "W? Wecken?, stud. math.",
+    "name": "W? Wecken?",
     "ids_to_signatures": {
       "821": [
         "W[?]. Wecken?, stud. math."
-      ]
-    },
-    "first": "W?",
-    "last": "Wecken?"
-  },
-  "815": {
-    "name": "W? Wecken?\\newline stud. math.",
-    "ids_to_signatures": {
+      ],
       "843": [
         "W[?] Wecken?\\newline stud. math."
       ]
