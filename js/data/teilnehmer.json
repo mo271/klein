@@ -5844,14 +5844,19 @@
     "last": "Schleiermacher"
   },
   "703": {
-    "name": "D? Wilhelm? Schlüter?",
+    "name": "Dietrich Schlüter",
     "ids_to_signatures": {
       "762": [
-        "D[?] [Wilhelm?] Schlüter?"
+        "D[ietrich] Schlüter"
       ]
     },
-    "first": "D? Wilhelm??",
-    "last": "Schlüter?"
+    "first": "Dietrich",
+    "last": "Schlüter",
+    "source": [
+      "AV 1899.5 S. 58",
+      "KT foll. 192"
+    ],
+    "origin": "Wulsten"
   },
   "544": {
     "name": "Willy Schmidt",
