@@ -5982,14 +5982,18 @@
     "last": "Schwarzschild"
   },
   "458": {
-    "name": "Eduard Schweikert?",
+    "name": "Eduard Schweikert",
     "ids_to_signatures": {
       "803": [
-        "Eduard Schweikert?"
+        "Eduard Schweikert"
       ]
     },
     "first": "Eduard",
-    "last": "Schweikert?"
+    "last": "Schweikert",
+    "source": [
+      "AV 1900.5 S. 60"
+    ],
+    "origin": "M.-Gladbach [Mönchengladbach]"
   },
   "929": {
     "name": "Heinrich Schwienhorst",
