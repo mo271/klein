@@ -4920,17 +4920,22 @@
     "last": "Padé"
   },
   "811": {
-    "name": "F? Pahde?",
+    "name": "Fritz Pahde",
     "ids_to_signatures": {
       "676": [
-        "F[?]. Pahde?"
+        "F[ritz]. Pahde"
       ],
       "719": [
-        "F. Pahde?"
+        "F[ritz]. Pahde"
       ]
     },
-    "first": "F?",
-    "last": "Pahde?"
+    "first": "Fritz",
+    "last": "Pahde",
+    "source": [
+      "AV 1898.0 S. 54",
+      "KT foll. 182"
+    ],
+    "origin": "Witten"
   },
   "579": {
     "name": "Anna Helene Palmie",
