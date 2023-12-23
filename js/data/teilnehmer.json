@@ -2764,6 +2764,9 @@
     "ids_to_signatures": {
       "717": [
         "[Hazzidakis [Chatzidakis]]"
+      ],
+      "743": [
+        "Dr N[icolas] J[?]. Hatzidakis"
       ]
     },
     "first": "Nicolaus [Nikolaos]",
@@ -2772,7 +2775,8 @@
       "AV 1998.0 S. 39",
       "KT foll. 187"
     ],
-    "origin": "Athen"
+    "origin": "Athen",
+    "name_non_latin": "Νικόλαος Χατζιδάκις"
   },
   "536": {
     "name": "G? Huber?",
@@ -4799,17 +4803,6 @@
     },
     "first": "Burt Newkirk",
     "last": "Newkirk"
-  },
-  "1190": {
-    "name": "D\\textsuperscript{r} Nicolas J? Hatzidakis",
-    "ids_to_signatures": {
-      "743": [
-        "D\\textsuperscript{r} N[icolas] J[?]. Hatzidakis"
-      ]
-    },
-    "first": "Nicolas J?",
-    "last": "Nicolas J?",
-    "name_non_latin": "Νικόλαος Χατζιδάκις"
   },
   "742": {
     "name": "Paul Nimsch",
