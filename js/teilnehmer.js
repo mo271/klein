@@ -262,7 +262,8 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
-	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+	name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin +')<span>' : '';
+	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + name_non_latin_span + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
 	//li = '<li class="' + cssClass + '><div>hello!!</div></li>';
 	return li;
 }
@@ -304,6 +305,7 @@ $(document).ready(function () {
 			return {
 				id: key,
 				name: item.name,
+				name_non_latin: item.hasOwnProperty('name_non_latin') ? item.name_non_latin : '',
 				first: item.first,
 				last: item.last,
 				ids_to_signatures: item.ids_to_signatures
