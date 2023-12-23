@@ -5153,20 +5153,13 @@
       ],
       "510": [
         "F[riedrich]. Pockels"
+      ],
+      "506": [
+        "[Pockels]"
       ]
     },
     "first": "Friedrich",
     "last": "Pockels"
-  },
-  "1090": {
-    "name": "Pockels?",
-    "ids_to_signatures": {
-      "506": [
-        "[Pockels?]"
-      ]
-    },
-    "first": "",
-    "last": "Pockels?"
   },
   "338": {
     "name": "Ernst Pohlhausen",
