@@ -6370,20 +6370,13 @@
     "first": "Washington Irving",
     "last": "Stringham"
   },
-  "1161": {
-    "name": "Eduard? mit Bleistift Study",
-    "ids_to_signatures": {
-      "422": [
-        "[Eduard][? mit Bleistift] Study"
-      ]
-    },
-    "first": "Eduard?",
-    "last": "Study"
-  },
   "741": {
     "name": "Eduard Study",
     "ids_to_signatures": {
       "326": [
+        "[Eduard] Study"
+      ],
+      "422": [
         "[Eduard] Study"
       ]
     },
