@@ -89,14 +89,15 @@
     "last": "Adami?"
   },
   "992": {
-    "name": "Tatjana Alexejewna Afanassjewa später Ehrenfest\\foreignlanguage{russian}{Татьяна Алексеевна Афанасьева}",
+    "name": "Tatjana Alexejewna Afanassjewa später Ehrenfest",
     "ids_to_signatures": {
       "849": [
-        "T[atjana Alexejewna] Afanassjewa [später Ehrenfest][\\foreignlanguage{russian}{Татьяна Алексеевна Афанасьева}]"
+        "T[atjana Alexejewna] Afanassjewa [später Ehrenfest]"
       ]
     },
     "first": "Tatjana Alexejewna",
-    "last": "Afanassjewa später Ehrenfest"
+    "last": "Afanassjewa später Ehrenfest",
+    "name_non_latin": "Татьяна Алексеевна Афанасьева"
   },
   "651": {
     "name": "Michael Akimoff",
@@ -4800,14 +4801,15 @@
     "last": "Newkirk"
   },
   "1190": {
-    "name": "D\\textsuperscript{r} Nicolas J? Hatzidakis \\foreignlanguage{greek}{Νικόλαος Χατζιδάκις}",
+    "name": "D\\textsuperscript{r} Nicolas J? Hatzidakis",
     "ids_to_signatures": {
       "743": [
-        "D\\textsuperscript{r} N[icolas] J[?]. Hatzidakis [\\foreignlanguage{greek}{Νικόλαος Χατζιδάκις}]"
+        "D\\textsuperscript{r} N[icolas] J[?]. Hatzidakis"
       ]
     },
     "first": "Nicolas J?",
-    "last": "Nicolas J?"
+    "last": "Nicolas J?",
+    "name_non_latin": "Νικόλαος Χατζιδάκις"
   },
   "742": {
     "name": "Paul Nimsch",
@@ -6801,14 +6803,15 @@
     "last": "Threlfall"
   },
   "501": {
-    "name": "Matvej Tichomaridritzky \\foreignlanguage{russian}{Матвей Александрович Тихомандрицкий}\\newline Docent an der Universität Charkow.",
+    "name": "Matvej Tichomaridritzky\\newline Docent an der Universität Charkow.",
     "ids_to_signatures": {
       "402": [
-        "M[atvej]. Tichomaridritzky [\\foreignlanguage{russian}{Матвей Александрович Тихомандрицкий}]\\newline Docent an der Universität Charkow."
+        "M[atvej]. Tichomaridritzky\\newline Docent an der Universität Charkow."
       ]
     },
     "first": "Matvej",
-    "last": "Tichomaridritzky"
+    "last": "Tichomaridritzky",
+    "name_non_latin": "Матвей Александрович Тихомандрицкий"
   },
   "1097": {
     "name": "Wilhelm Tiedge",
@@ -6837,14 +6840,15 @@
     "last": "Tiedge?"
   },
   "200": {
-    "name": "Stepan Prokopowytsch Timoschenko \\foreignlanguage{russian}{Степан Прокопович Тимошенко}",
+    "name": "Stepan Prokopowytsch Timoschenko",
     "ids_to_signatures": {
       "1096": [
-        "S[tepan Prokopowytsch] Timoschenko \\foreignlanguage{russian}{Степан Прокопович Тимошенко}"
+        "S[tepan Prokopowytsch] Timoschenko"
       ]
     },
     "first": "Stepan Prokopowytsch",
-    "last": "Timoschenko"
+    "last": "Timoschenko",
+    "name_non_latin": "Степан Прокопович Тимошенко"
   },
   "699": {
     "name": "Anton Aloys Timpe.",
@@ -7497,14 +7501,15 @@
     "last": "Witting"
   },
   "156": {
-    "name": "Alexei Konstantinowitsch Wlassoff \\foreignlanguage{russian}{Алексей Константинович Власов},\\newline Privat-Docent in Moskau andere Schrift? ",
+    "name": "Alexei Konstantinowitsch Wlassoff",
     "ids_to_signatures": {
       "917": [
-        "A[lexei Konstantinowitsch]  Wlassoff [\\foreignlanguage{russian}{Алексей Константинович Власов}],\\newline Privat-Docent in Moskau [andere Schrift?]"
+        "A[lexei Konstantinowitsch]  Wlassoff,\\newline Privat-Docent in Moskau [andere Schrift?]"
       ]
     },
     "first": "Alexei Konstantinowitsch",
-    "last": "Wlassoff"
+    "last": "Wlassoff",
+    "name_non_latin": "Алексей Константинович Власов"
   },
   "1036": {
     "name": "Christoph Wolff",
