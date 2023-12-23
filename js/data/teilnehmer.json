@@ -6270,16 +6270,6 @@
     "first": "Arnold",
     "last": "Sommerfeld"
   },
-  "284": {
-    "name": "Dr. Staude",
-    "ids_to_signatures": {
-      "346": [
-        "Dr. Staude"
-      ]
-    },
-    "first": "Dr.",
-    "last": "Staude"
-  },
   "952": {
     "name": "Otto Staude",
     "ids_to_signatures": {
@@ -6300,14 +6290,7 @@
       ],
       "341": [
         "[Otto] Staude"
-      ]
-    },
-    "first": "Otto",
-    "last": "Staude"
-  },
-  "28": {
-    "name": "Dr. Otto Staude",
-    "ids_to_signatures": {
+      ],
       "336": [
         "Dr. Otto Staude"
       ],
@@ -6316,6 +6299,9 @@
       ],
       "345": [
         "Dr. Otto Staude"
+      ],
+      "346": [
+        "Dr. Staude"
       ]
     },
     "first": "Otto",
