@@ -133,7 +133,8 @@
     "last": "Alfke",
     "source": [
       "AV 1912.0 S. 41"
-    ]
+    ],
+    "origin": "Bruchhausen, Hannover[?]"
   },
   "803": {
     "name": "Karl Almstedt",
@@ -147,7 +148,8 @@
     "source": [
       "AV 1912.0 S. 41",
       "P 1912.0 S. 451"
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "647": {
     "name": "Julius Alsen",
@@ -198,14 +200,15 @@
     "name": "August Ansel",
     "ids_to_signatures": {
       "1068": [
-        "A. Ansel"
+        "A[ugust]. Ansel"
       ]
     },
     "first": "August",
     "last": "Ansel",
     "source": [
       "AV 1908.0 S. 39"
-    ]
+    ],
+    "origin": "Stuttgart"
   },
   "178": {
     "name": "Albert Andrae",
@@ -231,7 +234,8 @@
     "last": "Arensmeier",
     "source": [
       "AV 1900.5 S. 36"
-    ]
+    ],
+    "origin": "Riepen [Niedersachsen]"
   },
   "1101": {
     "name": "L Anhenn",
@@ -264,7 +268,10 @@
     },
     "first": "Wilhlem",
     "last": "Ausborn",
-    "source": "AV 1912.0 S. 42"
+    "source": [
+      "AV 1912.0 S. 42"
+    ],
+    "origin": "Charlottenburg [Berlin]"
   },
   "818": {
     "name": "Dr. Aleksander Axer",
@@ -401,7 +408,8 @@
     "last": "Behse",
     "source": [
       "AV 1892.0 S. 38"
-    ]
+    ],
+    "origin": "Helmstedt, Br[aunschweig]"
   },
   "964": {
     "name": "Dr. Emanuel Beke",
@@ -440,7 +448,8 @@
     "last": "Benecke",
     "source": [
       "AV 1903.5 S. 38"
-    ]
+    ],
+    "origin": "Neuhaldesleben"
   },
   "248": {
     "name": "Sigfrid Berliner",
@@ -521,7 +530,8 @@
     "last": "Bechen",
     "source": [
       "AV 1912.0 S. 43"
-    ]
+    ],
+    "origin": "Düsseldorf"
   },
   "591": {
     "name": "Luigi Bianci",
@@ -597,7 +607,8 @@
     "last": "Biesterfeld",
     "source": [
       "AV 1905.0 S. 40"
-    ]
+    ],
+    "origin": "Raden, Hessen-Nassau"
   },
   "277": {
     "name": "Otto Birck",
@@ -646,7 +657,8 @@
     "last": "Blumenfeld",
     "source": [
       "AV 1892.0 S. 39"
-    ]
+    ],
+    "origin": "Adelebsen"
   },
   "1200": {
     "name": "Otto Blumenthal",
@@ -744,7 +756,8 @@
     "last": "Bornemann",
     "source": [
       "AV 1902.0 S. 40"
-    ]
+    ],
+    "origin": "Göttingen"
   },
   "407": {
     "name": "Helene von Bortkewitsch",
@@ -935,7 +948,8 @@
     "last": "Brühl",
     "source": [
       "AV 1911.0 S. 47"
-    ]
+    ],
+    "origin": "Göttingen"
   },
   "69": {
     "name": "Arthur Buchheim",
@@ -1074,7 +1088,8 @@
     "last": "Bürgener",
     "source": [
       "AV 1898.0 S. 39"
-    ]
+    ],
+    "origin": "Fuhlen"
   },
   "467": {
     "name": "Curt Bürger",
@@ -1192,7 +1207,8 @@
     "last": "Cordes",
     "source": [
       "AV 1903.5 S. 42"
-    ]
+    ],
+    "origin": "Northeim, Hannover[?]"
   },
   "603": {
     "name": "Adam Comstock",
@@ -1251,7 +1267,8 @@
     "last": "Denker",
     "source": [
       "AV 1902.0 S. 43"
-    ]
+    ],
+    "origin": "Celle"
   },
   "1110": {
     "name": "Friedrich Dingeldey",
@@ -1494,7 +1511,8 @@
     "last": "Faber",
     "source": [
       "AV 1900.5 S. 42"
-    ]
+    ],
+    "origin": "München"
   },
   "692": {
     "name": "H Fabusch?",
@@ -1617,7 +1635,8 @@
     "last": "Fitschen",
     "source": [
       "AV 1912.0 S. 54"
-    ]
+    ],
+    "origin": "Worpswede, Hannover"
   },
   "330": {
     "name": "Emil Foerster",
@@ -1628,7 +1647,10 @@
     },
     "first": "Emil",
     "last": "Foerster",
-    "source": "AV 1902.5 S. 45"
+    "source": [
+      "AV 1902.5 S. 45"
+    ],
+    "origin": "Wien"
   },
   "534": {
     "name": "Wilhelm Frahm",
@@ -1709,7 +1731,8 @@
     "last": "Hartung",
     "source": [
       "AV 1902.5 S. 48"
-    ]
+    ],
+    "origin": "Niedernstöcken, Hannover"
   },
   "548": {
     "name": "Theophil Friesendorff",
@@ -1842,7 +1865,8 @@
     "last": "Gehring",
     "source": [
       "AV 1899.5 S. 43"
-    ]
+    ],
+    "origin": "Gut Feilz[?]"
   },
   "1182": {
     "name": "Ludwig Carl Geiger",
@@ -1894,7 +1918,8 @@
     "last": "Gersting",
     "source": [
       "AV 1904.0 S. 47"
-    ]
+    ],
+    "origin": "Gr. Lengden, Hannover"
   },
   "845": {
     "name": "Friedrich Giebel",
@@ -1997,7 +2022,10 @@
     },
     "first": "Meier[?]",
     "last": "Goldman",
-    "source": "AV 1906.0 S. 49"
+    "source": [
+      "AV 1906.0 S. 49"
+    ],
+    "origin": "Lodz, Rußland[?]"
   },
   "634": {
     "name": "Paul Gordan",
@@ -6110,7 +6138,7 @@
     "source": [
       "AV 1910.5 S. 80"
     ],
-    "origin": "Hannover"
+    "origin": "Hannover[?]"
   },
   "1042": {
     "name": "Henry Siedentopf",
