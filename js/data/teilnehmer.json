@@ -4745,19 +4745,6 @@
     "first": "Hans",
     "last": "Müller"
   },
-  "669": {
-    "name": "Conrad Müller",
-    "ids_to_signatures": {
-      "788": [
-        "Conrad Müller"
-      ],
-      "789": [
-        "Conrad Müller"
-      ]
-    },
-    "first": "Conrad",
-    "last": "Müller"
-  },
   "151": {
     "name": "Erich Müller",
     "ids_to_signatures": {
@@ -4776,6 +4763,12 @@
       ],
       "886": [
         "C[onrad]. H[einrich]. Müller"
+      ],
+      "788": [
+        "Conrad Müller"
+      ],
+      "789": [
+        "Conrad Müller"
       ]
     },
     "first": "Conrad Heinrich",
