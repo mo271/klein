@@ -46,12 +46,9 @@ function processTeilnehmer() {
 }
 
 function processProtokolle() {
-	var Monat = new Array("Januar", "Februar", "M&auml;rz", "April", "Mai", "Juni",
-		"Juli", "August", "September", "Oktober", "November", "Dezember");
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
-	var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
-		"Donnerstag", "Freitag", "Samstag");
+	var Wochentag = new Array("So.", "Mo.", "Di.", "Mi.",	"Do.", "Fr.", "Sa.");
 	for (var i = 0; i < protokolle.length; i++) {
 		protokolle[i].titel = protokolle[i].titel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$1</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");
 		protokolle[i].ktitel = protokolle[i].ktitel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$0</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");

@@ -46,8 +46,6 @@ function processTeilnehmer() {
 }
 
 function processProtokolle() {
-	var Monat = new Array("Januar", "Februar", "M&auml;rz", "April", "Mai", "Juni",
-		"Juli", "August", "September", "Oktober", "November", "Dezember");
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
 	var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
