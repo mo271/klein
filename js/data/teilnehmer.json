@@ -6185,24 +6185,17 @@
     "last": "Siedentopf"
   },
   "329": {
-    "name": "C. Siegel",
+    "name": "Carl Siegel",
     "ids_to_signatures": {
       "567": [
-        "C. Siegel"
-      ]
-    },
-    "first": "C.",
-    "last": "Siegel"
-  },
-  "101": {
-    "name": "Carl?, nicht der CS, sondern vielleicht Philisoph?! Siegel?",
-    "ids_to_signatures": {
+        "C[arl] Siegel"
+      ],
       "563": [
-        "C[arl?, [nicht der CS, sondern vielleicht Philisoph?!] Siegel?"
+        "C[arl] Siegel"
       ]
     },
-    "first": "Carl?",
-    "last": "Siegel?"
+    "first": "Carl",
+    "last": "Siegel"
   },
   "36": {
     "name": "Percy Franklyn Smith",
