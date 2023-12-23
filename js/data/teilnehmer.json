@@ -5690,24 +5690,18 @@
     "last": "Sapolsky"
   },
   "247": {
-    "name": "A? Sass",
+    "name": "Andreas Saß",
     "ids_to_signatures": {
       "870": [
-        "A[?] Sass"
-      ]
-    },
-    "first": "A?",
-    "last": "Sass"
-  },
-  "1091": {
-    "name": "A? Sass?",
-    "ids_to_signatures": {
+        "A[ndreas] Sass"
+      ],
       "897": [
-        "A[?]. Sass?"
+        "A[ndreas]. Sass"
       ]
     },
-    "first": "A?",
-    "last": "Sass?"
+    "first": "Andreas",
+    "last": "Sass",
+    "origin":"Flensburg, Schleswig-Holstein"
   },
   "937": {
     "name": "Hans von Schaper",
