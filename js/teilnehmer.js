@@ -263,8 +263,8 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
 	name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin +')<span>' : '';
-	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + name_non_latin_span + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
-	//li = '<li class="' + cssClass + '><div>hello!!</div></li>';
+	origin_span = record.origin ? '<span id="origin_span"> aus '+record.origin +'</span>' : '';
+	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + name_non_latin_span + origin_span +'</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
 	return li;
 }
 $('.englisch').toggle();
@@ -306,6 +306,7 @@ $(document).ready(function () {
 				id: key,
 				name: item.name,
 				name_non_latin: item.hasOwnProperty('name_non_latin') ? item.name_non_latin : '',
+				origin: item.hasOwnProperty('origin') ? item.origin : '',
 				first: item.first,
 				last: item.last,
 				ids_to_signatures: item.ids_to_signatures
