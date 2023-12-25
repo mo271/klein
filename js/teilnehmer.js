@@ -220,9 +220,29 @@ function meinbandsort(record, queryValue) {
 	}
 	return false;
 }
+
 function meinsort(record, queryValue) {
 	anfrage = queryValue.split('-');
-	return (anfrage[1] == record[anfrage[0]]) ? true : false;
+	// Iterate over the ids_to_signatures to find a match
+	for (var key in record.ids_to_signatures) {
+		if (record.ids_to_signatures.hasOwnProperty(key)) {
+			// Adjust the key according to your requirements
+			var adjusted_key = parseInt(key) - 1;
+
+			// Check if the adjusted key is within the bounds of the protokolle array
+			if (adjusted_key >= 0 && adjusted_key < protokolle.length) {
+				var prot_record = protokolle[adjusted_key];
+
+				// Check if the anfrage matches the prot_record
+				if (anfrage[1] == prot_record[anfrage[0]]) {
+					return true;
+				}
+			} else {
+				console.log("unexpected out of range adjusted key:", adjusted_key);
+			}
+		}
+	}
+	return false;
 }
 
 
