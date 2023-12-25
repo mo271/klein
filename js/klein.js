@@ -385,8 +385,8 @@ $(document).ready(function () {
 			var band = e.attr("band")
 			var teil = e.attr("teil")
 			var seite = e.attr("seite")
-			var bildurl = 'http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p' + pad(seite) + '_low.jpg'
-			var longprefix = 'http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p'
+			var bildurl = 'https:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p' + pad(seite) + '_low.jpg'
+			var longprefix = 'https:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p'
 			hideprev(seite);
 
 			processbild = "ico/proc.gif";
