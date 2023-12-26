@@ -85,10 +85,10 @@
     },
     "first": "Friedrich[?]",
     "last": "Alfke",
-    "source": [
-      "AV 1912.0 S. 41"
-    ],
-    "origin": "Bruchhausen, Hannover[?]"
+    "origin": "Bruchhausen, Hannover[?]",
+    "sources": {
+      "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
+    }
   },
   "803": {
     "name": "Karl Almstedt",
@@ -97,11 +97,11 @@
     },
     "first": "Karl",
     "last": "Almstedt",
-    "source": [
-      "AV 1912.0 S. 41",
-      "P 1912.0 S. 451"
-    ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "sources": {
+      "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D",
+      "P 1912.0 S. 451": ""
+    }
   },
   "647": {
     "name": "Julius Alsen",
@@ -110,9 +110,9 @@
     },
     "first": "Julius",
     "last": "Alsen",
-    "source": [
-      "AV 1906.0 S. 38"
-    ]
+    "sources": {
+      "AV 1906.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    }
   },
   "656": {
     "name": "Julius Amelung",
@@ -161,10 +161,10 @@
     },
     "first": "August",
     "last": "Ansel",
-    "source": [
-      "AV 1908.0 S. 39"
-    ],
-    "origin": "Stuttgart"
+    "origin": "Stuttgart",
+    "sources": {
+      "AV 1908.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    }
   },
   "166": {
     "name": "Friedrich Arensmeier",
@@ -174,10 +174,10 @@
     },
     "first": "Friedrich",
     "last": "Arensmeier",
-    "source": [
-      "AV 1900.5 S. 36"
-    ],
-    "origin": "Riepen [Niedersachsen]"
+    "origin": "Riepen [Niedersachsen]",
+    "sources": {
+      "AV 1900.5 S.36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
+    }
   },
   "1022": {
     "name": "Wilhelm Ausborn",
@@ -186,10 +186,10 @@
     },
     "first": "Wilhlem",
     "last": "Ausborn",
-    "source": [
-      "AV 1912.0 S. 42"
-    ],
-    "origin": "Charlottenburg [Berlin]"
+    "origin": "Charlottenburg [Berlin]",
+    "sources": {
+      "AV 1912.0 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B42%5D%7D"
+    }
   },
   "818": {
     "name": "Dr. Aleksander Axer",
@@ -215,9 +215,9 @@
     },
     "first": "Erwin",
     "last": "Backhaus",
-    "source": [
-      "AV 1900.5 S. 36"
-    ]
+    "sources": {
+      "AV 1900.5 S.36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
+    }
   },
   "495": {
     "name": "Heinrich Barkhausen",
@@ -268,10 +268,10 @@
     },
     "first": "Theodor",
     "last": "Bechen",
-    "source": [
-      "AV 1912.0 S. 43"
-    ],
-    "origin": "Düsseldorf"
+    "origin": "Düsseldorf",
+    "sources": {
+      "AV 1912.0 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B43%5D%7D"
+    }
   },
   "1000": {
     "name": "Fritz Beer",
@@ -300,10 +300,10 @@
     },
     "first": "L.",
     "last": "Behse",
-    "source": [
-      "AV 1892.0 S. 38"
-    ],
-    "origin": "Helmstedt, Br[aunschweig]"
+    "origin": "Helmstedt, Br[aunschweig]",
+    "sources": {
+      "AV 1892.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    }
   },
   "964": {
     "name": "Dr. Emanuel Beke",
@@ -330,10 +330,10 @@
     },
     "first": "Alfred",
     "last": "Benecke",
-    "source": [
-      "AV 1903.5 S. 38"
-    ],
-    "origin": "Neuhaldesleben"
+    "origin": "Neuhaldesleben",
+    "sources": {
+      "AV 1903.5 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    }
   },
   "248": {
     "name": "Sigfrid Berliner",
@@ -423,10 +423,10 @@
     },
     "first": "Heinrich",
     "last": "Biesterfeld",
-    "source": [
-      "AV 1905.0 S. 40"
-    ],
-    "origin": "Raden, Hessen-Nassau"
+    "origin": "Raden, Hessen-Nassau",
+    "sources": {
+      "AV 1905.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    }
   },
   "277": {
     "name": "Otto Birck",
@@ -461,10 +461,10 @@
     },
     "first": "K[?]",
     "last": "Blumenfeld",
-    "source": [
-      "AV 1892.0 S. 39"
-    ],
-    "origin": "Adelebsen"
+    "origin": "Adelebsen",
+    "sources": {
+      "AV 1892.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    }
   },
   "1200": {
     "name": "Otto Blumenthal",
@@ -534,10 +534,10 @@
     },
     "first": "Ferdinand",
     "last": "Bornemann",
-    "source": [
-      "AV 1902.0 S. 40"
-    ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "sources": {
+      "AV 1902.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    }
   },
   "407": {
     "name": "Helene von Bortkewitsch",
@@ -641,10 +641,10 @@
     },
     "first": "Hermann",
     "last": "Brühl",
-    "source": [
-      "AV 1911.0 S. 47"
-    ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "sources": {
+      "AV 1911.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    }
   },
   "69": {
     "name": "Arthur Buchheim",
@@ -737,10 +737,10 @@
     },
     "first": "Oskar",
     "last": "Bürgener",
-    "source": [
-      "AV 1898.0 S. 39"
-    ],
-    "origin": "Fuhlen"
+    "origin": "Fuhlen",
+    "sources": {
+      "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    }
   },
   "467": {
     "name": "Curt Bürger",
@@ -814,12 +814,12 @@
     },
     "first": "Nicolaus [Nikolaos]",
     "last": "Chatzidakis [Hatzdakis]",
-    "source": [
-      "AV 1998.0 S. 39",
-      "KT foll. 187"
-    ],
     "origin": "Athen",
-    "name_non_latin": "Νικόλαος Χατζιδάκις"
+    "name_non_latin": "Νικόλαος Χατζιδάκις",
+    "sources": {
+      "AV 1998.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1998_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
+      "KT foll. 187": ""
+    }
   },
   "1045": {
     "name": "Grace Chisholm",
@@ -846,10 +846,10 @@
     },
     "first": "Wilhelm[?]",
     "last": "Cordes",
-    "source": [
-      "AV 1903.5 S. 42"
-    ],
-    "origin": "Northeim, Hannover[?]"
+    "origin": "Northeim, Hannover[?]",
+    "sources": {
+      "AV 1903.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
+    }
   },
   "321": {
     "name": "Charles Emerson Curry",
@@ -883,10 +883,10 @@
     },
     "first": "Johannes",
     "last": "Denker",
-    "source": [
-      "AV 1902.0 S. 43"
-    ],
-    "origin": "Celle"
+    "origin": "Celle",
+    "sources": {
+      "AV 1902.0 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B43%5D%7D"
+    }
   },
   "1110": {
     "name": "Friedrich Dingeldey",
@@ -1037,10 +1037,10 @@
     },
     "first": "Georg",
     "last": "Faber",
-    "source": [
-      "AV 1900.5 S. 42"
-    ],
-    "origin": "München"
+    "origin": "München",
+    "sources": {
+      "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
+    }
   },
   "692": {
     "name": "H Fabusch?",
@@ -1123,10 +1123,10 @@
     },
     "first": "Heinrich",
     "last": "Fitschen",
-    "source": [
-      "AV 1912.0 S. 54"
-    ],
-    "origin": "Worpswede, Hannover"
+    "origin": "Worpswede, Hannover",
+    "sources": {
+      "AV 1912.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    }
   },
   "533": {
     "name": "Hermann Fleischer",
@@ -1143,10 +1143,10 @@
     },
     "first": "Emil",
     "last": "Foerster",
-    "source": [
-      "AV 1902.5 S. 45"
-    ],
-    "origin": "Wien"
+    "origin": "Wien",
+    "sources": {
+      "AV 1902.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B45%5D%7D"
+    }
   },
   "534": {
     "name": "Wilhelm Frahm",
@@ -1283,10 +1283,10 @@
     },
     "first": "Alfred",
     "last": "Gehring",
-    "source": [
-      "AV 1899.5 S. 43"
-    ],
-    "origin": "Gut Feilz[?]"
+    "origin": "Gut Feilz[?]",
+    "sources": {
+      "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D"
+    }
   },
   "1182": {
     "name": "Ludwig Carl Geiger",
@@ -1322,9 +1322,9 @@
     },
     "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
     "last": "Gernet [Gernett]",
-    "source": [
-      "TO S. 396"
-    ]
+    "sources": {
+      "TO S. 396": ""
+    }
   },
   "1100": {
     "name": "Gustav Gersting",
@@ -1333,10 +1333,10 @@
     },
     "first": "Gustav",
     "last": "Gersting",
-    "source": [
-      "AV 1904.0 S. 47"
-    ],
-    "origin": "Gr. Lengden, Hannover"
+    "origin": "Gr. Lengden, Hannover",
+    "sources": {
+      "AV 1904.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    }
   },
   "845": {
     "name": "Friedrich Giebel",
@@ -1399,10 +1399,10 @@
     },
     "first": "Meier[?]",
     "last": "Goldman",
-    "source": [
-      "AV 1906.0 S. 49"
-    ],
-    "origin": "Lodz, Rußland[?]"
+    "origin": "Lodz, Rußland[?]",
+    "sources": {
+      "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    }
   },
   "634": {
     "name": "Paul Gordan",
@@ -1452,10 +1452,10 @@
     },
     "first": "Julius[?]",
     "last": "Greßler",
-    "source": [
-      "P 1899.5, S. 441",
-      "AV 1899.5 S. 44"
-    ]
+    "sources": {
+      "P 1899.5, S. 441": "",
+      "AV 1899.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    }
   },
   "204": {
     "name": "Jerimias? Grossmann",
@@ -1557,10 +1557,10 @@
     },
     "first": "Rudolph",
     "last": "Hansen",
-    "source": [
-      "AV 1899.5 S. 45",
-      "AV 1901.0 S. 46"
-    ]
+    "sources": {
+      "AV 1899.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "AV 1901.0 S.46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
+    }
   },
   "360": {
     "name": "Hans Happel",
@@ -1600,9 +1600,9 @@
     },
     "first": "Roderich",
     "last": "Hartenstein",
-    "source": [
-      "AV 1904.5 S. 49"
-    ]
+    "sources": {
+      "AV 1904.5 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    }
   },
   "928": {
     "name": "Chr Hartmann",
@@ -1621,12 +1621,12 @@
     },
     "first": "Balthasar",
     "last": "Hartmann",
-    "source": [
-      "AV 1899.5 S. 45",
-      "AV 1900.0 S. 45",
-      "KT foll. 191",
-      "KT foll. 192"
-    ]
+    "sources": {
+      "AV 1899.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "AV 1900.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "KT foll. 191": "",
+      "KT foll. 192": ""
+    }
   },
   "892": {
     "name": "Julius Hartung",
@@ -1635,10 +1635,10 @@
     },
     "first": "Julius",
     "last": "Hartung",
-    "source": [
-      "AV 1902.5 S. 48"
-    ],
-    "origin": "Niedernstöcken, Hannover"
+    "origin": "Niedernstöcken, Hannover",
+    "sources": {
+      "AV 1902.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    }
   },
   "126": {
     "name": "Mellen Woodman Haskell",
@@ -1736,10 +1736,10 @@
     },
     "first": "Theodor",
     "last": "Henninger",
-    "source": [
-      "AV. 1912.0 S. 60"
-    ],
-    "origin": "Neuwied, Rheinprovinz"
+    "origin": "Neuwied, Rheinprovinz",
+    "sources": {
+      "AV 1912.0 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    }
   },
   "545": {
     "name": "Dr. Gustav Herglotz",
@@ -1767,10 +1767,10 @@
     },
     "first": "Theodor[?]",
     "last": "Herrmann",
-    "source": [
-      "KT foll. 142"
-    ],
-    "origin": "Eberbach?"
+    "origin": "Eberbach?",
+    "sources": {
+      "KT foll. 142": ""
+    }
   },
   "620": {
     "name": "Robert Herrmann",
@@ -1859,13 +1859,13 @@
     },
     "first": "Gerhard",
     "last": "Hoffmann",
-    "source": [
-      "AV 1902.0 S. 50",
-      "AV 1902.5 S. 49",
-      "KT foll. 207",
-      "KT foll. 211"
-    ],
-    "origin": "Lübeck"
+    "origin": "Lübeck",
+    "sources": {
+      "AV 1902.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B50%5D%7D",
+      "AV 1902.5 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B49%5D%7D",
+      "KT foll. 207": "",
+      "KT foll. 211": ""
+    }
   },
   "1025": {
     "name": "Elling Bolt Holst",
@@ -1888,10 +1888,10 @@
     },
     "first": "Paul",
     "last": "Holtzhüter",
-    "source": [
-      "AV 1904.0 S. 52"
-    ],
-    "origin": "Charlottenburg [Berlin]"
+    "origin": "Charlottenburg [Berlin]",
+    "sources": {
+      "AV 1904.0 S.52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    }
   },
   "779": {
     "name": "Paul Hommel",
@@ -1908,10 +1908,10 @@
     },
     "first": "Stanko",
     "last": "Hondl",
-    "source": [
-      "AV 1900.0 S. 47"
-    ],
-    "origin": "Agram [Zagreb]"
+    "origin": "Agram [Zagreb]",
+    "sources": {
+      "AV 1900.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    }
   },
   "141": {
     "name": "Heinrich Hoppe",
@@ -1922,10 +1922,10 @@
     },
     "first": "Heinrich",
     "last": "Hoppe",
-    "source": [
-      "TO 2021 S. 231"
-    ],
-    "origin": "Chemnitz"
+    "origin": "Chemnitz",
+    "sources": {
+      "TO 2021 S. 231": ""
+    }
   },
   "444": {
     "name": "Guido Horn",
@@ -2010,11 +2010,11 @@
     },
     "first": "Walter",
     "last": "Härter",
-    "source": [
-      "KT foll. 284",
-      "AV 1910.5 S. 55"
-    ],
-    "origin": "Alsfeld, Hessen-Darmstadt"
+    "origin": "Alsfeld, Hessen-Darmstadt",
+    "sources": {
+      "KT foll. 284": "",
+      "AV 1910.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    }
   },
   "1024": {
     "name": "Henrik Edvard Johannes (Heikki) Hårdh",
@@ -2047,11 +2047,11 @@
     },
     "first": "Augustin",
     "last": "Hölscher",
-    "source": [
-      "AV 1892.0 S. 45",
-      "https://westerode.de/unserdorf/westeroeder-buerger/"
-    ],
-    "origin": "Westerode, Hannover"
+    "origin": "Westerode, Hannover",
+    "sources": {
+      "AV 1892.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "westeroeder-buerger": "https://westerode.de/unserdorf/westeroeder-buerger/"
+    }
   },
   "300": {
     "name": "Wilhelm Ihlenburg",
@@ -2082,10 +2082,10 @@
     },
     "first": "Karl",
     "last": "Janke",
-    "source": [
-      "AV 1908.5 S. 57"
-    ],
-    "origin": "Schwerin, Mecklenburg"
+    "origin": "Schwerin, Mecklenburg",
+    "sources": {
+      "AV 1908.5 S.57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
+    }
   },
   "963": {
     "name": "H??. Johannes?",
@@ -2104,9 +2104,9 @@
     },
     "first": "Ada Maria Jane Elizabeth",
     "last": "Johnson",
-    "source": [
-      "https://renate.tobies.org/fileadmin/2022/2020_Tobies_Klein_Women_in%20his%20courses.pdf"
-    ]
+    "sources": {
+      "Tobies_Klein_Women": "https://renate.tobies.org/fileadmin/2022/2020_Tobies_Klein_Women_in%20his%20courses.pdf"
+    }
   },
   "164": {
     "name": "Herbert? Jordan",
@@ -2140,10 +2140,10 @@
     },
     "first": "Paul",
     "last": "Jungmann",
-    "source": [
-      "AV 1903.5 S. 50"
-    ],
-    "origin": "Kassel, Hessen-Nassau"
+    "origin": "Kassel, Hessen-Nassau",
+    "sources": {
+      "AV 1903.5 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B50%5D%7D"
+    }
   },
   "493": {
     "name": "Manfred Jäger.",
@@ -2160,10 +2160,10 @@
     },
     "first": "Paul",
     "last": "Kaltenbach",
-    "source": [
-      "AV 1900.5 S. 48"
-    ],
-    "origin": "Dessau"
+    "origin": "Dessau",
+    "sources": {
+      "AV 1900.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    }
   },
   "666": {
     "name": "Heinrich Karstens",
@@ -2188,10 +2188,10 @@
     },
     "first": "Otto",
     "last": "Kindling",
-    "source": [
-      "AV 1900.5 S. 48"
-    ],
-    "origin": "Niedernstöcken"
+    "origin": "Niedernstöcken",
+    "sources": {
+      "AV 1900.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    }
   },
   "1199": {
     "name": "Paul Kirchberger",
@@ -2216,10 +2216,10 @@
     },
     "first": "Walther",
     "last": "Klebe",
-    "source": [
-      "AV 1910.5 S. 64"
-    ],
-    "origin": "Garssen, Hannover"
+    "origin": "Garssen, Hannover",
+    "sources": {
+      "AV 1910.5 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
+    }
   },
   "558": {
     "name": "Elisabeth Klein",
@@ -2366,10 +2366,10 @@
     },
     "first": "Johannes",
     "last": "Klien",
-    "source": [
-      "AV 1904.0 S. 54"
-    ],
-    "origin": "Dresden, Sachsen"
+    "origin": "Dresden, Sachsen",
+    "sources": {
+      "AV 1904.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    }
   },
   "749": {
     "name": "Karl Knoke",
@@ -2387,9 +2387,9 @@
     "first": "Hugo",
     "last": "Koch",
     "origin": "Hamburg",
-    "source": [
-      "AV 1904.5 S. 54"
-    ]
+    "sources": {
+      "AV 1904.5 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    }
   },
   "869": {
     "name": "Wilhelm Koch",
@@ -2399,9 +2399,9 @@
     "first": "Wilhelm",
     "last": "Koch",
     "origin": "Hamburg",
-    "source": [
-      "AV 1904.5 S. 54"
-    ]
+    "sources": {
+      "AV 1904.5 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    }
   },
   "7": {
     "name": "Dr. Paul Koebe",
@@ -2434,11 +2434,11 @@
     },
     "first": "Hans",
     "last": "Kramer",
-    "source": [
-      "KT foll. 284",
-      "AV 1910.5 S. 63"
-    ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "sources": {
+      "KT foll. 284": "",
+      "AV 1910.5 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    }
   },
   "55": {
     "name": "Ludwig Kraus",
@@ -2626,10 +2626,10 @@
     },
     "first": "K. [C.]",
     "last": "Laubert",
-    "source": [
-      "AV 1896.5 S. 47"
-    ],
-    "origin": "Hildesheim"
+    "origin": "Hildesheim",
+    "sources": {
+      "AV 1896.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    }
   },
   "348": {
     "name": "Heinrich Laubert",
@@ -2641,14 +2641,14 @@
     },
     "first": "Heinrich",
     "last": "Laubert",
-    "source": [
-      "AV 1903.0 S. 55",
-      "AV 1903.5 S. 53",
-      "AV 1904.0 S. 56",
-      "KT foll. 220",
-      "KT foll. 270"
-    ],
-    "origin": "Hildesheim, Hannover"
+    "origin": "Hildesheim, Hannover",
+    "sources": {
+      "AV 1903.0 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B55%5D%7D",
+      "AV 1903.5 S.53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D",
+      "AV 1904.0 S.56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B56%5D%7D",
+      "KT foll. 220": "",
+      "KT foll. 270": ""
+    }
   },
   "408": {
     "name": "Ludwig Lauer",
@@ -2686,11 +2686,11 @@
     },
     "first": "Heinrich",
     "last": "Liebmann",
-    "source": [
-      "AV 1896.5 S. 47",
-      "AV 1897.0 S. 49"
-    ],
-    "origin": "Jena"
+    "origin": "Jena",
+    "sources": {
+      "AV 1896.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B47%5D%7D",
+      "AV 1897.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    }
   },
   "795": {
     "name": "Georg Lindemann",
@@ -2700,10 +2700,10 @@
     },
     "first": "Georg",
     "last": "Lindemann",
-    "source": [
-      "AV 1902.0 S. 54"
-    ],
-    "origin": "Hameln an der Weser"
+    "origin": "Hameln an der Weser",
+    "sources": {
+      "AV 1902.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    }
   },
   "701": {
     "name": "Martin Linnemann",
@@ -2728,9 +2728,9 @@
     },
     "first": "Alfred",
     "last": "Lorey",
-    "source": [
-      "KT foll. 179"
-    ]
+    "sources": {
+      "KT foll. 179": ""
+    }
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -2747,12 +2747,12 @@
     },
     "first": "Wilhelm",
     "last": "Lorey",
-    "source": [
-      "AV 1895.5 S. 44",
-      "KT foll. 178",
-      "KT foll. 179"
-    ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "sources": {
+      "AV 1895.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_1896_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
+      "KT foll. 178": "",
+      "KT foll. 179": ""
+    }
   },
   "913": {
     "name": "Walter Ludwig",
@@ -2785,10 +2785,10 @@
     },
     "first": "Ernst Karl Wilhelm",
     "last": "Lübcke",
-    "source": [
-      "AV 1911.5 S. 69"
-    ],
-    "origin": "Wolfenbüttel"
+    "origin": "Wolfenbüttel",
+    "sources": {
+      "AV 1911.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    }
   },
   "715": {
     "name": "Oskar Lüdecke",
@@ -2798,10 +2798,10 @@
     },
     "first": "Oskar",
     "last": "Lüdecke",
-    "source": [
-      "AV 1904.5 S. 57"
-    ],
-    "origin": "Vegesack, Bremen"
+    "origin": "Vegesack, Bremen",
+    "sources": {
+      "AV 1904.5 S.57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
+    }
   },
   "155": {
     "name": "Fritz Lüdemann",
@@ -2818,10 +2818,10 @@
     },
     "first": "Georg",
     "last": "Lüttemeyer",
-    "source": [
-      "AV 1899.5 S. 51"
-    ],
-    "origin": "Wiedenbrück"
+    "origin": "Wiedenbrück",
+    "sources": {
+      "AV 1899.5 S.51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
+    }
   },
   "1124": {
     "name": "Annie Louise MacKinnon",
@@ -2920,9 +2920,9 @@
     },
     "first": "August",
     "last": "Maurer",
-    "source": [
-      "KT foll. 83"
-    ]
+    "sources": {
+      "KT foll. 83": ""
+    }
   },
   "843": {
     "name": "P. Mayer?",
@@ -3085,10 +3085,10 @@
     },
     "first": "Piet",
     "last": "Mulder",
-    "source": [
-      "AV 1908.0 S. 67"
-    ],
-    "origin": "Leiden, Holland"
+    "origin": "Leiden, Holland",
+    "sources": {
+      "AV 1908.0 S.67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B67%5D%7D"
+    }
   },
   "801": {
     "name": "Alexander Myller",
@@ -3240,11 +3240,11 @@
     },
     "first": "Fritz",
     "last": "Pahde",
-    "source": [
-      "AV 1898.0 S. 54",
-      "KT foll. 182"
-    ],
-    "origin": "Witten"
+    "origin": "Witten",
+    "sources": {
+      "AV 1898.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B54%5D%7D",
+      "KT foll. 182": ""
+    }
   },
   "579": {
     "name": "Anna Helene Palmie",
@@ -3291,10 +3291,10 @@
     },
     "first": "Heinrich",
     "last": "Personn",
-    "source": [
-      "AV 1902.0 S. 58"
-    ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "sources": {
+      "AV 1902.0 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    }
   },
   "540": {
     "name": "E. Hilda? Petersen",
@@ -3303,9 +3303,9 @@
     },
     "first": "Hilda?",
     "last": "Petersen",
-    "source": [
-      "KT foll. 283"
-    ]
+    "sources": {
+      "KT foll. 283": ""
+    }
   },
   "884": {
     "name": "Friedrich Pfeiffer",
@@ -3345,10 +3345,10 @@
     },
     "first": "Alfred",
     "last": "Pietzner",
-    "source": [
-      "AV 1901.0 S. 58"
-    ],
-    "origin": "Liegnitz"
+    "origin": "Liegnitz",
+    "sources": {
+      "AV 1901.0 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    }
   },
   "881": {
     "name": "Norbert Pinkus",
@@ -3469,10 +3469,10 @@
     },
     "first": "Hans",
     "last": "Puhl",
-    "source": [
-      "AV 1900.5 S. 56"
-    ],
-    "origin": "Duisburg"
+    "origin": "Duisburg",
+    "sources": {
+      "AV 1900.5 S.56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B56%5D%7D"
+    }
   },
   "979": {
     "name": "Eduard Pulpe",
@@ -3481,10 +3481,10 @@
     },
     "first": "Eduard",
     "last": "Pulpe",
-    "source": [
-      "AV 1908.0 S. 68"
-    ],
-    "origin": "Riga, Rußland"
+    "origin": "Riga, Rußland",
+    "sources": {
+      "AV 1908.0 S.68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
+    }
   },
   "461": {
     "name": "Christoph Gerhard? Rabba",
@@ -3531,10 +3531,10 @@
     },
     "first": "Otto",
     "last": "Reifenstahl",
-    "source": [
-      "AV 1912.0 S. 80"
-    ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "sources": {
+      "AV 1912.0 S.80": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B80%5D%7D"
+    }
   },
   "1185": {
     "name": "Ludwig Reingardt",
@@ -3671,12 +3671,12 @@
     },
     "first": "Emil",
     "last": "Rottgardt",
-    "source": [
-      "AV 1903.0 S. 62",
-      "AV 1904.0 S. 64",
-      "KT foll. 226"
-    ],
-    "origin": "Geschendorf, Schleswig-Holstein"
+    "origin": "Geschendorf, Schleswig-Holstein",
+    "sources": {
+      "AV 1903.0 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
+      "AV 1904.0 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
+      "KT foll. 226": ""
+    }
   },
   "401": {
     "name": "Ernst Rudel",
@@ -3786,10 +3786,10 @@
     },
     "first": "Harald",
     "last": "Schering",
-    "source": [
-      "AV 1901.5 S. 60"
-    ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "sources": {
+      "AV 1901.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    }
   },
   "924": {
     "name": "Helmuth Schickert",
@@ -3839,11 +3839,11 @@
     },
     "first": "Dietrich",
     "last": "Schlüter",
-    "source": [
-      "AV 1899.5 S. 58",
-      "KT foll. 192"
-    ],
-    "origin": "Wulsten"
+    "origin": "Wulsten",
+    "sources": {
+      "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
+      "KT foll. 192": ""
+    }
   },
   "544": {
     "name": "Willy Schmidt",
@@ -3852,11 +3852,11 @@
     },
     "first": "Willy",
     "last": "Schmidt",
-    "source": [
-      "AV 1899.5 S. 58",
-      "FT foll. 192"
-    ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "sources": {
+      "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
+      "FT foll. 192": ""
+    }
   },
   "682": {
     "name": "Heinrich Schmidt",
@@ -3865,10 +3865,10 @@
     },
     "first": "Heinrich",
     "last": "Schmidt",
-    "source": [
-      "AV 1904.5 S. 65"
-    ],
-    "origin": "Leer, Hannover"
+    "origin": "Leer, Hannover",
+    "sources": {
+      "AV 1904.5 S.65": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B65%5D%7D"
+    }
   },
   "1073": {
     "name": "Walther Schmiedeberg",
@@ -3893,9 +3893,9 @@
     },
     "first": "Josef",
     "last": "Schreiner",
-    "source": [
-      "KT foll. 94"
-    ]
+    "sources": {
+      "KT foll. 94": ""
+    }
   },
   "362": {
     "name": "Schriftenvergleich?!",
@@ -3933,11 +3933,11 @@
     },
     "first": "Johannes",
     "last": "Schröder",
-    "source": [
-      "AV 1907.5 S. 72",
-      "KT foll. 264"
-    ],
-    "origin": "Erfurt, Provinz Sachsen"
+    "origin": "Erfurt, Provinz Sachsen",
+    "sources": {
+      "AV 1907.5 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1907_1908_WS?tify=%7B%22pages%22%3A%5B72%5D%7D",
+      "KT foll. 264": ""
+    }
   },
   "154": {
     "name": "Hermann Schuepp",
@@ -3962,10 +3962,10 @@
     },
     "first": "M[ax]",
     "last": "Schuhardt",
-    "source": [
-      "AV 1893.0 S. 50"
-    ],
-    "origin": "Halberstadt"
+    "origin": "Halberstadt",
+    "sources": {
+      "AV 1893.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_SS?tify=%7B%22pages%22%3A%5B50%5D%7D"
+    }
   },
   "608": {
     "name": "Karl Schulz",
@@ -3975,10 +3975,10 @@
     },
     "first": "Karl",
     "last": "Schulz",
-    "source": [
-      "AV 1903.0. S. 66"
-    ],
-    "origin": "Guben, Brandenburg"
+    "origin": "Guben, Brandenburg",
+    "sources": {
+      "AV 1903.0. S.66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B66%5D%7D"
+    }
   },
   "805": {
     "name": "Edwin Schulze",
@@ -4005,10 +4005,10 @@
     },
     "first": "Eduard",
     "last": "Schweikert",
-    "source": [
-      "AV 1900.5 S. 60"
-    ],
-    "origin": "M[önchen].-Gladbach"
+    "origin": "M[önchen].-Gladbach",
+    "sources": {
+      "AV 1900.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    }
   },
   "929": {
     "name": "Heinrich Schwienhorst",
@@ -4027,10 +4027,10 @@
     },
     "first": "Arthur",
     "last": "Schöning",
-    "source": [
-      "AV. 1903.5 S. 62"
-    ],
-    "origin": "Reelkirchen, Lippe-Detmold"
+    "origin": "Reelkirchen, Lippe-Detmold",
+    "sources": {
+      "AV 1903.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    }
   },
   "1020": {
     "name": "Ernst Harald Schütz",
@@ -4077,10 +4077,10 @@
     },
     "first": "Friedrich[?]",
     "last": "Siebert",
-    "source": [
-      "AV 1910.5 S. 80"
-    ],
-    "origin": "Hannover[?]"
+    "origin": "Hannover[?]",
+    "sources": {
+      "AV 1910.5 S.80": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B80%5D%7D"
+    }
   },
   "1042": {
     "name": "Henry Siedentopf",
@@ -4170,11 +4170,11 @@
     },
     "first": "Fritz",
     "last": "Steckel",
-    "source": [
-      "AV 1909.5 S. 44",
-      "TO S. 491f.n"
-    ],
-    "origin": "Marienburg, Westpreußen"
+    "origin": "Marienburg, Westpreußen",
+    "sources": {
+      "AV 1909.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
+      "TO S. 491f.n": ""
+    }
   },
   "33": {
     "name": "Adolf Steichen",
@@ -5266,10 +5266,10 @@
     },
     "first": "Wladimir",
     "last": "von Philippow",
-    "source": [
-      "AV 1909.0 S. 72"
-    ],
-    "origin": "St. Petersburg, Rußland"
+    "origin": "St. Petersburg, Rußland",
+    "sources": {
+      "AV 1909.0 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
+    }
   },
   "937": {
     "name": "Hans von Schaper",

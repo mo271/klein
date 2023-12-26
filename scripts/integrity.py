@@ -62,7 +62,7 @@ def test_valid_speaker_protocol_ids(prot_data, teil_data, errors):
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
-        if  not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'source']):
+        if  not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'sources']):
             errors.append(f"unexpected keys in teilnehmer nr {teilnehmer_key}: {teilnehmer}")
         for key, val in teilnehmer.items():
             if key in ['name', 'first', 'last', 'origin', 'name_non_latin']:
@@ -74,8 +74,9 @@ def test_structure_teilnehmer_dict(teil_data, errors):
                 for talk_key, talk_val in val.items():
                     if (type(talk_val) != str) or (type(talk_key) != str):
                         errors.append(f"unexpected type: {talk_val=} {talk_key=}")
-            elif key == 'source':
-                if type(val)!= list:
+            elif key == 'sources':
+                if type(val)!= dict:
+                    # TODO: check that links are not dead
                     errors.append(f"unexpected type: {val=}")
 
 if __name__ == "__main__":
