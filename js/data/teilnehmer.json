@@ -196,20 +196,6 @@
     "first": "Adolf",
     "last": "Ameseder"
   },
-  "679": {
-    "name": "August Ansel",
-    "ids_to_signatures": {
-      "1068": [
-        "A[ugust]. Ansel"
-      ]
-    },
-    "first": "August",
-    "last": "Ansel",
-    "source": [
-      "AV 1908.0 S. 39"
-    ],
-    "origin": "Stuttgart"
-  },
   "178": {
     "name": "Albert Andrae",
     "ids_to_signatures": {
@@ -219,23 +205,6 @@
     },
     "first": "Albert",
     "last": "Andrae"
-  },
-  "166": {
-    "name": "Friedrich Arensmeier",
-    "ids_to_signatures": {
-      "820": [
-        "[Friedrich] Arensmeier"
-      ],
-      "804": [
-        "Fr[iedrich] Arensmeier"
-      ]
-    },
-    "first": "Friedrich",
-    "last": "Arensmeier",
-    "source": [
-      "AV 1900.5 S. 36"
-    ],
-    "origin": "Riepen [Niedersachsen]"
   },
   "1101": {
     "name": "L Anhenn",
@@ -258,6 +227,37 @@
     },
     "first": "L.",
     "last": "Anhenn"
+  },
+  "679": {
+    "name": "August Ansel",
+    "ids_to_signatures": {
+      "1068": [
+        "A[ugust]. Ansel"
+      ]
+    },
+    "first": "August",
+    "last": "Ansel",
+    "source": [
+      "AV 1908.0 S. 39"
+    ],
+    "origin": "Stuttgart"
+  },
+  "166": {
+    "name": "Friedrich Arensmeier",
+    "ids_to_signatures": {
+      "820": [
+        "[Friedrich] Arensmeier"
+      ],
+      "804": [
+        "Fr[iedrich] Arensmeier"
+      ]
+    },
+    "first": "Friedrich",
+    "last": "Arensmeier",
+    "source": [
+      "AV 1900.5 S. 36"
+    ],
+    "origin": "Riepen [Niedersachsen]"
   },
   "1022": {
     "name": "Wilhelm Ausborn",
@@ -364,6 +364,20 @@
     },
     "first": "Bernhard",
     "last": "Bavink"
+  },
+  "796": {
+    "name": "Theodor Bechen",
+    "ids_to_signatures": {
+      "1179": [
+        "Th[eodor] Bechen"
+      ]
+    },
+    "first": "Theodor",
+    "last": "Bechen",
+    "source": [
+      "AV 1912.0 S. 43"
+    ],
+    "origin": "Düsseldorf"
   },
   "1000": {
     "name": "Fritz Beer",
@@ -518,20 +532,6 @@
     },
     "first": "Franz",
     "last": "Bertheau"
-  },
-  "796": {
-    "name": "Theodor Bechen",
-    "ids_to_signatures": {
-      "1179": [
-        "Th[eodor] Bechen"
-      ]
-    },
-    "first": "Theodor",
-    "last": "Bechen",
-    "source": [
-      "AV 1912.0 S. 43"
-    ],
-    "origin": "Düsseldorf"
   },
   "591": {
     "name": "Luigi Bianci",
@@ -825,40 +825,6 @@
     "first": "Wilhelm",
     "last": "Braun"
   },
-  "423": {
-    "name": "Anton von Braunmühl",
-    "ids_to_signatures": {
-      "141": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "148": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "164": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "165": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "170": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "171": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "172": [
-        "A[nton]. v[on]. Braunmühl"
-      ],
-      "208": [
-        "A[nton] v[on]. Braunmühl"
-      ],
-      "223": [
-        "A[nton]. v[on]. Braunmühl"
-      ]
-    },
-    "first": "Anton",
-    "last": "von Braunmühl"
-  },
   "267": {
     "name": "Wilhelm Bretschneider",
     "ids_to_signatures": {
@@ -900,19 +866,6 @@
     },
     "first": "Adolf",
     "last": "Brosinsky"
-  },
-  "592": {
-    "name": "Albert von Brunn",
-    "ids_to_signatures": {
-      "928": [
-        "A[lbert]. v[on]. Brunn"
-      ],
-      "832": [
-        "A[lbert] v[on]. Brunn."
-      ]
-    },
-    "first": "Albert",
-    "last": "von Brunn"
   },
   "68": {
     "name": "Margaret E. Brusstor",
@@ -1183,6 +1136,25 @@
     "first": "Pierre",
     "last": "Ceresole"
   },
+  "163": {
+    "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
+    "ids_to_signatures": {
+      "717": [
+        "[Hazzidakis [Chatzidakis]]"
+      ],
+      "743": [
+        "Dr N[icolas] J[?]. Hatzidakis"
+      ]
+    },
+    "first": "Nicolaus [Nikolaos]",
+    "last": "Chatzidakis [Hatzdakis]",
+    "source": [
+      "AV 1998.0 S. 39",
+      "KT foll. 187"
+    ],
+    "origin": "Athen",
+    "name_non_latin": "Νικόλαος Χατζιδάκις"
+  },
   "1045": {
     "name": "Grace Chisholm",
     "ids_to_signatures": {
@@ -1195,6 +1167,19 @@
     },
     "first": "Grace",
     "last": "Chisholm"
+  },
+  "603": {
+    "name": "Adam Comstock",
+    "ids_to_signatures": {
+      "685": [
+        "A. Cowstock"
+      ],
+      "671": [
+        "AC"
+      ]
+    },
+    "first": "Adam",
+    "last": "Comstock"
   },
   "935": {
     "name": "Wilhelm[?] Cordes",
@@ -1209,19 +1194,6 @@
       "AV 1903.5 S. 42"
     ],
     "origin": "Northeim, Hannover[?]"
-  },
-  "603": {
-    "name": "Adam Comstock",
-    "ids_to_signatures": {
-      "685": [
-        "A. Cowstock"
-      ],
-      "671": [
-        "AC"
-      ]
-    },
-    "first": "Adam",
-    "last": "Comstock"
   },
   "321": {
     "name": "Charles Emerson Curry",
@@ -1638,6 +1610,16 @@
     ],
     "origin": "Worpswede, Hannover"
   },
+  "533": {
+    "name": "Hermann Fleischer",
+    "ids_to_signatures": {
+      "795": [
+        "Hermann Fleischer"
+      ]
+    },
+    "first": "Hermann",
+    "last": "Fleischer"
+  },
   "330": {
     "name": "Emil Foerster",
     "ids_to_signatures": {
@@ -1719,20 +1701,6 @@
     },
     "first": "Georg",
     "last": "Friedrich"
-  },
-  "892": {
-    "name": "Julius Hartung",
-    "ids_to_signatures": {
-      "848": [
-        "J[ulius] Hartung"
-      ]
-    },
-    "first": "Julius",
-    "last": "Hartung",
-    "source": [
-      "AV 1902.5 S. 48"
-    ],
-    "origin": "Niedernstöcken, Hannover"
   },
   "548": {
     "name": "Theophil Friesendorff",
@@ -1907,6 +1875,19 @@
     "first": "Francesco",
     "last": "Gerbaldi"
   },
+  "718": {
+    "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
+    "ids_to_signatures": {
+      "750": [
+        "N[adezhda]. Gernett"
+      ]
+    },
+    "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
+    "last": "Gernet [Gernett]",
+    "source": [
+      "TO S. 396"
+    ]
+  },
   "1100": {
     "name": "Gustav Gersting",
     "ids_to_signatures": {
@@ -2047,6 +2028,16 @@
     "first": "Adolf",
     "last": "Gottschalk"
   },
+  "829": {
+    "name": "Dr. Franz? nicht Paul, könnte a 'Tiram' sein Graf",
+    "ids_to_signatures": {
+      "1019": [
+        "Dr. Franz[? nicht Paul, könnte a 'Tiram' sein] Graf"
+      ]
+    },
+    "first": "Franz?",
+    "last": "Graf"
+  },
   "262": {
     "name": "Richard Greiner\\newline st. math.?",
     "ids_to_signatures": {
@@ -2056,6 +2047,19 @@
     },
     "first": "Richard",
     "last": "Greiner"
+  },
+  "224": {
+    "name": "Walther Greve",
+    "ids_to_signatures": {
+      "757": [
+        "Walther Greve"
+      ],
+      "802": [
+        "Walther Greve"
+      ]
+    },
+    "first": "Walther",
+    "last": "Greve"
   },
   "130": {
     "name": "Julius[?] Greßler",
@@ -2070,19 +2074,6 @@
       "P 1899.5, S. 441",
       "AV 1899.5 S. 44"
     ]
-  },
-  "224": {
-    "name": "Walther Greve",
-    "ids_to_signatures": {
-      "757": [
-        "Walther Greve"
-      ],
-      "802": [
-        "Walther Greve"
-      ]
-    },
-    "first": "Walther",
-    "last": "Greve"
   },
   "204": {
     "name": "Jerimias? Grossmann",
@@ -2346,6 +2337,20 @@
       "KT foll. 191",
       "KT foll. 192"
     ]
+  },
+  "892": {
+    "name": "Julius Hartung",
+    "ids_to_signatures": {
+      "848": [
+        "J[ulius] Hartung"
+      ]
+    },
+    "first": "Julius",
+    "last": "Hartung",
+    "source": [
+      "AV 1902.5 S. 48"
+    ],
+    "origin": "Niedernstöcken, Hannover"
   },
   "126": {
     "name": "Mellen Woodman Haskell",
@@ -2787,25 +2792,6 @@
     "first": "Wilhelm",
     "last": "Hort"
   },
-  "163": {
-    "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
-    "ids_to_signatures": {
-      "717": [
-        "[Hazzidakis [Chatzidakis]]"
-      ],
-      "743": [
-        "Dr N[icolas] J[?]. Hatzidakis"
-      ]
-    },
-    "first": "Nicolaus [Nikolaos]",
-    "last": "Chatzidakis [Hatzdakis]",
-    "source": [
-      "AV 1998.0 S. 39",
-      "KT foll. 187"
-    ],
-    "origin": "Athen",
-    "name_non_latin": "Νικόλαος Χατζιδάκις"
-  },
   "536": {
     "name": "G? Huber?",
     "ids_to_signatures": {
@@ -2958,19 +2944,6 @@
     },
     "first": "Wilhelm",
     "last": "Ihlenburg"
-  },
-  "718": {
-    "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
-    "ids_to_signatures": {
-      "750": [
-        "N[adezhda]. Gernett"
-      ]
-    },
-    "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
-    "last": "Gernet [Gernett]",
-    "source": [
-      "TO S. 396"
-    ]
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -3128,16 +3101,6 @@
     "first": "Edward",
     "last": "Kasner"
   },
-  "1196": {
-    "name": "Stanisław Kępiński",
-    "ids_to_signatures": {
-      "549": [
-        "S[tanisław]. Kępiński"
-      ]
-    },
-    "first": "Stanisław",
-    "last": "Kępiński"
-  },
   "629": {
     "name": "Otto Kindling",
     "ids_to_signatures": {
@@ -3185,21 +3148,6 @@
       "AV 1910.5 S. 64"
     ],
     "origin": "Garssen, Hannover"
-  },
-  "908": {
-    "name": "Fritz Steckel",
-    "ids_to_signatures": {
-      "1130": [
-        "[Fritz Steckel, aufgeschrieben von Felix Klein]"
-      ]
-    },
-    "first": "Fritz",
-    "last": "Steckel",
-    "source": [
-      "AV 1909.5 S. 44",
-      "TO S. 491f.n"
-    ],
-    "origin": "Marienburg, Westpreußen"
   },
   "558": {
     "name": "Elisabeth Klein",
@@ -3617,19 +3565,6 @@
     "first": "Julius",
     "last": "Kollert"
   },
-  "210": {
-    "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
-    "ids_to_signatures": {
-      "446": [
-        "J[oseph]. v[on]. Kowalski"
-      ],
-      "459": [
-        "J[oseph]. v[on]. Kowalski"
-      ]
-    },
-    "first": "Józef [Joseph]",
-    "last": "Wierusz-Kowalski [von Kowalski]"
-  },
   "416": {
     "name": "Albert Kraft",
     "ids_to_signatures": {
@@ -3721,16 +3656,6 @@
     "first": "Adolf",
     "last": "Krazer"
   },
-  "704": {
-    "name": "Franz von Krieg",
-    "ids_to_signatures": {
-      "382": [
-        "F[ranz]. v[on]. Krieg"
-      ]
-    },
-    "first": "Franz",
-    "last": "von Krieg"
-  },
   "978": {
     "name": "Xenia Kucharsky?",
     "ids_to_signatures": {
@@ -3792,25 +3717,6 @@
     },
     "first": "Szánthó",
     "last": "Kálmán??"
-  },
-  "870": {
-    "name": "Theodore von Kármán",
-    "ids_to_signatures": {
-      "1042": [
-        "Th[eodore] v[on]. Kármán"
-      ],
-      "1043": [
-        "Th[eodore] v[on]. Kármán"
-      ],
-      "1095": [
-        "Th[eodore] v[on]. Kármán"
-      ],
-      "1099": [
-        "Th[eodore] v[on] Kármán"
-      ]
-    },
-    "first": "Theodore",
-    "last": "von Kármán"
   },
   "253": {
     "name": "Dénes König",
@@ -3880,6 +3786,16 @@
     },
     "first": "Robert",
     "last": "Künzer"
+  },
+  "1196": {
+    "name": "Stanisław Kępiński",
+    "ids_to_signatures": {
+      "549": [
+        "S[tanisław]. Kępiński"
+      ]
+    },
+    "first": "Stanisław",
+    "last": "Kępiński"
   },
   "754": {
     "name": "Laackmann?",
@@ -3973,7 +3889,7 @@
       ],
       "915": [
         "[Heinrich] Laubert"
-      ]     
+      ]
     },
     "first": "Heinrich",
     "last": "Laubert",
@@ -4045,70 +3961,6 @@
       "AV 1897.0 S. 49"
     ],
     "origin": "Jena"
-  },
-  "854": {
-    "name": "Ferdinand von Lindemann",
-    "ids_to_signatures": {
-      "22": [
-        "F[erdinand]. Lindemann"
-      ],
-      "29": [
-        "F[erdinand]. Lindemann"
-      ],
-      "39": [
-        "F[erdinand]. Lindemann"
-      ],
-      "40": [
-        "F[erdinand]. Lindemann"
-      ],
-      "48": [
-        "F[erdinand]. Lindemann"
-      ],
-      "52": [
-        "F[erdinand]. Lindemann"
-      ],
-      "58": [
-        "F[erdinand] Lindemann"
-      ],
-      "59": [
-        "F[erdinand] Lindemann"
-      ],
-      "60": [
-        "F[erdinand] Lindemann"
-      ],
-      "65": [
-        "F[erdinand] Lindemann"
-      ],
-      "68": [
-        "F[erdinand] Lindemann"
-      ],
-      "72": [
-        "F[erdinand] Lindemann"
-      ],
-      "83": [
-        "F[erdinand] Lindemann"
-      ],
-      "87": [
-        "F[erdinand] Lindemann"
-      ],
-      "96": [
-        "F[erdinand] Lindemann"
-      ],
-      "101": [
-        "F[erdinand] Lindemann"
-      ],
-      "107": [
-        "F[erdinand] Lindemann"
-      ],
-      "108": [
-        "F[erdinand] Lindemann"
-      ],
-      "89": [
-        "F[erdinand] Lindemann"
-      ]
-    },
-    "first": "Ferdinand",
-    "last": "[später: von] Lindemann"
   },
   "795": {
     "name": "Georg Lindemann",
@@ -4209,25 +4061,6 @@
     },
     "first": "Walter",
     "last": "Ludwig"
-  },
-  "657": {
-    "name": "August Maurer",
-    "ids_to_signatures": {
-      "184": [
-        "A[ugust]. Maurer"
-      ],
-      "191": [
-        "A[ugust]. Maurer"
-      ],
-      "200": [
-        "A[ugust]. Maurer"
-      ]
-    },
-    "first": "August",
-    "last": "Maurer",
-    "source": [
-      "KT foll. 83"
-    ]
   },
   "399": {
     "name": "Luyken??",
@@ -4441,6 +4274,25 @@
     },
     "first": "Heinrich",
     "last": "Maschke"
+  },
+  "657": {
+    "name": "August Maurer",
+    "ids_to_signatures": {
+      "184": [
+        "A[ugust]. Maurer"
+      ],
+      "191": [
+        "A[ugust]. Maurer"
+      ],
+      "200": [
+        "A[ugust]. Maurer"
+      ]
+    },
+    "first": "August",
+    "last": "Maurer",
+    "source": [
+      "KT foll. 83"
+    ]
   },
   "843": {
     "name": "P. Mayer?",
@@ -4989,23 +4841,6 @@
     },
     "first": "Friedrich",
     "last": "Pfeiffer"
-  },
-  "1187": {
-    "name": "Wladimir von Philippow",
-    "ids_to_signatures": {
-      "1089": [
-        "[Wladimir] v[on]. Philippow"
-      ],
-      "1090": [
-        "[Wladimir] v[on]. Philippow"
-      ]
-    },
-    "first": "Wladimir",
-    "last": "von Philippow",
-    "source": [
-      "AV 1909.0 S. 72"
-    ],
-    "origin": "St. Petersburg, Rußland"
   },
   "1058": {
     "name": "Georg Pick",
@@ -5634,26 +5469,7 @@
     },
     "first": "Andreas",
     "last": "Sass",
-    "origin":"Flensburg, Schleswig-Holstein"
-  },
-  "937": {
-    "name": "Hans von Schaper",
-    "ids_to_signatures": {
-      "667": [
-        "Hans von Schaper"
-      ],
-      "682": [
-        "Hans v[on]. Schaper."
-      ],
-      "683": [
-        "Hans v[on]. Schaper."
-      ],
-      "684": [
-        "H[ans] v[on]. Schaper."
-      ]
-    },
-    "first": "Hans",
-    "last": "von Schaper"
+    "origin": "Flensburg, Schleswig-Holstein"
   },
   "971": {
     "name": "K? Scharer?",
@@ -5909,20 +5725,6 @@
     ],
     "origin": "Erfurt, Provinz Sachsen"
   },
-  "357": {
-    "name": "Max Schuhardt",
-    "ids_to_signatures": {
-      "561": [
-        "M[ax]. Schuhardt"
-      ]
-    },
-    "first": "M[ax]",
-    "last": "Schuhardt",
-    "source": [
-      "AV 1893.0 S. 50"
-    ],
-    "origin": "Halberstadt"
-  },
   "154": {
     "name": "Hermann Schuepp",
     "ids_to_signatures": {
@@ -5942,6 +5744,20 @@
     },
     "first": "Frederik",
     "last": "Schuh"
+  },
+  "357": {
+    "name": "Max Schuhardt",
+    "ids_to_signatures": {
+      "561": [
+        "M[ax]. Schuhardt"
+      ]
+    },
+    "first": "M[ax]",
+    "last": "Schuhardt",
+    "source": [
+      "AV 1893.0 S. 50"
+    ],
+    "origin": "Halberstadt"
   },
   "608": {
     "name": "Karl Schulz",
@@ -6231,18 +6047,20 @@
     "first": "Otto",
     "last": "Staude"
   },
-  "307": {
-    "name": "Alexandra von Stebnitzky",
+  "908": {
+    "name": "Fritz Steckel",
     "ids_to_signatures": {
-      "624": [
-        "Alexandra v[on]. Stebnitzky"
-      ],
-      "641": [
-        "Alexandra v[on]. Stebnitzky"
+      "1130": [
+        "[Fritz Steckel, aufgeschrieben von Felix Klein]"
       ]
     },
-    "first": "Alexandra",
-    "last": "von Stebnitzky"
+    "first": "Fritz",
+    "last": "Steckel",
+    "source": [
+      "AV 1909.5 S. 44",
+      "TO S. 491f.n"
+    ],
+    "origin": "Marienburg, Westpreußen"
   },
   "33": {
     "name": "Adolf Steichen",
@@ -7284,6 +7102,19 @@
     "first": "Hermann",
     "last": "Wiener"
   },
+  "210": {
+    "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
+    "ids_to_signatures": {
+      "446": [
+        "J[oseph]. v[on]. Kowalski"
+      ],
+      "459": [
+        "J[oseph]. v[on]. Kowalski"
+      ]
+    },
+    "first": "Józef [Joseph]",
+    "last": "Wierusz-Kowalski [von Kowalski]"
+  },
   "411": {
     "name": "Julius Wigger",
     "ids_to_signatures": {
@@ -7618,25 +7449,69 @@
     "first": "A??",
     "last": "Zühlke"
   },
-  "533": {
-    "name": "Hermann Fleischer",
+  "854": {
+    "name": "Ferdinand von Lindemann",
     "ids_to_signatures": {
-      "795": [
-        "Hermann Fleischer"
+      "22": [
+        "F[erdinand]. Lindemann"
+      ],
+      "29": [
+        "F[erdinand]. Lindemann"
+      ],
+      "39": [
+        "F[erdinand]. Lindemann"
+      ],
+      "40": [
+        "F[erdinand]. Lindemann"
+      ],
+      "48": [
+        "F[erdinand]. Lindemann"
+      ],
+      "52": [
+        "F[erdinand]. Lindemann"
+      ],
+      "58": [
+        "F[erdinand] Lindemann"
+      ],
+      "59": [
+        "F[erdinand] Lindemann"
+      ],
+      "60": [
+        "F[erdinand] Lindemann"
+      ],
+      "65": [
+        "F[erdinand] Lindemann"
+      ],
+      "68": [
+        "F[erdinand] Lindemann"
+      ],
+      "72": [
+        "F[erdinand] Lindemann"
+      ],
+      "83": [
+        "F[erdinand] Lindemann"
+      ],
+      "87": [
+        "F[erdinand] Lindemann"
+      ],
+      "96": [
+        "F[erdinand] Lindemann"
+      ],
+      "101": [
+        "F[erdinand] Lindemann"
+      ],
+      "107": [
+        "F[erdinand] Lindemann"
+      ],
+      "108": [
+        "F[erdinand] Lindemann"
+      ],
+      "89": [
+        "F[erdinand] Lindemann"
       ]
     },
-    "first": "Hermann",
-    "last": "Fleischer"
-  },
-  "829": {
-    "name": "Dr. Franz? nicht Paul, könnte a 'Tiram' sein Graf",
-    "ids_to_signatures": {
-      "1019": [
-        "Dr. Franz[? nicht Paul, könnte a 'Tiram' sein] Graf"
-      ]
-    },
-    "first": "Franz?",
-    "last": "Graf"
+    "first": "Ferdinand",
+    "last": "[später: von] Lindemann"
   },
   "994": {
     "name": "E??. v. Grienburg?",
@@ -7658,19 +7533,6 @@
     "first": "N",
     "last": "v. Zitowitsch"
   },
-  "532": {
-    "name": "Dr. Max von Laue",
-    "ids_to_signatures": {
-      "894": [
-        "Dr. M[ax von]. Laue"
-      ],
-      "895": [
-        "Dr. M[ax von]. Laue"
-      ]
-    },
-    "first": "Max",
-    "last": "von Laue"
-  },
   "291": {
     "name": "Helene von Bortkewitsch. Schwester von Ladislaus",
     "ids_to_signatures": {
@@ -7680,6 +7542,40 @@
     },
     "first": "Helene",
     "last": "von Bortkewitsch"
+  },
+  "423": {
+    "name": "Anton von Braunmühl",
+    "ids_to_signatures": {
+      "141": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "148": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "164": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "165": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "170": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "171": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "172": [
+        "A[nton]. v[on]. Braunmühl"
+      ],
+      "208": [
+        "A[nton] v[on]. Braunmühl"
+      ],
+      "223": [
+        "A[nton]. v[on]. Braunmühl"
+      ]
+    },
+    "first": "Anton",
+    "last": "von Braunmühl"
   },
   "1076": {
     "name": "Alexander später: von Brill",
@@ -7696,5 +7592,109 @@
     },
     "first": "Alexander",
     "last": "von Brill"
+  },
+  "592": {
+    "name": "Albert von Brunn",
+    "ids_to_signatures": {
+      "928": [
+        "A[lbert]. v[on]. Brunn"
+      ],
+      "832": [
+        "A[lbert] v[on]. Brunn."
+      ]
+    },
+    "first": "Albert",
+    "last": "von Brunn"
+  },
+  "704": {
+    "name": "Franz von Krieg",
+    "ids_to_signatures": {
+      "382": [
+        "F[ranz]. v[on]. Krieg"
+      ]
+    },
+    "first": "Franz",
+    "last": "von Krieg"
+  },
+  "870": {
+    "name": "Theodore von Kármán",
+    "ids_to_signatures": {
+      "1042": [
+        "Th[eodore] v[on]. Kármán"
+      ],
+      "1043": [
+        "Th[eodore] v[on]. Kármán"
+      ],
+      "1095": [
+        "Th[eodore] v[on]. Kármán"
+      ],
+      "1099": [
+        "Th[eodore] v[on] Kármán"
+      ]
+    },
+    "first": "Theodore",
+    "last": "von Kármán"
+  },
+  "532": {
+    "name": "Dr. Max von Laue",
+    "ids_to_signatures": {
+      "894": [
+        "Dr. M[ax von]. Laue"
+      ],
+      "895": [
+        "Dr. M[ax von]. Laue"
+      ]
+    },
+    "first": "Max",
+    "last": "von Laue"
+  },
+  "1187": {
+    "name": "Wladimir von Philippow",
+    "ids_to_signatures": {
+      "1089": [
+        "[Wladimir] v[on]. Philippow"
+      ],
+      "1090": [
+        "[Wladimir] v[on]. Philippow"
+      ]
+    },
+    "first": "Wladimir",
+    "last": "von Philippow",
+    "source": [
+      "AV 1909.0 S. 72"
+    ],
+    "origin": "St. Petersburg, Rußland"
+  },
+  "937": {
+    "name": "Hans von Schaper",
+    "ids_to_signatures": {
+      "667": [
+        "Hans von Schaper"
+      ],
+      "682": [
+        "Hans v[on]. Schaper."
+      ],
+      "683": [
+        "Hans v[on]. Schaper."
+      ],
+      "684": [
+        "H[ans] v[on]. Schaper."
+      ]
+    },
+    "first": "Hans",
+    "last": "von Schaper"
+  },
+  "307": {
+    "name": "Alexandra von Stebnitzky",
+    "ids_to_signatures": {
+      "624": [
+        "Alexandra v[on]. Stebnitzky"
+      ],
+      "641": [
+        "Alexandra v[on]. Stebnitzky"
+      ]
+    },
+    "first": "Alexandra",
+    "last": "von Stebnitzky"
   }
 }
