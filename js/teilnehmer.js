@@ -226,7 +226,6 @@ function meinsort(record, queryValue) {
 	// Iterate over the ids_to_signatures to find a match
 	for (var key in record.ids_to_signatures) {
 		if (record.ids_to_signatures.hasOwnProperty(key)) {
-			// Adjust the key according to your requirements
 			var adjusted_key = parseInt(key) - 1;
 
 			// Check if the adjusted key is within the bounds of the protokolle array
