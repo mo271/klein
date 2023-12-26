@@ -223,6 +223,9 @@ function meinbandsort(record, queryValue) {
 
 function meinsort(record, queryValue) {
 	anfrage = queryValue.split('-');
+	if (anfrage[0] == "id") {
+		return record.id == anfrage[1];
+	}
 	// Iterate over the ids_to_signatures to find a match
 	for (var key in record.ids_to_signatures) {
 		if (record.ids_to_signatures.hasOwnProperty(key)) {
