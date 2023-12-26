@@ -281,9 +281,14 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
 			return '<a href="../#id-' + key + '">' + datum + '</a>';
 		}).join(', ');
-	name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin +')<span>' : '';
-	origin_span = record.origin ? '<span id="origin_span"> aus '+record.origin +'</span>' : '';
-	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first+' '+record.last + name_non_latin_span + origin_span +'</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+	name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin + ')<span>' : '';
+	// Creating a list of links from record.sources
+	sources_link = record.sources ? ' ' + Object.entries(record.sources).map(([name, href]) => {
+		return '<a href="' + href + '">' + name + '</a>';
+	}).join(', ') : '';
+
+	origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
+	li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
 	return li;
 }
 $('.englisch').toggle();
@@ -328,6 +333,7 @@ $(document).ready(function () {
 				origin: item.hasOwnProperty('origin') ? item.origin : '',
 				first: item.first,
 				last: item.last,
+				sources: item.hasOwnProperty('sources') ? item.sources : '',
 				ids_to_signatures: item.ids_to_signatures
 			};
 		});
