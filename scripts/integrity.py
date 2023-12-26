@@ -58,6 +58,26 @@ def test_valid_speaker_protocol_ids(prot_data, teil_data, errors):
             if str(single_id) not in prot_ids:
                 errors.append(f"Invalid protocol ID {single_id} found for speaker {speaker}.")
 
+
+def test_structure_teilnehmer_dict(teil_data, errors):
+    # check that teilnehmer has expected structure
+    for teilnehmer_key, teilnehmer in teil_data.items():
+        if  not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'source']):
+            errors.append(f"unexpected keys in teilnehmer nr {teilnehmer_key}: {teilnehmer}")
+        for key, val in teilnehmer.items():
+            if key in ['name', 'first', 'last', 'origin', 'name_non_latin']:
+                if type(val) != str:
+                    errors.append(f"unexpected type: {val=}")
+            elif key == 'ids_to_signatures':
+                if type(val) != dict:
+                    errors.append(f"ids_to_signaures not a list:{val}")
+                for talk_key, talk_val in val.items():
+                    if (type(talk_val) != str) or (type(talk_key) != str):
+                        errors.append(f"unexpected type: {talk_val=} {talk_key=}")
+            elif key == 'source':
+                if type(val)!= list:
+                    errors.append(f"unexpected type: {val=}")
+
 if __name__ == "__main__":
     prot_path = "./js/data/protokolle.json"
     teil_path = "./js/data/teilnehmer.json"
@@ -77,6 +97,7 @@ if __name__ == "__main__":
         test_speakers_exist_in_participants(prot_data, teil_data, errors)
         test_unique_protocol_ids(prot_data, errors)
         test_valid_speaker_protocol_ids(prot_data, teil_data, errors)
+        test_structure_teilnehmer_dict(teil_data, errors)
 
     if errors:
        print("Errors found during tests:")
