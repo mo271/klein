@@ -1171,12 +1171,19 @@
     "last": "Freundlich"
   },
   "374": {
-    "name": "Robert? Fricke",
+    "name": "Hermann Fricke",
     "ids_to_signatures": {
-      "714": "[[Robert?] Fricke]"
+      "714": "[Hermann Fricke]"
     },
-    "first": "Robert?",
-    "last": "Fricke"
+    "first": "Hermann",
+    "last": "Fricke",
+    "sources": {
+      "AV 1898.0 S. 42": "",
+      "KT foll. 184": "",
+      "KT foll. 185": "",
+      "KT foll. 188": "",
+    },
+    "origin": "Goslar"
   },
   "1080": {
     "name": "Robert Fricke",
