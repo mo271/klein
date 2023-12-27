@@ -350,7 +350,9 @@
       "778": "F[elix] Bernstein",
       "816": "Felix Bernstein",
       "817": "Felix Bernstein",
-      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein"
+      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein",
+      "1129": "[Felix Bernstein, aufgeschrieben von Felix Klein]",
+      "1136": "[Felix Bernstein, aufgeschrieben von Felix Klein]"
     },
     "first": "Felix",
     "last": "Bernstein"
@@ -4273,15 +4275,6 @@
     },
     "first": "Erwin",
     "last": "Freundlich"
-  },
-  "98": {
-    "name": "Felix Bernstein Felix Klein",
-    "ids_to_signatures": {
-      "1129": "[[Felix] Bernstein] [Felix] Klein",
-      "1136": "[[Felix] Bernstein] [Felix] Klein"
-    },
-    "first": "TODO Felix Bernstein Felix Klein",
-    "last": "TODO Felix Bernstein Felix Klein"
   },
   "1149": {
     "name": "Felix Klein Dr. Heinrich Liebmann",
