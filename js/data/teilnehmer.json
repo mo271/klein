@@ -288,7 +288,8 @@
     "name": "Wilhelm Behrens",
     "ids_to_signatures": {
       "1088": "[Wilhelm] Behrens",
-      "1093": "[Wilhelm] Behrens"
+      "1093": "[Wilhelm] Behrens",
+      "1132": "[Wilhelm Behrens, aufgeschrieben von Felix Klein]"
     },
     "first": "Wilhelm",
     "last": "Behrens"
@@ -4414,14 +4415,6 @@
     },
     "first": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
     "last": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein"
-  },
-  "773": {
-    "name": "Wilhelm Behrens Felix Klein",
-    "ids_to_signatures": {
-      "1132": "[[Wilhelm] Behrens] [Felix] Klein"
-    },
-    "first": "TODOWilhelm Behrens Felix Klein",
-    "last": "TODOWilhelm Behrens Felix Klein"
   },
   "1144": {
     "name": "John Henry Tanner",
