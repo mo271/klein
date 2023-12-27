@@ -367,7 +367,7 @@
     "ids_to_signatures": {
       "678": "Charles H[arold] Berry"
     },
-    "first": "Charles Berry",
+    "first": "Charles Harold",
     "last": "Berry"
   },
   "822": {
@@ -408,7 +408,7 @@
     "last": "Biedermann"
   },
   "382": {
-    "name": "Biedlingsmayer Friedrich Biedlingsmeier",
+    "name": "Friedrich Biedlingsmeier",
     "ids_to_signatures": {
       "701": "Biedlingsmayer [Friedrich Biedlingsmeier]",
       "702": "Biedlingsmayer [Friedrich Biedlingsmeier]"
@@ -544,8 +544,8 @@
     "ids_to_signatures": {
       "643": "Helene v[on]. Bortkewitsch"
     },
-    "first": "Helene Bortkewitsch",
-    "last": "Bortkewitsch"
+    "first": "Helene",
+    "last": "von Bortkewitsch"
   },
   "266": {
     "name": "Anne Bosworth",
@@ -773,17 +773,17 @@
     "last": "Büttner"
   },
   "1114": {
-    "name": "Herbert G? Campbell",
+    "name": "Herbert G. Campbell",
     "ids_to_signatures": {
-      "597": "Her[bert] G[?] Campbell"
+      "597": "Her[bert] G. Campbell"
     },
-    "first": "Herbert Campbell",
+    "first": "Herbert G.",
     "last": "Campbell"
   },
   "1113": {
     "name": "George Ashley. Campbell",
     "ids_to_signatures": {
-      "584": "G[eorge]. [A]shley. Campbell"
+      "584": "G[eorge]. A[shley]. Campbell"
     },
     "first": "George Ashley",
     "last": "Campbell"
@@ -926,7 +926,7 @@
     "last": "Duncker"
   },
   "16": {
-    "name": "Walther Dyck",
+    "name": "Walther [später: von] Dyck",
     "ids_to_signatures": {
       "130": "W[alther]. D[yck].",
       "131": "W[alther]. Dyck",
@@ -936,15 +936,15 @@
       "234": "[Walther] Dyck",
       "235": "[Walther] Dyck",
       "261": "[Walther] Dyck",
-      "114": "Walther [[von]] Dyck",
-      "264": "[Walther [von]] Dyck",
-      "265": "[Walther [von]] Dyck",
-      "272": "Walther [[von]] Dyck",
-      "286": "[Walther [von]] Dyck",
-      "367": "[Walther [von]] Dyck"
+      "114": "Walther Dyck",
+      "264": "[Walther] Dyck",
+      "265": "[Walther] Dyck",
+      "272": "Walther] Dyck",
+      "286": "[Walther] Dyck",
+      "367": "[Walther] Dyck"
     },
     "first": "Walther",
-    "last": "Dyck"
+    "last": "[später: von] Dyck"
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -1322,6 +1322,7 @@
     },
     "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
     "last": "Gernet [Gernett]",
+    "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
       "TO S. 396": ""
     }
@@ -1840,7 +1841,7 @@
     "ids_to_signatures": {
       "698": "A[lexander] L[eonard] Hjelmman"
     },
-    "first": "Alexander Hjelmman",
+    "first": "Alexander Leonard",
     "last": "Hjelmman"
   },
   "874": {
@@ -3007,16 +3008,16 @@
     "last": "Meyer"
   },
   "35": {
-    "name": "Friedrich Wilhelm \\emph{Franz} Meyer",
+    "name": "Franz Meyer",
     "ids_to_signatures": {
-      "116": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "118": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "123": "[[Friedrich Wilhelm \\emph{Franz}] Meyer]",
-      "134": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "142": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "146": "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      "116": "[Franz] Meyer",
+      "118": "[Franz] Meyer",
+      "123": "[Franz Meyer]",
+      "134": "[Franz] Meyer",
+      "142": "[Franz] Meyer",
+      "146": "[Franz] Meyer"
     },
-    "first": "Friedrich Wilhelm \\emph{Franz}",
+    "first": "Franz",
     "last": "Meyer"
   },
   "1189": {
@@ -4455,7 +4456,7 @@
       "613": "J[ohn] H[enry] Tanner",
       "630": "J[ohn] H[enry] Tanner"
     },
-    "first": "John Tanner",
+    "first": "John Henry",
     "last": "Tanner"
   },
   "139": {
@@ -4844,7 +4845,7 @@
       "489": "H[enry] S[eely] White",
       "498": "H[enry] S[eely] White"
     },
-    "first": "Henry White",
+    "first": "Henry Seely",
     "last": "White"
   },
   "472": {
@@ -5096,12 +5097,12 @@
     "last": "Zoll"
   },
   "466": {
-    "name": "Kazimierz Zorawski mg:akzent auf Z?",
+    "name": "Kazimierz Żorawski",
     "ids_to_signatures": {
-      "525": "K[azimierz] Zorawski [mg:akzent auf Z?]"
+      "525": "K[azimierz] Zorawski [Żorawski]"
     },
     "first": "Kazimierz",
-    "last": "Zorawski [mg:akzent auf Z?]"
+    "last": "Żorawski"
   },
   "346": {
     "name": "Theodor Zorn",
@@ -5121,7 +5122,7 @@
     "last": "Zorn"
   },
   "273": {
-    "name": "Richard Suppantschitsch Rihard Zupančič",
+    "name": "Richard Suppantschitsch [Rihard Zupančič]",
     "ids_to_signatures": {
       "1156": "Richard Suppantschitsch [Rihard Zupančič]"
     },
