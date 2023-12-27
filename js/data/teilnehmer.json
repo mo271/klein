@@ -1431,6 +1431,7 @@
     "name": "Franz Graf",
     "ids_to_signatures": {
       "1006": "[Felix Klein], [Franz Graf]",
+      "1007": "Dr. F[ranz] Graf",
       "1008": "[Felix Klein], [Franz Graf]",
       "1019": "Dr. Franz Graf"
     },
@@ -1722,14 +1723,6 @@
     },
     "first": "Käthe",
     "last": "Heinemann"
-  },
-  "114": {
-    "name": "Dr. J?ohann Heinrich?! Graf",
-    "ids_to_signatures": {
-      "1007": "Dr. J[?][ohann Heinrich?!] Graf"
-    },
-    "first": "J?ohann",
-    "last": "Heinrich?!"
   },
   "290": {
     "name": "Ernst Hellinger",
