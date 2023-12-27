@@ -2303,6 +2303,22 @@
       "919": "[Felix] Klein",
       "931": "[Felix] Klein",
       "958": "[Felix] Klein",
+      "978": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "979": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "980": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "981": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "982": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "983": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "984": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "985": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "986": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "987": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "988": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "989": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "990": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "991": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "992": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "993": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
       "994": "[Felix Klein]",
       "1015": "[Felix] Klein",
       "1026": "[Felix Klein]",
@@ -4361,29 +4377,6 @@
     "first": "TODOFelix Klein, Dr. Graf",
     "last": "TODOFelix Klein, Dr. Graf"
   },
-  "182": {
-    "name": "Felix Klein, Otto Toeplitz",
-    "ids_to_signatures": {
-      "978": "[Felix Klein], [Otto Toeplitz]",
-      "979": "[Felix Klein], [Otto Toeplitz]",
-      "980": "[Felix Klein], [Otto Toeplitz]",
-      "981": "[Felix Klein], [Otto Toeplitz]",
-      "982": "[Felix Klein], [Otto Toeplitz]",
-      "983": "[Felix Klein], [Otto Toeplitz]",
-      "984": "[Felix Klein], [Otto Toeplitz]",
-      "985": "[Felix Klein], [Otto Toeplitz]",
-      "986": "[Felix Klein], [Otto Toeplitz]",
-      "987": "[Felix Klein], [Otto Toeplitz]",
-      "988": "[Felix Klein], [Otto Toeplitz]",
-      "989": "[Felix Klein], [Otto Toeplitz]",
-      "990": "[Felix Klein], [Otto Toeplitz]",
-      "991": "[Felix Klein], [Otto Toeplitz]",
-      "992": "[Felix Klein], [Otto Toeplitz]",
-      "993": "[Felix Klein], [Otto Toeplitz]"
-    },
-    "first": "TODOFelix Klein, Otto Toeplitz",
-    "last": "TODOFelix Klein, Otto Toeplitz"
-  },
   "208": {
     "name": "Felix Klein, Paul Koebe",
     "ids_to_signatures": {
@@ -4549,7 +4542,7 @@
     "last": "Toepler"
   },
   "211": {
-    "name": "Dr. Otto Toeplitz",
+    "name": "Otto Toeplitz",
     "ids_to_signatures": {
       "1012": "Dr. Otto Toeplitz",
       "1119": "[Otto Toeplitz, aufgeschrieben von Felix] Klein"
