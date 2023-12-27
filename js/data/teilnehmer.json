@@ -1435,6 +1435,8 @@
   "829": {
     "name": "Franz Graf",
     "ids_to_signatures": {
+      "1006": "[Felix Klein], [Franz Graf]",
+      "1008": "[Felix Klein], [Franz Graf]",
       "1019": "Dr. Franz Graf"
     },
     "first": "Franz",
@@ -2336,6 +2338,8 @@
       "992": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
       "993": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
       "994": "[Felix Klein]",
+      "1006": "[Felix Klein], [Franz Graf]",
+      "1008": "[Felix Klein], [Franz Graf]",
       "1015": "[Felix] Klein",
       "1026": "[Felix Klein]",
       "1027": "[Felix Klein]",
@@ -4363,15 +4367,6 @@
     },
     "first": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?",
     "last": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?"
-  },
-  "655": {
-    "name": "Felix Klein, Dr. Graf",
-    "ids_to_signatures": {
-      "1006": "[Felix Klein], [Dr. Graf]",
-      "1008": "[Felix Klein], [Dr. Graf]"
-    },
-    "first": "TODOFelix Klein, Dr. Graf",
-    "last": "TODOFelix Klein, Dr. Graf"
   },
   "208": {
     "name": "Felix Klein, Paul Koebe",
