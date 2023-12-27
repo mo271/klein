@@ -1821,7 +1821,8 @@
     "name": "David Hilbert",
     "ids_to_signatures": {
       "434": "David Hilbert Dr. phil.",
-      "439": "David Hilbert Dr. phil."
+      "439": "David Hilbert Dr. phil.",
+      "1009": "[David Hilbert] [O. Tö[!]plitz]",
     },
     "first": "David",
     "last": "Hilbert"
@@ -4262,14 +4263,6 @@
     "first": "Friedrich?",
     "last": "Stöhr?"
   },
-  "552": {
-    "name": "David Hilbert, Otto Toeplitz",
-    "ids_to_signatures": {
-      "1009": "[David Hilbert], [Otto Toeplitz]"
-    },
-    "first": "TODO David Hilbert, Otto Toeplitz",
-    "last": "TODO David Hilbert, Otto Toeplitz"
-  },
   "245": {
     "name": "Erwin Freundlich",
     "ids_to_signatures": {
@@ -4547,6 +4540,7 @@
   "211": {
     "name": "Otto Toeplitz",
     "ids_to_signatures": {
+      "1009": "[David Hilbert] [O. Tö[!]plitz]",
       "1012": "Dr. Otto Toeplitz",
       "1119": "[Otto Toeplitz, aufgeschrieben von Felix] Klein"
     },
