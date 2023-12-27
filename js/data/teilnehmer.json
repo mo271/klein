@@ -4247,15 +4247,15 @@
     "last": "TODO David Hilbert, Otto Toeplitz"
   },
   "245": {
-    "name": "Erwin Freundlich Felix Klein",
+    "name": "Erwin Freundlich",
     "ids_to_signatures": {
-      "1116": "[[Erwin] Freundlich] [Felix] Klein",
-      "1118": "[[Erwin] Freundlich] [Felix] Klein",
-      "1133": "[[Erwin] Freundlich] [Felix] Klein",
-      "1137": "[[Erwin] Freundlich] [Felix Klein]"
+      "1116": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1118": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1133": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
     },
-    "first": "TODO Erwin Freundlich Felix Klein",
-    "last": "TODO Erwin Freundlich Felix Klein"
+    "first": "Erwin",
+    "last": "Freundlich"
   },
   "98": {
     "name": "Felix Bernstein Felix Klein",
@@ -4309,14 +4309,14 @@
     "last": "TODO Felix KleinHandschrift von Osgood"
   },
   "1039": {
-    "name": "Leonard Nelson Felix Klein",
+    "name": "Leonard Nelson",
     "ids_to_signatures": {
-      "1117": "[[Leonard] Nelson] [Felix] Klein",
-      "1122": "[Leonard Nelson] [Felix] Klein",
-      "1138": "[Leonard Nelson] [Felix Klein]"
+      "1117": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1122": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1138": "[Leonard Nelson, aufgeschrieben von Felix Klein]"
     },
-    "first": "TODO Leonard Nelson Felix Klein",
-    "last": "TODO Leonard Nelson Felix Klein"
+    "first": "Leonard",
+    "last": "Nelson"
   },
   "1008": {
     "name": "Alfred Errera Felix Klein",
@@ -4400,12 +4400,12 @@
     "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
   },
   "879": {
-    "name": "Hermann Weyl Felix Klein",
+    "name": "Hermann Weyl",
     "ids_to_signatures": {
-      "1113": "[Hermann Weyl] [Felix] Klein"
+      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein"
     },
-    "first": "TODOHermann Weyl Felix Klein",
-    "last": "TODOHermann Weyl Felix Klein"
+    "first": "Hermann",
+    "last": "Weyl"
   },
   "505": {
     "name": "Felix Klein, Dr. Karl Wieghardt",
@@ -4423,14 +4423,6 @@
     },
     "first": "TODOLudwig Prandt Felix Klein",
     "last": "TODOLudwig Prandt Felix Klein"
-  },
-  "690": {
-    "name": "Otto Tö!plitz Felix Klein",
-    "ids_to_signatures": {
-      "1119": "[[Otto] Tö[!]plitz] [Felix] Klein"
-    },
-    "first": "TODOOtto Tö!plitz Felix Klein",
-    "last": "TODOOtto Tö!plitz Felix Klein"
   },
   "355": {
     "name": "Wilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
@@ -4558,7 +4550,8 @@
   "211": {
     "name": "Dr. Otto Toeplitz",
     "ids_to_signatures": {
-      "1012": "Dr. Otto Toeplitz"
+      "1012": "Dr. Otto Toeplitz",
+      "1119": "[Otto Toeplitz, aufgeschrieben von Felix] Klein"
     },
     "first": "Otto",
     "last": "Toeplitz"
