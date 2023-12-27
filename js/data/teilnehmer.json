@@ -409,13 +409,17 @@
     "last": "Biedermann"
   },
   "382": {
-    "name": "Friedrich Biedlingsmeier",
+    "name": "Friedrich Bidlingmaier",
     "ids_to_signatures": {
-      "701": "Biedlingsmayer [Friedrich Biedlingsmeier]",
-      "702": "Biedlingsmayer [Friedrich Biedlingsmeier]"
+      "701": "[Friedrich Bidlingmaier]",
+      "702": "[Friedrich Bidlingmaier]"
     },
-    "first": "Biedlingsmayer Biedlingsmeier",
-    "last": "Biedlingsmeier"
+    "first": "Friedrich",
+    "last": "Bidlingmaier",
+    "sources" : {
+      "AV 1897.5 S. 37": ""
+    },
+    "origin": "Laussen"
   },
   "1138": {
     "name": "Heinrich Biesterfeld",
