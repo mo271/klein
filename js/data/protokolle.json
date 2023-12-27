@@ -13518,7 +13518,7 @@
     "sn": 1904.5,
     "seite": 182,
     "sok": true,
-    "datum": "    []",
+    "datum": "",
     "dok": false,
     "titel": "Stabilität der ebenen Elastika.",
     "ktitel": "",
@@ -13845,7 +13845,7 @@
     "titel": "Erster Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13859,7 +13859,7 @@
     "titel": "Zweite Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13873,7 +13873,7 @@
     "titel": "Dritte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13887,7 +13887,7 @@
     "titel": "Vierte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13901,7 +13901,7 @@
     "titel": "Fünfte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13915,21 +13915,21 @@
     "titel": "Sechste Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
     "id": 984,
     "band": 23,
     "sn": 1905.5,
-    "seite": 63,
+    "seite": 59,
     "sok": true,
     "datum": "1905-12-20",
     "dok": true,
     "titel": "Siebente Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13943,7 +13943,7 @@
     "titel": "Achte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13957,7 +13957,7 @@
     "titel": "Neunte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13971,7 +13971,7 @@
     "titel": "Zehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13985,7 +13985,7 @@
     "titel": "Elfte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -13999,7 +13999,7 @@
     "titel": "Zwölfte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -14013,7 +14013,7 @@
     "titel": "Dreizehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -14027,7 +14027,7 @@
     "titel": "Vierzehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -14041,7 +14041,7 @@
     "titel": "Fünfzehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -14055,7 +14055,7 @@
     "titel": "Sechszehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      182
+      940
     ]
   },
   {
@@ -14280,7 +14280,8 @@
     "titel": "Vortrag von Herrn Professor [David] Hilbert über die Oszillationstheoreme.",
     "ktitel": "",
     "speaker": [
-      552
+      142,
+      211
     ]
   },
   {
@@ -15841,7 +15842,7 @@
     "titel": "",
     "ktitel": "psychologische Sammelforschung",
     "speaker": [
-      690
+      211
     ]
   },
   {

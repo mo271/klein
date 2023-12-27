@@ -367,7 +367,7 @@
     "ids_to_signatures": {
       "678": "Charles H[arold] Berry"
     },
-    "first": "Charles Berry",
+    "first": "Charles Harold",
     "last": "Berry"
   },
   "822": {
@@ -548,8 +548,8 @@
     "ids_to_signatures": {
       "643": "Helene v[on]. Bortkewitsch"
     },
-    "first": "Helene Bortkewitsch",
-    "last": "Bortkewitsch"
+    "first": "Helene",
+    "last": "von Bortkewitsch"
   },
   "266": {
     "name": "Anne Bosworth",
@@ -777,17 +777,17 @@
     "last": "Büttner"
   },
   "1114": {
-    "name": "Herbert G? Campbell",
+    "name": "Herbert G. Campbell",
     "ids_to_signatures": {
-      "597": "Her[bert] G[?] Campbell"
+      "597": "Her[bert] G. Campbell"
     },
-    "first": "Herbert Campbell",
+    "first": "Herbert G.",
     "last": "Campbell"
   },
   "1113": {
     "name": "George Ashley. Campbell",
     "ids_to_signatures": {
-      "584": "G[eorge]. [A]shley. Campbell"
+      "584": "G[eorge]. A[shley]. Campbell"
     },
     "first": "George Ashley",
     "last": "Campbell"
@@ -930,7 +930,7 @@
     "last": "Duncker"
   },
   "16": {
-    "name": "Walther Dyck",
+    "name": "Walther [später: von] Dyck",
     "ids_to_signatures": {
       "130": "W[alther]. D[yck].",
       "131": "W[alther]. Dyck",
@@ -940,15 +940,15 @@
       "234": "[Walther] Dyck",
       "235": "[Walther] Dyck",
       "261": "[Walther] Dyck",
-      "114": "Walther [[von]] Dyck",
-      "264": "[Walther [von]] Dyck",
-      "265": "[Walther [von]] Dyck",
-      "272": "Walther [[von]] Dyck",
-      "286": "[Walther [von]] Dyck",
-      "367": "[Walther [von]] Dyck"
+      "114": "Walther Dyck",
+      "264": "[Walther] Dyck",
+      "265": "[Walther] Dyck",
+      "272": "Walther] Dyck",
+      "286": "[Walther] Dyck",
+      "367": "[Walther] Dyck"
     },
     "first": "Walther",
-    "last": "Dyck"
+    "last": "[später: von] Dyck"
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -1326,6 +1326,7 @@
     },
     "first": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna]",
     "last": "Gernet [Gernett]",
+    "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
       "TO S. 396": ""
     }
@@ -1844,7 +1845,7 @@
     "ids_to_signatures": {
       "698": "A[lexander] L[eonard] Hjelmman"
     },
-    "first": "Alexander Hjelmman",
+    "first": "Alexander Leonard",
     "last": "Hjelmman"
   },
   "874": {
@@ -2306,6 +2307,22 @@
       "919": "[Felix] Klein",
       "931": "[Felix] Klein",
       "958": "[Felix] Klein",
+      "978": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "979": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "980": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "981": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "982": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "983": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "984": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "985": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "986": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "987": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "988": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "989": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "990": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "991": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "992": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
+      "993": "[Felix Klein, aufgeschrieben von Otto Toeplitz]",
       "994": "[Felix Klein]",
       "1015": "[Felix] Klein",
       "1026": "[Felix Klein]",
@@ -3011,16 +3028,16 @@
     "last": "Meyer"
   },
   "35": {
-    "name": "Friedrich Wilhelm \\emph{Franz} Meyer",
+    "name": "Franz Meyer",
     "ids_to_signatures": {
-      "116": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "118": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "123": "[[Friedrich Wilhelm \\emph{Franz}] Meyer]",
-      "134": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "142": "[Friedrich Wilhelm \\emph{Franz}] Meyer",
-      "146": "[Friedrich Wilhelm \\emph{Franz}] Meyer"
+      "116": "[Franz] Meyer",
+      "118": "[Franz] Meyer",
+      "123": "[Franz Meyer]",
+      "134": "[Franz] Meyer",
+      "142": "[Franz] Meyer",
+      "146": "[Franz] Meyer"
     },
-    "first": "Friedrich Wilhelm \\emph{Franz}",
+    "first": "Franz",
     "last": "Meyer"
   },
   "1189": {
@@ -4251,15 +4268,15 @@
     "last": "TODO David Hilbert, Otto Toeplitz"
   },
   "245": {
-    "name": "Erwin Freundlich Felix Klein",
+    "name": "Erwin Freundlich",
     "ids_to_signatures": {
-      "1116": "[[Erwin] Freundlich] [Felix] Klein",
-      "1118": "[[Erwin] Freundlich] [Felix] Klein",
-      "1133": "[[Erwin] Freundlich] [Felix] Klein",
-      "1137": "[[Erwin] Freundlich] [Felix Klein]"
+      "1116": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1118": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1133": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
     },
-    "first": "TODO Erwin Freundlich Felix Klein",
-    "last": "TODO Erwin Freundlich Felix Klein"
+    "first": "Erwin",
+    "last": "Freundlich"
   },
   "98": {
     "name": "Felix Bernstein Felix Klein",
@@ -4313,14 +4330,14 @@
     "last": "TODO Felix KleinHandschrift von Osgood"
   },
   "1039": {
-    "name": "Leonard Nelson Felix Klein",
+    "name": "Leonard Nelson",
     "ids_to_signatures": {
-      "1117": "[[Leonard] Nelson] [Felix] Klein",
-      "1122": "[Leonard Nelson] [Felix] Klein",
-      "1138": "[Leonard Nelson] [Felix Klein]"
+      "1117": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1122": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1138": "[Leonard Nelson, aufgeschrieben von Felix Klein]"
     },
-    "first": "TODO Leonard Nelson Felix Klein",
-    "last": "TODO Leonard Nelson Felix Klein"
+    "first": "Leonard",
+    "last": "Nelson"
   },
   "1008": {
     "name": "Alfred Errera Felix Klein",
@@ -4364,29 +4381,6 @@
     "first": "TODOFelix Klein, Dr. Graf",
     "last": "TODOFelix Klein, Dr. Graf"
   },
-  "182": {
-    "name": "Felix Klein, Otto Toeplitz",
-    "ids_to_signatures": {
-      "978": "[Felix Klein], [Otto Toeplitz]",
-      "979": "[Felix Klein], [Otto Toeplitz]",
-      "980": "[Felix Klein], [Otto Toeplitz]",
-      "981": "[Felix Klein], [Otto Toeplitz]",
-      "982": "[Felix Klein], [Otto Toeplitz]",
-      "983": "[Felix Klein], [Otto Toeplitz]",
-      "984": "[Felix Klein], [Otto Toeplitz]",
-      "985": "[Felix Klein], [Otto Toeplitz]",
-      "986": "[Felix Klein], [Otto Toeplitz]",
-      "987": "[Felix Klein], [Otto Toeplitz]",
-      "988": "[Felix Klein], [Otto Toeplitz]",
-      "989": "[Felix Klein], [Otto Toeplitz]",
-      "990": "[Felix Klein], [Otto Toeplitz]",
-      "991": "[Felix Klein], [Otto Toeplitz]",
-      "992": "[Felix Klein], [Otto Toeplitz]",
-      "993": "[Felix Klein], [Otto Toeplitz]"
-    },
-    "first": "TODOFelix Klein, Otto Toeplitz",
-    "last": "TODOFelix Klein, Otto Toeplitz"
-  },
   "208": {
     "name": "Felix Klein, Paul Koebe",
     "ids_to_signatures": {
@@ -4404,12 +4398,12 @@
     "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
   },
   "879": {
-    "name": "Hermann Weyl Felix Klein",
+    "name": "Hermann Weyl",
     "ids_to_signatures": {
-      "1113": "[Hermann Weyl] [Felix] Klein"
+      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein"
     },
-    "first": "TODOHermann Weyl Felix Klein",
-    "last": "TODOHermann Weyl Felix Klein"
+    "first": "Hermann",
+    "last": "Weyl"
   },
   "505": {
     "name": "Felix Klein, Dr. Karl Wieghardt",
@@ -4427,14 +4421,6 @@
     },
     "first": "TODOLudwig Prandt Felix Klein",
     "last": "TODOLudwig Prandt Felix Klein"
-  },
-  "690": {
-    "name": "Otto Tö!plitz Felix Klein",
-    "ids_to_signatures": {
-      "1119": "[[Otto] Tö[!]plitz] [Felix] Klein"
-    },
-    "first": "TODOOtto Tö!plitz Felix Klein",
-    "last": "TODOOtto Tö!plitz Felix Klein"
   },
   "355": {
     "name": "Wilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
@@ -4459,7 +4445,7 @@
       "613": "J[ohn] H[enry] Tanner",
       "630": "J[ohn] H[enry] Tanner"
     },
-    "first": "John Tanner",
+    "first": "John Henry",
     "last": "Tanner"
   },
   "139": {
@@ -4560,9 +4546,10 @@
     "last": "Toepler"
   },
   "211": {
-    "name": "Dr. Otto Toeplitz",
+    "name": "Otto Toeplitz",
     "ids_to_signatures": {
-      "1012": "Dr. Otto Toeplitz"
+      "1012": "Dr. Otto Toeplitz",
+      "1119": "[Otto Toeplitz, aufgeschrieben von Felix] Klein"
     },
     "first": "Otto",
     "last": "Toeplitz"
@@ -4848,7 +4835,7 @@
       "489": "H[enry] S[eely] White",
       "498": "H[enry] S[eely] White"
     },
-    "first": "Henry White",
+    "first": "Henry Seely",
     "last": "White"
   },
   "472": {
@@ -5100,12 +5087,12 @@
     "last": "Zoll"
   },
   "466": {
-    "name": "Kazimierz Zorawski mg:akzent auf Z?",
+    "name": "Kazimierz Żorawski",
     "ids_to_signatures": {
-      "525": "K[azimierz] Zorawski [mg:akzent auf Z?]"
+      "525": "K[azimierz] Zorawski [Żorawski]"
     },
     "first": "Kazimierz",
-    "last": "Zorawski [mg:akzent auf Z?]"
+    "last": "Żorawski"
   },
   "346": {
     "name": "Theodor Zorn",
@@ -5125,7 +5112,7 @@
     "last": "Zorn"
   },
   "273": {
-    "name": "Richard Suppantschitsch Rihard Zupančič",
+    "name": "Richard Suppantschitsch [Rihard Zupančič]",
     "ids_to_signatures": {
       "1156": "Richard Suppantschitsch [Rihard Zupančič]"
     },
