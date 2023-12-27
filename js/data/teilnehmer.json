@@ -1433,12 +1433,16 @@
     "last": "Gottschalk"
   },
   "829": {
-    "name": "Dr. Franz? nicht Paul, könnte a 'Tiram' sein Graf",
+    "name": "Franz Graf",
     "ids_to_signatures": {
-      "1019": "Dr. Franz[? nicht Paul, könnte a 'Tiram' sein] Graf"
+      "1019": "Dr. Franz Graf"
     },
-    "first": "Franz?",
-    "last": "Graf"
+    "first": "Franz",
+    "last": "Graf",
+    "sources":{
+      "AV 1906.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    },
+    "origin": "Prag"
   },
   "262": {
     "name": "Richard Greiner\\newline st. math.?",
