@@ -289,7 +289,8 @@
     "ids_to_signatures": {
       "1088": "[Wilhelm] Behrens",
       "1093": "[Wilhelm] Behrens",
-      "1132": "[Wilhelm Behrens, aufgeschrieben von Felix Klein]"
+      "1132": "[Wilhelm Behrens, aufgeschrieben von Felix Klein]",
+      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Wilhelm",
     "last": "Behrens"
@@ -1034,7 +1035,8 @@
     "name": "Alfred Errara",
     "ids_to_signatures": {
       "1126": "[Alfred] Errara",
-      "1128": "[Alfred Errera, aufgeschrieben von Felix Klein]"
+      "1128": "[Alfred Errera, aufgeschrieben von Felix Klein]",
+      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Alfred",
     "last": "Errara"
@@ -4393,7 +4395,8 @@
   "879": {
     "name": "Hermann Weyl",
     "ids_to_signatures": {
-      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein"
+      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein",
+      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Hermann",
     "last": "Weyl"
@@ -4414,14 +4417,6 @@
     },
     "first": "TODOLudwig Prandt Felix Klein",
     "last": "TODOLudwig Prandt Felix Klein"
-  },
-  "355": {
-    "name": "Wilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
-    "ids_to_signatures": {
-      "1139": "[[Wilhelm] Behrens] [[Alfred] Errera] [[Hermann] Weyl] [Felix Klein]"
-    },
-    "first": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein",
-    "last": "TODOWilhelm Behrens Alfred Errera Hermann Weyl Felix Klein"
   },
   "1144": {
     "name": "John Henry Tanner",
