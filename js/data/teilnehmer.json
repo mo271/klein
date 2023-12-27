@@ -2303,7 +2303,9 @@
       "579": "[Felix] Klein",
       "580": "[Felix] Klein",
       "581": "[Felix] Klein",
+      "692": "[Felix Klein] (Referat, erstattet von [Heinrich] Liebmann)",
       "775": "[Felix Klein]",
+      "709": "[Felix Klein, aufgeschrieben von] Dr. [Heinrich] Liebmann",
       "903": "[Felix] Klein",
       "909": "[Felix] Klein",
       "919": "[Felix] Klein",
@@ -2340,6 +2342,7 @@
       "1039": "[Felix] Klein",
       "1040": "[Felix] Klein",
       "1056": "[Felix] Klein",
+      "1085": "[Felix Klein, aufgeschrieben von [?]]",
       "1087": "[Felix] Klein",
       "1112": "[Felix] Klein",
       "1114": "[Felix] Klein",
@@ -2356,22 +2359,6 @@
     },
     "first": "Felix",
     "last": "Klein"
-  },
-  "539": {
-    "name": "Felix Klein (Referat, erstattet von Heinrich Liebmann)",
-    "ids_to_signatures": {
-      "692": "[F[elix] Klein] (Referat, erstattet von [Heinrich] Liebmann)"
-    },
-    "first": "Felix",
-    "last": "Klein"
-  },
-  "498": {
-    "name": "Felix Klein?",
-    "ids_to_signatures": {
-      "1085": "[?][Felix Klein]"
-    },
-    "first": "Felix",
-    "last": "Klein?"
   },
   "191": {
     "name": "Felix Kletzkowki",
@@ -4289,14 +4276,6 @@
     },
     "first": "TODO Felix Bernstein Felix Klein",
     "last": "TODO Felix Bernstein Felix Klein"
-  },
-  "1149": {
-    "name": "Felix Klein Dr. Heinrich Liebmann",
-    "ids_to_signatures": {
-      "709": "[F[elix] Klein] Dr. [Heinrich] Liebmann"
-    },
-    "first": "TODO Felix Klein Dr. Heinrich Liebmann",
-    "last": "TODO Felix Klein Dr. Heinrich Liebmann"
   },
   "972": {
     "name": "Felix Klein, Dr. Karl Wieghardt.",
