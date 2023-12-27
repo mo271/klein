@@ -349,7 +349,8 @@
     "ids_to_signatures": {
       "778": "F[elix] Bernstein",
       "816": "Felix Bernstein",
-      "817": "Felix Bernstein"
+      "817": "Felix Bernstein",
+      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein"
     },
     "first": "Felix",
     "last": "Bernstein"
@@ -4183,6 +4184,7 @@
   "908": {
     "name": "Fritz Steckel",
     "ids_to_signatures": {
+      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein",
       "1130": "[Fritz Steckel, aufgeschrieben von Felix Klein]"
     },
     "first": "Fritz",
@@ -4344,12 +4346,16 @@
     "last": "TODOAlfred Errera Felix Klein"
   },
   "618": {
-    "name": "Felix Bernstein Ste|rokel? Deco|aster? Felix Klein",
+    "name": "Paul Decoster",
     "ids_to_signatures": {
-      "1120": "[[Felix] Bernstein] [St[e|r]okel?] [Dec[o|a]ster?] [Felix] Klein"
+      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein"
     },
-    "first": "TODOFelix Bernstein Ste|rokel? Deco|aster? Felix Klein",
-    "last": "TODOFelix Bernstein Ste|rokel? Deco|aster? Felix Klein"
+    "first": "Paul",
+    "last": "Decoster",
+    "source": {
+      "AV 1909.5 S. 48": ""
+    },
+    "origin": "Löwen, Belgien"
   },
   "1148": {
     "name": "Felix Klein, ? Schritfvergleich!",
