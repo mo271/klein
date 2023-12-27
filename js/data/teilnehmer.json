@@ -1025,7 +1025,8 @@
   "242": {
     "name": "Alfred Errara",
     "ids_to_signatures": {
-      "1126": "[Alfred] Errara"
+      "1126": "[Alfred] Errara",
+      "1128": "[Alfred Errera, aufgeschrieben von Felix Klein]"
     },
     "first": "Alfred",
     "last": "Errara"
@@ -4319,14 +4320,6 @@
     "first": "TODO Leonard Nelson Felix Klein",
     "last": "TODO Leonard Nelson Felix Klein"
   },
-  "1008": {
-    "name": "Alfred Errera Felix Klein",
-    "ids_to_signatures": {
-      "1128": "[[Alfred] Errera] [Felix] Klein"
-    },
-    "first": "TODOAlfred Errera Felix Klein",
-    "last": "TODOAlfred Errera Felix Klein"
-  },
   "618": {
     "name": "Felix Bernstein Ste|rokel? Deco|aster? Felix Klein",
     "ids_to_signatures": {
@@ -4607,7 +4600,7 @@
   "440": {
     "name": "Bernhard Uffrecht",
     "ids_to_signatures": {
-      "1124": "[Bernhard] Uffrecht"
+      "1124": "[Bernhard Uffrecht, aufgeschrieben von Felix Klein]"
     },
     "first": "Bernhard",
     "last": "Uffrecht"
