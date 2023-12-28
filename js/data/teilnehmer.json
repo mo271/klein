@@ -2350,6 +2350,7 @@
       "1040": "[Felix] Klein",
       "1056": "[Felix] Klein",
       "1087": "[Felix] Klein",
+      "1101": "[Ludwig Prandtl, aufgeschrieben von Felix] Klein",
       "1112": "[Felix] Klein",
       "1114": "[Felix] Klein",
       "1115": "[Felix] Klein",
@@ -3459,7 +3460,8 @@
   "802": {
     "name": "Ludwig Prandtl",
     "ids_to_signatures": {
-      "942": "L[udwig] Prandtl"
+      "942": "L[udwig] Prandtl",
+      "1101": "[Ludwig Prandtl, aufgeschrieben von Felix] Klein"
     },
     "first": "Ludwig",
     "last": "Prandtl"
@@ -4363,14 +4365,6 @@
     },
     "first": "TODOFelix/Karl",
     "last": "TODOKlein/Wieghardt"
-  },
-  "686": {
-    "name": "Ludwig Prandt Felix Klein",
-    "ids_to_signatures": {
-      "1101": "[Ludwig Prandt] [Felix] Klein"
-    },
-    "first": "TODOLudwig Prandt Felix Klein",
-    "last": "TODOLudwig Prandt Felix Klein"
   },
   "1144": {
     "name": "John Henry Tanner",
