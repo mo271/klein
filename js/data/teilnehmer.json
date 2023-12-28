@@ -1272,9 +1272,11 @@
   "312": {
     "name": "Ludwig Föppel",
     "ids_to_signatures": {
+      "1071": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
+      "1072": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
       "1080": "L[udwig] Föppel",
       "1081": "L[udwig] Föppel",
-      "1082": "L[udwig] Föppel"
+      "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppel"
     },
     "first": "Ludwig",
     "last": "Föppel"
@@ -2356,6 +2358,9 @@
       "1039": "[Felix] Klein",
       "1040": "[Felix] Klein",
       "1056": "[Felix] Klein",
+      "1071": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
+      "1072": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
+      "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppel",
       "1087": "[Felix] Klein",
       "1112": "[Felix] Klein",
       "1114": "[Felix] Klein",
@@ -4309,15 +4314,6 @@
       "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
     "origin": "Wien"
-  },
-  "1148": {
-    "name": "Felix Klein, ? Schritfvergleich!",
-    "ids_to_signatures": {
-      "1071": "[Felix Klein], [? Schritfvergleich!]",
-      "1072": "[Felix Klein], [? Schritfvergleich!]"
-    },
-    "first": "TODOFelix Klein, ? Schritfvergleich!",
-    "last": "TODOFelix Klein, ? Schritfvergleich!"
   },
   "218": {
     "name": "Felix Klein, Dr. Antoni R. v. Zomnicki?",
