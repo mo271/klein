@@ -409,7 +409,7 @@
     "first": "Friedrich",
     "last": "Bidlingmaier",
     "sources": {
-      "AV 1897.5 S. 37": ""
+      "AV 1897.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B37%5D%7D"
     },
     "origin": "Laussen"
   },
@@ -819,7 +819,7 @@
     "name_non_latin": "Νικόλαος Χατζιδάκις",
     "sources": {
       "AV 1998.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1998_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
-      "KT foll. 187": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B382%5D%7D"
+      "KT foll. 188": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B384%5D%7D"
     }
   },
   "1045": {
@@ -876,7 +876,7 @@
     "first": "Paul",
     "last": "Decoster",
     "sources": {
-      "AV 1909.5 S. 48": ""
+      "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "origin": "Löwen, Belgien"
   },
@@ -1178,10 +1178,10 @@
     "first": "Hermann",
     "last": "Fricke",
     "sources": {
-      "AV 1898.0 S. 42": "",
-      "KT foll. 184": "",
-      "KT foll. 185": "",
-      "KT foll. 188": ""
+      "AV 1898.0 S. 42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
+      "KT foll. 184": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B376%5D%7D",
+      "KT foll. 185": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B378%5D%7D",
+      "KT foll. 188": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B384%5D%7D"
     },
     "origin": "Goslar"
   },
@@ -2810,15 +2810,16 @@
     "last": "Löwenstein"
   },
   "232": {
-    "name": "Ernst Carl Wilhelm Lübcke",
+    "name": "Ernst Karl Wilhelm Lübcke",
     "ids_to_signatures": {
-      "1177": "Ernst K. [Carl] W[ilhlem]. Lübcke"
+      "1177": "Ernst K[arl]. W[ilhlem]. Lübcke"
     },
     "first": "Ernst Karl Wilhelm",
     "last": "Lübcke",
     "origin": "Wolfenbüttel",
     "sources": {
-      "AV 1911.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+      "AV 1911.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B69%5D%7D",
+      "cp.tu-berlin.de": "https://cp.tu-berlin.de/person/3522"
     }
   },
   "715": {
