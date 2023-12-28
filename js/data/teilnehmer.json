@@ -4617,14 +4617,19 @@
     "last": "Wagemann?"
   },
   "563": {
-    "name": "Gustav Wagner?",
+    "name": "Gotthold Wagner",
     "ids_to_signatures": {
-      "1073": "G[ustav]. Wagner?",
-      "1074": "G[ustav]. Wagner?",
-      "1075": "G[ustav]. Wagner?"
+      "1073": "G[otthold]. Wagner",
+      "1074": "G[otthold]. Wagner",
+      "1075": "G[otthold]. Wagner"
     },
-    "first": "Gustav",
-    "last": "Wagner?"
+    "first": "Gotthold",
+    "last": "Wagner",
+    "sources": {
+      "AV 1908.5 S. 81" : "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B81%5D%7D",
+      "KT foll. 273" : "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B552%5D%7D"
+    },
+    "origin": "Greiz"
   },
   "90": {
     "name": "J? ?. Walley?",
