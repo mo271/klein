@@ -2304,6 +2304,7 @@
       "413": "[Felix] Klein",
       "442": "F[elix]. Klein",
       "443": "F[elix]. Klein",
+      "499": "[Felix Klein, aufgeschrieben von William Fogg Osgood]",
       "556": "[Felix] Klein",
       "578": "[Felix] Klein",
       "579": "[Felix] Klein",
@@ -3260,6 +3261,7 @@
     "name": "William Fogg Osgood",
     "ids_to_signatures": {
       "491": "W[illiam]. F[ogg]. Osgood",
+      "499": "[Felix Klein, aufgeschrieben von William Fogg Osgood]",
       "500": "W[illiam]. F[ogg]. Osgood"
     },
     "first": "William Fogg",
@@ -4307,14 +4309,6 @@
       "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
     "origin": "Wien"
-  },
-  "428": {
-    "name": "Felix KleinHandschrift von Osgood",
-    "ids_to_signatures": {
-      "499": "[Felix Klein[Handschrift von Osgood]]"
-    },
-    "first": "TODO Felix KleinHandschrift von Osgood",
-    "last": "TODO Felix KleinHandschrift von Osgood"
   },
   "1148": {
     "name": "Felix Klein, ? Schritfvergleich!",
