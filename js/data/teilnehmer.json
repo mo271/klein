@@ -2334,6 +2334,7 @@
       "994": "[Felix Klein]",
       "1006": "[Felix Klein], [Franz Graf]",
       "1008": "[Felix Klein], [Franz Graf]",
+      "1010": "[Felix Klein aufgeschrieben von Paul] Koebe",
       "1015": "[Felix] Klein",
       "1026": "[Felix Klein]",
       "1027": "[Felix Klein]",
@@ -2437,6 +2438,7 @@
   "7": {
     "name": "Dr. Paul Koebe",
     "ids_to_signatures": {
+      "1010": "[Felix Klein aufgeschrieben von Paul] Koebe",
       "1011": "Dr. P[aul]. Koebe"
     },
     "first": "Paul",
@@ -4339,14 +4341,6 @@
     },
     "first": "Antoni",
     "last": "Łomnicki"
-  },
-  "208": {
-    "name": "Felix Klein, Paul Koebe",
-    "ids_to_signatures": {
-      "1010": "[Felix Klein], [Paul] Koebe"
-    },
-    "first": "TODOFelix Klein, Paul Koebe",
-    "last": "TODOFelix Klein, Paul Koebe"
   },
   "395": {
     "name": "Friedrich Kuhse?, unleserlich?  Wieck|hmann",
