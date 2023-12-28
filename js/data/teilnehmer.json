@@ -2304,6 +2304,7 @@
       "413": "[Felix] Klein",
       "442": "F[elix]. Klein",
       "443": "F[elix]. Klein",
+      "499": "[Felix Klein, aufgeschrieben von William Fogg Osgood]",
       "556": "[Felix] Klein",
       "578": "[Felix] Klein",
       "579": "[Felix] Klein",
@@ -3253,6 +3254,7 @@
     "name": "William Fogg Osgood",
     "ids_to_signatures": {
       "491": "W[illiam]. F[ogg]. Osgood",
+      "499": "[Felix Klein, aufgeschrieben von William Fogg Osgood]",
       "500": "W[illiam]. F[ogg]. Osgood"
     },
     "first": "William Fogg",
@@ -4314,14 +4316,6 @@
     },
     "first": "TODO Felix Klein, Karl Wieghardt",
     "last": "TODO Felix Klein, Karl Wieghardt"
-  },
-  "428": {
-    "name": "Felix KleinHandschrift von Osgood",
-    "ids_to_signatures": {
-      "499": "[Felix Klein[Handschrift von Osgood]]"
-    },
-    "first": "TODO Felix KleinHandschrift von Osgood",
-    "last": "TODO Felix KleinHandschrift von Osgood"
   },
   "1148": {
     "name": "Felix Klein, ? Schritfvergleich!",
