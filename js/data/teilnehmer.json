@@ -2532,7 +2532,8 @@
     "name": "Friedrich Kuhse",
     "ids_to_signatures": {
       "872": "Friedrich Kuhse",
-      "873": "Fr[iedrich] Kuhse"
+      "873": "Fr[iedrich] Kuhse",
+      "892": "Fr[iedrich] Kuhse, [Johannes] Wiechmann"
     },
     "first": "Friedrich",
     "last": "Kuhse"
@@ -4343,12 +4344,16 @@
     "last": "Łomnicki"
   },
   "395": {
-    "name": "Friedrich Kuhse?, unleserlich?  Wieck|hmann",
+    "name": "Johannes Wiechmann",
     "ids_to_signatures": {
-      "892": "Fr[iedrich] Kuhse?, [unleserlich]?  Wiec[k|h]mann"
+      "892": "Fr[iedrich] Kuhse, [Johannes] Wiechmann"
     },
-    "first": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann",
-    "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
+    "first": "Johannes",
+    "last": "Wiechmann",
+    "sources":{
+      "AV 1903.5 S. 69" : "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
+    "origin": "Wittmund, Hannover"
   },
   "505": {
     "name": "Felix Klein, Dr. Karl Wieghardt",
