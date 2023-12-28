@@ -400,6 +400,19 @@
     "first": "Luigi",
     "last": "Bianci"
   },
+  "382": {
+    "name": "Friedrich Bidlingmaier",
+    "ids_to_signatures": {
+      "701": "[Friedrich Bidlingmaier]",
+      "702": "[Friedrich Bidlingmaier]"
+    },
+    "first": "Friedrich",
+    "last": "Bidlingmaier",
+    "sources": {
+      "AV 1897.5 S. 37": ""
+    },
+    "origin": "Laussen"
+  },
   "1141": {
     "name": "Paul Biedermann",
     "ids_to_signatures": {
@@ -411,19 +424,6 @@
     },
     "first": "Paul",
     "last": "Biedermann"
-  },
-  "382": {
-    "name": "Friedrich Bidlingmaier",
-    "ids_to_signatures": {
-      "701": "[Friedrich Bidlingmaier]",
-      "702": "[Friedrich Bidlingmaier]"
-    },
-    "first": "Friedrich",
-    "last": "Bidlingmaier",
-    "sources" : {
-      "AV 1897.5 S. 37": ""
-    },
-    "origin": "Laussen"
   },
   "1138": {
     "name": "Heinrich Biesterfeld",
@@ -547,14 +547,6 @@
     "sources": {
       "AV 1902.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
     }
-  },
-  "407": {
-    "name": "Helene von Bortkewitsch",
-    "ids_to_signatures": {
-      "643": "Helene v[on]. Bortkewitsch"
-    },
-    "first": "Helene",
-    "last": "von Bortkewitsch"
   },
   "266": {
     "name": "Anne Bosworth",
@@ -876,6 +868,18 @@
     "first": "G.",
     "last": "Dane"
   },
+  "618": {
+    "name": "Paul Decoster",
+    "ids_to_signatures": {
+      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein"
+    },
+    "first": "Paul",
+    "last": "Decoster",
+    "sources": {
+      "AV 1909.5 S. 48": ""
+    },
+    "origin": "Löwen, Belgien"
+  },
   "900": {
     "name": "Max Dehn",
     "ids_to_signatures": {
@@ -933,27 +937,6 @@
     },
     "first": "Hans Julius",
     "last": "Duncker"
-  },
-  "16": {
-    "name": "Walther [später: von] Dyck",
-    "ids_to_signatures": {
-      "130": "W[alther]. D[yck].",
-      "131": "W[alther]. Dyck",
-      "140": "W[alther] Dyck",
-      "219": "W[alther] Dyck",
-      "227": "W[alther] Dyck",
-      "234": "[Walther] Dyck",
-      "235": "[Walther] Dyck",
-      "261": "[Walther] Dyck",
-      "114": "Walther Dyck",
-      "264": "[Walther] Dyck",
-      "265": "[Walther] Dyck",
-      "272": "Walther] Dyck",
-      "286": "[Walther] Dyck",
-      "367": "[Walther] Dyck"
-    },
-    "first": "Walther",
-    "last": "[später: von] Dyck"
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -1175,6 +1158,17 @@
     },
     "first": "W.",
     "last": "Freise"
+  },
+  "245": {
+    "name": "Erwin Freundlich",
+    "ids_to_signatures": {
+      "1116": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1118": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1133": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
+      "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
+    },
+    "first": "Erwin",
+    "last": "Freundlich"
   },
   "374": {
     "name": "Robert? Fricke",
@@ -1442,7 +1436,7 @@
     },
     "first": "Franz",
     "last": "Graf",
-    "sources":{
+    "sources": {
       "AV 1906.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
     "origin": "Prag"
@@ -3180,6 +3174,16 @@
     "first": "Friedrich",
     "last": "Neesen"
   },
+  "1039": {
+    "name": "Leonard Nelson",
+    "ids_to_signatures": {
+      "1117": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1122": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
+      "1138": "[Leonard Nelson, aufgeschrieben von Felix Klein]"
+    },
+    "first": "Leonard",
+    "last": "Nelson"
+  },
   "895": {
     "name": "Burt L? Newkirk",
     "ids_to_signatures": {
@@ -4269,17 +4273,6 @@
     "first": "Friedrich?",
     "last": "Stöhr?"
   },
-  "245": {
-    "name": "Erwin Freundlich",
-    "ids_to_signatures": {
-      "1116": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
-      "1118": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
-      "1133": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
-      "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
-    },
-    "first": "Erwin",
-    "last": "Freundlich"
-  },
   "1149": {
     "name": "Felix Klein Dr. Heinrich Liebmann",
     "ids_to_signatures": {
@@ -4322,28 +4315,6 @@
     "first": "TODO Felix KleinHandschrift von Osgood",
     "last": "TODO Felix KleinHandschrift von Osgood"
   },
-  "1039": {
-    "name": "Leonard Nelson",
-    "ids_to_signatures": {
-      "1117": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
-      "1122": "[Leonard Nelson, aufgeschrieben von Felix] Klein",
-      "1138": "[Leonard Nelson, aufgeschrieben von Felix Klein]"
-    },
-    "first": "Leonard",
-    "last": "Nelson"
-  },
-  "618": {
-    "name": "Paul Decoster",
-    "ids_to_signatures": {
-      "1120": "[Felix Bernstein, Fritz Steckel, Paul Decoster, aufgeschrieben von Felix] Klein"
-    },
-    "first": "Paul",
-    "last": "Decoster",
-    "sources": {
-      "AV 1909.5 S. 48": ""
-    },
-    "origin": "Löwen, Belgien"
-  },
   "1148": {
     "name": "Felix Klein, ? Schritfvergleich!",
     "ids_to_signatures": {
@@ -4376,15 +4347,6 @@
     },
     "first": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann",
     "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
-  },
-  "879": {
-    "name": "Hermann Weyl",
-    "ids_to_signatures": {
-      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein",
-      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
-    },
-    "first": "Hermann",
-    "last": "Weyl"
   },
   "505": {
     "name": "Felix Klein, Dr. Karl Wieghardt",
@@ -4795,6 +4757,15 @@
     "first": "Wilhelmus David Allen",
     "last": "Westfall"
   },
+  "879": {
+    "name": "Hermann Weyl",
+    "ids_to_signatures": {
+      "1113": "[Hermann Weyl, aufgeschrieben von Felix] Klein",
+      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
+    },
+    "first": "Hermann",
+    "last": "Weyl"
+  },
   "857": {
     "name": "Henry Seely White",
     "ids_to_signatures": {
@@ -5052,14 +5023,6 @@
     "first": "Otto",
     "last": "Zoll"
   },
-  "466": {
-    "name": "Kazimierz Żorawski",
-    "ids_to_signatures": {
-      "525": "K[azimierz] Zorawski [Żorawski]"
-    },
-    "first": "Kazimierz",
-    "last": "Żorawski"
-  },
   "346": {
     "name": "Theodor Zorn",
     "ids_to_signatures": {
@@ -5102,6 +5065,27 @@
     "first": "A??",
     "last": "Zühlke"
   },
+  "16": {
+    "name": "Walther [später: von] Dyck",
+    "ids_to_signatures": {
+      "130": "W[alther]. D[yck].",
+      "131": "W[alther]. Dyck",
+      "140": "W[alther] Dyck",
+      "219": "W[alther] Dyck",
+      "227": "W[alther] Dyck",
+      "234": "[Walther] Dyck",
+      "235": "[Walther] Dyck",
+      "261": "[Walther] Dyck",
+      "114": "Walther Dyck",
+      "264": "[Walther] Dyck",
+      "265": "[Walther] Dyck",
+      "272": "Walther] Dyck",
+      "286": "[Walther] Dyck",
+      "367": "[Walther] Dyck"
+    },
+    "first": "Walther",
+    "last": "[später: von] Dyck"
+  },
   "854": {
     "name": "Ferdinand von Lindemann",
     "ids_to_signatures": {
@@ -5143,6 +5127,14 @@
     },
     "first": "N",
     "last": "v. Zitowitsch"
+  },
+  "407": {
+    "name": "Helene von Bortkewitsch",
+    "ids_to_signatures": {
+      "643": "Helene v[on]. Bortkewitsch"
+    },
+    "first": "Helene",
+    "last": "von Bortkewitsch"
   },
   "291": {
     "name": "Helene von Bortkewitsch. Schwester von Ladislaus",
@@ -5247,5 +5239,13 @@
     },
     "first": "Alexandra",
     "last": "von Stebnitzky"
+  },
+  "466": {
+    "name": "Kazimierz Żorawski",
+    "ids_to_signatures": {
+      "525": "K[azimierz] Zorawski [Żorawski]"
+    },
+    "first": "Kazimierz",
+    "last": "Żorawski"
   }
 }
