@@ -2343,6 +2343,7 @@
       "994": "[Felix Klein]",
       "1006": "[Felix Klein], [Franz Graf]",
       "1008": "[Felix Klein], [Franz Graf]",
+      "1010": "[Felix Klein aufgeschrieben von Paul] Koebe",
       "1015": "[Felix] Klein",
       "1024": "[1. Teil von Felix Klein, aufgeschrieben von] H[ermann] Rothe, [2. Teil von] H[ermann] Rothe",
       "1026": "[Felix Klein]",
@@ -2362,6 +2363,7 @@
       "1072": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
       "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppel",
       "1087": "[Felix] Klein",
+      "1101": "[Ludwig Prandtl, aufgeschrieben von Felix] Klein",
       "1112": "[Felix] Klein",
       "1114": "[Felix] Klein",
       "1115": "[Felix] Klein",
@@ -2450,6 +2452,7 @@
   "7": {
     "name": "Dr. Paul Koebe",
     "ids_to_signatures": {
+      "1010": "[Felix Klein aufgeschrieben von Paul] Koebe",
       "1011": "Dr. P[aul]. Koebe"
     },
     "first": "Paul",
@@ -2543,7 +2546,8 @@
     "name": "Friedrich Kuhse",
     "ids_to_signatures": {
       "872": "Friedrich Kuhse",
-      "873": "Fr[iedrich] Kuhse"
+      "873": "Fr[iedrich] Kuhse",
+      "892": "Fr[iedrich] Kuhse, [Johannes] Wiechmann"
     },
     "first": "Friedrich",
     "last": "Kuhse"
@@ -3470,7 +3474,8 @@
   "802": {
     "name": "Ludwig Prandtl",
     "ids_to_signatures": {
-      "942": "L[udwig] Prandtl"
+      "942": "L[udwig] Prandtl",
+      "1101": "[Ludwig Prandtl, aufgeschrieben von Felix] Klein"
     },
     "first": "Ludwig",
     "last": "Prandtl"
@@ -4316,36 +4321,24 @@
     "origin": "Wien"
   },
   "218": {
-    "name": "Felix Klein, Dr. Antoni R. v. Zomnicki?",
+    "name": "Antoni Łomnicki?",
     "ids_to_signatures": {
-      "1025": "[Felix Klein], Dr. Antoni R. v. Zomnicki?"
+      "1025": "Dr. Antoni R. v. Łomnicki?"
     },
-    "first": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?",
-    "last": "TODOFelix Klein, Dr. Antoni R. v. Zomnicki?"
-  },
-  "208": {
-    "name": "Felix Klein, Paul Koebe",
-    "ids_to_signatures": {
-      "1010": "[Felix Klein], [Paul] Koebe"
-    },
-    "first": "TODOFelix Klein, Paul Koebe",
-    "last": "TODOFelix Klein, Paul Koebe"
+    "first": "Antoni",
+    "last": "Łomnicki"
   },
   "395": {
-    "name": "Friedrich Kuhse?, unleserlich?  Wieck|hmann",
+    "name": "Johannes Wiechmann",
     "ids_to_signatures": {
-      "892": "Fr[iedrich] Kuhse?, [unleserlich]?  Wiec[k|h]mann"
+      "892": "Fr[iedrich] Kuhse, [Johannes] Wiechmann"
     },
-    "first": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann",
-    "last": "TODOFriedrich Kuhse?, unleserlich?  Wieck|hmann"
-  },
-  "686": {
-    "name": "Ludwig Prandt Felix Klein",
-    "ids_to_signatures": {
-      "1101": "[Ludwig Prandt] [Felix] Klein"
+    "first": "Johannes",
+    "last": "Wiechmann",
+    "sources":{
+      "AV 1903.5 S. 69" : "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
-    "first": "TODOLudwig Prandt Felix Klein",
-    "last": "TODOLudwig Prandt Felix Klein"
+    "origin": "Wittmund, Hannover"
   },
   "1144": {
     "name": "John Henry Tanner",
