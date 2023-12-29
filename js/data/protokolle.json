@@ -7025,7 +7025,8 @@
     "titel": "Vortrag über die Analysis Situs von H[er]rn. Prof[essor]. Klein",
     "ktitel": "",
     "speaker": [
-      428
+      940,
+      658
     ]
   },
   {
@@ -12211,7 +12212,8 @@
     "titel": "Einleitender Vortrag von Herrn Geh. Rat [Felix] Klein.\\newline am 29. April",
     "ktitel": "",
     "speaker": [
-      1158
+      940,
+      1050
     ]
   },
   {
@@ -12400,7 +12402,8 @@
     "titel": "Verschiedene Ausführungen von Herrn Geh-Rat [Felix] Klein",
     "ktitel": "",
     "speaker": [
-      1158
+      940,
+      1050
     ]
   },
   {
@@ -12414,7 +12417,8 @@
     "titel": "Verschiedene Ausführungen von Herrn Geh-Rat [Felix] Klein",
     "ktitel": "",
     "speaker": [
-      1158
+      940,
+      1050
     ]
   },
   {
@@ -12527,7 +12531,8 @@
     "titel": "Einleitender Vortrag von Herrn Geh.-Rat [Felix] Klein.",
     "ktitel": "",
     "speaker": [
-      972
+      940,
+      1050
     ]
   },
   {
@@ -12643,7 +12648,8 @@
     "titel": "Bemerkungen von Herrn Geh.-Rat [Felix] Klein\\newline zum 3. -- 8. Vortrage.",
     "ktitel": "",
     "speaker": [
-      505
+      940,
+      1050
     ]
   },
   {
@@ -12728,7 +12734,8 @@
     "titel": "Einige Bemerkungen von Herrn Geh-Rat [Felix] Klein\\newline zum\\newline Wassersprung.",
     "ktitel": "",
     "speaker": [
-      505
+      940,
+      1050
     ]
   },
   {
@@ -13846,7 +13853,8 @@
     "titel": "Erster Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13860,7 +13868,8 @@
     "titel": "Zweite Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13874,7 +13883,8 @@
     "titel": "Dritte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13888,7 +13898,8 @@
     "titel": "Vierte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13916,7 +13927,8 @@
     "titel": "Sechste Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13930,7 +13942,8 @@
     "titel": "Siebente Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13944,7 +13957,8 @@
     "titel": "Achte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13972,7 +13986,8 @@
     "titel": "Zehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -13986,7 +14001,8 @@
     "titel": "Elfte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14000,7 +14016,8 @@
     "titel": "Zwölfte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14014,7 +14031,8 @@
     "titel": "Dreizehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14028,7 +14046,8 @@
     "titel": "Vierzehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14042,7 +14061,8 @@
     "titel": "Fünfzehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14056,7 +14076,8 @@
     "titel": "Sechszehnte Sitzung",
     "ktitel": "",
     "speaker": [
-      940
+      940,
+      211
     ]
   },
   {
@@ -14495,7 +14516,8 @@
     "titel": "",
     "ktitel": "Numerische Bestimmung der durch das Oszillationstheorem definierten Parameter",
     "speaker": [
-      283
+      283,
+      940
     ]
   },
   {
@@ -15156,7 +15178,8 @@
     "titel": "Über [George Biddel] Airy'sche Spannungsflächen.",
     "ktitel": "",
     "speaker": [
-      1148
+      940,
+      312
     ]
   },
   {
@@ -15170,14 +15193,15 @@
     "titel": "Fortsetzung",
     "ktitel": "",
     "speaker": [
-      1148
+      940,
+      312
     ]
   },
   {
     "id": 1073,
     "band": 27,
     "sn": 1908.5,
-    "seite": 252,
+    "seite": 253,
     "sok": true,
     "datum": "1908-11-18",
     "dok": true,
@@ -15191,7 +15215,7 @@
     "id": 1074,
     "band": 27,
     "sn": 1908.5,
-    "seite": 252,
+    "seite": 253,
     "sok": false,
     "datum": "1908-11-20",
     "dok": true,
@@ -15205,7 +15229,7 @@
     "id": 1075,
     "band": 27,
     "sn": 1908.5,
-    "seite": 252,
+    "seite": 253,
     "sok": false,
     "datum": "1908-11-25",
     "dok": true,
@@ -15310,6 +15334,7 @@
     "titel": "Vortrag von Geheimrat [Felix] Klein über das Prinzip von [Carlo Alberto] Castigliano",
     "ktitel": "",
     "speaker": [
+      940,
       312
     ]
   },
