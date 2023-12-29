@@ -2688,11 +2688,13 @@
     "name": "Heinrich Liebmann",
     "ids_to_signatures": {
       "691": "H[einrich] Liebmann",
+      "692": "[Felix Klein] (Referat, erstattet von [Heinrich] Liebmann)",
       "693": "[Heinrich] Liebmann",
       "694": "[Heinrich] Liebmann",
       "704": "H[einrich] Liebmann",
       "705": "H[einrich] Liebmann",
-      "721": "Heinrich Liebmann"
+      "709": "[Felix Klein, aufgeschrieben von] Dr. [Heinrich] Liebmann",
+      "721": "Heinrich Liebmann",  
     },
     "first": "Heinrich",
     "last": "Liebmann",
