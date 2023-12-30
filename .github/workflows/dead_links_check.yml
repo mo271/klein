@@ -9,12 +9,12 @@ on:
     - main
 
 jobs:
-  run-integrity-check:
+  run-dead-links-check:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -26,5 +26,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run Integrity Test
+    - name: Run Dead Links Test
       run: python3 ./scripts/dead_links.py
