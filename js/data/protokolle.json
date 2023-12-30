@@ -5787,7 +5787,7 @@
     "titel": "Zweiter Vortrag über Kinematik",
     "ktitel": "",
     "speaker": [
-      121
+      940
     ]
   },
   {
@@ -6983,7 +6983,7 @@
     "titel": "Die Bestimmung von $\\vartheta(0,0)$ im Fall $p=2$",
     "ktitel": "",
     "speaker": [
-      121
+      758
     ]
   },
   {
@@ -6992,7 +6992,7 @@
     "sn": 1888.1,
     "seite": 147,
     "sok": true,
-    "datum": "    ?",
+    "datum": "1888-07-20",
     "dok": false,
     "titel": "Nachtrag zum Vortrage vom 20.Juli 1888",
     "ktitel": "",
@@ -9020,7 +9020,7 @@
     "sok": true,
     "datum": "1895-07-31",
     "dok": true,
-    "titel": "Das für diesen Tag angesagte Vortrag fiel wegen Erkrankung des Vortragenden aus.\\newline der Unterzeichnete trug dem Kreis vor, daß stetige Mengen verschiedener Dimension dieselbe Mächtigkeit haben.",
+    "titel": "[Ersatz-Vortrag: Stetige Mengen verschiedener Dimension haben die gleiche Mächtigkeit]",
     "ktitel": "",
     "speaker": [
       708
@@ -9034,10 +9034,10 @@
     "sok": true,
     "datum": "1895-08-06",
     "dok": true,
-    "titel": "W[ilhelm] Lorey der [Georg] Cantorschen Mengenlehre - Theorie der transfiniten Zahlen.",
+    "titel": "Anwendungen der [Georg] Cantorschen Mengenlehre - Theorie der transfiniten Zahlen.",
     "ktitel": "",
     "speaker": [
-      121
+      708
     ]
   },
   {
@@ -9161,10 +9161,10 @@
     "sok": false,
     "datum": "1896-01-15",
     "dok": true,
-    "titel": "",
+    "titel": "Einteilung der Idealclassen in Geschlechter. Das quadratische Reciprocitätsges[etz]",
     "ktitel": "",
     "speaker": [
-      121
+      708
     ]
   },
   {
@@ -9175,10 +9175,10 @@
     "sok": false,
     "datum": "1896-01-22",
     "dok": true,
-    "titel": "",
+    "titel": "[Einteilung der Idealclassen in Geschlechter. Das quadratische Reciprocitätsges[etz]. Fortsetzung.]",
     "ktitel": "",
     "speaker": [
-      121
+      708
     ]
   },
   {
@@ -11085,10 +11085,10 @@
     "sok": false,
     "datum": "1900-06-27",
     "dok": true,
-    "titel": "",
+    "titel": "Besprechung der bisherigen Vorträge",
     "ktitel": "",
     "speaker": [
-      1173
+      121
     ]
   },
   {

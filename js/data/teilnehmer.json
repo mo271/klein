@@ -1,27 +1,15 @@
 {
   "121": {
-    "name": "",
+    "name": "[Kein Vortragender]",
     "ids_to_signatures": {
       "241": "",
       "273": "",
       "324": "",
-      "411": "",
-      "496": "",
-      "638": "",
-      "647": "",
-      "648": "",
       "707": "",
+      "783": "[Kein Vortragender]",
       "1036": "",
       "1037": "",
       "1038": ""
-    },
-    "first": "",
-    "last": ""
-  },
-  "1173": {
-    "name": "Besprechung der bisherigen Vorträge",
-    "ids_to_signatures": {
-      "783": "[Besprechung der bisherigen Vorträge]"
     },
     "first": "",
     "last": ""
@@ -2302,6 +2290,7 @@
       "357": "[Felix] Klein",
       "405": "[Felix] Klein",
       "410": "F[elix]. Klein",
+      "411": "[Felix Klein]",
       "412": "F[elix]. Klein",
       "413": "[Felix] Klein",
       "442": "F[elix]. Klein",
@@ -2789,7 +2778,10 @@
       "600": "W[ilhelm] Lorey",
       "601": "W[ilhelm] Lorey",
       "637": "[Wilhelm] Lorey",
+      "638": "W[ilhelm]. Lorey",
       "646": "W[ilhelm] Lorey",
+      "647": "W[ilhelm]. Lorey",
+      "648": "[Wilhelm Lorey]",
       "654": "[Wilhelm[?]] Lorey",
       "658": "[Wilhelm[?] Lorey]"
     },
@@ -3979,8 +3971,9 @@
   "758": {
     "name": "Johannes Schröder",
     "ids_to_signatures": {
+      "496": "Johannes Schröder]",
       "497": "J[ohannes] Schröder.",
-      "487": "J[ohannes]. Schröder stud. math.?",
+      "487": "J[ohannes]. Schröder stud. math.",
       "494": "J[ohannes] Schröder, cand. math.",
       "504": "J[ohannes] Schröder, cand. math."
     },
