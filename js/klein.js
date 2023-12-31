@@ -279,18 +279,6 @@ $(document).ready(function () {
 		$('[data-toggle=offcanvas]').click(function () {
 			$('.row-offcanvas').toggleClass('active')
 		});
-		$('#aboutlink a').click(function (e) {
-			e.preventDefault();
-			$(this).tab('show');
-		});
-		$('.heimlink').click(function (e) {
-			$("#homelink").trigger("click");
-		});
-		$('.heimlink #homelink a').click(function (e) {
-			e.preventDefault();
-			$(this).tab('show');
-			return false;
-		});
 		$('#homelink').hide();
 		$('.navbar-brand').click(function () {
 			if ($('#fkp').hasClass('active')) {
