@@ -45,10 +45,6 @@ function loadProtokolle() {
 		});
 }
 
-function processTeilnehmer() {
-
-}
-
 function processProtokolle() {
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
@@ -149,6 +145,9 @@ var updateeinzelwarnung = function () {
 			$('#einzelalarm a.controls.next').attr("href", '#id-' + nextint)
 
 		}
+		else if (tabledata.settings.dataset.queries.frage.indexOf("tn") > -1) {
+			$('#einzelalarm').show();
+		}
 		else {
 			$('#einzelalarm').hide();
 		}
@@ -186,7 +185,6 @@ var updatetitel = function () {
 		}
 		else if (anfrage[0] == 'id') {
 			$('#seitentitel').hide();
-
 		}
 		else {
 			$('#seitentitel').show();
@@ -231,25 +229,13 @@ var processingComplete = function () {
 	});
 
 }
-function meinsemestersort(record, queryValue) {
-	if (queryValue == record.sn) {
-		return true;
-	}
-	return false;
-}
-function meinbandsort(record, queryValue) {
-	if (queryValue == record.band) {
-		return true;
-	}
-	return false;
-}
+
 function meinsort(record, queryValue) {
+	anfrage = queryValue.split('-');
 	if (!show_teilnehmer) {
-		anfrage = queryValue.split('-');
 		return (anfrage[1] == record[anfrage[0]]) ? true : false;
 	} else {
-		anfrage = queryValue.split('-');
-		if (anfrage[0] == "id") {
+		if (anfrage[0] == "tn") {
 			return record.id == anfrage[1];
 		}
 		// Iterate over the ids_to_signatures to find a match
@@ -274,7 +260,6 @@ function meinsort(record, queryValue) {
 	}
 
 }
-
 
 function pad(n) {
 	return (n < 10) ? ("00" + n) : (n < 100) ? ("0" + n) : n;
@@ -314,7 +299,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		}).join(', ') : '';
 
 		origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
-		li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+		li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
 		return li;
 
 	}
@@ -324,7 +309,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		// TODO handle the case with multiple speakers
 		let speaker_id = speakers[0]
 
-		let speaker_name = '<a href="teilnehmer/#id-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
+		let speaker_name = '<a href="#tn-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
 		li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
 		return li;
 	}
@@ -405,34 +390,55 @@ function updateDynatable() {
 	tabledata.queries.functions['frage'] = meinsort;
 
 	function tabelleanfrage() {
-		if ((window.location.hash == '') || (window.location.hash == '#')) {
+		var hash = window.location.hash;
+		if ((hash == '') || (hash == '#')) {
 			tabledata.queries.remove("frage");
 			tabledata.process();
 		}
-		if (window.location.hash.indexOf('-') > -1) {
-			if (window.location.hash.indexOf('suche') > -1) {
+		if (hash.indexOf('-') > -1) {
+			if (hash.indexOf('suche') > -1) {
 				tabledata.queries.remove("frage");
 				tabledata.queries.remove("search");
-				tabledata.queries.add("search", window.location.hash.split('-')[1]);
+				tabledata.queries.add("search", hash.split('-')[1]);
 				tabledata.process();
 			}
 			else {
 				tabledata.queries.remove("frage");
-				tabledata.queries.add("frage", window.location.hash.replace('#', ''));
+				tabledata.queries.add("frage", hash.replace('#', ''));
 				tabledata.process();
 			}
 		}
 		return false;
 	}
 	tabelleanfrage();
-	$(window).on('hashchange', function () {
-		tabelleanfrage();
-	});
 	processingComplete();
 	tabledata.process();
-
 }
+// This function checks the current hash and updates the Dynatable if necessary.
+function checkHashAndUpdate() {
+	var hash = window.location.hash;
+	if (hash.match(/^#id-\d+$/)) {
+		// If the hash is an ID filter, click the "Protokolle" link and update the Dynatable
+		show_teilnehmer = false;
+		$("#protokollelink").trigger("click"); // Simulate clicking the "Protokolle" link
+	} else if (hash.match(/^#tn-\d+$/)) {
+		// If the hash is an ID filter, click the "Protokolle" link and update the Dynatable
+		show_teilnehmer = true;
+		$("#teilnehmerlink").trigger("click"); // Simulate clicking the "Protokolle" link
+	} else {
+		if (show_teilnehmer) {
+			$("#teilnehmerlink").trigger("click");
+		} else {
+			$("#protokollelink").trigger("click");
+		}
 
+	}
+
+	updateDynatable(); // Make sure to update the Dynatable
+}
+$(window).on('hashchange', function () {
+	checkHashAndUpdate();
+});
 $('.englisch').toggle();
 $(document).ready(function () {
 	Promise.all([loadProtokolle(), loadTeilnehmer()]).then(function (loadedProtokolle) {
@@ -446,11 +452,12 @@ $(document).ready(function () {
 			return false;
 		});
 		$('#homelink').hide();
+		//$("#protokollelink").trigger("click");
 		$('.navbar-brand').click(function () {
 			if ($('#fkp').hasClass('active')) {
 				$("a#allebaende")[0].click();
 			}
-			$("#homelink").trigger("click");
+			$("#protokollelink").trigger("click");
 			show_teilnehmer = false;
 			updateDynatable();
 			return false;
@@ -461,19 +468,25 @@ $(document).ready(function () {
 			$('.englisch').toggle();
 			$('.deutsch').toggle();
 		});
-		updateDynatable();
+		checkHashAndUpdate();
 
 		$("#dynatable-per-page-my-final-table").select2({
 			minimumResultsForSearch: -1
 		});
 		$("#teilnehmerlink").click(function (e) {
+			$("#homelink").trigger("click");
 			show_teilnehmer = true;
+			updateDynatable();
+			processingComplete();
+		});
+		$("#protokollelink").click(function (e) {
+			$("#homelink").trigger("click");
+			show_teilnehmer = false;
 			updateDynatable();
 			processingComplete();
 		});
 		$("#kommentarlabel").click(function (e) {
 			e.preventDefault();
-
 			$("[name='my-checkbox']").bootstrapSwitch('toggleState');
 			processingComplete();
 		});
