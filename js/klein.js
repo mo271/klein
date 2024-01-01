@@ -4,6 +4,10 @@ let protokolle = [];
 // Define the variable that will hold data from teilnehmer.json
 let teilnehmer = [];
 
+
+//
+let show_teilnehmer = false;
+
 function loadTeilnehmer() {
 	return fetch('./js/data/teilnehmer.json')
 		.then(response => {
@@ -41,15 +45,13 @@ function loadProtokolle() {
 		});
 }
 
-function processTeilnehmer() {
-
-}
-
 function processProtokolle() {
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
-	var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
+	var longWochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
 		"Donnerstag", "Freitag", "Samstag");
+	var shortWochentag = new Array("So", "Mo", "Di", "Mi", "Do", "Fr", "Sa");
+	var Wochentag = show_teilnehmer ? shortWochentag : longWochentag;
 	for (var i = 0; i < protokolle.length; i++) {
 		protokolle[i].titel = protokolle[i].titel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$1</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");
 		protokolle[i].ktitel = protokolle[i].ktitel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$0</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");
@@ -143,6 +145,11 @@ var updateeinzelwarnung = function () {
 			$('#einzelalarm a.controls.next').attr("href", '#id-' + nextint)
 
 		}
+		else if (tabledata.settings.dataset.queries.frage.indexOf("tn") > -1) {
+			$('#einzelalarm').show();
+			$('#einzelalarm .pagination').hide();
+			$('#einzelalarm .einzelansichttext').hide();
+		}
 		else {
 			$('#einzelalarm').hide();
 		}
@@ -171,6 +178,7 @@ var updatesuchwarnung = function () {
 
 }
 var updatetitel = function () {
+	var seitentitel = (show_teilnehmer ? 'Teilnehmer' : 'Protokolle') + ' 1872–1912';
 	if (typeof tabledata.settings.dataset.queries.frage != "undefined") {
 		var anfrage = tabledata.settings.dataset.queries.frage.split('-');
 		if ((anfrage[0] == 'band') || (anfrage[0] == 'sn')) {
@@ -179,16 +187,15 @@ var updatetitel = function () {
 		}
 		else if (anfrage[0] == 'id') {
 			$('#seitentitel').hide();
-
 		}
 		else {
 			$('#seitentitel').show();
-			$('#seitentitel').html('Sämtliche Protokolle 1872–1912');
+			$('#seitentitel').html(seitentitel);
 		}
 	}
 	else {
 		$('#seitentitel').show();
-		$('#seitentitel').html('Sämtliche Protokolle 1872–1912');
+		$('#seitentitel').html(seitentitel);
 	}
 	$('#seitentitel').find('.nonorigtitel').prepend('<i class="fa fa-info-circle"></i> ');
 
@@ -224,23 +231,37 @@ var processingComplete = function () {
 	});
 
 }
-function meinsemestersort(record, queryValue) {
-	if (queryValue == record.sn) {
-		return true;
-	}
-	return false;
-}
-function meinbandsort(record, queryValue) {
-	if (queryValue == record.band) {
-		return true;
-	}
-	return false;
-}
+
 function meinsort(record, queryValue) {
 	anfrage = queryValue.split('-');
-	return (anfrage[1] == record[anfrage[0]]) ? true : false;
-}
+	if (!show_teilnehmer) {
+		return (anfrage[1] == record[anfrage[0]]) ? true : false;
+	} else {
+		if (anfrage[0] == "tn") {
+			return record.id == anfrage[1];
+		}
+		// Iterate over the ids_to_signatures to find a match
+		for (var key in record.ids_to_signatures) {
+			if (record.ids_to_signatures.hasOwnProperty(key)) {
+				var adjusted_key = parseInt(key) - 1;
 
+				// Check if the adjusted key is within the bounds of the protokolle array
+				if (adjusted_key >= 0 && adjusted_key < protokolle.length) {
+					var prot_record = protokolle[adjusted_key];
+
+					// Check if the anfrage matches the prot_record
+					if (anfrage[1] == prot_record[anfrage[0]]) {
+						return true;
+					}
+				} else {
+					console.log("unexpected out of range adjusted key:", adjusted_key);
+				}
+			}
+		}
+		return false;
+	}
+
+}
 
 function pad(n) {
 	return (n < 10) ? ("00" + n) : (n < 100) ? ("0" + n) : n;
@@ -261,41 +282,80 @@ function genseitenlink(record) {
 	}
 	return '<a class="oeffneModal" href="#"  band="' + record.band + '" seite="' + record.seite.toString().replace(/\D/g, '') + '" prefix="' + prefix + '" teil="' + teil + '" ><i data-toggle="tooltip" data-placement="left" title="Öffne in Viewer" class="fa fa-file-text-o"></i> Band ' + record.band + teil2 + ', Seite ' + record.seite + '</a>'
 }
+
 function meinRowWriter(rowIndex, record, columns, cellWriter) {
 	var cssClass = "list-group-item", li, seitenzahllink;
-	seitenzahllink = genseitenlink(record);
-	speakers = record.speaker;
-	// TODO handle the case with multiple speakers
-	let speaker_id = speakers[0]
+	if (show_teilnehmer) {
+		let talks = Object.entries(record.ids_to_signatures)
+			.map(([key, value]) => {
+				adjusted_key = key - 1
+				// The adjusted key should always be present, but we kept the check...
+				// TODO: find and fix the "kein Datum" entries
+				const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
+				return '<a href="../#id-' + key + '">' + datum + '</a>';
+			}).join(', ');
+		name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin + ')<span>' : '';
+		// Creating a list of links from record.sources
+		sources_link = record.sources ? ' ' + Object.entries(record.sources).map(([name, href]) => {
+			return '<a href="' + href + '">' + name + '</a>';
+		}).join(', ') : '';
 
-	let speaker_name = '<a href="teilnehmer/#id-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
-	li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
-	return li;
+		origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
+		li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+		return li;
+
+	}
+	else {
+		seitenzahllink = genseitenlink(record);
+		speakers = record.speaker;
+		// TODO handle the case with multiple speakers
+		let speaker_id = speakers[0]
+
+		let speaker_name = '<a href="#tn-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
+		li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
+		return li;
+	}
 }
-$('.englisch').toggle();
-$(document).ready(function () {
-	Promise.all([loadProtokolle(), loadTeilnehmer()]).then(function (loadedProtokolle) {
-		$('.englisch').toggle();
-		$('[data-toggle=offcanvas]').click(function () {
-			$('.row-offcanvas').toggleClass('active')
-		});
-		$('#homelink').hide();
-		$('.navbar-brand').click(function () {
-			if ($('#fkp').hasClass('active')) {
-				$("a#allebaende")[0].click();
-			}
-			$("#homelink").trigger("click");
-			return false;
-		});
-		$("[name='my-checkbox']").bootstrapSwitch('state', true);
-		$('.switchsprache').click(function (e) {
-			e.preventDefault();
-			$('.englisch').toggle();
-			$('.deutsch').toggle();
-		});
+
+function updateDynatable() {
+
+	var teilnehmerArray = Object.keys(teilnehmer).map(function (key) {
+		var item = teilnehmer[key];
+		return {
+			id: key,
+			name: item.name,
+			name_non_latin: item.hasOwnProperty('name_non_latin') ? item.name_non_latin : '',
+			origin: item.hasOwnProperty('origin') ? item.origin : '',
+			first: item.first,
+			last: item.last,
+			sources: item.hasOwnProperty('sources') ? item.sources : '',
+			ids_to_signatures: item.ids_to_signatures
+		};
+	});
+	// Sorting the array alphabetically by name
+	teilnehmerArray.sort(function (a, b) {
+		if (a.last < b.last) {
+			return -1;
+		}
+		if (a.last > b.last) {
+			return 1;
+		}
+		return 0;
+	});
+
+	var dataset = show_teilnehmer ? teilnehmerArray : protokolle;
+	var dynatable = $('#my-final-table').data('dynatable');
+
+
+	if (dynatable) {
+		dynatable.settings.dataset.originalRecords = dataset;
+		dynatable.process();
+		tabledata = protokolle_table.data("dynatable");
+
+	} else {
 		protokolle_table = $('#my-final-table').dynatable({
 			dataset: {
-				records: protokolle
+				records: dataset
 			},
 			table: {
 				bodyRowSelector: 'li'
@@ -320,45 +380,115 @@ $(document).ready(function () {
 			},
 			writers: { _rowWriter: meinRowWriter },
 		});
-
 		$('#dynatable-record-count-my-final-table').appendTo('#erstercontainer');
 		$('#dynatable-pagination-links-my-final-table').appendTo('#zweitercontainer');
 		$('.dynatable-per-page').appendTo('#drittercontainer');
 		tabledata = protokolle_table.data("dynatable");
-		protokolle_table.bind('dynatable:afterProcess', processingComplete);
-		tabledata.queries.functions['frage'] = meinsort;
+	}
+	$('#dynatable-record-count-my-final-table').appendTo('#erstercontainer');
+	$('#dynatable-pagination-links-my-final-table').appendTo('#zweitercontainer');
+	$('.dynatable-per-page').appendTo('#drittercontainer');
+	protokolle_table.bind('dynatable:afterProcess', processingComplete);
+	tabledata.queries.functions['frage'] = meinsort;
 
-		function tabelleanfrage() {
-			if ((window.location.hash == '') || (window.location.hash == '#')) {
+	function tabelleanfrage() {
+		var hash = window.location.hash;
+		if ((hash == '') || (hash == '#')) {
+			tabledata.queries.remove("frage");
+			tabledata.process();
+		}
+		if (hash.indexOf('-') > -1) {
+			if (hash.indexOf('suche') > -1) {
 				tabledata.queries.remove("frage");
+				tabledata.queries.remove("search");
+				tabledata.queries.add("search", hash.split('-')[1]);
 				tabledata.process();
 			}
-			if (window.location.hash.indexOf('-') > -1) {
-				if (window.location.hash.indexOf('suche') > -1) {
-					tabledata.queries.remove("frage");
-					tabledata.queries.remove("search");
-					tabledata.queries.add("search", window.location.hash.split('-')[1]);
-					tabledata.process();
-				}
-				else {
-					tabledata.queries.remove("frage");
-					tabledata.queries.add("frage", window.location.hash.replace('#', ''));
-					tabledata.process();
-				}
+			else {
+				tabledata.queries.remove("frage");
+				tabledata.queries.add("frage", hash.replace('#', ''));
+				tabledata.process();
 			}
-			return false;
 		}
-		tabelleanfrage();
-		$(window).on('hashchange', function () {
-			tabelleanfrage();
+		return false;
+	}
+	tabelleanfrage();
+	processingComplete();
+	tabledata.process();
+}
+// This function checks the current hash and updates the Dynatable if necessary.
+function checkHashAndUpdate() {
+	var hash = window.location.hash;
+	if (hash.match(/^#id-\d+$/)) {
+		// If the hash is an ID filter, click the "Protokolle" link and update the Dynatable
+		show_teilnehmer = false;
+		$("#protokollelink").trigger("click"); // Simulate clicking the "Protokolle" link
+	} else if (hash.match(/^#tn-\d+$/)) {
+		// If the hash is an ID filter, click the "Protokolle" link and update the Dynatable
+		show_teilnehmer = true;
+		$("#teilnehmerlink").trigger("click"); // Simulate clicking the "Protokolle" link
+	} else {
+		if (show_teilnehmer) {
+			$("#teilnehmerlink").trigger("click");
+		} else {
+			$("#protokollelink").trigger("click");
+		}
+
+	}
+
+	updateDynatable(); // Make sure to update the Dynatable
+}
+$(window).on('hashchange', function () {
+	checkHashAndUpdate();
+});
+$('.englisch').toggle();
+$(document).ready(function () {
+	Promise.all([loadProtokolle(), loadTeilnehmer()]).then(function (loadedProtokolle) {
+		$('.englisch').toggle();
+		$('[data-toggle=offcanvas]').click(function () {
+			$('.row-offcanvas').toggleClass('active')
 		});
-		processingComplete();
+		$('.heimlink #homelink a').click(function (e) {
+			e.preventDefault();
+			$(this).tab('show');
+			return false;
+		});
+		$('#homelink').hide();
+		//$("#protokollelink").trigger("click");
+		$('.navbar-brand').click(function () {
+			if ($('#fkp').hasClass('active')) {
+				$("a#allebaende")[0].click();
+			}
+			$("#protokollelink").trigger("click");
+			show_teilnehmer = false;
+			updateDynatable();
+			return false;
+		});
+		$("[name='my-checkbox']").bootstrapSwitch('state', true);
+		$('.switchsprache').click(function (e) {
+			e.preventDefault();
+			$('.englisch').toggle();
+			$('.deutsch').toggle();
+		});
+		checkHashAndUpdate();
+
 		$("#dynatable-per-page-my-final-table").select2({
 			minimumResultsForSearch: -1
 		});
+		$("#teilnehmerlink").click(function (e) {
+			$("#homelink").trigger("click");
+			show_teilnehmer = true;
+			updateDynatable();
+			processingComplete();
+		});
+		$("#protokollelink").click(function (e) {
+			$("#homelink").trigger("click");
+			show_teilnehmer = false;
+			updateDynatable();
+			processingComplete();
+		});
 		$("#kommentarlabel").click(function (e) {
 			e.preventDefault();
-
 			$("[name='my-checkbox']").bootstrapSwitch('toggleState');
 			processingComplete();
 		});
