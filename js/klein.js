@@ -300,7 +300,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 				// TODO: find and fix the "kein Datum" entries
 				var datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
 				datum = datum.replace(/Sonntag|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag/g, match => daysOfWeekDict[match]);
-				return '<a href="../#id-' + key + '">' + datum + '</a>';
+				return '<a href="#id-' + key + '">' + datum + '</a>';
 			}).join(', ');
 		name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin + ')<span>' : '';
 		// Creating a list of links from record.sources
@@ -319,7 +319,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		// TODO handle the case with multiple speakers
 		let speaker_id = speakers[0]
 
-		let speaker_name = '<a href="../#tn-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
+		let speaker_name = '<a href="#tn-' + speaker_id + '">' + teilnehmer[speaker_id]["ids_to_signatures"][record.id] + '</a>';
 		li = '<li class="' + cssClass + '"<div><p class="datump"><span class="datumspan">' + record.datum + '</span></p><h4>' + record.titel + '</h4><p class="namep"><span id="namespan">' + speaker_name + '</span></p><p class="linkp">' + seitenzahllink + ' <a href="#id-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p></div></li>';
 		return li;
 	}
