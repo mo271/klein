@@ -48,10 +48,8 @@ function loadProtokolle() {
 function processProtokolle() {
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
-	var longWochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
+	var Wochentag = new Array("Sonntag", "Montag", "Dienstag", "Mittwoch",
 		"Donnerstag", "Freitag", "Samstag");
-	var shortWochentag = new Array("So", "Mo", "Di", "Mi", "Do", "Fr", "Sa");
-	var Wochentag = show_teilnehmer ? shortWochentag : longWochentag;
 	for (var i = 0; i < protokolle.length; i++) {
 		protokolle[i].titel = protokolle[i].titel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$1</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");
 		protokolle[i].ktitel = protokolle[i].ktitel.replace(/\\\[/g, "latexinlinelinks").replace(/\\\]/g, "latexinlinerechts").replace(/\[/g, "<span class=\"hiddenkomm\">[").replace(/\]/g, "]</span>").replace(/\\\\newline/g, "<br>").replace(/\\newline/g, "<br>").replace(/\\textsuperscript{(.*?)}/g, "<sup>$0</sup>").replace(/--/g, "—").replace(/\\foreignlanguage{(.*?)}{(.*?)}/g, "$1: $2").replace(/latexinlinelinks/g, "\\\[").replace(/latexinlinerechts/g, "\\\]").replace(/!eKl!/g, "\$\[\$").replace(/!eKr!/g, "\$\]\$");
@@ -185,7 +183,7 @@ var updatetitel = function () {
 			$('#seitentitel').show();
 			$('#seitentitel').html(titeldict[tabledata.settings.dataset.queries.frage]);
 		}
-		else if (anfrage[0] == 'id') {
+		else if (anfrage[0] == 'id' || anfrage[0] == 'tn') {
 			$('#seitentitel').hide();
 		}
 		else {
@@ -284,6 +282,15 @@ function genseitenlink(record) {
 }
 
 function meinRowWriter(rowIndex, record, columns, cellWriter) {
+	var daysOfWeekDict = {
+		"Sonntag": "So",
+		"Montag": "Mo",
+		"Dienstag": "Di",
+		"Mittwoch": "Mi",
+		"Donnerstag": "Do",
+		"Freitag": "Fr",
+		"Samstag": "Sa"
+	};
 	var cssClass = "list-group-item", li, seitenzahllink;
 	if (show_teilnehmer) {
 		let talks = Object.entries(record.ids_to_signatures)
@@ -291,7 +298,8 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 				adjusted_key = key - 1
 				// The adjusted key should always be present, but we kept the check...
 				// TODO: find and fix the "kein Datum" entries
-				const datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
+				var datum = (protokolle[adjusted_key] && protokolle[adjusted_key].datum) ? protokolle[adjusted_key].datum : 'kein Datum';
+				datum = datum.replace(/Sonntag|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag/g, match => daysOfWeekDict[match]);
 				return '<a href="../#id-' + key + '">' + datum + '</a>';
 			}).join(', ');
 		name_non_latin_span = record.name_non_latin ? '<span id="name_non_latin_span"> (' + record.name_non_latin + ')<span>' : '';
