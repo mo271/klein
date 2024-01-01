@@ -147,6 +147,8 @@ var updateeinzelwarnung = function () {
 		}
 		else if (tabledata.settings.dataset.queries.frage.indexOf("tn") > -1) {
 			$('#einzelalarm').show();
+			$('#einzelalarm .pagination').hide();
+			$('#einzelalarm .einzelansichttext').hide();
 		}
 		else {
 			$('#einzelalarm').hide();
