@@ -10292,7 +10292,7 @@
     "sok": true,
     "datum": "1898-11-09",
     "dok": true,
-    "titel": "$\frac{\partial^2 f}{\partial y\partial x}=\frac{\partial^2 f}{\partial x\partial y}$",
+    "titel": "$\\frac{\\partial^2 f}{\\partial y\\partial x}=\\frac{\\partial^2 f}{\\partial x\\partial y}$",
     "ktitel": "",
     "speaker": [
       780
