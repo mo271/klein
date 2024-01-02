@@ -31,16 +31,25 @@ def read_json_file(file_path):
 # Function to check URL
 
 
-def is_url_reachable(url):
-    try:
-        print(f'Checking {url} ...')
-        response = requests.head(url, allow_redirects=True)
-        # Check if the status code is in the range of 200-399, which usually indicates success
-        print('... success!')
-        return response.status_code >= 200 and response.status_code < 400
-    except requests.RequestException as e:
-        print(f"Error for URL {url}: {e}")
-        return False
+def is_url_reachable(url, max_retries=4, initial_delay=1):
+    retries = 0
+    while retries < max_retries:
+        try:
+            print(f'Checking {url} (Attempt {retries + 1}/{max_retries})...')
+            response = requests.head(url, allow_redirects=True)
+
+            if response.status_code >= 200 and response.status_code < 400:
+                print('... success!')
+                return True
+
+        except requests.RequestException as e:
+            print(f"Attempt {retries + 1} failed for URL {url}: {e}")
+
+        retries += 1
+        time.sleep(initial_delay * (2 ** retries))  # Exponential backoff
+
+    print(f"Failed to reach {url} after {max_retries} attempts.")
+    return False
 
 
 if __name__ == "__main__":
