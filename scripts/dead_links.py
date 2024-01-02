@@ -4,6 +4,7 @@
 
 import json
 import requests
+import time
 
 KNOWN_DEAD_LINKS = ['']
 
