@@ -2110,20 +2110,17 @@
     }
   },
   "164": {
-    "name": "Herbert? Jordan",
+    "name": "Hans Jordan",
     "ids_to_signatures": {
-      "779": "H[erbert]? Jordan"
+      "728": "H[ans] Jordan",
+      "779": "H[ans] Jordan"
     },
-    "first": "Herbert?",
-    "last": "Jordan"
-  },
-  "410": {
-    "name": "Herbert?? Jordan",
-    "ids_to_signatures": {
-      "728": "H[erbert??]. Jordan"
+    "first": "Hans",
+    "last": "Jordan",
+    "sources": {
+      "AV 1900.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
-    "first": "Herbert??",
-    "last": "Jordan"
+    "origin": "Königsberg"
   },
   "137": {
     "name": "Hans Josephson",
