@@ -4402,20 +4402,17 @@
   "699": {
     "name": "Anton Aloys Timpe.",
     "ids_to_signatures": {
+      "867": "[Anton] A[loys]. Timpe",
+      "874": "[Anton] A[loys]. Timpe",
+      "927": "[Anton] A[loys]. Timpe",
       "941": "[Anton] Aloys Timpe."
     },
     "first": "Anton Aloys",
-    "last": "Timpe"
-  },
-  "955": {
-    "name": "Anton Aloys Timpe",
-    "ids_to_signatures": {
-      "867": "[Anton] A[loys]. Timpe",
-      "874": "[Anton] A[loys]. Timpe",
-      "927": "[Anton] A[loys]. Timpe"
+    "last": "Timpe",
+    "sources": {
+      "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D"
     },
-    "first": "Anton Timpe",
-    "last": "Timpe"
+    "origin" : "[Hamburg-]Bergedorf"
   },
   "794": {
     "name": "Max Toepler",
