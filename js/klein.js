@@ -342,14 +342,9 @@ function updateDynatable() {
 	});
 	// Sorting the array alphabetically by name
 	teilnehmerArray.sort(function (a, b) {
-		if (a.last < b.last) {
-			return -1;
-		}
-		if (a.last > b.last) {
-			return 1;
-		}
-		return 0;
+    return a.last.localeCompare(b.last, 'de', { sensitivity: 'base' }); // 'de' for German
 	});
+
 
 	var dataset = show_teilnehmer ? teilnehmerArray : protokolle;
 	var dynatable = $('#my-final-table').data('dynatable');

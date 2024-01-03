@@ -11,7 +11,7 @@
       "1036": "[Kein Vortragender]"
     },
     "first": "",
-    "last": ""
+    "last": "Κein Vortragender"
   },
   "931": {
     "name": "?",
@@ -19,7 +19,7 @@
       "1111": "[?]"
     },
     "first": "",
-    "last": "?"
+    "last": "Αnonymous"
   },
   "876": {
     "name": "August Abt",
@@ -5055,10 +5055,10 @@
       "367": "[Walther] Dyck"
     },
     "first": "Walther",
-    "last": "[später: von] Dyck"
+    "last": "von Dyck"
   },
   "854": {
-    "name": "Ferdinand von Lindemann",
+    "name": "Ferdinand [später: von]Lindemann",
     "ids_to_signatures": {
       "22": "F[erdinand]. Lindemann",
       "29": "F[erdinand]. Lindemann",
@@ -5081,7 +5081,7 @@
       "89": "F[erdinand] Lindemann"
     },
     "first": "Ferdinand",
-    "last": "[später: von] Lindemann"
+    "last": "von Lindemann"
   },
   "994": {
     "name": "E??. v. Grienburg?",
