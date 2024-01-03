@@ -2297,6 +2297,7 @@
       "580": "[Felix] Klein",
       "581": "[Felix] Klein",
       "692": "[F[elix] Klein] (Referat, erstattet von [Heinrich] Liebmann)",
+      "709": "[Felix Klein, aufgeschrieben von] Dr. [Heinrich] Liebmann",
       "775": "[Felix Klein]",
       "863": "[Felix Klein, aufgeschrieben von] K[arl]. Wieghardt",
       "876": "[Felix Klein, aufgeschrieben von] K[arl]. Wieghardt",
@@ -2703,6 +2704,7 @@
       "694": "[Heinrich] Liebmann",
       "704": "H[einrich] Liebmann",
       "705": "H[einrich] Liebmann",
+      "709": "[Felix Klein, aufgeschrieben von] Dr. [Heinrich] Liebmann",
       "721": "Heinrich Liebmann"
     },
     "first": "Heinrich",
@@ -4277,14 +4279,6 @@
     },
     "first": "Friedrich?",
     "last": "Stöhr?"
-  },
-  "1149": {
-    "name": "Felix Klein Dr. Heinrich Liebmann",
-    "ids_to_signatures": {
-      "709": "[F[elix] Klein] Dr. [Heinrich] Liebmann"
-    },
-    "first": "TODO Felix Klein Dr. Heinrich Liebmann",
-    "last": "TODO Felix Klein Dr. Heinrich Liebmann"
   },
   "283": {
     "name": "Herrmann Rothe",
