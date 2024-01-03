@@ -76,8 +76,8 @@ def test_structure_teilnehmer_dict(teil_data, errors):
                         errors.append(f"unexpected type: {talk_val=} {talk_key=}")
             elif key == 'sources':
                 if type(val)!= dict:
-                    # TODO: check that links are not dead
                     errors.append(f"unexpected type: {val=}")
+
 
 if __name__ == "__main__":
     prot_path = "./js/data/protokolle.json"
