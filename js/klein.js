@@ -353,10 +353,11 @@ function updateDynatable() {
 
 	var dataset = show_teilnehmer ? teilnehmerArray : protokolle;
 	var dynatable = $('#my-final-table').data('dynatable');
-
+	var records_name = show_teilnehmer ? "Teilnehmern" : "Protokollen";
 
 	if (dynatable) {
 		dynatable.settings.dataset.originalRecords = dataset;
+		dynatable.settings.params.records = records_name;
 		dynatable.process();
 		tabledata = protokolle_table.data("dynatable");
 
@@ -384,7 +385,7 @@ function updateDynatable() {
 				perPagePlacement: 'after'
 			},
 			params: {
-				records: 'Protokollen'
+				records: records_name
 			},
 			writers: { _rowWriter: meinRowWriter },
 		});
