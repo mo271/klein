@@ -178,12 +178,16 @@
     }
   },
   "818": {
-    "name": "Dr. Aleksander Axer",
+    "name": "Alexander Axer",
     "ids_to_signatures": {
       "914": "Dr. A[leksander]. Axer"
     },
     "first": "Aleksander",
-    "last": "Axer"
+    "last": "Axer",
+    "sources": {
+      "AV 1904.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
+    "origin": "Przemyśl, Galizien"
   },
   "339": {
     "name": "Isaac Bacharach",
@@ -3126,12 +3130,16 @@
     "last": "Myller"
   },
   "859": {
-    "name": "Fritz?Möller?\\newline stud. math.",
+    "name": "Ferdinand Möller",
     "ids_to_signatures": {
-      "922": "F[ritz?]Möller?\\newline stud. math."
+      "922": "F[erdinand]Möller\\newline stud. math."
     },
-    "first": "Fritz?",
-    "last": "Möller?"
+    "first": "Ferdinand",
+    "last": "Möller",
+    "sources": {
+      "AV 1904.0 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B59%5D%7D"
+    },
+    "origin": "Hamburg"
   },
   "625": {
     "name": "Otto Mühlendyck.",
@@ -4888,11 +4896,11 @@
     "last": "Witting"
   },
   "156": {
-    "name": "Alexei Konstantinowitsch Wlassoff",
+    "name": "Alexej Konstantinowitsch Wlassoff",
     "ids_to_signatures": {
-      "917": "A[lexei Konstantinowitsch]  Wlassoff,\\newline Privat-Docent in Moskau [andere Schrift?]"
+      "917": "A[lexej Konstantinowitsch]  Wlassoff,\\newline Privat-Docent in Moskau [andere Schrift?]"
     },
-    "first": "Alexei Konstantinowitsch",
+    "first": "Alexej Konstantinowitsch",
     "last": "Wlassoff",
     "name_non_latin": "Алексей Константинович Власов"
   },
