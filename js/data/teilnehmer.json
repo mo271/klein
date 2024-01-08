@@ -4600,12 +4600,13 @@
     "last": "Walley?"
   },
   "316": {
-    "name": "Dr?. Alois??? Walter.",
+    "name": "Alois Walter",
     "ids_to_signatures": {
-      "741": "Dr?. A[lois??]? Walter."
+      "741": "Dr. A[lois] Walter"
     },
-    "first": "Alois???",
-    "last": "Walter"
+    "first": "Alois",
+    "last": "Walter",
+    "origin": "Graz"
   },
   "115": {
     "name": "Willy Weber",
