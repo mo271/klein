@@ -126,7 +126,10 @@
       "801": "A[lbert]. Andrae"
     },
     "first": "Albert",
-    "last": "Andrae"
+    "last": "Andrae",
+    "sources": {
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae"
+    }
   },
   "1101": {
     "name": "L Anhenn",
@@ -185,7 +188,9 @@
     "first": "Aleksander",
     "last": "Axer",
     "sources": {
-      "AV 1904.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+      "AV 1904.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B38%5D%7D",
+      "wiki-en": "https://en.wikipedia.org/wiki/Aleksander_Axer",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Aleksander Axer"
     },
     "origin": "Przemyśl, Galizien"
   },
@@ -196,7 +201,11 @@
       "129": "I[saac]. Bacharach"
     },
     "first": "Isaac",
-    "last": "Bacharach"
+    "last": "Bacharach",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Isaak_Bacharach",
+      "wiki-en": "https://en.wikipedia.org/wiki/Isaak Bacharach"
+    }
   },
   "745": {
     "name": "Erwin Backhaus",
@@ -215,7 +224,12 @@
       "964": "H[einrich] Barkhausen"
     },
     "first": "Heinrich",
-    "last": "Barkhausen"
+    "last": "Barkhausen",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Barkhausen",
+      "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Barkhausen",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen"
+    }
   },
   "582": {
     "name": "Dr. Anton Baule",
@@ -249,7 +263,10 @@
       "764": "[[Bernhard] Bavink]"
     },
     "first": "Bernhard",
-    "last": "Bavink"
+    "last": "Bavink",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Bavink"
+    }
   },
   "796": {
     "name": "Theodor Bechen",
@@ -305,7 +322,11 @@
       "576": "Dr. Em[anuel]. Beke"
     },
     "first": "Emanuel",
-    "last": "Beke"
+    "last": "Beke",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Emanuel_Beke",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Beke Manó"
+    }
   },
   "474": {
     "name": "Torsten Ragnar Bendz",
@@ -347,7 +368,11 @@
       "1136": "[Felix Bernstein, aufgeschrieben von Felix Klein]"
     },
     "first": "Felix",
-    "last": "Bernstein"
+    "last": "Bernstein",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Felix Bernstein",
+      "wiki-en": "https://en.wikipedia.org/wiki/Felix Bernstein (mathematician)"
+    }
   },
   "565": {
     "name": "Arthur Berry",
@@ -399,7 +424,8 @@
     "first": "Friedrich",
     "last": "Bidlingmaier",
     "sources": {
-      "AV 1897.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B37%5D%7D"
+      "AV 1897.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B37%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Bidlingmaier"
     },
     "origin": "Laussen"
   },
@@ -451,7 +477,11 @@
       "1050": "H[einrich] Blasius"
     },
     "first": "Heinrich",
-    "last": "Blasius"
+    "last": "Blasius",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Blasius",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Richard_Heinrich_Blasius"
+    }
   },
   "611": {
     "name": "K[?]. Blumenfeld",
@@ -472,7 +502,11 @@
       "672": "O[tto] Blumenthal"
     },
     "first": "Otto",
-    "last": "Blumenthal"
+    "last": "Blumenthal",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto Blumenthal (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Otto_Blumenthal"
+    }
   },
   "1184": {
     "name": "Karl Bobek",
@@ -516,7 +550,11 @@
       "480": "[[Oskar] Bolza]"
     },
     "first": "Oskar",
-    "last": "Bolza"
+    "last": "Bolza",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Oskar_Bolza",
+      "wiki-en": "https://en.wikipedia.org/wiki/Oskar_Bolza"
+    }
   },
   "356": {
     "name": "Max Born",
@@ -524,7 +562,11 @@
       "955": "Max Born"
     },
     "first": "Max",
-    "last": "Born"
+    "last": "Born",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Max Born",
+      "wiki-en": "https://en.wikipedia.org/wiki/Max Born"
+    }
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -544,7 +586,11 @@
       "731": "Anne Bosworth"
     },
     "first": "Anne",
-    "last": "Bosworth"
+    "last": "Bosworth",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Anne Bosworth Focke",
+      "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke"
+    }
   },
   "409": {
     "name": "Werner Boy",
@@ -552,7 +598,12 @@
       "766": "W[erner]. Boy"
     },
     "first": "Werner",
-    "last": "Boy"
+    "last": "Boy",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Werner Boy",
+      "wiki-en": "https://en.wikipedia.org/wiki/Werner_Boy",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Werner Boy"
+    }
   },
   "349": {
     "name": "James Harrington Boyd",
@@ -645,7 +696,11 @@
       "307": "Arthur Buchheim"
     },
     "first": "Arthur",
-    "last": "Buchheim"
+    "last": "Buchheim",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Buchheim",
+      "wiki-it": "https://it.wikipedia.org/wiki/Arthur Buchheim"
+    }
   },
   "259": {
     "name": "Heinrich Burkhardt",
@@ -657,7 +712,11 @@
       "503": "H[einrich] Burkhardt"
     },
     "first": "Heinrich",
-    "last": "Burkhardt"
+    "last": "Burkhardt",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich Burkhardt (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Burkhardt"
+    }
   },
   "261": {
     "name": "Aloys Burlet",
@@ -684,7 +743,12 @@
       "516": "M[axime] Bocher [Bôcher]"
     },
     "first": "Maxime",
-    "last": "Bôcher"
+    "last": "Bôcher",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Maxime_B%C3%B4cher",
+      "wiki-en": "https://en.wikipedia.org/wiki/Maxime_B%C3%B4cher",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Maxime Bôcher"
+    }
   },
   "628": {
     "name": "Paul Böhmer",
@@ -701,7 +765,11 @@
       "11": "R[ichard]. Börnstein"
     },
     "first": "Richard",
-    "last": "Börnstein"
+    "last": "Börnstein",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Richard_B%C3%B6rnstein",
+      "wiki-en": "https://en.wikipedia.org/wiki/Richard_B%C3%B6rnstein"
+    }
   },
   "1142": {
     "name": "Adolf Böttger",
@@ -730,7 +798,8 @@
     "last": "Bürgener",
     "origin": "Fuhlen",
     "sources": {
-      "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+      "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Oskar_B%C3%BCrgener"
     }
   },
   "467": {
@@ -777,7 +846,11 @@
       "584": "G[eorge]. A[shley]. Campbell"
     },
     "first": "George Ashley",
-    "last": "Campbell"
+    "last": "Campbell",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/George_Ashley_Campbell",
+      "wiki-en": "https://en.wikipedia.org/wiki/George_Ashley_Campbell"
+    }
   },
   "664": {
     "name": "Constantin Carathéodory",
@@ -787,7 +860,12 @@
     },
     "first": "Constantin",
     "last": "Carathéodory",
-    "name_non_latin": "Κωνσταντίνος Καραθεοδωρή"
+    "name_non_latin": "Κωνσταντίνος Καραθεοδωρή",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Constantin_Carath%C3%A9odory",
+      "wiki-en": "https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory",
+      "wiki-el": "https://el.wikipedia.org/wiki/Κωνσταντίνος Καραθεοδωρή"
+    }
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -795,7 +873,12 @@
       "956": "P[ierre] Ceresole"
     },
     "first": "Pierre",
-    "last": "Ceresole"
+    "last": "Ceresole",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Pierre Cérésole",
+      "wiki-en": "https://en.wikipedia.org/wiki/Pierre Cérésole",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Pierre_Ceresole"
+    }
   },
   "163": {
     "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
@@ -819,7 +902,11 @@
       "586": "Grace Chisholm"
     },
     "first": "Grace",
-    "last": "Chisholm"
+    "last": "Chisholm",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Grace_Chisholm_Young",
+      "wiki-en": "https://en.wikipedia.org/wiki/Grace_Chisholm_Young"
+    }
   },
   "603": {
     "name": "Adam Comstock",
@@ -866,7 +953,8 @@
     "first": "Paul",
     "last": "Decoster",
     "sources": {
-      "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+      "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Decoster"
     },
     "origin": "Löwen, Belgien"
   },
@@ -877,7 +965,11 @@
       "740": "M[ax]. Dehn"
     },
     "first": "Max",
-    "last": "Dehn"
+    "last": "Dehn",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Max_Dehn",
+      "wiki-en": "https://en.wikipedia.org/wiki/Max_Dehn"
+    }
   },
   "712": {
     "name": "Johannes Denker",
@@ -897,7 +989,11 @@
       "311": "F[riedrich]. Dingeldey"
     },
     "first": "Friedrich",
-    "last": "Dingeldey"
+    "last": "Dingeldey",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Dingeldey",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Dingeldey"
+    }
   },
   "118": {
     "name": "Paul Domsch",
@@ -926,7 +1022,11 @@
       "925": "Hans Drucker"
     },
     "first": "Hans Julius",
-    "last": "Duncker"
+    "last": "Duncker",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans Duncker (Ornithologe)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Hans_Julius_Duncker"
+    }
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -972,7 +1072,11 @@
       "862": "Paul Ehrenfest"
     },
     "first": "Paul",
-    "last": "Ehrenfest"
+    "last": "Ehrenfest",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul Ehrenfest",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
+    }
   },
   "503": {
     "name": "Friedrich Engel\\newline Dr. phil",
@@ -992,7 +1096,11 @@
       "555": "Paul Epstein"
     },
     "first": "Paul",
-    "last": "Epstein"
+    "last": "Epstein",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul Epstein (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Epstein"
+    }
   },
   "419": {
     "name": "Christoph Ernst",
@@ -1023,7 +1131,8 @@
     "last": "Faber",
     "origin": "München",
     "sources": {
-      "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
+      "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Georg Faber (Mathematiker)"
     }
   },
   "692": {
@@ -1041,7 +1150,12 @@
       "591": "Gino Fano"
     },
     "first": "Gino",
-    "last": "Fano"
+    "last": "Fano",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gino_Fano",
+      "wiki-en": "https://en.wikipedia.org/wiki/Gino Fano",
+      "wiki-it": "https://it.wikipedia.org/wiki/Gino Fano"
+    }
   },
   "675": {
     "name": "Ernst Fanta",
@@ -1049,7 +1163,10 @@
       "828": "Dr Ernst Fanta"
     },
     "first": "Ernst",
-    "last": "Fanta"
+    "last": "Fanta",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Fanta"
+    }
   },
   "199": {
     "name": "Michael Feldblum",
@@ -1066,7 +1183,11 @@
       "408": "Ernst Fiedler"
     },
     "first": "Ernst",
-    "last": "Fiedler"
+    "last": "Fiedler",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Fiedler",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Ernst Fiedler"
+    }
   },
   "269": {
     "name": "Peter Field",
@@ -1158,7 +1279,12 @@
       "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
     },
     "first": "Erwin",
-    "last": "Freundlich"
+    "last": "Freundlich",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Erwin_Freundlich",
+      "wiki-en": "https://en.wikipedia.org/wiki/Erwin Finlay-Freundlich",
+      "wiki-cs": "https://cs.wikipedia.org/wiki/Erwin Finlay-Freundlich"
+    }
   },
   "374": {
     "name": "Hermann Fricke",
@@ -1183,7 +1309,11 @@
       "406": "Robert Fricke"
     },
     "first": "Robert",
-    "last": "Fricke"
+    "last": "Fricke",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Robert Fricke (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Robert_Fricke"
+    }
   },
   "380": {
     "name": "Georg Friedrich",
@@ -1220,7 +1350,12 @@
       "840": "Rud[olf]. Fueter"
     },
     "first": "Rudolf",
-    "last": "Fueter"
+    "last": "Fueter",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Rudolf_Fueter",
+      "wiki-en": "https://en.wikipedia.org/wiki/Rudolf_Fueter",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter"
+    }
   },
   "853": {
     "name": "Georg Fuhrmann",
@@ -1236,7 +1371,10 @@
       "468": "Otto Fulst"
     },
     "first": "Otto",
-    "last": "Fulst"
+    "last": "Fulst",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Fulst"
+    }
   },
   "626": {
     "name": "Paul Funk",
@@ -1244,7 +1382,11 @@
       "1163": "P[aul] Funk"
     },
     "first": "Paul",
-    "last": "Funk"
+    "last": "Funk",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul Funk (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Funk"
+    }
   },
   "342": {
     "name": "Philipp Furtwängler",
@@ -1257,7 +1399,11 @@
       "570": "[(Furtwängler)]"
     },
     "first": "Philipp",
-    "last": "Furtwängler"
+    "last": "Furtwängler",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Philipp Furtwängler (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Philipp_Furtw%C3%A4ngler"
+    }
   },
   "312": {
     "name": "Ludwig Föppel",
@@ -1289,7 +1435,8 @@
     "last": "Gehring",
     "origin": "Gut Feilz[?]",
     "sources": {
-      "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D"
+      "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Gehring"
     }
   },
   "1182": {
@@ -1299,7 +1446,11 @@
       "1062": "L[udwig]. [Carl] Geiger"
     },
     "first": "Ludwig Carl",
-    "last": "Geiger"
+    "last": "Geiger",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Carl_Geiger",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/Гейгер, Людвиг Карл"
+    }
   },
   "1026": {
     "name": "Brunel Georges",
@@ -1317,7 +1468,12 @@
       "364": "Dr. F[rancesco]. Gerbaldi"
     },
     "first": "Francesco",
-    "last": "Gerbaldi"
+    "last": "Gerbaldi",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Francesco_Gerbaldi",
+      "wiki-en": "https://en.wikipedia.org/wiki/Francesco Gerbaldi",
+      "wiki-it": "https://it.wikipedia.org/wiki/Francesco Gerbaldi"
+    }
   },
   "718": {
     "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
@@ -1415,7 +1571,11 @@
       "79": "[Paul] Gordan"
     },
     "first": "Paul",
-    "last": "Gordan"
+    "last": "Gordan",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Gordan",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Gordan"
+    }
   },
   "148": {
     "name": "Adolf Gottschalk",
@@ -1491,7 +1651,11 @@
       "502": "Alf Guldberg"
     },
     "first": "Alf",
-    "last": "Guldberg"
+    "last": "Guldberg",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Alf Victor Guldberg",
+      "wiki-no": "https://no.wikipedia.org/wiki/Alf_Victor_Guldberg"
+    }
   },
   "480": {
     "name": "D\\textsuperscript{r}  Zemplén Győző",
@@ -1512,7 +1676,11 @@
       "46": "S[iegmund]. Günther"
     },
     "first": "Siegmund",
-    "last": "Günther"
+    "last": "Günther",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Siegmund Günther",
+      "wiki-en": "https://en.wikipedia.org/wiki/Siegmund_G%C3%BCnther"
+    }
   },
   "1165": {
     "name": "Alfréd Haar",
@@ -1524,7 +1692,12 @@
       "1098": "Alfred [Alfréd] Haar"
     },
     "first": "Alfréd",
-    "last": "Haar"
+    "last": "Haar",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Alfr%C3%A9d_Haar",
+      "wiki-en": "https://en.wikipedia.org/wiki/Alfr%C3%A9d_Haar",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Haar Alfréd"
+    }
   },
   "15": {
     "name": "Arthur Erich Haas",
@@ -1534,7 +1707,11 @@
       "973": "A[rthur] E[rich] Haas"
     },
     "first": "Arthur Erich",
-    "last": "Haas"
+    "last": "Haas",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Arthur_Erich_Haas",
+      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas"
+    }
   },
   "124": {
     "name": "Dr. Hans Hahn",
@@ -1542,7 +1719,11 @@
       "906": "Dr. Hans Hahn"
     },
     "first": "Hans",
-    "last": "Hahn"
+    "last": "Hahn",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Hahn",
+      "wiki-en": "https://en.wikipedia.org/wiki/Hans Hahn (mathematician)"
+    }
   },
   "619": {
     "name": "Georg Hamel",
@@ -1551,7 +1732,11 @@
       "793": "Georg Hamel"
     },
     "first": "Georg",
-    "last": "Hamel"
+    "last": "Hamel",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Georg_Hamel",
+      "wiki-en": "https://en.wikipedia.org/wiki/Georg_Hamel"
+    }
   },
   "344": {
     "name": "Fr? Hanker?",
@@ -1602,7 +1787,11 @@
       "105": "Axel Harnack"
     },
     "first": "Axel",
-    "last": "Harnack"
+    "last": "Harnack",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Axel Harnack (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Carl Gustav Axel Harnack"
+    }
   },
   "654": {
     "name": "Roderich Hartenstein.",
@@ -1661,7 +1850,11 @@
       "479": "[[Mellen Woodman] Haskell]"
     },
     "first": "Mellen Woodman",
-    "last": "Haskell"
+    "last": "Haskell",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Mellen Woodman Haskell",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Mellen_Woodman_Haskell"
+    }
   },
   "729": {
     "name": "Karl Hass",
@@ -1685,7 +1878,11 @@
       "474": "Fr[iedrich] Hayn"
     },
     "first": "Friedrich",
-    "last": "Hayn"
+    "last": "Hayn",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Hayn",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Hayn"
+    }
   },
   "413": {
     "name": "Wilhelm?. Hecht?",
@@ -1702,7 +1899,12 @@
       "585": "Poul Heegård [Heegaard]"
     },
     "first": "Poul",
-    "last": "Heegaard"
+    "last": "Heegaard",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Poul_Heegaard",
+      "wiki-en": "https://en.wikipedia.org/wiki/Poul_Heegaard",
+      "wiki-da": "https://da.wikipedia.org/wiki/Poul Heegaard"
+    }
   },
   "314": {
     "name": "Fritz Heiligenpahl",
@@ -1731,7 +1933,11 @@
       "1052": "E[rnst]. Hellinger"
     },
     "first": "Ernst",
-    "last": "Hellinger"
+    "last": "Hellinger",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Hellinger",
+      "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Hellinger"
+    }
   },
   "622": {
     "name": "Theodor Henninger",
@@ -1751,7 +1957,11 @@
       "905": "Dr. G[ustav] Herglotz"
     },
     "first": "Gustav",
-    "last": "Herglotz"
+    "last": "Herglotz",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gustav_Herglotz",
+      "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz"
+    }
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -1812,7 +2022,11 @@
       "918": "E[mil] Hilb"
     },
     "first": "Emil",
-    "last": "Hilb"
+    "last": "Hilb",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Emil_Hilb",
+      "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb"
+    }
   },
   "142": {
     "name": "David Hilbert",
@@ -1822,7 +2036,11 @@
       "1009": "[David Hilbert] [O. Tö[!]plitz]"
     },
     "first": "David",
-    "last": "Hilbert"
+    "last": "Hilbert",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/David_Hilbert",
+      "wiki-en": "https://en.wikipedia.org/wiki/David_Hilbert"
+    }
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -1884,7 +2102,13 @@
       "100": "[Elling Holst]"
     },
     "first": "Elling Bolt",
-    "last": "Holst"
+    "last": "Holst",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Elling Holst",
+      "wiki-en": "https://en.wikipedia.org/wiki/Elling Holst",
+      "wiki-no": "https://no.wikipedia.org/wiki/Elling Holst",
+      "wiki-da": "https://da.wikipedia.org/wiki/Elling Holst"
+    }
   },
   "888": {
     "name": "Paul Holtzhüter",
@@ -1915,7 +2139,10 @@
     "last": "Hondl",
     "origin": "Agram [Zagreb]",
     "sources": {
-      "AV 1900.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+      "AV 1900.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D",
+      "wiki-sh": "https://sh.wikipedia.org/wiki/Stanko Hondl",
+      "wiki-hr": "https://hr.wikipedia.org/wiki/Stanko_Hondl",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Stanko Hondl"
     }
   },
   "141": {
@@ -1962,7 +2189,11 @@
       "880": "W[ilhelm] Hort"
     },
     "first": "Wilhelm",
-    "last": "Hort"
+    "last": "Hort",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Wilhelm Hort",
+      "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Hort"
+    }
   },
   "536": {
     "name": "G? Huber?",
@@ -2003,7 +2234,11 @@
       "301": "Adolf Hurwitz"
     },
     "first": "Adolf",
-    "last": "Hurwitz"
+    "last": "Hurwitz",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Adolf_Hurwitz",
+      "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Hurwitz"
+    }
   },
   "486": {
     "name": "Ludwig Hänert",
@@ -2048,7 +2283,11 @@
       "395": "Dr. O[tto]. Hölder"
     },
     "first": "Otto",
-    "last": "Hölder"
+    "last": "Hölder",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_H%C3%B6lder",
+      "wiki-en": "https://en.wikipedia.org/wiki/Otto_H%C3%B6lder"
+    }
   },
   "402": {
     "name": "Augustin Hölscher",
@@ -2186,7 +2425,11 @@
       "765": "Edward Kasner\\newline Dr[?] Phil."
     },
     "first": "Edward",
-    "last": "Kasner"
+    "last": "Kasner",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Edward_Kasner",
+      "wiki-en": "https://en.wikipedia.org/wiki/Edward Kasner"
+    }
   },
   "629": {
     "name": "Otto Kindling",
@@ -2206,7 +2449,11 @@
       "781": "Paul Kirchberger"
     },
     "first": "Paul",
-    "last": "Kirchberger"
+    "last": "Kirchberger",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul Kirchberger",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Paul_Kirchberger"
+    }
   },
   "462": {
     "name": "Hugo Kistler",
@@ -2376,7 +2623,11 @@
       "1158": "[Felix] Klein"
     },
     "first": "Felix",
-    "last": "Klein"
+    "last": "Klein",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Felix_Klein",
+      "wiki-en": "https://en.wikipedia.org/wiki/Felix_Klein"
+    }
   },
   "191": {
     "name": "Felix Kletzkowki",
@@ -2438,7 +2689,11 @@
       "1011": "Dr. P[aul]. Koebe"
     },
     "first": "Paul",
-    "last": "Koebe"
+    "last": "Koebe",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul Koebe",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul Koebe"
+    }
   },
   "106": {
     "name": "Julius Kollert",
@@ -2503,7 +2758,11 @@
       "360": "Dr. [Adolf] Krazer"
     },
     "first": "Adolf",
-    "last": "Krazer"
+    "last": "Krazer",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Adolf_Krazer_(Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Krazer"
+    }
   },
   "978": {
     "name": "Xenia Kucharsky?",
@@ -2540,7 +2799,10 @@
       "659": "S[tefan] Kwietniewski."
     },
     "first": "Stefan",
-    "last": "Kwietniewski"
+    "last": "Kwietniewski",
+    "sources": {
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan_Kwietniewski"
+    }
   },
   "580": {
     "name": "Szánthó Kálmán??",
@@ -2556,7 +2818,11 @@
       "1020": "Dénes König"
     },
     "first": "Dénes",
-    "last": "König"
+    "last": "König",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Dénes Kőnig",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/K%C5%91nig_D%C3%A9nes"
+    }
   },
   "917": {
     "name": "Robert König",
@@ -2564,7 +2830,11 @@
       "1013": "Robert König"
     },
     "first": "Robert",
-    "last": "König"
+    "last": "König",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Robert König (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Robert_K%C3%B6nig"
+    }
   },
   "1062": {
     "name": "Karl Körner",
@@ -2721,7 +2991,9 @@
     "origin": "Jena",
     "sources": {
       "AV 1896.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B47%5D%7D",
-      "AV 1897.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+      "AV 1897.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B49%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Liebmann",
+      "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Liebmann"
     }
   },
   "795": {
@@ -2751,7 +3023,11 @@
       "615": "Alfred Loewy"
     },
     "first": "Alfred",
-    "last": "Loewy"
+    "last": "Loewy",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Loewy",
+      "wiki-en": "https://en.wikipedia.org/wiki/Alfred_Loewy"
+    }
   },
   "1002": {
     "name": "Alfred Lorey",
@@ -2786,7 +3062,8 @@
     "sources": {
       "AV 1895.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_1896_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
       "KT foll. 178": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B364%5D%7D",
-      "KT foll. 179": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B366%5D%7D"
+      "KT foll. 179": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B366%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Wilhelm_Lorey"
     }
   },
   "913": {
@@ -2879,7 +3156,11 @@
       "633": "Isabel Maddison"
     },
     "first": "Isabel",
-    "last": "Maddison"
+    "last": "Maddison",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Isabel_Maddison",
+      "wiki-en": "https://en.wikipedia.org/wiki/Isabel_Maddison"
+    }
   },
   "810": {
     "name": "Erwin Madelung",
@@ -2889,7 +3170,11 @@
       "976": "Dr. E[rwin] Madelung"
     },
     "first": "Erwin",
-    "last": "Madelung"
+    "last": "Madelung",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Erwin_Madelung",
+      "wiki-en": "https://en.wikipedia.org/wiki/Erwin_Madelung"
+    }
   },
   "528": {
     "name": "Alf Mahlke",
@@ -2945,7 +3230,12 @@
       "461": "Dr. H[einrich]. Maschke."
     },
     "first": "Heinrich",
-    "last": "Maschke"
+    "last": "Maschke",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Maschke",
+      "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Maschke",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich Maschke"
+    }
   },
   "657": {
     "name": "August Maurer",
@@ -2974,7 +3264,12 @@
       "1109": "S[tefan] Mazurkiewicz"
     },
     "first": "Stefan",
-    "last": "Mazurkiewicz"
+    "last": "Mazurkiewicz",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Stefan_Mazurkiewicz",
+      "wiki-en": "https://en.wikipedia.org/wiki/Stefan_Mazurkiewicz",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz"
+    }
   },
   "764": {
     "name": "B? Meese",
@@ -2998,7 +3293,11 @@
       "464": "[Heinrich] Meldau"
     },
     "first": "Heinrich",
-    "last": "Meldau"
+    "last": "Meldau",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Meldau",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich_Meldau"
+    }
   },
   "1166": {
     "name": "Th? Mens|zinger?",
@@ -3053,7 +3352,11 @@
       "146": "[Franz] Meyer"
     },
     "first": "Franz",
-    "last": "Meyer"
+    "last": "Meyer",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Franz Meyer (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm Franz Meyer"
+    }
   },
   "1189": {
     "name": "Friedrich Meyer",
@@ -3078,7 +3381,11 @@
       "773": "B[runo] Meyermann"
     },
     "first": "Bruno",
-    "last": "Meyermann"
+    "last": "Meyermann",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Bruno_Meyermann",
+      "wiki-zh": "https://zh.wikipedia.org/wiki/布鲁诺·迈尔曼"
+    }
   },
   "368": {
     "name": "Theodor Molien",
@@ -3088,7 +3395,12 @@
       "463": "[Theodor] Molien"
     },
     "first": "Theodor",
-    "last": "Molien"
+    "last": "Molien",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Theodor_Molien",
+      "wiki-en": "https://en.wikipedia.org/wiki/Theodor_Molien",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/Молин, Фёдор Эдуардович"
+    }
   },
   "460": {
     "name": "Erwin  Moll",
@@ -3104,7 +3416,12 @@
       "401": "Giacinto Morera"
     },
     "first": "Giacinto",
-    "last": "Morera"
+    "last": "Morera",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Giacinto_Morera",
+      "wiki-en": "https://en.wikipedia.org/wiki/Giacinto_Morera",
+      "wiki-it": "https://it.wikipedia.org/wiki/Giacinto Morera"
+    }
   },
   "1096": {
     "name": "Ludwig Mosbacher?",
@@ -3132,7 +3449,11 @@
       "926": "A[lexander] Myller"
     },
     "first": "Alexander",
-    "last": "Myller"
+    "last": "Myller",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Alexander_Myller",
+      "wiki-ro": "https://ro.wikipedia.org/wiki/Alexandru Myller"
+    }
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -3198,7 +3519,11 @@
       "1138": "[Leonard Nelson, aufgeschrieben von Felix Klein]"
     },
     "first": "Leonard",
-    "last": "Nelson"
+    "last": "Nelson",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Leonard_Nelson",
+      "wiki-en": "https://en.wikipedia.org/wiki/Leonard_Nelson"
+    }
   },
   "895": {
     "name": "Burt L? Newkirk",
@@ -3235,7 +3560,11 @@
       "626": "Charles A[lbert]. Noble"
     },
     "first": "Charles Albert",
-    "last": "Noble"
+    "last": "Noble",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Charles_Albert_Noble",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Charles_Albert_Noble"
+    }
   },
   "1137": {
     "name": "Richard Olbricht",
@@ -3265,7 +3594,11 @@
       "500": "W[illiam]. F[ogg]. Osgood"
     },
     "first": "William Fogg",
-    "last": "Osgood"
+    "last": "Osgood",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/William Fogg Osgood",
+      "wiki-en": "https://en.wikipedia.org/wiki/William_Fogg_Osgood"
+    }
   },
   "56": {
     "name": "Alex Osthoff",
@@ -3281,7 +3614,12 @@
       "515": "H[enri]. Padé"
     },
     "first": "Henri",
-    "last": "Padé"
+    "last": "Padé",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Henri_Pad%C3%A9",
+      "wiki-en": "https://en.wikipedia.org/wiki/Henri_Pad%C3%A9",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Henri Padé"
+    }
   },
   "811": {
     "name": "Fritz Pahde",
@@ -3316,7 +3654,10 @@
       "421": "Dr. Erwin Papperitz"
     },
     "first": "Erwin",
-    "last": "Papperitz"
+    "last": "Papperitz",
+    "sources": {
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Erwin_Papperitz"
+    }
   },
   "44": {
     "name": "Ernest Pasquier",
@@ -3380,7 +3721,11 @@
       "396": "Dr Georg Pick"
     },
     "first": "Georg",
-    "last": "Pick"
+    "last": "Pick",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Georg Pick (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Georg Alexander Pick"
+    }
   },
   "43": {
     "name": "Ernst Piechler",
@@ -3426,7 +3771,11 @@
       "177": "Max Planck."
     },
     "first": "Max",
-    "last": "Planck"
+    "last": "Planck",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Max Planck",
+      "wiki-en": "https://en.wikipedia.org/wiki/Max_Planck"
+    }
   },
   "581": {
     "name": "Friedrich Pockels",
@@ -3437,7 +3786,11 @@
       "506": "[Pockels]"
     },
     "first": "Friedrich",
-    "last": "Pockels"
+    "last": "Pockels",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Pockels",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Carl Alwin Pockels"
+    }
   },
   "338": {
     "name": "Ernst Pohlhausen",
@@ -3445,7 +3798,11 @@
       "1165": "Ernst Pohlhausen"
     },
     "first": "Ernst",
-    "last": "Pohlhausen"
+    "last": "Pohlhausen",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Pohlhausen",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Ernst_Pohlhausen"
+    }
   },
   "862": {
     "name": "Egon Pollak",
@@ -3470,7 +3827,11 @@
       "1101": "[Ludwig Prandtl, aufgeschrieben von Felix] Klein"
     },
     "first": "Ludwig",
-    "last": "Prandtl"
+    "last": "Prandtl",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Prandtl",
+      "wiki-en": "https://en.wikipedia.org/wiki/Ludwig Prandtl"
+    }
   },
   "1064": {
     "name": "Georg Prange",
@@ -3478,7 +3839,11 @@
       "995": "Georg Prange"
     },
     "first": "Georg",
-    "last": "Prange"
+    "last": "Prange",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Georg_Prange",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Georg Prange"
+    }
   },
   "793": {
     "name": "Dr. Ing. Reinhold Proell",
@@ -3513,7 +3878,10 @@
       "206": "Dr. An[ton] Puchta"
     },
     "first": "Anton",
-    "last": "Puchta"
+    "last": "Puchta",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Anton_Puchta"
+    }
   },
   "1063": {
     "name": "Hans Puhl",
@@ -3612,7 +3980,10 @@
       "447": "H[ugo]. Relander"
     },
     "first": "Hugo",
-    "last": "Relander"
+    "last": "Relander",
+    "sources": {
+      "wiki-fi": "https://fi.wikipedia.org/wiki/H. M. J. Relander"
+    }
   },
   "960": {
     "name": "Tscheslaw Retschinsky",
@@ -3629,7 +4000,12 @@
       "245": "Grég. [Gregor] Ricci[-Curbastro]"
     },
     "first": "Gregorio",
-    "last": "Ricci-Curbastro"
+    "last": "Ricci-Curbastro",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gregorio_Ricci-Curbastro",
+      "wiki-en": "https://en.wikipedia.org/wiki/Gregorio Ricci-Curbastro",
+      "wiki-it": "https://it.wikipedia.org/wiki/Gregorio Ricci Curbastro"
+    }
   },
   "1077": {
     "name": "Louis Richter",
@@ -3665,7 +4041,11 @@
       "554": "E[duard] [Ritter] v[on] Weber"
     },
     "first": "Eduard",
-    "last": "Ritter von Weber"
+    "last": "Ritter von Weber",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Eduard von Weber",
+      "wiki-en": "https://en.wikipedia.org/wiki/Eduard Ritter von Weber"
+    }
   },
   "877": {
     "name": "Carl Rodenberg",
@@ -3675,7 +4055,10 @@
       "15": "C[arl]. Rodenberg"
     },
     "first": "Carl",
-    "last": "Rodenberg"
+    "last": "Rodenberg",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Carl_Rodenberg"
+    }
   },
   "278": {
     "name": "Karl Friedrich Wilhelm Rohn",
@@ -3699,7 +4082,11 @@
       "1166": "Artur Rosenthal"
     },
     "first": "Arthur",
-    "last": "Rosenthal"
+    "last": "Rosenthal",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Arthur Rosenthal (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Rosenthal"
+    }
   },
   "1202": {
     "name": "Dr. Paul Roth",
@@ -3755,7 +4142,11 @@
       "1180": "Iris Runge"
     },
     "first": "Iris",
-    "last": "Runge"
+    "last": "Runge",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Iris Runge",
+      "wiki-en": "https://en.wikipedia.org/wiki/Iris_Runge"
+    }
   },
   "157": {
     "name": "Carl David Tolmé Runge",
@@ -3763,7 +4154,11 @@
       "940": "C[arl David Tolmé] Runge"
     },
     "first": "Carl David Tolmé",
-    "last": "Runge"
+    "last": "Runge",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Carl Runge",
+      "wiki-en": "https://en.wikipedia.org/wiki/Carl Runge"
+    }
   },
   "1033": {
     "name": "Gottfried Rückle",
@@ -3773,7 +4168,10 @@
       "752": "Gottfried Rückle."
     },
     "first": "Gottfried",
-    "last": "Rückle"
+    "last": "Rückle",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gottfried Rückle"
+    }
   },
   "10": {
     "name": "Reinhold Rüdenberg",
@@ -3785,7 +4183,11 @@
       "1058": "R[einhold] Rüdenberg"
     },
     "first": "Reinhold",
-    "last": "Rüdenberg"
+    "last": "Rüdenberg",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Reinhold_R%C3%BCdenberg",
+      "wiki-en": "https://en.wikipedia.org/wiki/Reinhold Rudenberg"
+    }
   },
   "688": {
     "name": "Ljubow Sapolsky",
@@ -3830,7 +4232,10 @@
       "566": "Hans Schenkel"
     },
     "first": "Hans",
-    "last": "Schenkel"
+    "last": "Schenkel",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Schenkel"
+    }
   },
   "746": {
     "name": "Harald Schering",
@@ -3841,7 +4246,9 @@
     "last": "Schering",
     "origin": "Göttingen",
     "sources": {
-      "AV 1901.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+      "AV 1901.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Harald_Schering",
+      "wiki-en": "https://en.wikipedia.org/wiki/Harald_Schering"
     }
   },
   "924": {
@@ -3860,7 +4267,11 @@
       "524": "Fr[iedrich] Schilling"
     },
     "first": "Friedrich",
-    "last": "Schilling"
+    "last": "Schilling",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Schilling (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Schilling"
+    }
   },
   "1181": {
     "name": "Rudolf Schimmack",
@@ -4007,7 +4418,11 @@
       "811": "Fred[erik] Schuh"
     },
     "first": "Frederik",
-    "last": "Schuh"
+    "last": "Schuh",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Frederik_Schuh",
+      "wiki-nl": "https://nl.wikipedia.org/wiki/Frederik Schuh"
+    }
   },
   "357": {
     "name": "Max Schuhardt",
@@ -4050,7 +4465,11 @@
       "904": "[Karl Schwarzschild]"
     },
     "first": "Karl",
-    "last": "Schwarzschild"
+    "last": "Schwarzschild",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Karl_Schwarzschild",
+      "wiki-en": "https://en.wikipedia.org/wiki/Karl Schwarzschild"
+    }
   },
   "458": {
     "name": "Eduard Schweikert",
@@ -4145,7 +4564,11 @@
       "629": "Henry Siedentopf"
     },
     "first": "Henry",
-    "last": "Siedentopf"
+    "last": "Siedentopf",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Henry_Siedentopf",
+      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Siedentopf"
+    }
   },
   "329": {
     "name": "Carl Siegel",
@@ -4154,7 +4577,11 @@
       "563": "C[arl] Siegel"
     },
     "first": "Carl",
-    "last": "Siegel"
+    "last": "Siegel",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Carl Ludwig Siegel",
+      "wiki-en": "https://en.wikipedia.org/wiki/Carl Ludwig Siegel"
+    }
   },
   "36": {
     "name": "Percy Franklyn Smith",
@@ -4181,7 +4608,11 @@
       "596": "Virgil Snyder"
     },
     "first": "Virgil",
-    "last": "Snyder"
+    "last": "Snyder",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Virgil_Snyder",
+      "wiki-en": "https://en.wikipedia.org/wiki/Virgil Snyder"
+    }
   },
   "1030": {
     "name": "Julius Sommer",
@@ -4189,7 +4620,12 @@
       "708": "Dr. [Julius] Sommer"
     },
     "first": "Julius",
-    "last": "Sommer"
+    "last": "Sommer",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Julius_Sommer",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Julius_Sommer",
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Julius_Sommer"
+    }
   },
   "4": {
     "name": "Arnold Sommerfeld",
@@ -4198,7 +4634,11 @@
       "603": "A[rnold] Sommerfeld"
     },
     "first": "Arnold",
-    "last": "Sommerfeld"
+    "last": "Sommerfeld",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Arnold_Sommerfeld",
+      "wiki-en": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
+    }
   },
   "952": {
     "name": "Otto Staude",
@@ -4215,7 +4655,10 @@
       "346": "Dr. Staude"
     },
     "first": "Otto",
-    "last": "Staude"
+    "last": "Staude",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto Staude"
+    }
   },
   "908": {
     "name": "Fritz Steckel",
@@ -4264,7 +4707,11 @@
       "422": "[Eduard] Study"
     },
     "first": "Eduard",
-    "last": "Study"
+    "last": "Study",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Eduard_Study",
+      "wiki-en": "https://en.wikipedia.org/wiki/Eduard_Study"
+    }
   },
   "484": {
     "name": "Stunnerfeldt??",
@@ -4311,7 +4758,12 @@
       "1025": "Dr. Antoni R. v. Łomnicki?"
     },
     "first": "Antoni",
-    "last": "Łomnicki"
+    "last": "Łomnicki",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Antoni Łomnicki",
+      "wiki-en": "https://en.wikipedia.org/wiki/Antoni_%C5%81omnicki",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Antoni Łomnicki"
+    }
   },
   "395": {
     "name": "Johannes Wiechmann",
@@ -4368,7 +4820,11 @@
       "1175": "W[illiam] Threlfall"
     },
     "first": "William",
-    "last": "Threlfall"
+    "last": "Threlfall",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/William_Threlfall",
+      "wiki-en": "https://en.wikipedia.org/wiki/William Threlfall"
+    }
   },
   "501": {
     "name": "Matvej Tichomaridritzky\\newline Docent an der Universität Charkow.",
@@ -4417,7 +4873,8 @@
     "first": "Anton Aloys",
     "last": "Timpe",
     "sources": {
-      "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D"
+      "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D",
+      "wiki-de": "https://de.wikipedia.org/wiki/Anton Aloys Timpe"
     },
     "origin": "[Hamburg-]Bergedorf"
   },
@@ -4453,7 +4910,11 @@
       "1119": "[Otto Toeplitz, aufgeschrieben von Felix] Klein"
     },
     "first": "Otto",
-    "last": "Toeplitz"
+    "last": "Toeplitz",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Toeplitz",
+      "wiki-en": "https://en.wikipedia.org/wiki/Otto_Toeplitz"
+    }
   },
   "780": {
     "name": "Edgar Townsend",
@@ -4501,7 +4962,10 @@
       "1124": "[Bernhard Uffrecht, aufgeschrieben von Felix Klein]"
     },
     "first": "Bernhard",
-    "last": "Uffrecht"
+    "last": "Uffrecht",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Uffrecht"
+    }
   },
   "221": {
     "name": "P. Unger?",
@@ -4526,7 +4990,12 @@
       "280": "Dr. G[iuseppe]. Veronese"
     },
     "first": "Giuseppe",
-    "last": "Veronese"
+    "last": "Veronese",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Giuseppe_Veronese",
+      "wiki-en": "https://en.wikipedia.org/wiki/Giuseppe_Veronese",
+      "wiki-it": "https://it.wikipedia.org/wiki/Giuseppe Veronese"
+    }
   },
   "673": {
     "name": "Aladar Visnya",
@@ -4653,7 +5122,11 @@
       "669": "Ch[arlotte] Wedell"
     },
     "first": "Charlotte",
-    "last": "Wedell"
+    "last": "Wedell",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Charlotte_Wedell",
+      "wiki-en": "https://en.wikipedia.org/wiki/Charlotte_Wedell"
+    }
   },
   "217": {
     "name": "Otto Weerth",
@@ -4663,7 +5136,10 @@
       "18": "O[tto]. Weerth"
     },
     "first": "Otto",
-    "last": "Weerth"
+    "last": "Weerth",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Weerth"
+    }
   },
   "610": {
     "name": "Emil Wegmann?",
@@ -4702,7 +5178,10 @@
       "28": "A[dolf] Weiler"
     },
     "first": "Adolf",
-    "last": "Weiler"
+    "last": "Weiler",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Weiler"
+    }
   },
   "583": {
     "name": "Dr. Hermann Weinreich",
@@ -4743,7 +5222,11 @@
       "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Hermann",
-    "last": "Weyl"
+    "last": "Weyl",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hermann_Weyl",
+      "wiki-en": "https://en.wikipedia.org/wiki/Hermann_Weyl"
+    }
   },
   "857": {
     "name": "Henry Seely White",
@@ -4752,7 +5235,11 @@
       "498": "H[enry] S[eely] White"
     },
     "first": "Henry Seely",
-    "last": "White"
+    "last": "White",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Henry Seely White",
+      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Seely_White"
+    }
   },
   "472": {
     "name": "James Kelsey Whittemore",
@@ -4803,7 +5290,10 @@
       "899": "[Felix Klein, aufgeschrieben von] Dr. K[arl] Wieghardt"
     },
     "first": "Karl",
-    "last": "Wieghardt"
+    "last": "Wieghardt",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Karl Wieghardt (Mathematiker)"
+    }
   },
   "426": {
     "name": "Hermann Wiener",
@@ -4813,7 +5303,11 @@
       "337": "Dr. H[ermann] Wiener"
     },
     "first": "Hermann",
-    "last": "Wiener"
+    "last": "Wiener",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hermann_Wiener",
+      "wiki-en": "https://en.wikipedia.org/wiki/Hermann_Wiener"
+    }
   },
   "210": {
     "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
@@ -4870,7 +5364,11 @@
       "620": "Mary Winston"
     },
     "first": "Mary Frances",
-    "last": "Winston"
+    "last": "Winston",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Mary Winston Newson",
+      "wiki-en": "https://en.wikipedia.org/wiki/Mary_Frances_Winston_Newson"
+    }
   },
   "872": {
     "name": "H? Winter?",
@@ -4899,7 +5397,11 @@
       "451": "Alexander Witting"
     },
     "first": "Alexander",
-    "last": "Witting"
+    "last": "Witting",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Alexander_Witting",
+      "wiki-en": "https://en.wikipedia.org/wiki/Alexander_Witting"
+    }
   },
   "156": {
     "name": "Alexej Konstantinowitsch Wlassoff",
@@ -4988,7 +5490,12 @@
       "936": "Győző Zemplén"
     },
     "first": "Győző",
-    "last": "Zemplén"
+    "last": "Zemplén",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
+      "wiki-en": "https://en.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Zemplén Győző"
+    }
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -4998,7 +5505,11 @@
       "699": "E[rnst]. Zermelo"
     },
     "first": "Ernst",
-    "last": "Zermelo"
+    "last": "Zermelo",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Zermelo",
+      "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Zermelo"
+    }
   },
   "371": {
     "name": "Otto Zoll.",
@@ -5031,7 +5542,12 @@
       "1156": "Richard Suppantschitsch [Rihard Zupančič]"
     },
     "first": "Rihard",
-    "last": "Zupančič"
+    "last": "Zupančič",
+    "sources": {
+      "wiki-sl": "https://sl.wikipedia.org/wiki/Rihard_Zupan%C4%8Di%C4%8D",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Rihard Zupančič",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Rihard_Zupan%C4%8Di%C4%8D"
+    }
   },
   "389": {
     "name": "Walther Zurhellen, stud. astr.",
@@ -5069,7 +5585,11 @@
       "367": "[Walther] Dyck"
     },
     "first": "Walther",
-    "last": "von Dyck"
+    "last": "von Dyck",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Walther_von_Dyck",
+      "wiki-en": "https://en.wikipedia.org/wiki/Walther von Dyck"
+    }
   },
   "854": {
     "name": "Ferdinand [später: von]Lindemann",
@@ -5095,7 +5615,11 @@
       "89": "F[erdinand] Lindemann"
     },
     "first": "Ferdinand",
-    "last": "von Lindemann"
+    "last": "von Lindemann",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ferdinand_von_Lindemann",
+      "wiki-en": "https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann"
+    }
   },
   "994": {
     "name": "E??. v. Grienburg?",
@@ -5136,7 +5660,11 @@
       "223": "A[nton]. v[on]. Braunmühl"
     },
     "first": "Anton",
-    "last": "von Braunmühl"
+    "last": "von Braunmühl",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Anton von Braunmühl (Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Anton_von_Braunm%C3%BChl"
+    }
   },
   "1076": {
     "name": "Alexander später: von Brill",
@@ -5146,7 +5674,11 @@
       "112": "A[lexander] [später: von] Brill"
     },
     "first": "Alexander",
-    "last": "von Brill"
+    "last": "von Brill",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Alexander von Brill",
+      "wiki-en": "https://en.wikipedia.org/wiki/Alexander von Brill"
+    }
   },
   "592": {
     "name": "Albert von Brunn",
@@ -5155,7 +5687,10 @@
       "832": "A[lbert] v[on]. Brunn."
     },
     "first": "Albert",
-    "last": "von Brunn"
+    "last": "von Brunn",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Albert von Brunn (Astronom)"
+    }
   },
   "704": {
     "name": "Franz von Krieg",
@@ -5174,7 +5709,12 @@
       "1099": "Th[eodore] v[on] Kármán"
     },
     "first": "Theodore",
-    "last": "von Kármán"
+    "last": "von Kármán",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Theodore von Kármán",
+      "wiki-en": "https://en.wikipedia.org/wiki/Theodore von Kármán",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Kármán Tódor"
+    }
   },
   "532": {
     "name": "Dr. Max von Laue",
@@ -5183,7 +5723,11 @@
       "895": "Dr. M[ax von]. Laue"
     },
     "first": "Max",
-    "last": "von Laue"
+    "last": "von Laue",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Max_von_Laue",
+      "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue"
+    }
   },
   "1187": {
     "name": "Wladimir von Philippow",
@@ -5224,6 +5768,11 @@
       "525": "K[azimierz] Zorawski [Żorawski]"
     },
     "first": "Kazimierz",
-    "last": "Żorawski"
+    "last": "Żorawski",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Kazimierz_%C5%BBorawski",
+      "wiki-en": "https://en.wikipedia.org/wiki/Kazimierz Żorawski",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Kazimierz Żorawski"
+    }
   }
 }
