@@ -2420,16 +2420,18 @@
     "last": "Karstens"
   },
   "990": {
-    "name": "Edward Kasner\\newline Dr? Phil.",
+    "name": "Edward Kasner",
     "ids_to_signatures": {
-      "765": "Edward Kasner\\newline Dr[?] Phil."
+      "765": "Edward Kasner Dr. Phil."
     },
     "first": "Edward",
     "last": "Kasner",
     "sources": {
+      "AV 1899.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B47%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Edward_Kasner",
       "wiki-en": "https://en.wikipedia.org/wiki/Edward Kasner"
-    }
+    },
+    "origin": "New York, USA"
   },
   "629": {
     "name": "Otto Kindling",
