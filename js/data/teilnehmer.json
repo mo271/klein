@@ -2744,7 +2744,10 @@
       "263": "Lud[wig]. Kraus"
     },
     "first": "Ludwig",
-    "last": "Kraus"
+    "last": "Kraus",
+    "sources": {
+      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/ludvik_kraus.html"
+    }
   },
   "1156": {
     "name": "Franz Krauß",
