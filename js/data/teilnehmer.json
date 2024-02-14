@@ -1636,12 +1636,16 @@
     }
   },
   "204": {
-    "name": "Jerimias? Grossmann",
+    "name": "August Grossmann",
     "ids_to_signatures": {
-      "913": "[Jerimias?] Grossmann"
+      "913": "[August] Grossmann"
     },
-    "first": "Jerimias?",
-    "last": "Grossmann"
+    "first": "August",
+    "last": "Grossmann",
+    "origin": "Hamburg",
+    "sources": {
+      "AV 1904.0 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    }
   },
   "957": {
     "name": "Joseph Grünwald",
