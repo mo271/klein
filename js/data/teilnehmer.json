@@ -1175,12 +1175,17 @@
     }
   },
   "199": {
-    "name": "Michael Feldblum",
+    "name": "Michał [Michael] Feldblum",
     "ids_to_signatures": {
-      "732": "M[ichael]. Feldblum"
+      "732": "M[ichał] [Michael]. Feldblum"
     },
-    "first": "Michael",
-    "last": "Feldblum"
+    "first": "Michał [Michael]",
+    "last": "Feldblum",
+    "sources": {
+      "AV 1898.5 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
+      "gen": "https://www.mathgenealogy.org/id.php?id=7335"
+    },
+    "origin": "Warschau, Polen" 
   },
   "81": {
     "name": "Ernst Fiedler",
@@ -3202,12 +3207,16 @@
     "last": "Mahlke"
   },
   "435": {
-    "name": "A? Mariks??",
+    "name": "Alfred Marcks",
     "ids_to_signatures": {
-      "729": "A[?]. Mariks[?]?"
+      "729": "A[lfred]. Marcks"
     },
-    "first": "A?",
-    "last": "Mariks??"
+    "first": "Alfred",
+    "last": "Marcks",
+    "sources": {
+      "AV 1898.5 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B50%5D%7D"
+    },
+    "origin": "Krefeld"
   },
   "29": {
     "name": "Joseph Lybrand Markley",
@@ -3651,12 +3660,16 @@
     }
   },
   "579": {
-    "name": "Anna Helene Palmie",
+    "name": "Anna Helene Palmié",
     "ids_to_signatures": {
-      "737": "A[nna]. H[elene]. Palmie"
+      "737": "A[nna]. H[elene]. Palmié"
     },
     "first": "Anna Helene",
-    "last": "Palmié"
+    "last": "Palmié",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Anna_Helene_Palmie"
+    },
+    "origin": "New York, USA"
   },
   "593": {
     "name": "Dr. Erwin Papperitz",
@@ -3958,7 +3971,12 @@
       "725": "Legh W[ilber] Reid"
     },
     "first": "Legh Wilber",
-    "last": "Reid"
+    "last": "Reid",
+    "sources":{
+      "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D",
+      "gen": "https://www.mathgenealogy.org/id.php?id=7337"
+    },
+    "origin": "Alexandria, Virginia, USA"
   },
   "159": {
     "name": "Otto Reifenstahl",
@@ -4730,12 +4748,12 @@
     }
   },
   "484": {
-    "name": "Stunnerfeldt??",
+    "name": "Ernst Sommerfeld",
     "ids_to_signatures": {
-      "739": "[Stunnerfeldt??]"
+      "739": "[Ersten Sommerfeld]"
     },
-    "first": "",
-    "last": "Stunnerfeldt??"
+    "first": "Ernst",
+    "last": "Sommerfeldt"
   },
   "535": {
     "name": "Friedrich Stöhr",
@@ -4861,13 +4879,17 @@
     "last": "Tiedge"
   },
   "227": {
-    "name": "P??. Tiedge?",
+    "name": "Enrst Tiedge",
     "ids_to_signatures": {
-      "733": "P[?]?. Tiedge?",
-      "734": "P[?]?. Tiedge?"
+      "733": "E[rnst]. Tiedge",
+      "734": "E[rnst]. Tiedge"
     },
-    "first": "P??.",
-    "last": "Tiedge?"
+    "first": "Ernst",
+    "last": "Tiedge",
+    "sources": {
+      "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    },
+    "origin": "Moers, Rheinland"
   },
   "200": {
     "name": "Stepan Prokopowytsch Timoschenko",
@@ -4933,12 +4955,17 @@
     }
   },
   "780": {
-    "name": "Edgar Townsend",
+    "name": "Edgar Jerome Townsend",
     "ids_to_signatures": {
-      "727": "Edgar Townsend"
+      "727": "Edgar [Jerome] Townsend"
     },
-    "first": "Edgar",
-    "last": "Townsend"
+    "first": "Edgar Jerome",
+    "last": "Townsend",
+    "sources": {
+      "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
+      "gen": "https://www.mathgenealogy.org/id.php?id=7343"
+    },
+    "origin": "Champaign, Illinois, USA"
   },
   "849": {
     "name": "Hermann Trommsdorff",
@@ -5023,12 +5050,17 @@
     "last": "Visnya"
   },
   "453": {
-    "name": "Adolf? Viterbi?",
+    "name": "Adolfo Viterbi",
     "ids_to_signatures": {
-      "730": "Adolf? Viterbi?"
+      "730": "Adolfo Viterbi"
     },
-    "first": "Adolf?",
-    "last": "Viterbi?"
+    "first": "Adolfo",
+    "last": "Viterbi",
+    "sources": {
+      "wiki-it": "https://it.wikipedia.org/wiki/Adolfo_Viterbi",
+      "AV 1898.5 S.61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
+    },
+    "origin": "Mantua [Mantova], Italien"
   },
   "555": {
     "name": "Peter Vogel",
@@ -5268,7 +5300,11 @@
       "738": "J[ames]. K[elsey]. Whittemore"
     },
     "first": "James Kelsey",
-    "last": "Whittemore"
+    "last": "Whittemore",
+    "sources": {
+      "AV 1898.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
+    "origin": "Boston, Massachusetts, USA"
   },
   "515": {
     "name": "Robert Wiebrecht",
@@ -5348,13 +5384,17 @@
     "last": "Wigger"
   },
   "662": {
-    "name": "Fr? Wilde",
+    "name": "Fritz Wilde",
     "ids_to_signatures": {
-      "761": "Fr[?] Wilde",
-      "726": "Fr[?]. Wilde?"
+      "761": "Fr[itz] Wilde",
+      "726": "Fr[itz]. Wilde"
     },
-    "first": "Fr?",
-    "last": "Wilde"
+    "first": "Fritz",
+    "last": "Wilde",
+    "sources": {
+      "AV 1898.5 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    },
+    "origin": "Bremen"
   },
   "788": {
     "name": "Franz Willers",
