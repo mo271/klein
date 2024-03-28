@@ -521,7 +521,12 @@
       "334": "[Karl] Bobek"
     },
     "first": "Karl",
-    "last": "Bobek"
+    "last": "Bobek",
+    "sources": {
+      "mathgenealogy": "https://mathgenealogy.org/id.php?id=61734",
+      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/karl_bobek.html"
+    },
+    "origin": "Lhotka, Tschechien"
   },
   "108": {
     "name": "Erna Bockmann",
@@ -1172,7 +1177,8 @@
     "last": "Fanta",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Fanta"
-    }
+    },
+    "origin": "Wien"
   },
   "199": {
     "name": "Michał [Michael] Feldblum",
@@ -1397,7 +1403,8 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Funk (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Funk"
-    }
+    },
+    "origin": "Wien"
   },
   "342": {
     "name": "Philipp Furtwängler",
@@ -1658,7 +1665,12 @@
       "772": "Dr J[oseph] Grünwald"
     },
     "first": "Joseph",
-    "last": "Grünwald"
+    "last": "Grünwald",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64803",
+      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/josef_gruenwald.html"
+    },
+    "origin": Prag
   },
   "127": {
     "name": "Alf Guldberg",
@@ -1751,7 +1763,8 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Hamel",
       "wiki-en": "https://en.wikipedia.org/wiki/Georg_Hamel"
-    }
+    },
+    "origin": "Düren"
   },
   "344": {
     "name": "Fr? Hanker?",
@@ -2742,21 +2755,22 @@
     }
   },
   "55": {
-    "name": "Ludwig Kraus",
+    "name": "Ludvík [Ludwig] Kraus",
     "ids_to_signatures": {
-      "220": "Lud[wig]. Kraus",
-      "228": "Lud[wig]. Kraus?",
-      "231": "Lud[wig] Kraus",
-      "239": "Lud[wig] Kraus",
-      "247": "Lud[wig]. Kraus?",
-      "248": "Lud[wig]. Kraus?",
-      "263": "Lud[wig]. Kraus"
+      "220": "Lud[vík]. Kraus",
+      "228": "Lud[vík]. Kraus?",
+      "231": "Lud[vík] Kraus",
+      "239": "Lud[vík] Kraus",
+      "247": "Lud[vík]. Kraus",
+      "248": "Lud[vík]. Kraus",
+      "263": "Lud[vík]. Kraus"
     },
     "first": "Ludwig",
     "last": "Kraus",
     "sources": {
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/ludvik_kraus.html"
-    }
+    },
+    "origin": "Turnov [Turnau], Tschechien"
   },
   "1156": {
     "name": "Franz Krauß",
@@ -3753,7 +3767,8 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Georg Pick (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Georg Alexander Pick"
-    }
+    },
+    "origin": "Wien"
   },
   "43": {
     "name": "Ernst Piechler",
@@ -3909,7 +3924,8 @@
     "last": "Puchta",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anton_Puchta"
-    }
+    },
+    "origin": "Staré Sedlo [Altsattel], Tschechien"
   },
   "1063": {
     "name": "Hans Puhl",
@@ -5088,7 +5104,12 @@
       "414": "Emil Waelsch"
     },
     "first": "Emil",
-    "last": "Waelsch"
+    "last": "Waelsch",
+    "sources":{
+      "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=62350",
+      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html"
+    },
+    "origin": "Prag"
   },
   "614": {
     "name": "Wilhelm? Wagemann?",
@@ -5250,7 +5271,12 @@
       "418": "Wilhelm Weiß"
     },
     "first": "Wilhelm",
-    "last": "Weiß"
+    "last": "Weiß",
+    "sources":{
+      "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Weiss_(mathematician)",
+      "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss"
+    },
+    "origin": "Prag"
   },
   "192": {
     "name": "Paul Wernicke",
