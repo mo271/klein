@@ -2647,13 +2647,16 @@
     }
   },
   "191": {
-    "name": "Felix Kletzkowki",
+    "name": "Felix Klitzkowski",
     "ids_to_signatures": {
-      "477": "[[Felix] Kletzkowki]",
-      "481": "[[Felix] Kletzkowki]"
+      "477": "[[Felix] Klitzkowski]",
+      "481": "[[Felix] Klitzkowski]"
     },
     "first": "Felix",
-    "last": "Kletzkowki"
+    "last": "Klitzkowski",
+    "sources": {
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162"
+    }
   },
   "97": {
     "name": "Johannes Klien",
@@ -3974,7 +3977,7 @@
     "last": "Reid",
     "sources":{
       "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D",
-      "gen": "https://www.mathgenealogy.org/id.php?id=7337"
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7337"
     },
     "origin": "Alexandria, Virginia, USA"
   },
@@ -4963,7 +4966,7 @@
     "last": "Townsend",
     "sources": {
       "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
-      "gen": "https://www.mathgenealogy.org/id.php?id=7343"
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7343"
     },
     "origin": "Champaign, Illinois, USA"
   },
