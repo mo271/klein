@@ -1667,7 +1667,7 @@
     },
     "first": "Joseph",
     "last": "Grünwald",
-    "sources":{
+    "sources": {
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64803",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/josef_gruenwald.html"
     },
@@ -3992,7 +3992,7 @@
     },
     "first": "Legh Wilber",
     "last": "Reid",
-    "sources":{
+    "sources": {
       "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7337"
     },
@@ -5109,7 +5109,7 @@
     },
     "first": "Emil",
     "last": "Waelsch",
-    "sources":{
+    "sources": {
       "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=62350",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html"
     },
@@ -5146,11 +5146,10 @@
     "first": "J. H.",
     "last": "Walley",
     "origin": "Gloucester, Engl",
-    "sources" : {
+    "sources": {
       "AV 1897.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
     }
   },
-
   "316": {
     "name": "Alois Walter",
     "ids_to_signatures": {
@@ -5276,7 +5275,7 @@
     },
     "first": "Wilhelm",
     "last": "Weiß",
-    "sources":{
+    "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Weiss_(mathematician)",
       "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss"
     },
