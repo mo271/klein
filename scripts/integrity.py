@@ -113,7 +113,6 @@ def test_struture_protokolle_dict(prot_data, teil_data, errors):
                 if not str(id) in teilnehmer["ids_to_signatures"].keys():
                     errors.append(f"teilnehmer {s} in {id=} does not back-reference to prot")
                 pass
-            #errors.append(f"too many speakers in {id=}: {speaker}")
         if not titel and not klein_titel:
             pass
             # errors.append(f"neither titel not klein_titel given in {id=}")
