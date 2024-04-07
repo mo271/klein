@@ -227,7 +227,8 @@
   "495": {
     "name": "Heinrich Barkhausen",
     "ids_to_signatures": {
-      "964": "H[einrich] Barkhausen"
+      "964": "H[einrich] Barkhausen",
+      "938": "H[einrich] Barkhausen."
     },
     "first": "Heinrich",
     "last": "Barkhausen",
@@ -1191,7 +1192,7 @@
       "AV 1898.5 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7335"
     },
-    "origin": "Warschau, Polen" 
+    "origin": "Warschau, Polen"
   },
   "81": {
     "name": "Ernst Fiedler",

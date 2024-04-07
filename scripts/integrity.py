@@ -3,6 +3,15 @@
 # python3 ./scripts/integrity.py
 
 import json
+from datetime import datetime
+
+
+def is_valid_date(date_string):
+    try:
+        datetime.strptime(date_string, "%Y-%m-%d")
+        return True
+    except ValueError:
+        return False
 
 def read_json_file(file_path):
     try:
@@ -79,6 +88,36 @@ def test_structure_teilnehmer_dict(teil_data, errors):
                     errors.append(f"unexpected type: {val=}")
 
 
+def test_struture_protokolle_dict(prot_data, teil_data, errors):
+    for prot in prot_data:
+        id = prot["id"]
+        band = prot["band"]
+        datum = prot["datum"]
+        datum_ok = prot["dok"]
+        speaker = prot["speaker"]
+        titel = prot["titel"]
+        klein_titel = prot["ktitel"]
+
+        if not (1 <= id <= 1204):
+            errors.append(f"unexpected {id=}")
+        if not (1 <= band <= 29):
+            errors.append(f"unexpected {band=}")
+        if datum_ok and not is_valid_date(datum):
+            errors.append(f"invalid date in {id=}: {datum=}")
+        for s in speaker:
+            s = str(s)
+            if s not in teil_data:
+                errors.append(f"unkown speaker {s} in {id=}")
+            else:
+                teilnehmer = teil_data[s]
+                if not str(id) in teilnehmer["ids_to_signatures"].keys():
+                    errors.append(f"teilnehmer {s} in {id=} does not back-reference to prot")
+                pass
+            #errors.append(f"too many speakers in {id=}: {speaker}")
+        if not titel and not klein_titel:
+            pass
+            # errors.append(f"neither titel not klein_titel given in {id=}")
+
 if __name__ == "__main__":
     prot_path = "./js/data/protokolle.json"
     teil_path = "./js/data/teilnehmer.json"
@@ -99,6 +138,7 @@ if __name__ == "__main__":
         test_unique_protocol_ids(prot_data, errors)
         test_valid_speaker_protocol_ids(prot_data, teil_data, errors)
         test_structure_teilnehmer_dict(teil_data, errors)
+        test_struture_protokolle_dict(prot_data, teil_data, errors)
 
     if errors:
        print("Errors found during tests:")
