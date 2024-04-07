@@ -309,7 +309,12 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		}).join(', ') : '';
 
 		origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
-		li = '<li class="' + cssClass + '"<div<p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">' + talks + '</p></div></li>';
+
+		let semesters = record.sns
+			.map(semester => `<a href="#sn-${semester}">${semester}</a>`)
+			.join(', ');
+
+		li = '<li class="' + cssClass + '"><div><p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">Vorträge: ' + talks + ', Semester: ' + semesters + '</p></div></li>';
 		return li;
 
 	}
@@ -337,7 +342,8 @@ function updateDynatable() {
 			first: item.first,
 			last: item.last,
 			sources: item.hasOwnProperty('sources') ? item.sources : '',
-			ids_to_signatures: item.ids_to_signatures
+			ids_to_signatures: item.ids_to_signatures,
+			sns: item.sns
 		};
 	});
 	// Sorting the array alphabetically by name
