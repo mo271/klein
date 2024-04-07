@@ -93,8 +93,7 @@ def get_sns(prot_data, prot_ids):
     return list(map(lambda x: get_sn(prot_data, x), prot_ids))
 
 def test_valid_seminar_numbers(teil_data, prot_data, errors):
-    semester_dict = js_obj_to_py_dict('./js/klein.js', 7, 91)
-    print(semester_dict.keys())
+    semester_dict = js_obj_to_py_dict('./js/klein.js', 7, 92)
     for teilnehmer_key, teilnehmer in teil_data.items():
         if "ids_to_signatures" in teilnehmer:
 
@@ -109,6 +108,7 @@ def test_valid_seminar_numbers(teil_data, prot_data, errors):
             for sn in teilnehmer["sns"]:
                 if str(sn) not in semester_dict:
                     errors.append(f"unknown seminar number for teilnehmer {teilnehmer_key}: {sn=}")
+
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
