@@ -67,19 +67,40 @@ def test_valid_speaker_protocol_ids(prot_data, teil_data, errors):
             if str(single_id) not in prot_ids:
                 errors.append(f"Invalid protocol ID {single_id} found for speaker {speaker}.")
 
+def get_sns(prot_data, prot_ids):
+    def get_sn(prot_data, prot_id):
+        proto=  prot_data[int(prot_id)-1]
+        assert prot_id != (proto["id"])
+        return proto["sn"]
+    return list(map(lambda x: get_sn(prot_data, x), prot_ids))
+
+def test_valid_seminar_numbers(teil_data, prot_data, errors):
+    for teilnehmer_key, teilnehmer in teil_data.items():
+        if "ids_to_signatures" in teilnehmer:
+
+            if sorted(teilnehmer["sns"]) != teilnehmer["sns"]:
+                errors.append(f"sns not sorted for teilnehmer {teilnehmer_key}: {teilnehmer['sns']}")
+            if len(set(teilnehmer["sns"])) < len(teilnehmer["sns"]):
+                errors.append(f"sns contains duplicate entries for teilnehmer {teilnehmer_key}: {teilnehmer['sns']}")
+            sns = get_sns(prot_data, list(teilnehmer["ids_to_signatures"].keys()))
+            if not set(sns) <= set(teilnehmer["sns"]):
+                errors.append(
+                    f"not enough seminar numbers for teilnehmer {teilnehmer_key} : {sns} versus {teilnehmer['sns']}")
 
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
-        if  not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'sources']):
+        if not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'sources', 'sns']):
             errors.append(f"unexpected keys in teilnehmer nr {teilnehmer_key}: {teilnehmer}")
+        if not set(['name', 'ids_to_signatures', 'first', 'last', 'sns']) <= teilnehmer.keys():
+            errors.append(f"missing required key in teilnehmer nr {teilnehmer_key}: {teilnehmer}")
         for key, val in teilnehmer.items():
             if key in ['name', 'first', 'last', 'origin', 'name_non_latin']:
                 if type(val) != str:
                     errors.append(f"unexpected type: {val=}")
             elif key == 'ids_to_signatures':
                 if type(val) != dict:
-                    errors.append(f"ids_to_signaures not a list:{val}")
+                    errors.append(f"ids_to_signatures not a list:{val}")
                 for talk_key, talk_val in val.items():
                     if (type(talk_val) != str) or (type(talk_key) != str):
                         errors.append(f"unexpected type: {talk_val=} {talk_key=}")
@@ -138,6 +159,7 @@ if __name__ == "__main__":
         test_valid_speaker_protocol_ids(prot_data, teil_data, errors)
         test_structure_teilnehmer_dict(teil_data, errors)
         test_struture_protokolle_dict(prot_data, teil_data, errors)
+        test_valid_seminar_numbers(teil_data, prot_data, errors)
 
     if errors:
        print("Errors found during tests:")
