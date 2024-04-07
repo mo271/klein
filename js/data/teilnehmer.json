@@ -11,7 +11,16 @@
       "1036": "[Kein Vortragender]"
     },
     "first": "",
-    "last": "Κein Vortragender"
+    "last": "Κein Vortragender",
+    "sns": [
+      1879.0,
+      1880.5,
+      1882.0,
+      1893.5,
+      1897.5,
+      1900.0,
+      1907.0
+    ]
   },
   "931": {
     "name": "?",
@@ -19,7 +28,10 @@
       "1111": "[?]"
     },
     "first": "",
-    "last": "Αnonymous"
+    "last": "Αnonymous",
+    "sns": [
+      1911.0
+    ]
   },
   "876": {
     "name": "August Abt",
@@ -28,7 +40,11 @@
       "540": "August Abt"
     },
     "first": "August",
-    "last": "Abt"
+    "last": "Abt",
+    "sns": [
+      1890.0,
+      1892.0
+    ]
   },
   "425": {
     "name": "Franz Adami?",
@@ -36,7 +52,10 @@
       "159": "Franz Adami?"
     },
     "first": "Franz",
-    "last": "Adami?"
+    "last": "Adami?",
+    "sns": [
+      1876.4
+    ]
   },
   "992": {
     "name": "Tatjana Alexejewna Afanassjewa später Ehrenfest",
@@ -51,7 +70,10 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Tatyana_Afanasyeva",
       "wiki-nl": "https://nl.wikipedia.org/wiki/Tatiana_Afanassjewa",
       "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0"
-    }
+    },
+    "sns": [
+      1902.5
+    ]
   },
   "651": {
     "name": "Michael Akimoff",
@@ -59,7 +81,10 @@
       "999": "Michael Akimoff"
     },
     "first": "Michael",
-    "last": "Akimoff"
+    "last": "Akimoff",
+    "sns": [
+      1906.0
+    ]
   },
   "110": {
     "name": "Alekseyevsky",
@@ -67,7 +92,10 @@
       "609": "[Vladimir] Alexjewsky [Alekseyevsky]"
     },
     "first": "Vladimir",
-    "last": "Alekseyevsky"
+    "last": "Alekseyevsky",
+    "sns": [
+      1894.5
+    ]
   },
   "949": {
     "name": "Friedrich[?] Alfke",
@@ -80,7 +108,10 @@
     "origin": "Bruchhausen, Hannover[?]",
     "sources": {
       "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "803": {
     "name": "Karl Almstedt",
@@ -93,7 +124,10 @@
     "sources": {
       "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D",
       "P 1912.0 S. 451": ""
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "647": {
     "name": "Julius Alsen",
@@ -104,7 +138,10 @@
     "last": "Alsen",
     "sources": {
       "AV 1906.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
-    }
+    },
+    "sns": [
+      1906.0
+    ]
   },
   "656": {
     "name": "Julius Amelung",
@@ -116,7 +153,12 @@
       "262": "Julius Amelung"
     },
     "first": "Julius",
-    "last": "Amelung"
+    "last": "Amelung",
+    "sns": [
+      1878.5,
+      1879.0,
+      1879.5
+    ]
   },
   "196": {
     "name": "Adolf Ameseder",
@@ -124,7 +166,10 @@
       "419": "Adolf Ameseder"
     },
     "first": "Adolf",
-    "last": "Ameseder"
+    "last": "Ameseder",
+    "sns": [
+      1885.0
+    ]
   },
   "178": {
     "name": "Albert Andrae",
@@ -135,7 +180,10 @@
     "last": "Andrae",
     "sources": {
       "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "1101": {
     "name": "L Anhenn",
@@ -147,7 +195,11 @@
       "644": "L Anhenn"
     },
     "first": "L.",
-    "last": "Anhenn"
+    "last": "Anhenn",
+    "sns": [
+      1895.5,
+      1896.0
+    ]
   },
   "679": {
     "name": "August Ansel",
@@ -159,7 +211,10 @@
     "origin": "Stuttgart",
     "sources": {
       "AV 1908.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
-    }
+    },
+    "sns": [
+      1908.0
+    ]
   },
   "166": {
     "name": "Friedrich Arensmeier",
@@ -172,7 +227,11 @@
     "origin": "Riepen [Niedersachsen]",
     "sources": {
       "AV 1900.5 S.36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
-    }
+    },
+    "sns": [
+      1900.5,
+      1901.5
+    ]
   },
   "1022": {
     "name": "Wilhelm Ausborn",
@@ -184,7 +243,10 @@
     "origin": "Charlottenburg [Berlin]",
     "sources": {
       "AV 1912.0 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B42%5D%7D"
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "818": {
     "name": "Alexander Axer",
@@ -198,7 +260,10 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Aleksander_Axer",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Aleksander Axer"
     },
-    "origin": "Przemyśl, Galizien"
+    "origin": "Przemyśl, Galizien",
+    "sns": [
+      1904.0
+    ]
   },
   "339": {
     "name": "Isaac Bacharach",
@@ -211,7 +276,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Isaak_Bacharach",
       "wiki-en": "https://en.wikipedia.org/wiki/Isaak Bacharach"
-    }
+    },
+    "sns": [
+      1875.5,
+      1876.5
+    ]
   },
   "745": {
     "name": "Erwin Backhaus",
@@ -222,7 +291,10 @@
     "last": "Backhaus",
     "sources": {
       "AV 1900.5 S.36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
-    }
+    },
+    "sns": [
+      1901.5
+    ]
   },
   "495": {
     "name": "Heinrich Barkhausen",
@@ -236,7 +308,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Barkhausen",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Barkhausen",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen"
-    }
+    },
+    "sns": [
+      1904.5,
+      1905.0
+    ]
   },
   "582": {
     "name": "Dr. Anton Baule",
@@ -244,7 +320,10 @@
       "3": "Dr. A[nton]. Baule"
     },
     "first": "Anton",
-    "last": "Baule"
+    "last": "Baule",
+    "sns": [
+      1872.0
+    ]
   },
   "422": {
     "name": "Max Baumeister?",
@@ -252,7 +331,10 @@
       "196": "Max Baumeister?"
     },
     "first": "Max",
-    "last": "Baumeister?"
+    "last": "Baumeister?",
+    "sns": [
+      1878.4
+    ]
   },
   "327": {
     "name": "Oswald Baumgart",
@@ -262,7 +344,11 @@
       "366": "O[swald]. Baumgart"
     },
     "first": "Oswald",
-    "last": "Baumgart"
+    "last": "Baumgart",
+    "sns": [
+      1880.5,
+      1883.0
+    ]
   },
   "1087": {
     "name": "Bernhard Bavink",
@@ -273,7 +359,10 @@
     "last": "Bavink",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Bavink"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "796": {
     "name": "Theodor Bechen",
@@ -285,7 +374,10 @@
     "origin": "Düsseldorf",
     "sources": {
       "AV 1912.0 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B43%5D%7D"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "1000": {
     "name": "Fritz Beer",
@@ -296,7 +388,12 @@
       "700": "F[ritz] Beer"
     },
     "first": "Fritz",
-    "last": "Beer"
+    "last": "Beer",
+    "sns": [
+      1896.5,
+      1897.0,
+      1897.5
+    ]
   },
   "526": {
     "name": "Wilhelm Behrens",
@@ -307,7 +404,11 @@
       "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Wilhelm",
-    "last": "Behrens"
+    "last": "Behrens",
+    "sns": [
+      1909.0,
+      1909.5
+    ]
   },
   "171": {
     "name": "L. Behse.",
@@ -319,7 +420,10 @@
     "origin": "Helmstedt, Br[aunschweig]",
     "sources": {
       "AV 1892.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
-    }
+    },
+    "sns": [
+      1892.0
+    ]
   },
   "964": {
     "name": "Dr. Emanuel Beke",
@@ -333,7 +437,10 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Emanuel_Beke",
       "wiki-hu": "https://hu.wikipedia.org/wiki/Beke Manó"
-    }
+    },
+    "sns": [
+      1893.5
+    ]
   },
   "474": {
     "name": "Torsten Ragnar Bendz",
@@ -341,7 +448,10 @@
       "744": "T[orsten]. R[agnar]. Bendz"
     },
     "first": "Torsten Ragner",
-    "last": "Bendz"
+    "last": "Bendz",
+    "sns": [
+      1899.0
+    ]
   },
   "1103": {
     "name": "A[lfred] Benecke",
@@ -353,7 +463,10 @@
     "origin": "Neuhaldesleben",
     "sources": {
       "AV 1903.5 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "248": {
     "name": "Sigfrid Berliner",
@@ -362,7 +475,10 @@
       "930": "S[igfrid] Berliner"
     },
     "first": "Sigfrid",
-    "last": "Berliner"
+    "last": "Berliner",
+    "sns": [
+      1904.0
+    ]
   },
   "981": {
     "name": "Felix Bernstein",
@@ -379,7 +495,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Felix Bernstein",
       "wiki-en": "https://en.wikipedia.org/wiki/Felix Bernstein (mathematician)"
-    }
+    },
+    "sns": [
+      1900.0,
+      1901.0,
+      1909.5
+    ]
   },
   "565": {
     "name": "Arthur Berry",
@@ -387,7 +508,10 @@
       "478": "[[Arthur] Berry]"
     },
     "first": "Arthur",
-    "last": "Berry"
+    "last": "Berry",
+    "sns": [
+      1887.4
+    ]
   },
   "776": {
     "name": "Charles Harold Berry",
@@ -395,7 +519,10 @@
       "678": "Charles H[arold] Berry"
     },
     "first": "Charles Harold",
-    "last": "Berry"
+    "last": "Berry",
+    "sns": [
+      1897.0
+    ]
   },
   "822": {
     "name": "Franz Bertheau",
@@ -406,7 +533,11 @@
       "541": "Franz Bertheau"
     },
     "first": "Franz",
-    "last": "Bertheau"
+    "last": "Bertheau",
+    "sns": [
+      1890.0,
+      1892.0
+    ]
   },
   "591": {
     "name": "Luigi Bianci",
@@ -420,7 +551,11 @@
       "255": "Luigi Bianchi"
     },
     "first": "Luigi",
-    "last": "Bianci"
+    "last": "Bianci",
+    "sns": [
+      1879.5,
+      1880.0
+    ]
   },
   "382": {
     "name": "Friedrich Bidlingmaier",
@@ -434,7 +569,10 @@
       "AV 1897.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B37%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Bidlingmaier"
     },
-    "origin": "Laussen"
+    "origin": "Laussen",
+    "sns": [
+      1897.5
+    ]
   },
   "1141": {
     "name": "Paul Biedermann",
@@ -446,7 +584,12 @@
       "409": "Paul Biedermann"
     },
     "first": "Paul",
-    "last": "Biedermann"
+    "last": "Biedermann",
+    "sns": [
+      1883.5,
+      1884.0,
+      1884.5
+    ]
   },
   "1138": {
     "name": "Heinrich Biesterfeld",
@@ -458,7 +601,10 @@
     "origin": "Raden, Hessen-Nassau",
     "sources": {
       "AV 1905.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
-    }
+    },
+    "sns": [
+      1905.0
+    ]
   },
   "277": {
     "name": "Otto Birck",
@@ -467,7 +613,11 @@
       "841": "Otto Birck"
     },
     "first": "Otto",
-    "last": "Birck"
+    "last": "Birck",
+    "sns": [
+      1901.5,
+      1902.0
+    ]
   },
   "488": {
     "name": "Edwin Mortimer Blake",
@@ -475,7 +625,10 @@
       "655": "E[dwin] M[ortimer] Blake"
     },
     "first": "Edwin Mortimer",
-    "last": "Blake"
+    "last": "Blake",
+    "sns": [
+      1896.0
+    ]
   },
   "1136": {
     "name": "Heinrich Blasius",
@@ -488,7 +641,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Blasius",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Richard_Heinrich_Blasius"
-    }
+    },
+    "sns": [
+      1907.5
+    ]
   },
   "611": {
     "name": "K[?]. Blumenfeld",
@@ -500,7 +656,10 @@
     "origin": "Adelebsen",
     "sources": {
       "AV 1892.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
-    }
+    },
+    "sns": [
+      1892.0
+    ]
   },
   "1200": {
     "name": "Otto Blumenthal",
@@ -513,7 +672,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto Blumenthal (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Otto_Blumenthal"
-    }
+    },
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "1184": {
     "name": "Karl Bobek",
@@ -527,7 +690,11 @@
       "mathgenealogy": "https://mathgenealogy.org/id.php?id=61734",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/karl_bobek.html"
     },
-    "origin": "Lhotka, Tschechien"
+    "origin": "Lhotka, Tschechien",
+    "sns": [
+      1881.5,
+      1882.0
+    ]
   },
   "108": {
     "name": "Erna Bockmann",
@@ -535,7 +702,10 @@
       "1168": "Erna Bockmann"
     },
     "first": "Erna",
-    "last": "Bockmann"
+    "last": "Bockmann",
+    "sns": [
+      1911.5
+    ]
   },
   "405": {
     "name": "Paul Bode",
@@ -543,7 +713,10 @@
       "1145": "P[aul] Bode"
     },
     "first": "Paul",
-    "last": "Bode"
+    "last": "Bode",
+    "sns": [
+      1910.5
+    ]
   },
   "738": {
     "name": "Hans Boegenhold",
@@ -552,7 +725,10 @@
       "745": "Hans Boegehold."
     },
     "first": "Hans",
-    "last": "Boegenhold"
+    "last": "Boegenhold",
+    "sns": [
+      1899.0
+    ]
   },
   "322": {
     "name": "Oskar Bolza",
@@ -566,7 +742,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Oskar_Bolza",
       "wiki-en": "https://en.wikipedia.org/wiki/Oskar_Bolza"
-    }
+    },
+    "sns": [
+      1886.5,
+      1887.4
+    ]
   },
   "356": {
     "name": "Max Born",
@@ -578,7 +758,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max Born",
       "wiki-en": "https://en.wikipedia.org/wiki/Max Born"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -590,7 +773,10 @@
     "origin": "Göttingen",
     "sources": {
       "AV 1902.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
-    }
+    },
+    "sns": [
+      1902.0
+    ]
   },
   "266": {
     "name": "Anne Bosworth",
@@ -602,7 +788,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anne Bosworth Focke",
       "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke"
-    }
+    },
+    "sns": [
+      1898.5
+    ]
   },
   "409": {
     "name": "Werner Boy",
@@ -615,7 +804,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Werner Boy",
       "wiki-en": "https://en.wikipedia.org/wiki/Werner_Boy",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Werner Boy"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "349": {
     "name": "James Harrington Boyd",
@@ -624,7 +816,11 @@
       "550": "[Boyd]"
     },
     "first": "James",
-    "last": "Boyd"
+    "last": "Boyd",
+    "sns": [
+      1891.0,
+      1892.5
+    ]
   },
   "789": {
     "name": "Friedrich Bradhering",
@@ -632,7 +828,10 @@
       "467": "Fr[iedrich]. Bradhering"
     },
     "first": "Friedrich",
-    "last": "Bradhering"
+    "last": "Bradhering",
+    "sns": [
+      1887.0
+    ]
   },
   "1056": {
     "name": "Wilhelm Braun",
@@ -641,7 +840,11 @@
       "66": "Wilhelm Braun"
     },
     "first": "Wilhelm",
-    "last": "Braun"
+    "last": "Braun",
+    "sns": [
+      1873.5,
+      1874.0
+    ]
   },
   "267": {
     "name": "Wilhelm Bretschneider",
@@ -652,7 +855,11 @@
       "51": "W[ilhelm]. Bretschneider"
     },
     "first": "Wilhelm",
-    "last": "Bretschneider"
+    "last": "Bretschneider",
+    "sns": [
+      1873.0,
+      1873.5
+    ]
   },
   "160": {
     "name": "Carl Brochmann",
@@ -661,7 +868,11 @@
       "505": "[Brochmann.?]"
     },
     "first": "Carl",
-    "last": "Brochmann"
+    "last": "Brochmann",
+    "sns": [
+      1887.0,
+      1889.5
+    ]
   },
   "880": {
     "name": "Adolf Brosinsky",
@@ -669,7 +880,10 @@
       "473": "A[dolf] Brosinsky"
     },
     "first": "Adolf",
-    "last": "Brosinsky"
+    "last": "Brosinsky",
+    "sns": [
+      1887.0
+    ]
   },
   "68": {
     "name": "Margaret E. Brusstor",
@@ -677,7 +891,10 @@
       "1173": "M[argaret]. E. Brusstor"
     },
     "first": "Margaret E.",
-    "last": "Brusstor"
+    "last": "Brusstor",
+    "sns": [
+      1911.5
+    ]
   },
   "724": {
     "name": "Walther Brügmann",
@@ -686,7 +903,10 @@
       "736": "W[alther] Brügmann"
     },
     "first": "Walther",
-    "last": "Brügmann"
+    "last": "Brügmann",
+    "sns": [
+      1898.5
+    ]
   },
   "1167": {
     "name": "Hermann Brühl",
@@ -698,7 +918,10 @@
     "origin": "Göttingen",
     "sources": {
       "AV 1911.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
-    }
+    },
+    "sns": [
+      1911.0
+    ]
   },
   "69": {
     "name": "Arthur Buchheim",
@@ -712,7 +935,11 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Buchheim",
       "wiki-it": "https://it.wikipedia.org/wiki/Arthur Buchheim"
-    }
+    },
+    "sns": [
+      1881.0,
+      1881.5
+    ]
   },
   "259": {
     "name": "Heinrich Burkhardt",
@@ -728,7 +955,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich Burkhardt (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Burkhardt"
-    }
+    },
+    "sns": [
+      1887.5,
+      1888.0,
+      1888.5
+    ]
   },
   "261": {
     "name": "Aloys Burlet",
@@ -736,7 +968,10 @@
       "1108": "A[loys]. Burlet"
     },
     "first": "Aloys",
-    "last": "Burlet"
+    "last": "Burlet",
+    "sns": [
+      1911.0
+    ]
   },
   "904": {
     "name": "Carl Georg Theodor Buschbaum",
@@ -744,7 +979,10 @@
       "469": "[Carl Georg Theodor] Buschbaum"
     },
     "first": "Carl Georg Theodor",
-    "last": "Buschbaum"
+    "last": "Buschbaum",
+    "sns": [
+      1887.0
+    ]
   },
   "1013": {
     "name": "Maxime Bôcher",
@@ -760,7 +998,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Maxime_B%C3%B4cher",
       "wiki-en": "https://en.wikipedia.org/wiki/Maxime_B%C3%B4cher",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Maxime Bôcher"
-    }
+    },
+    "sns": [
+      1889.5,
+      1890.0
+    ]
   },
   "628": {
     "name": "Paul Böhmer",
@@ -768,7 +1010,10 @@
       "796": "P[aul]. Böhmer"
     },
     "first": "Paul",
-    "last": "Böhmer"
+    "last": "Böhmer",
+    "sns": [
+      1900.5
+    ]
   },
   "473": {
     "name": "Richard Börnstein",
@@ -781,7 +1026,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Richard_B%C3%B6rnstein",
       "wiki-en": "https://en.wikipedia.org/wiki/Richard_B%C3%B6rnstein"
-    }
+    },
+    "sns": [
+      1872.0
+    ]
   },
   "1142": {
     "name": "Adolf Böttger",
@@ -791,7 +1039,11 @@
       "441": "Adolf Böttger"
     },
     "first": "Adolf",
-    "last": "Böttger"
+    "last": "Böttger",
+    "sns": [
+      1885.0,
+      1885.5
+    ]
   },
   "396": {
     "name": "Wilhelm Büchel",
@@ -799,7 +1051,10 @@
       "767": "Wilhelm Büchel"
     },
     "first": "Wilhelm",
-    "last": "Büchel"
+    "last": "Büchel",
+    "sns": [
+      1899.5
+    ]
   },
   "378": {
     "name": "Oskar Bürgener",
@@ -812,7 +1067,10 @@
     "sources": {
       "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Oskar_B%C3%BCrgener"
-    }
+    },
+    "sns": [
+      1898.0
+    ]
   },
   "467": {
     "name": "Curt Bürger",
@@ -820,7 +1078,10 @@
       "1172": "Curt Bürger"
     },
     "first": "Curt",
-    "last": "Bürger"
+    "last": "Bürger",
+    "sns": [
+      1911.5
+    ]
   },
   "705": {
     "name": "Geo. Büttner",
@@ -829,7 +1090,10 @@
       "157": "[] Büttner"
     },
     "first": "Geo.",
-    "last": "Büttner"
+    "last": "Büttner",
+    "sns": [
+      1876.4
+    ]
   },
   "469": {
     "name": "Friedrich Büttner",
@@ -842,7 +1106,13 @@
       "342": "[Friedrich Büttner]"
     },
     "first": "Friedrich",
-    "last": "Büttner"
+    "last": "Büttner",
+    "sns": [
+      1880.5,
+      1881.0,
+      1881.5,
+      1882.0
+    ]
   },
   "1114": {
     "name": "Herbert G. Campbell",
@@ -850,7 +1120,10 @@
       "597": "Her[bert] G. Campbell"
     },
     "first": "Herbert G.",
-    "last": "Campbell"
+    "last": "Campbell",
+    "sns": [
+      1894.0
+    ]
   },
   "1113": {
     "name": "George Ashley. Campbell",
@@ -862,7 +1135,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/George_Ashley_Campbell",
       "wiki-en": "https://en.wikipedia.org/wiki/George_Ashley_Campbell"
-    }
+    },
+    "sns": [
+      1893.5
+    ]
   },
   "664": {
     "name": "Constantin Carathéodory",
@@ -877,7 +1153,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Constantin_Carath%C3%A9odory",
       "wiki-en": "https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory",
       "wiki-el": "https://el.wikipedia.org/wiki/Κωνσταντίνος Καραθεοδωρή"
-    }
+    },
+    "sns": [
+      1902.0,
+      1904.0
+    ]
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -890,7 +1170,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Pierre Cérésole",
       "wiki-en": "https://en.wikipedia.org/wiki/Pierre Cérésole",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Pierre_Ceresole"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "163": {
     "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
@@ -905,7 +1188,11 @@
     "sources": {
       "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
       "KT foll. 188": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B384%5D%7D"
-    }
+    },
+    "sns": [
+      1898.0,
+      1899.0
+    ]
   },
   "1045": {
     "name": "Grace Chisholm",
@@ -918,7 +1205,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Grace_Chisholm_Young",
       "wiki-en": "https://en.wikipedia.org/wiki/Grace_Chisholm_Young"
-    }
+    },
+    "sns": [
+      1893.5,
+      1894.0
+    ]
   },
   "603": {
     "name": "Adam Comstock",
@@ -927,7 +1218,11 @@
       "671": "AC"
     },
     "first": "Adam",
-    "last": "Comstock"
+    "last": "Comstock",
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "935": {
     "name": "Wilhelm[?] Cordes",
@@ -939,7 +1234,10 @@
     "origin": "Northeim, Hannover[?]",
     "sources": {
       "AV 1903.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "321": {
     "name": "Charles Emerson Curry",
@@ -947,7 +1245,10 @@
       "522": "Charles E[merson]. Curry"
     },
     "first": "Charles Emerson",
-    "last": "Curry"
+    "last": "Curry",
+    "sns": [
+      1890.0
+    ]
   },
   "617": {
     "name": "G. Dane",
@@ -955,7 +1256,10 @@
       "445": "G. Dane"
     },
     "first": "G.",
-    "last": "Dane"
+    "last": "Dane",
+    "sns": [
+      1886.0
+    ]
   },
   "618": {
     "name": "Paul Decoster",
@@ -968,7 +1272,10 @@
       "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Decoster"
     },
-    "origin": "Löwen, Belgien"
+    "origin": "Löwen, Belgien",
+    "sns": [
+      1909.5
+    ]
   },
   "900": {
     "name": "Max Dehn",
@@ -981,7 +1288,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max_Dehn",
       "wiki-en": "https://en.wikipedia.org/wiki/Max_Dehn"
-    }
+    },
+    "sns": [
+      1898.0,
+      1898.5
+    ]
   },
   "712": {
     "name": "Johannes Denker",
@@ -993,7 +1304,10 @@
     "origin": "Celle",
     "sources": {
       "AV 1902.0 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B43%5D%7D"
-    }
+    },
+    "sns": [
+      1902.0
+    ]
   },
   "1110": {
     "name": "Friedrich Dingeldey",
@@ -1005,7 +1319,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Dingeldey",
       "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Dingeldey"
-    }
+    },
+    "sns": [
+      1881.5
+    ]
   },
   "118": {
     "name": "Paul Domsch",
@@ -1015,7 +1332,12 @@
       "388": "P[aul]. Domsch"
     },
     "first": "Paul",
-    "last": "Domsch"
+    "last": "Domsch",
+    "sns": [
+      1882.5,
+      1883.0,
+      1883.5
+    ]
   },
   "894": {
     "name": "Heinrich Dreßler",
@@ -1024,7 +1346,11 @@
       "310": "H[einrich]. Dreßler"
     },
     "first": "Heinrich",
-    "last": "Dreßler"
+    "last": "Dreßler",
+    "sns": [
+      1881.0,
+      1881.5
+    ]
   },
   "988": {
     "name": "Hans Duncker",
@@ -1038,7 +1364,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hans Duncker (Ornithologe)",
       "wiki-en": "https://en.wikipedia.org/wiki/Hans_Julius_Duncker"
-    }
+    },
+    "sns": [
+      1904.0,
+      1905.0
+    ]
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -1046,7 +1376,10 @@
       "861": "W[acław Michał] Dziewulski."
     },
     "first": "Wacław Michał",
-    "last": "Dziewulski"
+    "last": "Dziewulski",
+    "sns": [
+      1902.5
+    ]
   },
   "57": {
     "name": "Henri Heinrich Dörrie",
@@ -1056,7 +1389,11 @@
       "636": "H[enri/einrich] Dörrie"
     },
     "first": "Henri",
-    "last": "Dörrie"
+    "last": "Dörrie",
+    "sns": [
+      1895.0,
+      1895.5
+    ]
   },
   "824": {
     "name": "E??Grassmann??",
@@ -1064,7 +1401,10 @@
       "517": "E?[?].Grassmann??"
     },
     "first": "",
-    "last": "E??Grassmann??"
+    "last": "E??Grassmann??",
+    "sns": [
+      1890.0
+    ]
   },
   "1119": {
     "name": "Joh? Ehlers",
@@ -1075,7 +1415,13 @@
       "564": "Jo[h|s][?] Ehlers?"
     },
     "first": "Joh?",
-    "last": "Ehlers"
+    "last": "Ehlers",
+    "sns": [
+      1893.0,
+      1894.0,
+      1894.5,
+      1895.0
+    ]
   },
   "47": {
     "name": "Paul Ehrenfest",
@@ -1088,7 +1434,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Ehrenfest",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
-    }
+    },
+    "sns": [
+      1901.5,
+      1902.5
+    ]
   },
   "503": {
     "name": "Friedrich Engel\\newline Dr. phil",
@@ -1097,7 +1447,10 @@
       "400": "F. Engel\\newline Dr. phil."
     },
     "first": "Friedrich",
-    "last": "Engel"
+    "last": "Engel",
+    "sns": [
+      1884.0
+    ]
   },
   "481": {
     "name": "Paul Epstein",
@@ -1112,7 +1465,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Epstein (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Epstein"
-    }
+    },
+    "sns": [
+      1892.0,
+      1892.5
+    ]
   },
   "419": {
     "name": "Christoph Ernst",
@@ -1122,7 +1479,10 @@
       "14": "Ch[ristoph]. Ernst"
     },
     "first": "Christoph",
-    "last": "Ernst"
+    "last": "Ernst",
+    "sns": [
+      1872.0
+    ]
   },
   "242": {
     "name": "Alfred Errara",
@@ -1132,7 +1492,10 @@
       "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Alfred",
-    "last": "Errara"
+    "last": "Errara",
+    "sns": [
+      1909.5
+    ]
   },
   "251": {
     "name": "Georg Faber",
@@ -1145,7 +1508,10 @@
     "sources": {
       "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Georg Faber (Mathematiker)"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "692": {
     "name": "H Fabusch?",
@@ -1153,7 +1519,10 @@
       "864": "H[]. Fabusch?"
     },
     "first": "H",
-    "last": "Fabusch?"
+    "last": "Fabusch?",
+    "sns": [
+      1903.0
+    ]
   },
   "1004": {
     "name": "Gino Fano",
@@ -1167,7 +1536,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Gino_Fano",
       "wiki-en": "https://en.wikipedia.org/wiki/Gino Fano",
       "wiki-it": "https://it.wikipedia.org/wiki/Gino Fano"
-    }
+    },
+    "sns": [
+      1894.0
+    ]
   },
   "675": {
     "name": "Ernst Fanta",
@@ -1179,7 +1551,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Fanta"
     },
-    "origin": "Wien"
+    "origin": "Wien",
+    "sns": [
+      1901.5
+    ]
   },
   "199": {
     "name": "Michał [Michael] Feldblum",
@@ -1192,7 +1567,10 @@
       "AV 1898.5 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7335"
     },
-    "origin": "Warschau, Polen"
+    "origin": "Warschau, Polen",
+    "sns": [
+      1898.5
+    ]
   },
   "81": {
     "name": "Ernst Fiedler",
@@ -1205,7 +1583,11 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Fiedler",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Ernst Fiedler"
-    }
+    },
+    "sns": [
+      1884.0,
+      1884.5
+    ]
   },
   "269": {
     "name": "Peter Field",
@@ -1214,7 +1596,10 @@
       "1078": "Peter Field"
     },
     "first": "Peter",
-    "last": "Field"
+    "last": "Field",
+    "sns": [
+      1908.5
+    ]
   },
   "909": {
     "name": "Gottlob Fischer",
@@ -1225,7 +1610,11 @@
       "156": "G[ottlob]. Fischer"
     },
     "first": "Gottlob",
-    "last": "Fischer"
+    "last": "Fischer",
+    "sns": [
+      1876.4,
+      1876.5
+    ]
   },
   "911": {
     "name": "Otto Fischer",
@@ -1237,7 +1626,12 @@
       "394": "Otto Fischer"
     },
     "first": "Otto",
-    "last": "Fischer"
+    "last": "Fischer",
+    "sns": [
+      1883.0,
+      1883.5,
+      1884.0
+    ]
   },
   "1192": {
     "name": "Heinrich Fitschen",
@@ -1249,7 +1643,10 @@
     "origin": "Worpswede, Hannover",
     "sources": {
       "AV 1912.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "533": {
     "name": "Hermann Fleischer",
@@ -1257,7 +1654,10 @@
       "795": "Hermann Fleischer"
     },
     "first": "Hermann",
-    "last": "Fleischer"
+    "last": "Fleischer",
+    "sns": [
+      1900.5
+    ]
   },
   "330": {
     "name": "Emil Foerster",
@@ -1269,7 +1669,10 @@
     "origin": "Wien",
     "sources": {
       "AV 1902.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B45%5D%7D"
-    }
+    },
+    "sns": [
+      1902.5
+    ]
   },
   "534": {
     "name": "Wilhelm Frahm",
@@ -1278,7 +1681,10 @@
       "99": "W[ilhelm] Frahm"
     },
     "first": "Wilhelm",
-    "last": "Frahm"
+    "last": "Frahm",
+    "sns": [
+      1875.0
+    ]
   },
   "770": {
     "name": "W. Freise",
@@ -1286,7 +1692,10 @@
       "462": "W. Freise"
     },
     "first": "W.",
-    "last": "Freise"
+    "last": "Freise",
+    "sns": [
+      1887.0
+    ]
   },
   "245": {
     "name": "Erwin Freundlich",
@@ -1302,7 +1711,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Erwin_Freundlich",
       "wiki-en": "https://en.wikipedia.org/wiki/Erwin Finlay-Freundlich",
       "wiki-cs": "https://cs.wikipedia.org/wiki/Erwin Finlay-Freundlich"
-    }
+    },
+    "sns": [
+      1909.5
+    ]
   },
   "374": {
     "name": "Hermann Fricke",
@@ -1317,7 +1729,10 @@
       "KT foll. 185": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B378%5D%7D",
       "KT foll. 188": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B384%5D%7D"
     },
-    "origin": "Goslar"
+    "origin": "Goslar",
+    "sns": [
+      1898.0
+    ]
   },
   "1080": {
     "name": "Robert Fricke",
@@ -1331,7 +1746,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Robert Fricke (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Robert_Fricke"
-    }
+    },
+    "sns": [
+      1883.5,
+      1884.0,
+      1884.5
+    ]
   },
   "380": {
     "name": "Georg Friedrich",
@@ -1342,7 +1762,13 @@
       "407": "G[eorg]. Friedrich"
     },
     "first": "Georg",
-    "last": "Friedrich"
+    "last": "Friedrich",
+    "sns": [
+      1883.0,
+      1883.5,
+      1884.0,
+      1884.5
+    ]
   },
   "548": {
     "name": "Theophil Friesendorff",
@@ -1352,7 +1778,11 @@
       "627": "Th[eophil]. Friesendorff"
     },
     "first": "Theophil",
-    "last": "Friesendorff"
+    "last": "Friesendorff",
+    "sns": [
+      1894.5,
+      1895.0
+    ]
   },
   "527": {
     "name": "R? Frobese?",
@@ -1360,7 +1790,10 @@
       "975": "R[?] Frobese?"
     },
     "first": "R?",
-    "last": "Frobese?"
+    "last": "Frobese?",
+    "sns": [
+      1905.0
+    ]
   },
   "816": {
     "name": "Rudolf Fueter",
@@ -1373,7 +1806,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Rudolf_Fueter",
       "wiki-en": "https://en.wikipedia.org/wiki/Rudolf_Fueter",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter"
-    }
+    },
+    "sns": [
+      1902.0
+    ]
   },
   "853": {
     "name": "Georg Fuhrmann",
@@ -1381,7 +1817,10 @@
       "1048": "G[eorg] Fuhrmann"
     },
     "first": "Georg",
-    "last": "Fuhrmann"
+    "last": "Fuhrmann",
+    "sns": [
+      1907.5
+    ]
   },
   "66": {
     "name": "Otto Fulst",
@@ -1392,7 +1831,10 @@
     "last": "Fulst",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto_Fulst"
-    }
+    },
+    "sns": [
+      1887.0
+    ]
   },
   "626": {
     "name": "Paul Funk",
@@ -1405,7 +1847,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Funk (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Funk"
     },
-    "origin": "Wien"
+    "origin": "Wien",
+    "sns": [
+      1911.5
+    ]
   },
   "342": {
     "name": "Philipp Furtwängler",
@@ -1422,7 +1867,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Philipp Furtwängler (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Philipp_Furtw%C3%A4ngler"
-    }
+    },
+    "sns": [
+      1892.0,
+      1892.5,
+      1893.5
+    ]
   },
   "312": {
     "name": "Ludwig Föppel",
@@ -1434,7 +1884,10 @@
       "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppel"
     },
     "first": "Ludwig",
-    "last": "Föppel"
+    "last": "Föppel",
+    "sns": [
+      1908.5
+    ]
   },
   "1159": {
     "name": "Erwin Geck",
@@ -1443,7 +1896,11 @@
       "882": "E[rwin] Geck"
     },
     "first": "Erwin",
-    "last": "Geck"
+    "last": "Geck",
+    "sns": [
+      1902.5,
+      1903.0
+    ]
   },
   "753": {
     "name": "Alfred Gehring",
@@ -1456,7 +1913,10 @@
     "sources": {
       "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Gehring"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "1182": {
     "name": "Ludwig Carl Geiger",
@@ -1469,7 +1929,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Carl_Geiger",
       "wiki-ru": "https://ru.wikipedia.org/wiki/Гейгер, Людвиг Карл"
-    }
+    },
+    "sns": [
+      1908.0
+    ]
   },
   "1026": {
     "name": "Brunel Georges",
@@ -1479,7 +1942,11 @@
       "291": "Brunel G[eorges]"
     },
     "first": "Brunel",
-    "last": "Georges"
+    "last": "Georges",
+    "sns": [
+      1880.5,
+      1881.0
+    ]
   },
   "950": {
     "name": "Dr. Francesco Gerbaldi ",
@@ -1492,7 +1959,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Francesco_Gerbaldi",
       "wiki-en": "https://en.wikipedia.org/wiki/Francesco Gerbaldi",
       "wiki-it": "https://it.wikipedia.org/wiki/Francesco Gerbaldi"
-    }
+    },
+    "sns": [
+      1883.0
+    ]
   },
   "718": {
     "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
@@ -1504,7 +1974,10 @@
     "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
       "TO S. 396": ""
-    }
+    },
+    "sns": [
+      1899.0
+    ]
   },
   "1100": {
     "name": "Gustav Gersting",
@@ -1516,7 +1989,10 @@
     "origin": "Gr. Lengden, Hannover",
     "sources": {
       "AV 1904.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "845": {
     "name": "Friedrich Giebel",
@@ -1526,7 +2002,12 @@
       "907": "Fr[iedrich] Giebel"
     },
     "first": "Friedrich",
-    "last": "Giebel"
+    "last": "Giebel",
+    "sns": [
+      1901.0,
+      1902.5,
+      1903.5
+    ]
   },
   "238": {
     "name": "Joseph Gierster",
@@ -1545,7 +2026,15 @@
       "237": "J[oseph] Gierster"
     },
     "first": "Joseph",
-    "last": "Gierster"
+    "last": "Gierster",
+    "sns": [
+      1876.9,
+      1877.4,
+      1877.5,
+      1878.0,
+      1878.5,
+      1879.0
+    ]
   },
   "5": {
     "name": "Wilhelm Giesing",
@@ -1553,7 +2042,10 @@
       "837": "Wilh[elm] Giesing"
     },
     "first": "Wilhelm",
-    "last": "Giesing"
+    "last": "Giesing",
+    "sns": [
+      1902.0
+    ]
   },
   "365": {
     "name": "Theodor Glauner",
@@ -1561,7 +2053,10 @@
       "470": "Th[eodor]. Glauner"
     },
     "first": "Theodor",
-    "last": "Glauner"
+    "last": "Glauner",
+    "sns": [
+      1887.0
+    ]
   },
   "1123": {
     "name": "Wilhelm Godt",
@@ -1570,7 +2065,10 @@
       "16": "W[ilhelm]. Godt"
     },
     "first": "Wilhelm",
-    "last": "Godt"
+    "last": "Godt",
+    "sns": [
+      1872.0
+    ]
   },
   "161": {
     "name": "Meier[?] Goldman?",
@@ -1582,7 +2080,10 @@
     "origin": "Lodz, Rußland[?]",
     "sources": {
       "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
-    }
+    },
+    "sns": [
+      1906.0
+    ]
   },
   "634": {
     "name": "Paul Gordan",
@@ -1594,7 +2095,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul_Gordan",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Gordan"
-    }
+    },
+    "sns": [
+      1874.5
+    ]
   },
   "148": {
     "name": "Adolf Gottschalk",
@@ -1602,7 +2106,10 @@
       "471": "Adolf Gottschalk"
     },
     "first": "Adolf",
-    "last": "Gottschalk"
+    "last": "Gottschalk",
+    "sns": [
+      1887.0
+    ]
   },
   "829": {
     "name": "Franz Graf",
@@ -1617,7 +2124,11 @@
     "sources": {
       "AV 1906.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
-    "origin": "Prag"
+    "origin": "Prag",
+    "sns": [
+      1906.0,
+      1906.5
+    ]
   },
   "262": {
     "name": "Richard Greiner\\newline st. math.?",
@@ -1625,7 +2136,10 @@
       "720": "Richard Greiner\\newline st. math.?"
     },
     "first": "Richard",
-    "last": "Greiner"
+    "last": "Greiner",
+    "sns": [
+      1898.0
+    ]
   },
   "224": {
     "name": "Walther Greve",
@@ -1634,7 +2148,11 @@
       "802": "Walther Greve"
     },
     "first": "Walther",
-    "last": "Greve"
+    "last": "Greve",
+    "sns": [
+      1899.5,
+      1900.5
+    ]
   },
   "130": {
     "name": "Julius[?] Greßler",
@@ -1646,7 +2164,10 @@
     "sources": {
       "P 1899.5, S. 441": "",
       "AV 1899.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "204": {
     "name": "August Grossmann",
@@ -1658,7 +2179,10 @@
     "origin": "Hamburg",
     "sources": {
       "AV 1904.0 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "957": {
     "name": "Joseph Grünwald",
@@ -1667,11 +2191,14 @@
     },
     "first": "Joseph",
     "last": "Grünwald",
-    "sources":{
+    "sources": {
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64803",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/josef_gruenwald.html"
     },
-    "origin": "Prag"
+    "origin": "Prag",
+    "sns": [
+      1899.5
+    ]
   },
   "127": {
     "name": "Alf Guldberg",
@@ -1683,7 +2210,10 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Alf Victor Guldberg",
       "wiki-no": "https://no.wikipedia.org/wiki/Alf_Victor_Guldberg"
-    }
+    },
+    "sns": [
+      1888.5
+    ]
   },
   "480": {
     "name": "D\\textsuperscript{r}  Zemplén Győző",
@@ -1691,7 +2221,10 @@
       "939": "D\\textsuperscript{r}  Zemplén Győző"
     },
     "first": "Zemplén",
-    "last": "Győző"
+    "last": "Győző",
+    "sns": [
+      1904.5
+    ]
   },
   "258": {
     "name": "Siegmund Günther",
@@ -1708,7 +2241,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Siegmund Günther",
       "wiki-en": "https://en.wikipedia.org/wiki/Siegmund_G%C3%BCnther"
-    }
+    },
+    "sns": [
+      1873.0,
+      1873.5
+    ]
   },
   "1165": {
     "name": "Alfréd Haar",
@@ -1725,7 +2262,12 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Alfr%C3%A9d_Haar",
       "wiki-en": "https://en.wikipedia.org/wiki/Alfr%C3%A9d_Haar",
       "wiki-hu": "https://hu.wikipedia.org/wiki/Haar Alfréd"
-    }
+    },
+    "sns": [
+      1906.0,
+      1906.5,
+      1909.0
+    ]
   },
   "15": {
     "name": "Arthur Erich Haas",
@@ -1739,7 +2281,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arthur_Erich_Haas",
       "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas"
-    }
+    },
+    "sns": [
+      1904.5,
+      1905.0
+    ]
   },
   "124": {
     "name": "Dr. Hans Hahn",
@@ -1751,7 +2297,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hans_Hahn",
       "wiki-en": "https://en.wikipedia.org/wiki/Hans Hahn (mathematician)"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "619": {
     "name": "Georg Hamel",
@@ -1765,7 +2314,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Hamel",
       "wiki-en": "https://en.wikipedia.org/wiki/Georg_Hamel"
     },
-    "origin": "Düren"
+    "origin": "Düren",
+    "sns": [
+      1900.0,
+      1900.5
+    ]
   },
   "344": {
     "name": "Fr? Hanker?",
@@ -1773,7 +2326,10 @@
       "966": "Fr[?] Hanker?"
     },
     "first": "Fr?",
-    "last": "Hanker?"
+    "last": "Hanker?",
+    "sns": [
+      1905.0
+    ]
   },
   "525": {
     "name": "Rudolph Hansen",
@@ -1786,7 +2342,11 @@
     "sources": {
       "AV 1899.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "AV 1901.0 S.46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
-    }
+    },
+    "sns": [
+      1899.5,
+      1901.0
+    ]
   },
   "360": {
     "name": "Hans Happel",
@@ -1795,7 +2355,11 @@
       "753": "Hans Happel"
     },
     "first": "Hans",
-    "last": "Happel"
+    "last": "Happel",
+    "sns": [
+      1898.0,
+      1899.0
+    ]
   },
   "1015": {
     "name": "Axel Harnack",
@@ -1820,7 +2384,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Axel Harnack (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Carl Gustav Axel Harnack"
-    }
+    },
+    "sns": [
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0
+    ]
   },
   "654": {
     "name": "Roderich Hartenstein.",
@@ -1832,7 +2402,11 @@
     "last": "Hartenstein",
     "sources": {
       "AV 1904.5 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
-    }
+    },
+    "sns": [
+      1904.5,
+      1905.0
+    ]
   },
   "928": {
     "name": "Chr Hartmann",
@@ -1840,7 +2414,10 @@
       "154": "Chr[]. Hartmann"
     },
     "first": "Chr",
-    "last": "Hartmann"
+    "last": "Hartmann",
+    "sns": [
+      1876.4
+    ]
   },
   "372": {
     "name": "Balthasar Hartmann",
@@ -1856,7 +2433,11 @@
       "AV 1900.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "KT foll. 191": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B390%5D%7D",
       "KT foll. 192": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B392%5D%7D"
-    }
+    },
+    "sns": [
+      1899.5,
+      1900.0
+    ]
   },
   "892": {
     "name": "Julius Hartung",
@@ -1868,7 +2449,10 @@
     "origin": "Niedernstöcken, Hannover",
     "sources": {
       "AV 1902.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
-    }
+    },
+    "sns": [
+      1902.5
+    ]
   },
   "126": {
     "name": "Mellen Woodman Haskell",
@@ -1883,7 +2467,12 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Mellen Woodman Haskell",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Mellen_Woodman_Haskell"
-    }
+    },
+    "sns": [
+      1886.0,
+      1886.5,
+      1887.4
+    ]
   },
   "729": {
     "name": "Karl Hass",
@@ -1891,7 +2480,10 @@
       "1176": "Karl Hass"
     },
     "first": "Karl",
-    "last": "Hass"
+    "last": "Hass",
+    "sns": [
+      1911.5
+    ]
   },
   "323": {
     "name": "Robert Haussner",
@@ -1899,7 +2491,10 @@
       "452": "Robert Haussner"
     },
     "first": "Robert",
-    "last": "Haussner"
+    "last": "Haussner",
+    "sns": [
+      1886.0
+    ]
   },
   "456": {
     "name": "Friedrich Hayn",
@@ -1911,7 +2506,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Hayn",
       "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Hayn"
-    }
+    },
+    "sns": [
+      1887.0
+    ]
   },
   "413": {
     "name": "Wilhelm?. Hecht?",
@@ -1920,7 +2518,10 @@
       "158": "Wilh[elm]? Hecht?"
     },
     "first": "Wilhelm?.",
-    "last": "Hecht?"
+    "last": "Hecht?",
+    "sns": [
+      1876.4
+    ]
   },
   "499": {
     "name": "Poul Heegaard",
@@ -1933,7 +2534,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Poul_Heegaard",
       "wiki-en": "https://en.wikipedia.org/wiki/Poul_Heegaard",
       "wiki-da": "https://da.wikipedia.org/wiki/Poul Heegaard"
-    }
+    },
+    "sns": [
+      1894.0
+    ]
   },
   "314": {
     "name": "Fritz Heiligenpahl",
@@ -1941,7 +2545,10 @@
       "1102": "F[ritz]. Heiligenpahl"
     },
     "first": "Fritz",
-    "last": "Heiligenpahl"
+    "last": "Heiligenpahl",
+    "sns": [
+      1911.0
+    ]
   },
   "893": {
     "name": "Käthe Heinemann",
@@ -1951,7 +2558,11 @@
       "1174": "Käthe Heinemann"
     },
     "first": "Käthe",
-    "last": "Heinemann"
+    "last": "Heinemann",
+    "sns": [
+      1910.5,
+      1911.5
+    ]
   },
   "290": {
     "name": "Ernst Hellinger",
@@ -1966,7 +2577,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Hellinger",
       "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Hellinger"
-    }
+    },
+    "sns": [
+      1904.5,
+      1906.5,
+      1907.5
+    ]
   },
   "622": {
     "name": "Theodor Henninger",
@@ -1978,7 +2594,10 @@
     "origin": "Neuwied, Rheinprovinz",
     "sources": {
       "AV 1912.0 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B60%5D%7D"
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "545": {
     "name": "Dr. Gustav Herglotz",
@@ -1990,7 +2609,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gustav_Herglotz",
       "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -2000,7 +2622,12 @@
       "327": "Oskar Herrmann"
     },
     "first": "Oskar",
-    "last": "Herrmann"
+    "last": "Herrmann",
+    "sns": [
+      1881.0,
+      1881.5,
+      1882.0
+    ]
   },
   "514": {
     "name": "Theodor[?] Herrmann",
@@ -2013,7 +2640,10 @@
     "origin": "Eberbach?",
     "sources": {
       "KT foll. 142": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B292%5D%7D"
-    }
+    },
+    "sns": [
+      1885.5
+    ]
   },
   "620": {
     "name": "Robert Herrmann",
@@ -2024,7 +2654,12 @@
       "238": "Robert Herrmann"
     },
     "first": "Robert",
-    "last": "Herrmann"
+    "last": "Herrmann",
+    "sns": [
+      1878.4,
+      1878.5,
+      1879.0
+    ]
   },
   "45": {
     "name": "Wilhelm Hess",
@@ -2034,7 +2669,12 @@
       "242": "Wilhelm Hess"
     },
     "first": "Wilhelm",
-    "last": "Hess"
+    "last": "Hess",
+    "sns": [
+      1878.4,
+      1878.5,
+      1879.0
+    ]
   },
   "594": {
     "name": "Karl Hiemenz",
@@ -2043,7 +2683,11 @@
       "1044": "[Karl] Hiemenz"
     },
     "first": "Karl",
-    "last": "Hiemenz"
+    "last": "Hiemenz",
+    "sns": [
+      1905.0,
+      1907.5
+    ]
   },
   "878": {
     "name": "Emil Hilb",
@@ -2055,7 +2699,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Emil_Hilb",
       "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "142": {
     "name": "David Hilbert",
@@ -2069,7 +2716,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/David_Hilbert",
       "wiki-en": "https://en.wikipedia.org/wiki/David_Hilbert"
-    }
+    },
+    "sns": [
+      1885.5,
+      1906.5
+    ]
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -2077,7 +2728,10 @@
       "432": "Rudolf Hildebrand"
     },
     "first": "Rudolf",
-    "last": "Hildebrand"
+    "last": "Hildebrand",
+    "sns": [
+      1885.5
+    ]
   },
   "442": {
     "name": "Wilhelm Hille",
@@ -2085,7 +2739,10 @@
       "531": "Wilh[elm] Hille"
     },
     "first": "Wilhelm",
-    "last": "Hille"
+    "last": "Hille",
+    "sns": [
+      1892.0
+    ]
   },
   "903": {
     "name": "Alexander Leonard Hjelmman",
@@ -2093,7 +2750,10 @@
       "698": "A[lexander] L[eonard] Hjelmman"
     },
     "first": "Alexander Leonard",
-    "last": "Hjelmman"
+    "last": "Hjelmman",
+    "sns": [
+      1897.5
+    ]
   },
   "874": {
     "name": "Heinrich Hochschild.",
@@ -2101,7 +2761,10 @@
       "1057": "H[einrich]. Hochschild."
     },
     "first": "Heinrich",
-    "last": "Hochschild"
+    "last": "Hochschild",
+    "sns": [
+      1908.0
+    ]
   },
   "510": {
     "name": "Gerhard Hoffmann",
@@ -2117,7 +2780,11 @@
       "AV 1902.5 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B49%5D%7D",
       "KT foll. 207": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B422%5D%7D",
       "KT foll. 211": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B430%5D%7D"
-    }
+    },
+    "sns": [
+      1902.0,
+      1902.5
+    ]
   },
   "1025": {
     "name": "Elling Bolt Holst",
@@ -2137,7 +2804,11 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Elling Holst",
       "wiki-no": "https://no.wikipedia.org/wiki/Elling Holst",
       "wiki-da": "https://da.wikipedia.org/wiki/Elling Holst"
-    }
+    },
+    "sns": [
+      1874.5,
+      1875.0
+    ]
   },
   "888": {
     "name": "Paul Holtzhüter",
@@ -2149,7 +2820,10 @@
     "origin": "Charlottenburg [Berlin]",
     "sources": {
       "AV 1904.0 S.52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "779": {
     "name": "Paul Hommel",
@@ -2157,7 +2831,10 @@
       "1169": "Paul Hommel"
     },
     "first": "Paul",
-    "last": "Hommel"
+    "last": "Hommel",
+    "sns": [
+      1911.5
+    ]
   },
   "1028": {
     "name": "Stanko Hondl",
@@ -2172,7 +2849,10 @@
       "wiki-sh": "https://sh.wikipedia.org/wiki/Stanko Hondl",
       "wiki-hr": "https://hr.wikipedia.org/wiki/Stanko_Hondl",
       "wiki-hu": "https://hu.wikipedia.org/wiki/Stanko Hondl"
-    }
+    },
+    "sns": [
+      1900.0
+    ]
   },
   "141": {
     "name": "Heinrich Hoppe",
@@ -2186,7 +2866,11 @@
     "origin": "Chemnitz",
     "sources": {
       "TO 2021 S. 231": ""
-    }
+    },
+    "sns": [
+      1881.5,
+      1882.0
+    ]
   },
   "444": {
     "name": "Gustav Horn",
@@ -2200,7 +2884,11 @@
       "AV 1897.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "AV 1898.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
     },
-    "origin": "Wiesbaden"
+    "origin": "Wiesbaden",
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "1174": {
     "name": "Hermann Hort",
@@ -2209,7 +2897,10 @@
       "951": "Hermann Hort."
     },
     "first": "Hermann",
-    "last": "Hort"
+    "last": "Hort",
+    "sns": [
+      1904.5
+    ]
   },
   "936": {
     "name": "Wilhelm Hort",
@@ -2222,7 +2913,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Wilhelm Hort",
       "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Hort"
-    }
+    },
+    "sns": [
+      1902.5,
+      1903.0
+    ]
   },
   "536": {
     "name": "G? Huber?",
@@ -2230,7 +2925,10 @@
       "244": "G[?]. Huber?"
     },
     "first": "G?",
-    "last": "Huber?"
+    "last": "Huber?",
+    "sns": [
+      1879.0
+    ]
   },
   "684": {
     "name": "Lorrain Sherman Hulburt",
@@ -2238,7 +2936,10 @@
       "521": "L[orrain] S[herman] Hulburt"
     },
     "first": "Lorrain Sherman",
-    "last": "Hulburt"
+    "last": "Hulburt",
+    "sns": [
+      1890.0
+    ]
   },
   "358": {
     "name": "A? Humbert?",
@@ -2246,7 +2947,10 @@
       "19": "A[?]. Humbert[?]"
     },
     "first": "A?",
-    "last": "Humbert?"
+    "last": "Humbert?",
+    "sns": [
+      1872.0
+    ]
   },
   "1041": {
     "name": "Adolf Hurwitz",
@@ -2267,7 +2971,14 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Adolf_Hurwitz",
       "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Hurwitz"
-    }
+    },
+    "sns": [
+      1877.4,
+      1879.0,
+      1879.5,
+      1880.5,
+      1881.0
+    ]
   },
   "486": {
     "name": "Ludwig Hänert",
@@ -2275,7 +2986,10 @@
       "953": "Ludw[ig]. Hänert"
     },
     "first": "Ludwig",
-    "last": "Hänert"
+    "last": "Hänert",
+    "sns": [
+      1904.5
+    ]
   },
   "969": {
     "name": "Walter Härter",
@@ -2288,7 +3002,10 @@
     "sources": {
       "KT foll. 284": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B576%5D%7D",
       "AV 1910.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"
-    }
+    },
+    "sns": [
+      1910.5
+    ]
   },
   "1024": {
     "name": "Henrik Edvard Johannes (Heikki) Hårdh",
@@ -2296,7 +3013,10 @@
       "1200": "H[enrik]. Hårdh Lektor in Kuopio (Finnland)."
     },
     "first": "Henrik Edvard Johannes (Heikki)",
-    "last": "Hårdh"
+    "last": "Hårdh",
+    "sns": [
+      1912.0
+    ]
   },
   "455": {
     "name": "Georg Höckner",
@@ -2304,7 +3024,10 @@
       "427": "Georg Höckner"
     },
     "first": "Georg",
-    "last": "Höckner"
+    "last": "Höckner",
+    "sns": [
+      1885.5
+    ]
   },
   "64": {
     "name": "Dr. Otto Hölder",
@@ -2316,7 +3039,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto_H%C3%B6lder",
       "wiki-en": "https://en.wikipedia.org/wiki/Otto_H%C3%B6lder"
-    }
+    },
+    "sns": [
+      1884.0
+    ]
   },
   "402": {
     "name": "Augustin Hölscher",
@@ -2329,7 +3055,10 @@
     "sources": {
       "AV 1892.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "westeroeder-buerger": "https://westerode.de/unserdorf/westeroeder-buerger/"
-    }
+    },
+    "sns": [
+      1892.0
+    ]
   },
   "300": {
     "name": "Wilhelm Ihlenburg",
@@ -2339,7 +3068,11 @@
       "1023": "Wilhelm Ihlenburg"
     },
     "first": "Wilhelm",
-    "last": "Ihlenburg"
+    "last": "Ihlenburg",
+    "sns": [
+      1906.0,
+      1906.5
+    ]
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -2351,7 +3084,14 @@
       "787": "C[harles] Jaccottet"
     },
     "first": "Charles",
-    "last": "Jaccottet"
+    "last": "Jaccottet",
+    "sns": [
+      1893.5,
+      1894.0,
+      1894.5,
+      1899.5,
+      1900.0
+    ]
   },
   "1044": {
     "name": "Karl Janke",
@@ -2363,7 +3103,10 @@
     "origin": "Schwerin, Mecklenburg",
     "sources": {
       "AV 1908.5 S.57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
-    }
+    },
+    "sns": [
+      1908.5
+    ]
   },
   "963": {
     "name": "H??. Johannes?",
@@ -2371,7 +3114,10 @@
       "814": "H[?]?. Johannes?"
     },
     "first": "H??.",
-    "last": "Johannes?"
+    "last": "Johannes?",
+    "sns": [
+      1901.0
+    ]
   },
   "719": {
     "name": "Ada Maria Jane Elizabeth Johnson",
@@ -2384,7 +3130,12 @@
     "last": "Johnson",
     "sources": {
       "Tobies_Klein_Women": "https://renate.tobies.org/fileadmin/2022/2020_Tobies_Klein_Women_in%20his%20courses.pdf"
-    }
+    },
+    "sns": [
+      1895.0,
+      1895.5,
+      1896.0
+    ]
   },
   "164": {
     "name": "Hans Jordan",
@@ -2397,7 +3148,11 @@
     "sources": {
       "AV 1900.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
-    "origin": "Königsberg"
+    "origin": "Königsberg",
+    "sns": [
+      1898.5,
+      1900.0
+    ]
   },
   "137": {
     "name": "Hans Josephson",
@@ -2406,7 +3161,11 @@
       "998": "Hans Josephson."
     },
     "first": "Hans",
-    "last": "Josephson"
+    "last": "Josephson",
+    "sns": [
+      1905.0,
+      1906.0
+    ]
   },
   "38": {
     "name": "Paul Jungmann",
@@ -2418,7 +3177,10 @@
     "origin": "Kassel, Hessen-Nassau",
     "sources": {
       "AV 1903.5 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B50%5D%7D"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "493": {
     "name": "Manfred Jäger.",
@@ -2426,7 +3188,10 @@
       "1041": "M[anfred] Jäger."
     },
     "first": "Manfred",
-    "last": "Jäger"
+    "last": "Jäger",
+    "sns": [
+      1907.5
+    ]
   },
   "562": {
     "name": "Paul Kaltenbach",
@@ -2438,7 +3203,10 @@
     "origin": "Dessau",
     "sources": {
       "AV 1900.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "666": {
     "name": "Heinrich Karstens",
@@ -2446,7 +3214,10 @@
       "711": "H[einrich] Karstens"
     },
     "first": "Heinrich",
-    "last": "Karstens"
+    "last": "Karstens",
+    "sns": [
+      1898.0
+    ]
   },
   "990": {
     "name": "Edward Kasner",
@@ -2460,7 +3231,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Edward_Kasner",
       "wiki-en": "https://en.wikipedia.org/wiki/Edward Kasner"
     },
-    "origin": "New York, USA"
+    "origin": "New York, USA",
+    "sns": [
+      1899.5
+    ]
   },
   "629": {
     "name": "Otto Kindling",
@@ -2472,7 +3246,10 @@
     "origin": "Niedernstöcken",
     "sources": {
       "AV 1900.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "1199": {
     "name": "Paul Kirchberger",
@@ -2484,7 +3261,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Kirchberger",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Paul_Kirchberger"
-    }
+    },
+    "sns": [
+      1900.0
+    ]
   },
   "462": {
     "name": "Hugo Kistler",
@@ -2492,7 +3272,10 @@
       "854": "H[ugo] Kistler"
     },
     "first": "Hugo",
-    "last": "Kistler"
+    "last": "Kistler",
+    "sns": [
+      1902.5
+    ]
   },
   "504": {
     "name": "Walther Klebe",
@@ -2504,7 +3287,10 @@
     "origin": "Garssen, Hannover",
     "sources": {
       "AV 1910.5 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "558": {
     "name": "Elisabeth Klein",
@@ -2512,7 +3298,10 @@
       "1162": "Elisabeth Klein"
     },
     "first": "Elisabeth",
-    "last": "Klein"
+    "last": "Klein",
+    "sns": [
+      1911.5
+    ]
   },
   "940": {
     "name": "Felix Klein",
@@ -2658,7 +3447,47 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Felix_Klein",
       "wiki-en": "https://en.wikipedia.org/wiki/Felix_Klein"
-    }
+    },
+    "sns": [
+      1873.0,
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0,
+      1875.5,
+      1878.0,
+      1879.0,
+      1879.5,
+      1881.0,
+      1881.5,
+      1882.0,
+      1882.5,
+      1884.5,
+      1885.0,
+      1886.0,
+      1888.5,
+      1892.5,
+      1893.5,
+      1897.5,
+      1898.0,
+      1900.0,
+      1903.0,
+      1903.5,
+      1904.0,
+      1904.5,
+      1905.0,
+      1905.5,
+      1906.0,
+      1906.5,
+      1907.0,
+      1907.5,
+      1908.0,
+      1908.5,
+      1909.0,
+      1909.5,
+      1910.5,
+      1911.5
+    ]
   },
   "191": {
     "name": "Felix Klitzkowski",
@@ -2670,7 +3499,10 @@
     "last": "Klitzkowski",
     "sources": {
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162"
-    }
+    },
+    "sns": [
+      1887.4
+    ]
   },
   "97": {
     "name": "Johannes Klien",
@@ -2682,7 +3514,10 @@
     "origin": "Dresden, Sachsen",
     "sources": {
       "AV 1904.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "749": {
     "name": "Karl Knoke",
@@ -2690,7 +3525,10 @@
       "1146": "[Karl] Knoke"
     },
     "first": "Karl",
-    "last": "Knoke"
+    "last": "Knoke",
+    "sns": [
+      1910.5
+    ]
   },
   "412": {
     "name": "Hugo Koch",
@@ -2702,7 +3540,10 @@
     "origin": "Hamburg",
     "sources": {
       "AV 1904.5 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
-    }
+    },
+    "sns": [
+      1907.5
+    ]
   },
   "869": {
     "name": "Wilhelm Koch",
@@ -2714,7 +3555,10 @@
     "origin": "Hamburg",
     "sources": {
       "AV 1904.5 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "7": {
     "name": "Dr. Paul Koebe",
@@ -2727,7 +3571,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Koebe",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul Koebe"
-    }
+    },
+    "sns": [
+      1906.5
+    ]
   },
   "106": {
     "name": "Julius Kollert",
@@ -2735,7 +3582,10 @@
       "309": "J[ulius]. Kollert"
     },
     "first": "Julius",
-    "last": "Kollert"
+    "last": "Kollert",
+    "sns": [
+      1881.5
+    ]
   },
   "416": {
     "name": "Albert Kraft",
@@ -2743,7 +3593,10 @@
       "809": "Albert Kraft"
     },
     "first": "Albert",
-    "last": "Kraft"
+    "last": "Kraft",
+    "sns": [
+      1901.0
+    ]
   },
   "53": {
     "name": "Hans Kramer",
@@ -2756,7 +3609,10 @@
     "sources": {
       "KT foll. 284": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B576%5D%7D",
       "AV 1910.5 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B63%5D%7D"
-    }
+    },
+    "sns": [
+      1910.5
+    ]
   },
   "55": {
     "name": "Ludvík [Ludwig] Kraus",
@@ -2774,7 +3630,12 @@
     "sources": {
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/ludvik_kraus.html"
     },
-    "origin": "Turnov [Turnau], Tschechien"
+    "origin": "Turnov [Turnau], Tschechien",
+    "sns": [
+      1878.5,
+      1879.0,
+      1879.5
+    ]
   },
   "1156": {
     "name": "Franz Krauß",
@@ -2782,7 +3643,10 @@
       "1171": "Franz Krauß"
     },
     "first": "Franz",
-    "last": "Krauß"
+    "last": "Krauß",
+    "sns": [
+      1911.5
+    ]
   },
   "1162": {
     "name": "Adolf Krazer",
@@ -2800,7 +3664,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Adolf_Krazer_(Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Krazer"
-    }
+    },
+    "sns": [
+      1882.0,
+      1882.5
+    ]
   },
   "978": {
     "name": "Xenia Kucharsky?",
@@ -2808,7 +3676,10 @@
       "1199": "Xenia Kucharsky?"
     },
     "first": "Xenia",
-    "last": "Kucharsky?"
+    "last": "Kucharsky?",
+    "sns": [
+      1912.0
+    ]
   },
   "676": {
     "name": "Theodor Kuen",
@@ -2819,7 +3690,11 @@
       "194": "Theodor Kuen"
     },
     "first": "Theodor",
-    "last": "Kuen"
+    "last": "Kuen",
+    "sns": [
+      1877.9,
+      1878.4
+    ]
   },
   "546": {
     "name": "Friedrich Kuhse",
@@ -2829,7 +3704,11 @@
       "892": "Fr[iedrich] Kuhse, [Johannes] Wiechmann"
     },
     "first": "Friedrich",
-    "last": "Kuhse"
+    "last": "Kuhse",
+    "sns": [
+      1903.0,
+      1903.5
+    ]
   },
   "751": {
     "name": "Stefan Kwietniewski.",
@@ -2840,7 +3719,10 @@
     "last": "Kwietniewski",
     "sources": {
       "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan_Kwietniewski"
-    }
+    },
+    "sns": [
+      1896.0
+    ]
   },
   "580": {
     "name": "Szánthó Kálmán??",
@@ -2848,7 +3730,10 @@
       "1201": "Szánthó Kálmán[?]?"
     },
     "first": "Szánthó",
-    "last": "Kálmán??"
+    "last": "Kálmán??",
+    "sns": [
+      1912.0
+    ]
   },
   "253": {
     "name": "Dénes König",
@@ -2860,7 +3745,10 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Dénes Kőnig",
       "wiki-hu": "https://hu.wikipedia.org/wiki/K%C5%91nig_D%C3%A9nes"
-    }
+    },
+    "sns": [
+      1906.5
+    ]
   },
   "917": {
     "name": "Robert König",
@@ -2872,7 +3760,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Robert König (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Robert_K%C3%B6nig"
-    }
+    },
+    "sns": [
+      1906.5
+    ]
   },
   "1062": {
     "name": "Karl Körner",
@@ -2883,7 +3774,10 @@
       "1153": "K[arl] Körner"
     },
     "first": "Karl",
-    "last": "Körner"
+    "last": "Körner",
+    "sns": [
+      1910.5
+    ]
   },
   "861": {
     "name": "E? Köster?",
@@ -2891,7 +3785,10 @@
       "1079": "E[?] Köster?"
     },
     "first": "E?",
-    "last": "Köster?"
+    "last": "Köster?",
+    "sns": [
+      1908.5
+    ]
   },
   "236": {
     "name": "W? Küffner",
@@ -2899,7 +3796,10 @@
       "153": "W[?]. Küffner"
     },
     "first": "W?",
-    "last": "Küffner"
+    "last": "Küffner",
+    "sns": [
+      1876.4
+    ]
   },
   "511": {
     "name": "Robert Künzer",
@@ -2907,7 +3807,10 @@
       "1154": "R[obert]. Künzer"
     },
     "first": "Robert",
-    "last": "Künzer"
+    "last": "Künzer",
+    "sns": [
+      1910.5
+    ]
   },
   "1196": {
     "name": "Stanisław Kępiński",
@@ -2915,7 +3818,10 @@
       "549": "S[tanisław]. Kępiński"
     },
     "first": "Stanisław",
-    "last": "Kępiński"
+    "last": "Kępiński",
+    "sns": [
+      1892.5
+    ]
   },
   "754": {
     "name": "Laackmann?",
@@ -2924,7 +3830,10 @@
       "889": "[?]Laackmann?"
     },
     "first": "",
-    "last": "Laackmann?"
+    "last": "Laackmann?",
+    "sns": [
+      1903.5
+    ]
   },
   "653": {
     "name": "v. Landen",
@@ -2933,7 +3842,10 @@
       "1066": "v. Landen"
     },
     "first": "v.",
-    "last": "Landen"
+    "last": "Landen",
+    "sns": [
+      1908.0
+    ]
   },
   "968": {
     "name": "Ernst Lange",
@@ -2944,7 +3856,12 @@
       "317": "E[rnst]. Lange"
     },
     "first": "Ernst",
-    "last": "Lange"
+    "last": "Lange",
+    "sns": [
+      1880.5,
+      1881.0,
+      1881.5
+    ]
   },
   "302": {
     "name": "Eduard Langebeck",
@@ -2953,7 +3870,11 @@
       "1184": "Ed[uard]. Langebeck"
     },
     "first": "Eduard",
-    "last": "Langebeck"
+    "last": "Langebeck",
+    "sns": [
+      1911.5,
+      1912.0
+    ]
   },
   "77": {
     "name": "C. Laubert. stud. math.",
@@ -2967,7 +3888,11 @@
     "origin": "Hildesheim",
     "sources": {
       "AV 1896.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B47%5D%7D"
-    }
+    },
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "348": {
     "name": "Heinrich Laubert",
@@ -2986,7 +3911,12 @@
       "AV 1904.0 S.56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B56%5D%7D",
       "KT foll. 220": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B448%5D%7D",
       "KT foll. 270": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B548%5D%7D"
-    }
+    },
+    "sns": [
+      1903.0,
+      1903.5,
+      1904.0
+    ]
   },
   "408": {
     "name": "Ludwig Lauer",
@@ -2994,7 +3924,10 @@
       "968": "L[udwig] Lauer"
     },
     "first": "Ludwig",
-    "last": "Lauer"
+    "last": "Lauer",
+    "sns": [
+      1905.0
+    ]
   },
   "381": {
     "name": "Wera Lebedewa",
@@ -3002,7 +3935,10 @@
       "916": "W[era] Lebedewa"
     },
     "first": "Wera",
-    "last": "Lebedewa"
+    "last": "Lebedewa",
+    "sns": [
+      1904.0
+    ]
   },
   "491": {
     "name": "Karl Otto Heinrich Liebmann",
@@ -3010,7 +3946,10 @@
       "664": "H[einrich] Liebmann"
     },
     "first": "Karl Otto Heinrich",
-    "last": "Liebmann"
+    "last": "Liebmann",
+    "sns": [
+      1896.5
+    ]
   },
   "630": {
     "name": "Heinrich Liebmann",
@@ -3032,7 +3971,12 @@
       "AV 1897.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B49%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Liebmann",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Liebmann"
-    }
+    },
+    "sns": [
+      1897.0,
+      1897.5,
+      1898.0
+    ]
   },
   "795": {
     "name": "Georg Lindemann",
@@ -3045,7 +3989,11 @@
     "origin": "Hameln an der Weser",
     "sources": {
       "AV 1902.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
-    }
+    },
+    "sns": [
+      1902.0,
+      1903.0
+    ]
   },
   "701": {
     "name": "Martin Linnemann",
@@ -3053,7 +4001,10 @@
       "851": "M[artin] Linnemann"
     },
     "first": "Martin",
-    "last": "Linnemann"
+    "last": "Linnemann",
+    "sns": [
+      1902.5
+    ]
   },
   "140": {
     "name": "Alfred Loewy",
@@ -3065,7 +4016,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Loewy",
       "wiki-en": "https://en.wikipedia.org/wiki/Alfred_Loewy"
-    }
+    },
+    "sns": [
+      1894.5
+    ]
   },
   "1002": {
     "name": "Alfred Lorey",
@@ -3076,7 +4030,10 @@
     "last": "Lorey",
     "sources": {
       "KT foll. 179": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B366%5D%7D"
-    }
+    },
+    "sns": [
+      1895.5
+    ]
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -3102,7 +4059,15 @@
       "KT foll. 178": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B364%5D%7D",
       "KT foll. 179": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B366%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Wilhelm_Lorey"
-    }
+    },
+    "sns": [
+      1893.5,
+      1894.0,
+      1894.5,
+      1895.0,
+      1895.5,
+      1896.0
+    ]
   },
   "913": {
     "name": "Walter Ludwig",
@@ -3110,7 +4075,10 @@
       "792": "Dr. W[alter]. Ludwig"
     },
     "first": "Walter",
-    "last": "Ludwig"
+    "last": "Ludwig",
+    "sns": [
+      1900.5
+    ]
   },
   "399": {
     "name": "Luyken??",
@@ -3118,7 +4086,10 @@
       "826": "[Luyken??]"
     },
     "first": "",
-    "last": "Luyken??"
+    "last": "Luyken??",
+    "sns": [
+      1901.5
+    ]
   },
   "308": {
     "name": "Gustav Löwenstein",
@@ -3126,7 +4097,10 @@
       "1160": "Gustav Löwenstein"
     },
     "first": "Gustav",
-    "last": "Löwenstein"
+    "last": "Löwenstein",
+    "sns": [
+      1911.5
+    ]
   },
   "232": {
     "name": "Ernst Karl Wilhelm Lübcke",
@@ -3139,7 +4113,10 @@
     "sources": {
       "AV 1911.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B69%5D%7D",
       "cp.tu-berlin.de": "https://cp.tu-berlin.de/person/3522"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "715": {
     "name": "Oskar Lüdecke",
@@ -3152,7 +4129,10 @@
     "origin": "Vegesack, Bremen",
     "sources": {
       "AV 1904.5 S.57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "155": {
     "name": "Fritz Lüdemann",
@@ -3160,7 +4140,10 @@
       "1196": "Fritz Lüdemann"
     },
     "first": "Fritz",
-    "last": "Lüdemann"
+    "last": "Lüdemann",
+    "sns": [
+      1912.0
+    ]
   },
   "279": {
     "name": "Georg Lüttemeyer",
@@ -3172,7 +4155,10 @@
     "origin": "Wiedenbrück",
     "sources": {
       "AV 1899.5 S.51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "1124": {
     "name": "Annie Louise MacKinnon",
@@ -3184,7 +4170,13 @@
       "660": "Annie L[ouise] MacKinnon"
     },
     "first": "Annie Louise",
-    "last": "MacKinnon"
+    "last": "MacKinnon",
+    "sns": [
+      1894.5,
+      1895.0,
+      1895.5,
+      1896.0
+    ]
   },
   "986": {
     "name": "Isabel Maddison",
@@ -3198,7 +4190,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Isabel_Maddison",
       "wiki-en": "https://en.wikipedia.org/wiki/Isabel_Maddison"
-    }
+    },
+    "sns": [
+      1894.5,
+      1895.0
+    ]
   },
   "810": {
     "name": "Erwin Madelung",
@@ -3212,7 +4208,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Erwin_Madelung",
       "wiki-en": "https://en.wikipedia.org/wiki/Erwin_Madelung"
-    }
+    },
+    "sns": [
+      1904.5,
+      1905.0,
+      1908.0
+    ]
   },
   "528": {
     "name": "Alf Mahlke",
@@ -3222,7 +4223,11 @@
       "458": "Alf Mahlke"
     },
     "first": "Alf",
-    "last": "Mahlke"
+    "last": "Mahlke",
+    "sns": [
+      1886.0,
+      1886.5
+    ]
   },
   "435": {
     "name": "Alfred Marcks",
@@ -3234,7 +4239,10 @@
     "sources": {
       "AV 1898.5 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B50%5D%7D"
     },
-    "origin": "Krefeld"
+    "origin": "Krefeld",
+    "sns": [
+      1898.5
+    ]
   },
   "29": {
     "name": "Joseph Lybrand Markley",
@@ -3242,7 +4250,10 @@
       "661": "J[oseph] L[ybrand] Markley"
     },
     "first": "Joseph Lybrand",
-    "last": "Markley"
+    "last": "Markley",
+    "sns": [
+      1896.0
+    ]
   },
   "567": {
     "name": "Hermann Martini",
@@ -3251,7 +4262,11 @@
       "243": "Hermann Martini"
     },
     "first": "Hermann",
-    "last": "Martini"
+    "last": "Martini",
+    "sns": [
+      1878.5,
+      1879.0
+    ]
   },
   "271": {
     "name": "Sophus Marxsen",
@@ -3260,7 +4275,11 @@
       "742": "Sophus Marxsen"
     },
     "first": "Sophus",
-    "last": "Marxsen"
+    "last": "Marxsen",
+    "sns": [
+      1896.5,
+      1899.0
+    ]
   },
   "1109": {
     "name": "Heinrich Maschke",
@@ -3277,7 +4296,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Maschke",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Maschke",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich Maschke"
-    }
+    },
+    "sns": [
+      1886.5,
+      1887.4
+    ]
   },
   "657": {
     "name": "August Maurer",
@@ -3290,7 +4313,11 @@
     "last": "Maurer",
     "sources": {
       "KT foll. 83": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B174%5D%7D"
-    }
+    },
+    "sns": [
+      1877.9,
+      1878.4
+    ]
   },
   "843": {
     "name": "P. Mayer?",
@@ -3298,7 +4325,10 @@
       "962": "P. Mayer?"
     },
     "first": "P.",
-    "last": "Mayer?"
+    "last": "Mayer?",
+    "sns": [
+      1905.0
+    ]
   },
   "755": {
     "name": "Stefan Mazurkiewicz",
@@ -3311,7 +4341,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Stefan_Mazurkiewicz",
       "wiki-en": "https://en.wikipedia.org/wiki/Stefan_Mazurkiewicz",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz"
-    }
+    },
+    "sns": [
+      1911.0
+    ]
   },
   "764": {
     "name": "B? Meese",
@@ -3319,7 +4352,10 @@
       "1147": "B[?]. Meese"
     },
     "first": "B?",
-    "last": "Meese"
+    "last": "Meese",
+    "sns": [
+      1910.5
+    ]
   },
   "578": {
     "name": "F? Meinecke?",
@@ -3327,7 +4363,10 @@
       "944": "F[?]. Meinecke?"
     },
     "first": "F?",
-    "last": "Meinecke?"
+    "last": "Meinecke?",
+    "sns": [
+      1904.5
+    ]
   },
   "674": {
     "name": "Heinrich Meldau",
@@ -3339,7 +4378,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Meldau",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich_Meldau"
-    }
+    },
+    "sns": [
+      1887.0
+    ]
   },
   "1166": {
     "name": "Th? Mens|zinger?",
@@ -3348,7 +4390,11 @@
       "1094": "Th[?] Men[s|z]inger?"
     },
     "first": "Th?",
-    "last": "Mens|zinger?"
+    "last": "Mens|zinger?",
+    "sns": [
+      1908.5,
+      1909.0
+    ]
   },
   "1151": {
     "name": "Walther Mertius?",
@@ -3356,7 +4402,10 @@
       "836": "Walther Mertius?"
     },
     "first": "Walther",
-    "last": "Mertius?"
+    "last": "Mertius?",
+    "sns": [
+      1902.0
+    ]
   },
   "577": {
     "name": "George Frederick Metzler",
@@ -3364,7 +4413,10 @@
       "583": "Geo[rge]. F[rederick]. Metzler"
     },
     "first": "George Frederick",
-    "last": "Metzler"
+    "last": "Metzler",
+    "sns": [
+      1893.5
+    ]
   },
   "502": {
     "name": "Carl Metzner",
@@ -3373,7 +4425,11 @@
       "813": "Carl Metzner"
     },
     "first": "Carl",
-    "last": "Metzner"
+    "last": "Metzner",
+    "sns": [
+      1900.5,
+      1901.0
+    ]
   },
   "522": {
     "name": "Wilhelm Meyerpromotion München, mitarbeit an der Enzyklopädie??",
@@ -3381,7 +4437,10 @@
       "996": "Wilh[elm]. Meyer[promotion München, mitarbeit an der Enzyklopädie??]"
     },
     "first": "Wilhelm",
-    "last": "Meyer"
+    "last": "Meyer",
+    "sns": [
+      1906.0
+    ]
   },
   "35": {
     "name": "Franz Meyer",
@@ -3398,7 +4457,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Franz Meyer (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm Franz Meyer"
-    }
+    },
+    "sns": [
+      1875.5,
+      1876.5,
+      1877.0,
+      1877.5
+    ]
   },
   "1189": {
     "name": "Friedrich Meyer",
@@ -3406,7 +4471,10 @@
       "1001": "Friedrich Meyer"
     },
     "first": "Friedrich",
-    "last": "Meyer"
+    "last": "Meyer",
+    "sns": [
+      1906.0
+    ]
   },
   "645": {
     "name": "L? Meyeringh?",
@@ -3415,7 +4483,10 @@
       "1186": "L[?]. Meyeringh?"
     },
     "first": "L?",
-    "last": "Meyeringh?"
+    "last": "Meyeringh?",
+    "sns": [
+      1912.0
+    ]
   },
   "94": {
     "name": "Bruno Meyermann",
@@ -3427,7 +4498,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Bruno_Meyermann",
       "wiki-zh": "https://zh.wikipedia.org/wiki/布鲁诺·迈尔曼"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "368": {
     "name": "Theodor Molien",
@@ -3442,7 +4516,12 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Theodor_Molien",
       "wiki-en": "https://en.wikipedia.org/wiki/Theodor_Molien",
       "wiki-ru": "https://ru.wikipedia.org/wiki/Молин, Фёдор Эдуардович"
-    }
+    },
+    "sns": [
+      1883.5,
+      1884.0,
+      1887.0
+    ]
   },
   "460": {
     "name": "Erwin  Moll",
@@ -3450,7 +4529,10 @@
       "1161": "Erwin  Moll"
     },
     "first": "Erwin",
-    "last": "Moll"
+    "last": "Moll",
+    "sns": [
+      1911.5
+    ]
   },
   "175": {
     "name": "Giacinto Morera",
@@ -3463,7 +4545,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Giacinto_Morera",
       "wiki-en": "https://en.wikipedia.org/wiki/Giacinto_Morera",
       "wiki-it": "https://it.wikipedia.org/wiki/Giacinto Morera"
-    }
+    },
+    "sns": [
+      1884.0
+    ]
   },
   "1096": {
     "name": "Ludwig Mosbacher?",
@@ -3471,7 +4556,10 @@
       "203": "L[udwig]. Mosbacher?"
     },
     "first": "Ludwig",
-    "last": "Mosbacher?"
+    "last": "Mosbacher?",
+    "sns": [
+      1878.4
+    ]
   },
   "762": {
     "name": "Piet Mulder",
@@ -3483,7 +4571,10 @@
     "origin": "Leiden, Holland",
     "sources": {
       "AV 1908.0 S.67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B67%5D%7D"
-    }
+    },
+    "sns": [
+      1908.0
+    ]
   },
   "801": {
     "name": "Alexander Myller",
@@ -3495,7 +4586,10 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Alexander_Myller",
       "wiki-ro": "https://ro.wikipedia.org/wiki/Alexandru Myller"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -3507,7 +4601,10 @@
     "sources": {
       "AV 1904.0 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B59%5D%7D"
     },
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "sns": [
+      1904.0
+    ]
   },
   "625": {
     "name": "Otto Mühlendyck.",
@@ -3515,7 +4612,10 @@
       "1084": "O[tto] Mühlendyck."
     },
     "first": "Otto",
-    "last": "Mühlendyck"
+    "last": "Mühlendyck",
+    "sns": [
+      1908.5
+    ]
   },
   "841": {
     "name": "Hans Müller",
@@ -3523,7 +4623,10 @@
       "790": "H[ans]. Müller"
     },
     "first": "Hans",
-    "last": "Müller"
+    "last": "Müller",
+    "sns": [
+      1900.5
+    ]
   },
   "151": {
     "name": "Erich Müller",
@@ -3531,7 +4634,10 @@
       "763": "Erich Müller"
     },
     "first": "Erich",
-    "last": "Müller"
+    "last": "Müller",
+    "sns": [
+      1899.5
+    ]
   },
   "331": {
     "name": "Conrad Heinrich Müller",
@@ -3542,7 +4648,12 @@
       "789": "Conrad Müller"
     },
     "first": "Conrad Heinrich",
-    "last": "Müller"
+    "last": "Müller",
+    "sns": [
+      1899.5,
+      1900.0,
+      1903.5
+    ]
   },
   "572": {
     "name": "Dr. Friedrich Neesen",
@@ -3551,7 +4662,10 @@
       "20": "Dr. F[riedrich]. Neesen"
     },
     "first": "Friedrich",
-    "last": "Neesen"
+    "last": "Neesen",
+    "sns": [
+      1872.0
+    ]
   },
   "1039": {
     "name": "Leonard Nelson",
@@ -3565,7 +4679,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Leonard_Nelson",
       "wiki-en": "https://en.wikipedia.org/wiki/Leonard_Nelson"
-    }
+    },
+    "sns": [
+      1909.5
+    ]
   },
   "895": {
     "name": "Burt L? Newkirk",
@@ -3573,7 +4690,10 @@
       "858": "B[urt] L[?]. Newkirk"
     },
     "first": "Burt Newkirk",
-    "last": "Newkirk"
+    "last": "Newkirk",
+    "sns": [
+      1902.5
+    ]
   },
   "742": {
     "name": "Paul Nimsch",
@@ -3583,7 +4703,12 @@
       "390": "P[aul]. Nimsch"
     },
     "first": "Paul",
-    "last": "Nimsch"
+    "last": "Nimsch",
+    "sns": [
+      1883.0,
+      1883.5,
+      1884.0
+    ]
   },
   "317": {
     "name": "Josef Nix",
@@ -3593,7 +4718,11 @@
       "1204": "J[osef] Nix"
     },
     "first": "Josef",
-    "last": "Nix"
+    "last": "Nix",
+    "sns": [
+      1911.5,
+      1912.0
+    ]
   },
   "430": {
     "name": "Charles Albert Noble",
@@ -3606,7 +4735,11 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Charles_Albert_Noble",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Charles_Albert_Noble"
-    }
+    },
+    "sns": [
+      1894.5,
+      1895.0
+    ]
   },
   "1137": {
     "name": "Richard Olbricht",
@@ -3616,7 +4749,11 @@
       "389": "R[ichard]. Olbricht"
     },
     "first": "Richard",
-    "last": "Olbricht"
+    "last": "Olbricht",
+    "sns": [
+      1883.0,
+      1883.5
+    ]
   },
   "814": {
     "name": "Albert Oppermann",
@@ -3626,7 +4763,12 @@
       "856": "Albert Oppermann"
     },
     "first": "Albert",
-    "last": "Oppermann"
+    "last": "Oppermann",
+    "sns": [
+      1902.0,
+      1902.5,
+      1903.0
+    ]
   },
   "658": {
     "name": "William Fogg Osgood",
@@ -3640,7 +4782,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/William Fogg Osgood",
       "wiki-en": "https://en.wikipedia.org/wiki/William_Fogg_Osgood"
-    }
+    },
+    "sns": [
+      1888.0,
+      1888.5
+    ]
   },
   "56": {
     "name": "Alex Osthoff",
@@ -3648,7 +4794,10 @@
       "800": "[Alex] Osthoff"
     },
     "first": "Alex",
-    "last": "Osthoff"
+    "last": "Osthoff",
+    "sns": [
+      1900.5
+    ]
   },
   "70": {
     "name": "Henri Padé",
@@ -3661,7 +4810,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Henri_Pad%C3%A9",
       "wiki-en": "https://en.wikipedia.org/wiki/Henri_Pad%C3%A9",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Henri Padé"
-    }
+    },
+    "sns": [
+      1890.0
+    ]
   },
   "811": {
     "name": "Fritz Pahde",
@@ -3675,7 +4827,11 @@
     "sources": {
       "AV 1898.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B54%5D%7D",
       "KT foll. 182": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B372%5D%7D"
-    }
+    },
+    "sns": [
+      1897.0,
+      1898.0
+    ]
   },
   "579": {
     "name": "Anna Helene Palmié",
@@ -3687,7 +4843,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anna_Helene_Palmie"
     },
-    "origin": "New York, USA"
+    "origin": "New York, USA",
+    "sns": [
+      1898.5
+    ]
   },
   "593": {
     "name": "Dr. Erwin Papperitz",
@@ -3703,7 +4862,13 @@
     "last": "Papperitz",
     "sources": {
       "wiki-pt": "https://pt.wikipedia.org/wiki/Erwin_Papperitz"
-    }
+    },
+    "sns": [
+      1883.0,
+      1883.5,
+      1884.0,
+      1885.0
+    ]
   },
   "44": {
     "name": "Ernest Pasquier",
@@ -3712,7 +4877,10 @@
       "17": "Ern[est]. Pasquier"
     },
     "first": "Ernest",
-    "last": "Pasquier"
+    "last": "Pasquier",
+    "sns": [
+      1872.0
+    ]
   },
   "74": {
     "name": "Gustav Penseler",
@@ -3720,7 +4888,10 @@
       "465": "G[ustav]. Penseler"
     },
     "first": "Gustav",
-    "last": "Penseler"
+    "last": "Penseler",
+    "sns": [
+      1887.0
+    ]
   },
   "311": {
     "name": "Heinrich Personn",
@@ -3732,7 +4903,10 @@
     "origin": "Göttingen",
     "sources": {
       "AV 1902.0 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
-    }
+    },
+    "sns": [
+      1902.0
+    ]
   },
   "540": {
     "name": "E. Hilda? Petersen",
@@ -3743,7 +4917,10 @@
     "last": "Petersen",
     "sources": {
       "KT foll. 283": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B574%5D%7D"
-    }
+    },
+    "sns": [
+      1910.5
+    ]
   },
   "884": {
     "name": "Friedrich Pfeiffer",
@@ -3755,7 +4932,12 @@
       "1100": "F[riedrich] Pfeiffer"
     },
     "first": "Friedrich",
-    "last": "Pfeiffer"
+    "last": "Pfeiffer",
+    "sns": [
+      1908.0,
+      1908.5,
+      1909.0
+    ]
   },
   "1058": {
     "name": "Georg Pick",
@@ -3772,7 +4954,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Georg Pick (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Georg Alexander Pick"
     },
-    "origin": "Wien"
+    "origin": "Wien",
+    "sns": [
+      1883.5,
+      1884.0
+    ]
   },
   "43": {
     "name": "Ernst Piechler",
@@ -3780,7 +4966,10 @@
       "202": "E[rnst]. Piechler"
     },
     "first": "Ernst",
-    "last": "Piechler"
+    "last": "Piechler",
+    "sns": [
+      1878.4
+    ]
   },
   "1125": {
     "name": "Alfred Pietzner",
@@ -3792,7 +4981,10 @@
     "origin": "Liegnitz",
     "sources": {
       "AV 1901.0 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
-    }
+    },
+    "sns": [
+      1901.0
+    ]
   },
   "881": {
     "name": "Norbert Pinkus",
@@ -3800,7 +4992,10 @@
       "920": "N[orbert] Pinkus"
     },
     "first": "Norbert",
-    "last": "Pinkus"
+    "last": "Pinkus",
+    "sns": [
+      1904.0
+    ]
   },
   "905": {
     "name": "Johannes Pistel",
@@ -3808,7 +5003,10 @@
       "1104": "[Johannes Pistel]"
     },
     "first": "Johannes",
-    "last": "Pistel"
+    "last": "Pistel",
+    "sns": [
+      1911.0
+    ]
   },
   "1201": {
     "name": "Max Planck.",
@@ -3822,7 +5020,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max Planck",
       "wiki-en": "https://en.wikipedia.org/wiki/Max_Planck"
-    }
+    },
+    "sns": [
+      1877.4
+    ]
   },
   "581": {
     "name": "Friedrich Pockels",
@@ -3837,7 +5038,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Pockels",
       "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Carl Alwin Pockels"
-    }
+    },
+    "sns": [
+      1889.5
+    ]
   },
   "338": {
     "name": "Ernst Pohlhausen",
@@ -3849,7 +5053,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Pohlhausen",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Ernst_Pohlhausen"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "862": {
     "name": "Egon Pollak",
@@ -3857,7 +5064,10 @@
       "747": "Egon Pollak"
     },
     "first": "Egon",
-    "last": "Pollak"
+    "last": "Pollak",
+    "sns": [
+      1899.0
+    ]
   },
   "1193": {
     "name": "Hubert Post",
@@ -3865,7 +5075,10 @@
       "1107": "[[Hubert] Post]"
     },
     "first": "Hubert",
-    "last": "Post"
+    "last": "Post",
+    "sns": [
+      1911.0
+    ]
   },
   "802": {
     "name": "Ludwig Prandtl",
@@ -3878,7 +5091,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Prandtl",
       "wiki-en": "https://en.wikipedia.org/wiki/Ludwig Prandtl"
-    }
+    },
+    "sns": [
+      1904.5,
+      1909.0
+    ]
   },
   "1064": {
     "name": "Georg Prange",
@@ -3890,7 +5107,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Prange",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Georg Prange"
-    }
+    },
+    "sns": [
+      1906.0
+    ]
   },
   "793": {
     "name": "Dr. Ing. Reinhold Proell",
@@ -3899,7 +5119,10 @@
       "898": "Dr. Ing. R[einhold]. Proell."
     },
     "first": "Reinhold",
-    "last": "Proell"
+    "last": "Proell",
+    "sns": [
+      1903.5
+    ]
   },
   "470": {
     "name": "Erich Prümm",
@@ -3909,7 +5132,12 @@
       "621": "Erich Prümm."
     },
     "first": "Erich",
-    "last": "Prümm"
+    "last": "Prümm",
+    "sns": [
+      1895.0,
+      1896.5,
+      1898.0
+    ]
   },
   "641": {
     "name": "Anton Puchta",
@@ -3929,7 +5157,14 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anton_Puchta"
     },
-    "origin": "Staré Sedlo [Altsattel], Tschechien"
+    "origin": "Staré Sedlo [Altsattel], Tschechien",
+    "sns": [
+      1875.5,
+      1876.5,
+      1877.0,
+      1877.5,
+      1878.0
+    ]
   },
   "1063": {
     "name": "Hans Puhl",
@@ -3941,7 +5176,10 @@
     "origin": "Duisburg",
     "sources": {
       "AV 1900.5 S.56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B56%5D%7D"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "979": {
     "name": "Eduard Pulpe",
@@ -3953,7 +5191,10 @@
     "origin": "Riga, Rußland",
     "sources": {
       "AV 1908.0 S.68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
-    }
+    },
+    "sns": [
+      1908.0
+    ]
   },
   "461": {
     "name": "Christoph Gerhard? Rabba",
@@ -3961,7 +5202,10 @@
       "472": "Christoph [Gerhard?] Rabba"
     },
     "first": "Christoph Gerhard?",
-    "last": "Rabba"
+    "last": "Rabba",
+    "sns": [
+      1887.0
+    ]
   },
   "1078": {
     "name": "Gustav Raussnitz Gustáv Rados",
@@ -3972,7 +5216,10 @@
       "426": "Gustav Raussnitz [Gustáv Rados]"
     },
     "first": "Gustáv",
-    "last": "Rados"
+    "last": "Rados",
+    "sns": [
+      1885.0
+    ]
   },
   "145": {
     "name": "Wilibald Reichardt",
@@ -3983,7 +5230,11 @@
       "429": "Wilibald Reichardt?"
     },
     "first": "Wilibald",
-    "last": "Reichardt"
+    "last": "Reichardt",
+    "sns": [
+      1885.0,
+      1885.5
+    ]
   },
   "1019": {
     "name": "Legh Wilber Reid",
@@ -3992,11 +5243,14 @@
     },
     "first": "Legh Wilber",
     "last": "Reid",
-    "sources":{
+    "sources": {
       "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7337"
     },
-    "origin": "Alexandria, Virginia, USA"
+    "origin": "Alexandria, Virginia, USA",
+    "sns": [
+      1898.5
+    ]
   },
   "159": {
     "name": "Otto Reifenstahl",
@@ -4008,7 +5262,10 @@
     "origin": "Braunschweig",
     "sources": {
       "AV 1912.0 S.80": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B80%5D%7D"
-    }
+    },
+    "sns": [
+      1912.0
+    ]
   },
   "1185": {
     "name": "Ludwig Reingardt",
@@ -4017,7 +5274,11 @@
       "758": "Ludwig Reingardt"
     },
     "first": "Ludwig",
-    "last": "Reingardt"
+    "last": "Reingardt",
+    "sns": [
+      1899.0,
+      1899.5
+    ]
   },
   "187": {
     "name": "Ernst Reinstein",
@@ -4025,7 +5286,10 @@
       "965": "Ernst Reinstein"
     },
     "first": "Ernst",
-    "last": "Reinstein"
+    "last": "Reinstein",
+    "sns": [
+      1905.0
+    ]
   },
   "506": {
     "name": "Hugo Relander",
@@ -4036,7 +5300,10 @@
     "last": "Relander",
     "sources": {
       "wiki-fi": "https://fi.wikipedia.org/wiki/H. M. J. Relander"
-    }
+    },
+    "sns": [
+      1886.0
+    ]
   },
   "960": {
     "name": "Tscheslaw Retschinsky",
@@ -4044,7 +5311,10 @@
       "859": "[Tscheslaw] Retschinsky"
     },
     "first": "Tscheslaw",
-    "last": "Retschinsky"
+    "last": "Retschinsky",
+    "sns": [
+      1902.5
+    ]
   },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
@@ -4058,7 +5328,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Gregorio_Ricci-Curbastro",
       "wiki-en": "https://en.wikipedia.org/wiki/Gregorio Ricci-Curbastro",
       "wiki-it": "https://it.wikipedia.org/wiki/Gregorio Ricci Curbastro"
-    }
+    },
+    "sns": [
+      1878.5,
+      1879.0
+    ]
   },
   "1077": {
     "name": "Louis Richter",
@@ -4067,7 +5341,11 @@
       "959": "Louis Richter?"
     },
     "first": "Louis",
-    "last": "Richter"
+    "last": "Richter",
+    "sns": [
+      1905.0,
+      1906.0
+    ]
   },
   "59": {
     "name": "Otto Richter",
@@ -4076,7 +5354,11 @@
       "431": "Otto Richter"
     },
     "first": "Otto",
-    "last": "Richter"
+    "last": "Richter",
+    "sns": [
+      1885.0,
+      1885.5
+    ]
   },
   "1094": {
     "name": "Ernst Ritter",
@@ -4084,7 +5366,10 @@
       "523": "E[rnst]. Ritter"
     },
     "first": "Ernst",
-    "last": "Ritter"
+    "last": "Ritter",
+    "sns": [
+      1891.0
+    ]
   },
   "177": {
     "name": "Eduard Ritter von Weber",
@@ -4098,7 +5383,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Eduard von Weber",
       "wiki-en": "https://en.wikipedia.org/wiki/Eduard Ritter von Weber"
-    }
+    },
+    "sns": [
+      1892.5
+    ]
   },
   "877": {
     "name": "Carl [Karl] Friedrich Rodenberg",
@@ -4112,7 +5400,10 @@
     "sources": {
       "KT foll. 6": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B12%5D%7D"
     },
-    "origin": "Plauen"
+    "origin": "Plauen",
+    "sns": [
+      1872.0
+    ]
   },
   "278": {
     "name": "Karl Friedrich Wilhelm Rohn",
@@ -4127,7 +5418,14 @@
       "212": "K[arl Friedrich Wilhelm] Rohn"
     },
     "first": "Karl Friedrich Wilhelm",
-    "last": "Rohn"
+    "last": "Rohn",
+    "sns": [
+      1875.5,
+      1876.5,
+      1877.0,
+      1877.5,
+      1878.0
+    ]
   },
   "441": {
     "name": "Arthur Rosenthal",
@@ -4140,7 +5438,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arthur Rosenthal (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Rosenthal"
-    }
+    },
+    "sns": [
+      1911.0,
+      1911.5
+    ]
   },
   "1202": {
     "name": "Dr. Paul Roth",
@@ -4148,7 +5450,10 @@
       "1018": "Dr. Paul Roth"
     },
     "first": "Paul",
-    "last": "Roth"
+    "last": "Roth",
+    "sns": [
+      1906.5
+    ]
   },
   "775": {
     "name": "Wilhelm Rothe",
@@ -4156,7 +5461,10 @@
       "1106": "[[Wilhelm] Rothe]"
     },
     "first": "Wilhelm",
-    "last": "Rothe"
+    "last": "Rothe",
+    "sns": [
+      1911.0
+    ]
   },
   "1089": {
     "name": "Emil Rottgardt",
@@ -4170,7 +5478,10 @@
       "AV 1903.0 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
       "AV 1904.0 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
       "KT foll. 226": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B460%5D%7D"
-    }
+    },
+    "sns": [
+      1904.0
+    ]
   },
   "401": {
     "name": "Ernst Rudel",
@@ -4179,7 +5490,10 @@
       "716": "Ernst Rudel"
     },
     "first": "Ernst",
-    "last": "Rudel"
+    "last": "Rudel",
+    "sns": [
+      1898.0
+    ]
   },
   "12": {
     "name": "Friedrich Rulf?",
@@ -4187,7 +5501,10 @@
       "1167": "F[riedrich] Rulf?"
     },
     "first": "Friedrich",
-    "last": "Rulf?"
+    "last": "Rulf?",
+    "sns": [
+      1911.5
+    ]
   },
   "944": {
     "name": "Iris Runge",
@@ -4200,7 +5517,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Iris Runge",
       "wiki-en": "https://en.wikipedia.org/wiki/Iris_Runge"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "157": {
     "name": "Carl David Tolmé Runge",
@@ -4212,7 +5532,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Carl Runge",
       "wiki-en": "https://en.wikipedia.org/wiki/Carl Runge"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "1033": {
     "name": "Gottfried Rückle",
@@ -4225,7 +5548,12 @@
     "last": "Rückle",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gottfried Rückle"
-    }
+    },
+    "sns": [
+      1898.0,
+      1899.0,
+      1900.0
+    ]
   },
   "10": {
     "name": "Reinhold Rüdenberg",
@@ -4241,7 +5569,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Reinhold_R%C3%BCdenberg",
       "wiki-en": "https://en.wikipedia.org/wiki/Reinhold Rudenberg"
-    }
+    },
+    "sns": [
+      1905.0,
+      1907.5,
+      1908.0
+    ]
   },
   "688": {
     "name": "Ljubow Sapolsky",
@@ -4250,7 +5583,11 @@
       "651": "Ljubow Sapolsky"
     },
     "first": "Ljubow",
-    "last": "Sapolsky"
+    "last": "Sapolsky",
+    "sns": [
+      1895.5,
+      1896.0
+    ]
   },
   "247": {
     "name": "Andreas Saß",
@@ -4260,7 +5597,11 @@
     },
     "first": "Andreas",
     "last": "Sass",
-    "origin": "Flensburg, Schleswig-Holstein"
+    "origin": "Flensburg, Schleswig-Holstein",
+    "sns": [
+      1903.0,
+      1903.5
+    ]
   },
   "971": {
     "name": "K? Scharer?",
@@ -4268,7 +5609,10 @@
       "560": "K[?] Scharer?"
     },
     "first": "K?",
-    "last": "Scharer?"
+    "last": "Scharer?",
+    "sns": [
+      1893.0
+    ]
   },
   "1070": {
     "name": "Carl Schellenberg",
@@ -4277,7 +5621,10 @@
       "518": "C[arl]. Schellenberg"
     },
     "first": "Carl",
-    "last": "Schellenberg"
+    "last": "Schellenberg",
+    "sns": [
+      1890.0
+    ]
   },
   "447": {
     "name": "Hans Schenkel",
@@ -4289,7 +5636,11 @@
     "last": "Schenkel",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hans_Schenkel"
-    }
+    },
+    "sns": [
+      1892.0,
+      1893.0
+    ]
   },
   "746": {
     "name": "Harald Schering",
@@ -4303,7 +5654,10 @@
       "AV 1901.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Harald_Schering",
       "wiki-en": "https://en.wikipedia.org/wiki/Harald_Schering"
-    }
+    },
+    "sns": [
+      1901.5
+    ]
   },
   "924": {
     "name": "Helmuth Schickert",
@@ -4312,7 +5666,11 @@
       "1190": "H[elmuth]. Schickert"
     },
     "first": "Helmuth",
-    "last": "Schickert"
+    "last": "Schickert",
+    "sns": [
+      1911.5,
+      1912.0
+    ]
   },
   "961": {
     "name": "Friedrich Schilling",
@@ -4325,7 +5683,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Schilling (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Schilling"
-    }
+    },
+    "sns": [
+      1890.0,
+      1891.0
+    ]
   },
   "1181": {
     "name": "Rudolf Schimmack",
@@ -4335,7 +5697,11 @@
       "1192": "[Rudolf] Schimmack"
     },
     "first": "Rudolf",
-    "last": "Schimmack"
+    "last": "Schimmack",
+    "sns": [
+      1902.0,
+      1912.0
+    ]
   },
   "21": {
     "name": "Ludwig Schleiermacher",
@@ -4348,7 +5714,12 @@
       "139": "L[udwig] Schleiermacher"
     },
     "first": "Ludwig",
-    "last": "Schleiermacher"
+    "last": "Schleiermacher",
+    "sns": [
+      1875.5,
+      1876.5,
+      1877.0
+    ]
   },
   "703": {
     "name": "Dietrich Schlüter",
@@ -4361,7 +5732,10 @@
     "sources": {
       "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
       "KT foll. 192": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B392%5D%7D"
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "544": {
     "name": "Willy Schmidt",
@@ -4374,7 +5748,10 @@
     "sources": {
       "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
       "FT foll. 192": ""
-    }
+    },
+    "sns": [
+      1899.5
+    ]
   },
   "682": {
     "name": "Heinrich Schmidt",
@@ -4386,7 +5763,10 @@
     "origin": "Leer, Hannover",
     "sources": {
       "AV 1904.5 S.65": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B65%5D%7D"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "1073": {
     "name": "Walther Schmiedeberg",
@@ -4394,7 +5774,10 @@
       "827": "Walther Schmiedeberg"
     },
     "first": "Walther",
-    "last": "Schmiedeberg"
+    "last": "Schmiedeberg",
+    "sns": [
+      1901.5
+    ]
   },
   "500": {
     "name": "Bernhard Schniete",
@@ -4402,7 +5785,10 @@
       "1143": "[Bernhard] Schniete"
     },
     "first": "Bernhard",
-    "last": "Schniete"
+    "last": "Schniete",
+    "sns": [
+      1910.5
+    ]
   },
   "529": {
     "name": "Josef Schreiner",
@@ -4413,7 +5799,10 @@
     "last": "Schreiner",
     "sources": {
       "KT foll. 94": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B196%5D%7D"
-    }
+    },
+    "sns": [
+      1878.4
+    ]
   },
   "362": {
     "name": "Schriftenvergleich?!",
@@ -4421,7 +5810,10 @@
       "204": "[? Schriftenvergleich?!]"
     },
     "first": "",
-    "last": "Schriftenvergleich?!"
+    "last": "Schriftenvergleich?!",
+    "sns": [
+      1878.4
+    ]
   },
   "61": {
     "name": "Friedrich Schröder",
@@ -4431,7 +5823,10 @@
       "160": "Friedrich Schröder"
     },
     "first": "Friedrich",
-    "last": "Schröder"
+    "last": "Schröder",
+    "sns": [
+      1876.9
+    ]
   },
   "758": {
     "name": "Johannes Schröder",
@@ -4443,7 +5838,12 @@
       "504": "J[ohannes] Schröder, cand. math."
     },
     "first": "Johannes",
-    "last": "Schröder"
+    "last": "Schröder",
+    "sns": [
+      1887.5,
+      1888.0,
+      1888.5
+    ]
   },
   "350": {
     "name": "Johannes Schröder",
@@ -4456,7 +5856,10 @@
     "sources": {
       "AV 1907.5 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1907_1908_WS?tify=%7B%22pages%22%3A%5B72%5D%7D",
       "KT foll. 264": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B536%5D%7D"
-    }
+    },
+    "sns": [
+      1907.5
+    ]
   },
   "154": {
     "name": "Hermann Schuepp",
@@ -4464,7 +5867,10 @@
       "1097": "H[ermann]. Schuepp"
     },
     "first": "Hermann",
-    "last": "Schuepp"
+    "last": "Schuepp",
+    "sns": [
+      1909.0
+    ]
   },
   "367": {
     "name": "Frederik Schuh",
@@ -4476,7 +5882,10 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Frederik_Schuh",
       "wiki-nl": "https://nl.wikipedia.org/wiki/Frederik Schuh"
-    }
+    },
+    "sns": [
+      1901.0
+    ]
   },
   "357": {
     "name": "Max Schuhardt",
@@ -4488,7 +5897,10 @@
     "origin": "Halberstadt",
     "sources": {
       "AV 1893.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_SS?tify=%7B%22pages%22%3A%5B50%5D%7D"
-    }
+    },
+    "sns": [
+      1893.0
+    ]
   },
   "608": {
     "name": "Karl Schulz",
@@ -4501,7 +5913,11 @@
     "origin": "Guben, Brandenburg",
     "sources": {
       "AV 1903.0. S.66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B66%5D%7D"
-    }
+    },
+    "sns": [
+      1903.0,
+      1903.5
+    ]
   },
   "805": {
     "name": "Edwin Schulze",
@@ -4511,7 +5927,11 @@
       "969": "E[dwin]. Schulze math."
     },
     "first": "Edwin",
-    "last": "Schulze"
+    "last": "Schulze",
+    "sns": [
+      1905.0,
+      1906.0
+    ]
   },
   "212": {
     "name": "Karl Schwarzschild",
@@ -4523,7 +5943,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Karl_Schwarzschild",
       "wiki-en": "https://en.wikipedia.org/wiki/Karl Schwarzschild"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "458": {
     "name": "Eduard Schweikert",
@@ -4535,7 +5958,10 @@
     "origin": "M[önchen].-Gladbach",
     "sources": {
       "AV 1900.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
-    }
+    },
+    "sns": [
+      1900.5
+    ]
   },
   "929": {
     "name": "Heinrich Schwienhorst",
@@ -4544,7 +5970,11 @@
       "791": "H[einrich]. Schwienhorst"
     },
     "first": "Heinrich",
-    "last": "Schwienhorst"
+    "last": "Schwienhorst",
+    "sns": [
+      1900.5,
+      1901.0
+    ]
   },
   "111": {
     "name": "Aruthr Schöning",
@@ -4557,7 +5987,10 @@
     "origin": "Reelkirchen, Lippe-Detmold",
     "sources": {
       "AV 1903.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "1020": {
     "name": "Ernst Harald Schütz",
@@ -4568,7 +6001,13 @@
       "706": "E[rnst]. H[arald]. Schütz\\newline stud. math."
     },
     "first": "Ernst Harald",
-    "last": "Schütz"
+    "last": "Schütz",
+    "sns": [
+      1896.5,
+      1897.0,
+      1897.5,
+      1899.0
+    ]
   },
   "786": {
     "name": "Ludwig Schütz",
@@ -4578,7 +6017,12 @@
       "689": "Ludwig Schütz"
     },
     "first": "Ludwig",
-    "last": "Schütz"
+    "last": "Schütz",
+    "sns": [
+      1894.0,
+      1894.5,
+      1897.0
+    ]
   },
   "706": {
     "name": "Carl Seefried",
@@ -4587,7 +6031,10 @@
       "185": "Carl Seefried"
     },
     "first": "Carl",
-    "last": "Seefried"
+    "last": "Seefried",
+    "sns": [
+      1877.9
+    ]
   },
   "627": {
     "name": "Alexander Sendler",
@@ -4595,7 +6042,10 @@
       "823": "Alexander Sendler"
     },
     "first": "Alexander",
-    "last": "Sendler"
+    "last": "Sendler",
+    "sns": [
+      1901.5
+    ]
   },
   "384": {
     "name": "Friedrich[?] Siebert",
@@ -4607,7 +6057,10 @@
     "origin": "Hannover[?]",
     "sources": {
       "AV 1910.5 S.80": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B80%5D%7D"
-    }
+    },
+    "sns": [
+      1910.5
+    ]
   },
   "1042": {
     "name": "Henry Siedentopf",
@@ -4622,7 +6075,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Henry_Siedentopf",
       "wiki-en": "https://en.wikipedia.org/wiki/Henry_Siedentopf"
-    }
+    },
+    "sns": [
+      1893.0,
+      1894.0,
+      1894.5,
+      1895.0
+    ]
   },
   "329": {
     "name": "Carl Siegel",
@@ -4635,7 +6094,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Carl Ludwig Siegel",
       "wiki-en": "https://en.wikipedia.org/wiki/Carl Ludwig Siegel"
-    }
+    },
+    "sns": [
+      1893.0
+    ]
   },
   "36": {
     "name": "Percy Franklyn Smith",
@@ -4644,7 +6106,10 @@
       "606": "P[ercy]. F[ranklyn]. Smith"
     },
     "first": "Percy Franklyn",
-    "last": "Smith"
+    "last": "Smith",
+    "sns": [
+      1894.5
+    ]
   },
   "112": {
     "name": "Gustaf Robert Snellman.",
@@ -4653,7 +6118,10 @@
     },
     "first": "G R",
     "last": "Snellman",
-    "origin": "Helsinki"
+    "origin": "Helsinki",
+    "sns": [
+      1892.0
+    ]
   },
   "136": {
     "name": "Virgil Snyder",
@@ -4666,7 +6134,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Virgil_Snyder",
       "wiki-en": "https://en.wikipedia.org/wiki/Virgil Snyder"
-    }
+    },
+    "sns": [
+      1893.5,
+      1894.0
+    ]
   },
   "1030": {
     "name": "Julius Sommer",
@@ -4679,7 +6151,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Julius_Sommer",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Julius_Sommer",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Julius_Sommer"
-    }
+    },
+    "sns": [
+      1897.5
+    ]
   },
   "4": {
     "name": "Arnold Sommerfeld",
@@ -4692,7 +6167,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arnold_Sommerfeld",
       "wiki-en": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
-    }
+    },
+    "sns": [
+      1894.5
+    ]
   },
   "952": {
     "name": "Otto Staude",
@@ -4712,7 +6190,14 @@
     "last": "Staude",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto Staude"
-    }
+    },
+    "sns": [
+      1880.5,
+      1881.0,
+      1881.5,
+      1882.0,
+      1882.5
+    ]
   },
   "908": {
     "name": "Fritz Steckel",
@@ -4726,7 +6211,10 @@
     "sources": {
       "AV 1909.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
       "TO S. 491f.n": ""
-    }
+    },
+    "sns": [
+      1909.5
+    ]
   },
   "33": {
     "name": "Adolf Steichen",
@@ -4734,7 +6222,10 @@
       "1046": "Ad[olf] Steichen"
     },
     "first": "Adolf",
-    "last": "Steichen"
+    "last": "Steichen",
+    "sns": [
+      1907.5
+    ]
   },
   "448": {
     "name": "Dr. Ludwig Steiner",
@@ -4742,7 +6233,10 @@
       "625": "Dr. Ludwig Steiner"
     },
     "first": "Ludwig",
-    "last": "Steiner"
+    "last": "Steiner",
+    "sns": [
+      1895.0
+    ]
   },
   "143": {
     "name": "Washington Irving Stringham",
@@ -4752,7 +6246,11 @@
       "294": "W[ashington]. I[rving]. Stringham"
     },
     "first": "Washington Irving",
-    "last": "Stringham"
+    "last": "Stringham",
+    "sns": [
+      1880.5,
+      1881.0
+    ]
   },
   "741": {
     "name": "Eduard Study",
@@ -4765,7 +6263,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Eduard_Study",
       "wiki-en": "https://en.wikipedia.org/wiki/Eduard_Study"
-    }
+    },
+    "sns": [
+      1882.0,
+      1885.0
+    ]
   },
   "484": {
     "name": "Ernst Sommerfeld",
@@ -4773,7 +6275,10 @@
       "739": "[Ersten Sommerfeld]"
     },
     "first": "Ernst",
-    "last": "Sommerfeldt"
+    "last": "Sommerfeldt",
+    "sns": [
+      1898.5
+    ]
   },
   "535": {
     "name": "Friedrich Stöhr",
@@ -4781,7 +6286,10 @@
       "199": "Fr[iedrich] Stöhr"
     },
     "first": "Friedrich",
-    "last": "Stöhr"
+    "last": "Stöhr",
+    "sns": [
+      1878.4
+    ]
   },
   "867": {
     "name": "Friedrich? Stöhr?",
@@ -4792,7 +6300,12 @@
       "285": "[Friedrich?] Stöhr?"
     },
     "first": "Friedrich?",
-    "last": "Stöhr?"
+    "last": "Stöhr?",
+    "sns": [
+      1877.9,
+      1878.4,
+      1880.5
+    ]
   },
   "283": {
     "name": "Herrmann Rothe",
@@ -4804,7 +6317,10 @@
     "sources": {
       "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
-    "origin": "Wien"
+    "origin": "Wien",
+    "sns": [
+      1906.5
+    ]
   },
   "218": {
     "name": "Antoni Łomnicki?",
@@ -4817,7 +6333,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Antoni Łomnicki",
       "wiki-en": "https://en.wikipedia.org/wiki/Antoni_%C5%81omnicki",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Antoni Łomnicki"
-    }
+    },
+    "sns": [
+      1906.5
+    ]
   },
   "395": {
     "name": "Johannes Wiechmann",
@@ -4829,7 +6348,10 @@
     "sources": {
       "AV 1903.5 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
-    "origin": "Wittmund, Hannover"
+    "origin": "Wittmund, Hannover",
+    "sns": [
+      1903.5
+    ]
   },
   "1144": {
     "name": "John Henry Tanner",
@@ -4839,7 +6361,11 @@
       "630": "J[ohn] H[enry] Tanner"
     },
     "first": "John Henry",
-    "last": "Tanner"
+    "last": "Tanner",
+    "sns": [
+      1894.5,
+      1895.0
+    ]
   },
   "139": {
     "name": "Friedrich Thiersch",
@@ -4847,7 +6373,10 @@
       "749": "Friedrich Thiersch"
     },
     "first": "Friedrich",
-    "last": "Thiersch"
+    "last": "Thiersch",
+    "sns": [
+      1899.0
+    ]
   },
   "190": {
     "name": "Henry Dallas Thompson",
@@ -4857,7 +6386,11 @@
       "490": "H[enry]. D[allas]. Thompson"
     },
     "first": "Henry Dallas",
-    "last": "Thompson"
+    "last": "Thompson",
+    "sns": [
+      1887.5,
+      1888.0
+    ]
   },
   "315": {
     "name": "Paul Thormeyer",
@@ -4866,7 +6399,10 @@
       "952": "P[aul]. Thormeyer"
     },
     "first": "Paul",
-    "last": "Thormeyer"
+    "last": "Thormeyer",
+    "sns": [
+      1904.5
+    ]
   },
   "817": {
     "name": "William Threlfall",
@@ -4878,7 +6414,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/William_Threlfall",
       "wiki-en": "https://en.wikipedia.org/wiki/William Threlfall"
-    }
+    },
+    "sns": [
+      1911.5
+    ]
   },
   "501": {
     "name": "Matvej Tichomaridritzky\\newline Docent an der Universität Charkow.",
@@ -4887,7 +6426,10 @@
     },
     "first": "Matvej",
     "last": "Tichomaridritzky",
-    "name_non_latin": "Матвей Александрович Тихомандрицкий"
+    "name_non_latin": "Матвей Александрович Тихомандрицкий",
+    "sns": [
+      1884.0
+    ]
   },
   "1097": {
     "name": "Wilhelm Tiedge",
@@ -4896,7 +6438,11 @@
       "493": "Wilh[elm] Tiedge"
     },
     "first": "Wilhelm",
-    "last": "Tiedge"
+    "last": "Tiedge",
+    "sns": [
+      1888.0,
+      1888.5
+    ]
   },
   "227": {
     "name": "Enrst Tiedge",
@@ -4909,7 +6455,10 @@
     "sources": {
       "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
-    "origin": "Moers, Rheinland"
+    "origin": "Moers, Rheinland",
+    "sns": [
+      1898.5
+    ]
   },
   "200": {
     "name": "Stepan Prokopowytsch Timoschenko",
@@ -4918,7 +6467,10 @@
     },
     "first": "Stepan Prokopowytsch",
     "last": "Timoschenko",
-    "name_non_latin": "Степан Прокопович Тимошенко"
+    "name_non_latin": "Степан Прокопович Тимошенко",
+    "sns": [
+      1909.0
+    ]
   },
   "699": {
     "name": "Anton Aloys Timpe.",
@@ -4934,7 +6486,12 @@
       "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Anton Aloys Timpe"
     },
-    "origin": "[Hamburg-]Bergedorf"
+    "origin": "[Hamburg-]Bergedorf",
+    "sns": [
+      1903.0,
+      1904.0,
+      1904.5
+    ]
   },
   "794": {
     "name": "Max Toepler",
@@ -4942,7 +6499,10 @@
       "619": "M[ax] Toepler"
     },
     "first": "Max",
-    "last": "Toepler"
+    "last": "Toepler",
+    "sns": [
+      1895.0
+    ]
   },
   "211": {
     "name": "Otto Toeplitz",
@@ -4972,7 +6532,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto_Toeplitz",
       "wiki-en": "https://en.wikipedia.org/wiki/Otto_Toeplitz"
-    }
+    },
+    "sns": [
+      1905.5,
+      1906.5,
+      1909.5
+    ]
   },
   "780": {
     "name": "Edgar Jerome Townsend",
@@ -4985,7 +6550,10 @@
       "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7343"
     },
-    "origin": "Champaign, Illinois, USA"
+    "origin": "Champaign, Illinois, USA",
+    "sns": [
+      1898.5
+    ]
   },
   "849": {
     "name": "Hermann Trommsdorff",
@@ -4993,7 +6561,10 @@
       "1188": "H[ermann]. Trommsdorff"
     },
     "first": "Hermann",
-    "last": "Trommsdorff"
+    "last": "Trommsdorff",
+    "sns": [
+      1912.0
+    ]
   },
   "305": {
     "name": "Joseph H Tudor",
@@ -5001,7 +6572,10 @@
       "542": "Joseph H[]. Tudor"
     },
     "first": "Joseph H",
-    "last": "Tudor"
+    "last": "Tudor",
+    "sns": [
+      1892.0
+    ]
   },
   "768": {
     "name": "Joseph H. Tudor?",
@@ -5009,7 +6583,10 @@
       "533": "Joseph H. Tudor?"
     },
     "first": "Joseph H.",
-    "last": "Tudor?"
+    "last": "Tudor?",
+    "sns": [
+      1892.0
+    ]
   },
   "1152": {
     "name": "Harry Walter Tyler ",
@@ -5017,7 +6594,10 @@
       "492": "H[arry]. W[alter]. Tyler"
     },
     "first": "Harry Walter",
-    "last": "Tyler"
+    "last": "Tyler",
+    "sns": [
+      1888.0
+    ]
   },
   "440": {
     "name": "Bernhard Uffrecht",
@@ -5028,7 +6608,10 @@
     "last": "Uffrecht",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Uffrecht"
-    }
+    },
+    "sns": [
+      1909.5
+    ]
   },
   "221": {
     "name": "P. Unger?",
@@ -5036,7 +6619,10 @@
       "950": "P. Unger?"
     },
     "first": "P.",
-    "last": "Unger?"
+    "last": "Unger?",
+    "sns": [
+      1904.5
+    ]
   },
   "783": {
     "name": "Edward Burr Van Vleok",
@@ -5044,7 +6630,10 @@
       "527": "E[dward]. B[urr]. Van Vleok"
     },
     "first": "Edward Burr",
-    "last": "Van Vleok"
+    "last": "Van Vleok",
+    "sns": [
+      1891.0
+    ]
   },
   "250": {
     "name": "Giuseppe Veronese",
@@ -5058,7 +6647,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Giuseppe_Veronese",
       "wiki-en": "https://en.wikipedia.org/wiki/Giuseppe_Veronese",
       "wiki-it": "https://it.wikipedia.org/wiki/Giuseppe Veronese"
-    }
+    },
+    "sns": [
+      1880.5,
+      1881.0
+    ]
   },
   "673": {
     "name": "Aladar Visnya",
@@ -5067,7 +6660,11 @@
       "1059": "A[ladar] Visnya"
     },
     "first": "Aladar",
-    "last": "Visnya"
+    "last": "Visnya",
+    "sns": [
+      1907.5,
+      1908.0
+    ]
   },
   "453": {
     "name": "Adolfo Viterbi",
@@ -5080,7 +6677,10 @@
       "wiki-it": "https://it.wikipedia.org/wiki/Adolfo_Viterbi",
       "AV 1898.5 S.61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
     },
-    "origin": "Mantua [Mantova], Italien"
+    "origin": "Mantua [Mantova], Italien",
+    "sns": [
+      1898.5
+    ]
   },
   "555": {
     "name": "Peter Vogel",
@@ -5091,7 +6691,11 @@
       "161": "Peter Vogel"
     },
     "first": "Peter",
-    "last": "Vogel"
+    "last": "Vogel",
+    "sns": [
+      1876.9,
+      1877.4
+    ]
   },
   "561": {
     "name": "Paul Voigt",
@@ -5100,7 +6704,10 @@
       "1092": "Paul Voigt"
     },
     "first": "Paul",
-    "last": "Voigt"
+    "last": "Voigt",
+    "sns": [
+      1909.0
+    ]
   },
   "864": {
     "name": "Emil Waelsch",
@@ -5109,11 +6716,14 @@
     },
     "first": "Emil",
     "last": "Waelsch",
-    "sources":{
+    "sources": {
       "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=62350",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html"
     },
-    "origin": "Prag"
+    "origin": "Prag",
+    "sns": [
+      1885.0
+    ]
   },
   "614": {
     "name": "Wilhelm? Wagemann?",
@@ -5121,7 +6731,10 @@
       "963": "Wilh[elm?]. Wagemann?"
     },
     "first": "Wilhelm?",
-    "last": "Wagemann?"
+    "last": "Wagemann?",
+    "sns": [
+      1905.0
+    ]
   },
   "563": {
     "name": "Gotthold Wagner",
@@ -5136,7 +6749,10 @@
       "AV 1908.5 S. 81": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B81%5D%7D",
       "KT foll. 273": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B552%5D%7D"
     },
-    "origin": "Greiz"
+    "origin": "Greiz",
+    "sns": [
+      1908.5
+    ]
   },
   "90": {
     "name": "J. H. Walley",
@@ -5146,11 +6762,13 @@
     "first": "J. H.",
     "last": "Walley",
     "origin": "Gloucester, Engl",
-    "sources" : {
+    "sources": {
       "AV 1897.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
-    }
+    },
+    "sns": [
+      1897.5
+    ]
   },
-
   "316": {
     "name": "Alois Walter",
     "ids_to_signatures": {
@@ -5158,7 +6776,10 @@
     },
     "first": "Alois",
     "last": "Walter",
-    "origin": "Graz"
+    "origin": "Graz",
+    "sns": [
+      1899.0
+    ]
   },
   "115": {
     "name": "Willy Weber",
@@ -5167,7 +6788,10 @@
       "869": "Willy Weber"
     },
     "first": "Willy",
-    "last": "Weber"
+    "last": "Weber",
+    "sns": [
+      1903.0
+    ]
   },
   "999": {
     "name": "W? Wecken?",
@@ -5176,7 +6800,11 @@
       "843": "W[?] Wecken?\\newline stud. math."
     },
     "first": "W?",
-    "last": "Wecken?"
+    "last": "Wecken?",
+    "sns": [
+      1901.5,
+      1902.0
+    ]
   },
   "9": {
     "name": "Ludwig Wedekind",
@@ -5192,7 +6820,13 @@
       "111": "L[udwig] Wedekind"
     },
     "first": "Ludwig",
-    "last": "Wedekind"
+    "last": "Wedekind",
+    "sns": [
+      1873.0,
+      1873.5,
+      1874.5,
+      1875.5
+    ]
   },
   "953": {
     "name": "Charlotte Wedell",
@@ -5204,7 +6838,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Charlotte_Wedell",
       "wiki-en": "https://en.wikipedia.org/wiki/Charlotte_Wedell"
-    }
+    },
+    "sns": [
+      1896.5
+    ]
   },
   "217": {
     "name": "Otto Weerth",
@@ -5217,7 +6854,10 @@
     "last": "Weerth",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto_Weerth"
-    }
+    },
+    "sns": [
+      1872.0
+    ]
   },
   "610": {
     "name": "Emil Wegmann?",
@@ -5225,7 +6865,10 @@
       "723": "Emil Wegmann?"
     },
     "first": "Emil",
-    "last": "Wegmann?"
+    "last": "Wegmann?",
+    "sns": [
+      1898.0
+    ]
   },
   "946": {
     "name": "Guido Weicholdt",
@@ -5238,7 +6881,12 @@
       "355": "G[uido] Weicholdt"
     },
     "first": "Guido",
-    "last": "Weicholdt"
+    "last": "Weicholdt",
+    "sns": [
+      1881.5,
+      1882.0,
+      1882.5
+    ]
   },
   "198": {
     "name": "G Weigand",
@@ -5246,7 +6894,10 @@
       "155": "G[]. Weigand"
     },
     "first": "G",
-    "last": "Weigand"
+    "last": "Weigand",
+    "sns": [
+      1876.4
+    ]
   },
   "885": {
     "name": "Adolf Weiler",
@@ -5259,7 +6910,11 @@
     "last": "Weiler",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Adolf_Weiler"
-    }
+    },
+    "sns": [
+      1872.0,
+      1873.0
+    ]
   },
   "583": {
     "name": "Dr. Hermann Weinreich",
@@ -5267,7 +6922,10 @@
       "1187": "Dr. H[ermann]. Weinreich"
     },
     "first": "Hermann",
-    "last": "Weinreich"
+    "last": "Weinreich",
+    "sns": [
+      1912.0
+    ]
   },
   "800": {
     "name": "Wilhelm Weiß",
@@ -5276,11 +6934,14 @@
     },
     "first": "Wilhelm",
     "last": "Weiß",
-    "sources":{
+    "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Weiss_(mathematician)",
       "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss"
     },
-    "origin": "Prag"
+    "origin": "Prag",
+    "sns": [
+      1885.0
+    ]
   },
   "192": {
     "name": "Paul Wernicke",
@@ -5288,7 +6949,10 @@
       "852": "P[aul] Wernicke"
     },
     "first": "Paul",
-    "last": "Wernicke"
+    "last": "Wernicke",
+    "sns": [
+      1902.5
+    ]
   },
   "490": {
     "name": "J.V.Westfall Wilhelmus David Allen Westfall",
@@ -5296,7 +6960,10 @@
       "674": "J.V.Westfall [Wilhelmus David Allen Westfall]"
     },
     "first": "Wilhelmus David Allen",
-    "last": "Westfall"
+    "last": "Westfall",
+    "sns": [
+      1896.5
+    ]
   },
   "879": {
     "name": "Hermann Weyl",
@@ -5309,7 +6976,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hermann_Weyl",
       "wiki-en": "https://en.wikipedia.org/wiki/Hermann_Weyl"
-    }
+    },
+    "sns": [
+      1909.5
+    ]
   },
   "857": {
     "name": "Henry Seely White",
@@ -5322,7 +6992,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Henry Seely White",
       "wiki-en": "https://en.wikipedia.org/wiki/Henry_Seely_White"
-    }
+    },
+    "sns": [
+      1888.0,
+      1888.5
+    ]
   },
   "472": {
     "name": "James Kelsey Whittemore",
@@ -5334,7 +7008,10 @@
     "sources": {
       "AV 1898.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
     },
-    "origin": "Boston, Massachusetts, USA"
+    "origin": "Boston, Massachusetts, USA",
+    "sns": [
+      1898.5
+    ]
   },
   "515": {
     "name": "Robert Wiebrecht",
@@ -5345,7 +7022,12 @@
       "545": "R[obert] Wiebrecht"
     },
     "first": "Robert",
-    "last": "Wiebrecht"
+    "last": "Wiebrecht",
+    "sns": [
+      1892.0,
+      1892.5,
+      1893.0
+    ]
   },
   "889": {
     "name": "Wilhelm Wiechern.",
@@ -5353,7 +7035,10 @@
       "1144": "Wilh[elm]. Wiechern."
     },
     "first": "Wilhelm",
-    "last": "Wiechern"
+    "last": "Wiechern",
+    "sns": [
+      1910.5
+    ]
   },
   "324": {
     "name": "Emil? Wiechert",
@@ -5361,7 +7046,10 @@
       "1070": "[[Emil?] Wiechert]"
     },
     "first": "Emil?",
-    "last": "Wiechert"
+    "last": "Wiechert",
+    "sns": [
+      1908.0
+    ]
   },
   "1050": {
     "name": "Karl Wieghardt",
@@ -5380,7 +7068,12 @@
     "last": "Wieghardt",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Karl Wieghardt (Mathematiker)"
-    }
+    },
+    "sns": [
+      1900.0,
+      1903.0,
+      1903.5
+    ]
   },
   "426": {
     "name": "Hermann Wiener",
@@ -5394,7 +7087,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hermann_Wiener",
       "wiki-en": "https://en.wikipedia.org/wiki/Hermann_Wiener"
-    }
+    },
+    "sns": [
+      1881.5,
+      1882.0
+    ]
   },
   "210": {
     "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
@@ -5403,7 +7100,11 @@
       "459": "J[oseph]. v[on]. Kowalski"
     },
     "first": "Józef [Joseph]",
-    "last": "Wierusz-Kowalski [von Kowalski]"
+    "last": "Wierusz-Kowalski [von Kowalski]",
+    "sns": [
+      1886.0,
+      1886.5
+    ]
   },
   "411": {
     "name": "Julius Wigger",
@@ -5411,7 +7112,10 @@
       "587": "Julius Wigger"
     },
     "first": "Julius",
-    "last": "Wigger"
+    "last": "Wigger",
+    "sns": [
+      1894.0
+    ]
   },
   "662": {
     "name": "Fritz Wilde",
@@ -5424,7 +7128,11 @@
     "sources": {
       "AV 1898.5 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B63%5D%7D"
     },
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "sns": [
+      1898.5,
+      1899.5
+    ]
   },
   "788": {
     "name": "Franz Willers",
@@ -5433,7 +7141,11 @@
       "677": "Franz Willers"
     },
     "first": "Franz",
-    "last": "Willers"
+    "last": "Willers",
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "1012": {
     "name": "Max Winkelmann",
@@ -5444,7 +7156,12 @@
       "807": "M[ax] Winkelmann."
     },
     "first": "Max",
-    "last": "Winkelmann"
+    "last": "Winkelmann",
+    "sns": [
+      1901.0,
+      1901.5,
+      1902.0
+    ]
   },
   "383": {
     "name": "Mary Frances Winston",
@@ -5459,7 +7176,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Mary Winston Newson",
       "wiki-en": "https://en.wikipedia.org/wiki/Mary_Frances_Winston_Newson"
-    }
+    },
+    "sns": [
+      1893.5,
+      1894.0,
+      1894.5,
+      1895.0
+    ]
   },
   "872": {
     "name": "H? Winter?",
@@ -5467,7 +7190,10 @@
       "847": "H[?]. Winter?"
     },
     "first": "H?",
-    "last": "Winter?"
+    "last": "Winter?",
+    "sns": [
+      1902.5
+    ]
   },
   "850": {
     "name": "K. Wirtz",
@@ -5476,7 +7202,11 @@
       "448": "K. Wirtz"
     },
     "first": "K.",
-    "last": "Wirtz"
+    "last": "Wirtz",
+    "sns": [
+      1885.5,
+      1886.0
+    ]
   },
   "392": {
     "name": "Alexander Witting",
@@ -5492,7 +7222,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Alexander_Witting",
       "wiki-en": "https://en.wikipedia.org/wiki/Alexander_Witting"
-    }
+    },
+    "sns": [
+      1885.0,
+      1885.5,
+      1886.0
+    ]
   },
   "156": {
     "name": "Alexej Konstantinowitsch Wlassoff",
@@ -5501,7 +7236,10 @@
     },
     "first": "Alexej Konstantinowitsch",
     "last": "Wlassoff",
-    "name_non_latin": "Алексей Константинович Власов"
+    "name_non_latin": "Алексей Константинович Власов",
+    "sns": [
+      1904.0
+    ]
   },
   "1036": {
     "name": "Christoph Wolff",
@@ -5511,7 +7249,11 @@
       "189": "Christoph Wolff"
     },
     "first": "Christoph",
-    "last": "Wolff"
+    "last": "Wolff",
+    "sns": [
+      1877.9,
+      1878.4
+    ]
   },
   "1047": {
     "name": "Ernst Wolfhagen?",
@@ -5520,7 +7262,11 @@
       "884": "Ernst Wolfhagen?"
     },
     "first": "Ernst",
-    "last": "Wolfhagen?"
+    "last": "Wolfhagen?",
+    "sns": [
+      1901.5,
+      1903.0
+    ]
   },
   "1001": {
     "name": "Frederick Shenstone Woods",
@@ -5530,7 +7276,11 @@
       "568": "F[rederick] S[henstone] Woods"
     },
     "first": "Frederick",
-    "last": "Woods"
+    "last": "Woods",
+    "sns": [
+      1892.5,
+      1893.5
+    ]
   },
   "980": {
     "name": "Takuji Yoshiye",
@@ -5539,7 +7289,10 @@
     },
     "first": "Takuji",
     "last": "Yoshiye",
-    "name_non_latin": "吉江琢兒"
+    "name_non_latin": "吉江琢兒",
+    "sns": [
+      1899.5
+    ]
   },
   "1085": {
     "name": "Mrs Grace Young geb.Chisholm?",
@@ -5547,7 +7300,10 @@
       "695": "[Mrs [Grace] Young [geb.Chisholm?]]"
     },
     "first": "Grace",
-    "last": "Young"
+    "last": "Young",
+    "sns": [
+      1897.5
+    ]
   },
   "174": {
     "name": "Everett I. Yowell",
@@ -5555,7 +7311,10 @@
       "634": "Everett I[rving?]. Yowell"
     },
     "first": "Everett Irving?",
-    "last": "Yowell"
+    "last": "Yowell",
+    "sns": [
+      1895.0
+    ]
   },
   "1153": {
     "name": "Dr. Rudolf Zahler.",
@@ -5563,7 +7322,10 @@
       "881": "Dr. Rudolf Zahler."
     },
     "first": "Rudolf",
-    "last": "Zahler"
+    "last": "Zahler",
+    "sns": [
+      1903.0
+    ]
   },
   "454": {
     "name": "Anton Zeilbehr",
@@ -5572,7 +7334,10 @@
       "190": "[unleserliches Kürzel:q.e.d?]A[nton]. Zeilbehr"
     },
     "first": "Anton",
-    "last": "Zeilbehr"
+    "last": "Zeilbehr",
+    "sns": [
+      1877.9
+    ]
   },
   "670": {
     "name": "Győző Zemplén",
@@ -5586,7 +7351,10 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
       "wiki-en": "https://en.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
       "wiki-hu": "https://hu.wikipedia.org/wiki/Zemplén Győző"
-    }
+    },
+    "sns": [
+      1904.5
+    ]
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -5600,7 +7368,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Zermelo",
       "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Zermelo"
-    }
+    },
+    "sns": [
+      1897.5
+    ]
   },
   "371": {
     "name": "Otto Zoll.",
@@ -5608,7 +7379,10 @@
       "748": "O[tto] Zoll."
     },
     "first": "Otto",
-    "last": "Zoll"
+    "last": "Zoll",
+    "sns": [
+      1899.0
+    ]
   },
   "346": {
     "name": "Theodor Zorn",
@@ -5616,7 +7390,10 @@
       "1105": "[[Theodor] Zorn]"
     },
     "first": "Theodor",
-    "last": "Zorn"
+    "last": "Zorn",
+    "sns": [
+      1911.0
+    ]
   },
   "938": {
     "name": "Theo Zorn.",
@@ -5625,7 +7402,10 @@
       "1191": "Theo Zorn"
     },
     "first": "Theo",
-    "last": "Zorn"
+    "last": "Zorn",
+    "sns": [
+      1912.0
+    ]
   },
   "273": {
     "name": "Richard Suppantschitsch [Rihard Zupančič]",
@@ -5638,7 +7418,10 @@
       "wiki-sl": "https://sl.wikipedia.org/wiki/Rihard_Zupan%C4%8Di%C4%8D",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Rihard Zupančič",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Rihard_Zupan%C4%8Di%C4%8D"
-    }
+    },
+    "sns": [
+      1910.5
+    ]
   },
   "389": {
     "name": "Walther Zurhellen, stud. astr.",
@@ -5647,7 +7430,11 @@
       "815": "Walther Zurhellen\\newline stud. astr."
     },
     "first": "Walther",
-    "last": "Zurhellen"
+    "last": "Zurhellen",
+    "sns": [
+      1901.0,
+      1901.5
+    ]
   },
   "62": {
     "name": "A?? nicht Otto oder Paul? Zühlke",
@@ -5655,7 +7442,10 @@
       "785": "A[??]. [nicht Otto oder Paul?] Zühlke"
     },
     "first": "A??",
-    "last": "Zühlke"
+    "last": "Zühlke",
+    "sns": [
+      1900.0
+    ]
   },
   "16": {
     "name": "Walther [später: von] Dyck",
@@ -5680,7 +7470,18 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Walther_von_Dyck",
       "wiki-en": "https://en.wikipedia.org/wiki/Walther von Dyck"
-    }
+    },
+    "sns": [
+      1875.5,
+      1876.5,
+      1877.0,
+      1878.5,
+      1879.0,
+      1879.5,
+      1880.0,
+      1880.5,
+      1883.0
+    ]
   },
   "854": {
     "name": "Ferdinand [später: von]Lindemann",
@@ -5710,7 +7511,15 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ferdinand_von_Lindemann",
       "wiki-en": "https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann"
-    }
+    },
+    "sns": [
+      1873.0,
+      1873.5,
+      1874.0,
+      1874.5,
+      1875.0,
+      1875.5
+    ]
   },
   "994": {
     "name": "E??. v. Grienburg?",
@@ -5718,7 +7527,10 @@
       "943": "E[?]?. v. Grienburg?"
     },
     "first": "",
-    "last": "v. Grienburg?"
+    "last": "v. Grienburg?",
+    "sns": [
+      1904.5
+    ]
   },
   "1052": {
     "name": "N? v. Zitowitsch",
@@ -5726,7 +7538,10 @@
       "710": "N[?]. v. Zitowitsch"
     },
     "first": "N",
-    "last": "v. Zitowitsch"
+    "last": "v. Zitowitsch",
+    "sns": [
+      1898.0
+    ]
   },
   "291": {
     "name": "Helene von Bortkewitsch",
@@ -5735,7 +7550,11 @@
       "643": "Helene v[on]. Bortkewitsch"
     },
     "first": "Helene",
-    "last": "von Bortkewitsch"
+    "last": "von Bortkewitsch",
+    "sns": [
+      1895.0,
+      1895.5
+    ]
   },
   "423": {
     "name": "Anton von Braunmühl",
@@ -5755,7 +7574,14 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anton von Braunmühl (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Anton_von_Braunm%C3%BChl"
-    }
+    },
+    "sns": [
+      1876.9,
+      1877.4,
+      1877.5,
+      1878.0,
+      1878.5
+    ]
   },
   "1076": {
     "name": "Alexander später: von Brill",
@@ -5769,7 +7595,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Alexander von Brill",
       "wiki-en": "https://en.wikipedia.org/wiki/Alexander von Brill"
-    }
+    },
+    "sns": [
+      1875.0,
+      1875.5
+    ]
   },
   "592": {
     "name": "Albert von Brunn",
@@ -5781,7 +7611,11 @@
     "last": "von Brunn",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Albert von Brunn (Astronom)"
-    }
+    },
+    "sns": [
+      1902.0,
+      1904.0
+    ]
   },
   "704": {
     "name": "Franz von Krieg",
@@ -5789,7 +7623,10 @@
       "382": "F[ranz]. v[on]. Krieg"
     },
     "first": "Franz",
-    "last": "von Krieg"
+    "last": "von Krieg",
+    "sns": [
+      1883.5
+    ]
   },
   "870": {
     "name": "Theodore von Kármán",
@@ -5805,7 +7642,11 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Theodore von Kármán",
       "wiki-en": "https://en.wikipedia.org/wiki/Theodore von Kármán",
       "wiki-hu": "https://hu.wikipedia.org/wiki/Kármán Tódor"
-    }
+    },
+    "sns": [
+      1907.5,
+      1909.0
+    ]
   },
   "532": {
     "name": "Dr. Max von Laue",
@@ -5818,7 +7659,10 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max_von_Laue",
       "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue"
-    }
+    },
+    "sns": [
+      1903.5
+    ]
   },
   "1187": {
     "name": "Wladimir von Philippow",
@@ -5831,7 +7675,10 @@
     "origin": "St. Petersburg, Rußland",
     "sources": {
       "AV 1909.0 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
-    }
+    },
+    "sns": [
+      1909.0
+    ]
   },
   "937": {
     "name": "Hans von Schaper",
@@ -5842,7 +7689,11 @@
       "684": "H[ans] v[on]. Schaper."
     },
     "first": "Hans",
-    "last": "von Schaper"
+    "last": "von Schaper",
+    "sns": [
+      1896.5,
+      1897.0
+    ]
   },
   "307": {
     "name": "Alexandra von Stebnitzky",
@@ -5851,7 +7702,11 @@
       "641": "Alexandra v[on]. Stebnitzky"
     },
     "first": "Alexandra",
-    "last": "von Stebnitzky"
+    "last": "von Stebnitzky",
+    "sns": [
+      1895.0,
+      1895.5
+    ]
   },
   "466": {
     "name": "Kazimierz Żorawski",
@@ -5864,6 +7719,9 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Kazimierz_%C5%BBorawski",
       "wiki-en": "https://en.wikipedia.org/wiki/Kazimierz Żorawski",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Kazimierz Żorawski"
-    }
+    },
+    "sns": [
+      1891.0
+    ]
   }
 }
