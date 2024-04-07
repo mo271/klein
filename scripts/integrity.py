@@ -14,7 +14,7 @@ def js_obj_to_py_dict(file_path, start_line, end_line):
         for i, line in enumerate(file, 1):
             if start_line <= i <= end_line:
                 js_data += line
-    py_data = js_data.replace("let semesters =", "").replace("\n", "").replace(";","")
+    py_data = js_data.replace("let semester_titles =", "").replace("\n", "").replace(";","")
     try:
         py_dict = ast.literal_eval(py_data)
         return py_dict

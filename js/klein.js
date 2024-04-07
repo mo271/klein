@@ -4,7 +4,7 @@ let protokolle = [];
 // Define the variable that will hold data from teilnehmer.json
 let teilnehmer = [];
 
-let semesters = {
+let semester_titles = {
   "1872.0": ["Sommersemester 1872", "Seminar (mit Clebsch zusammen) über verschiedene, hauptsächlich geometrische Gegenstände"],
   "1872.5": ["Wintersemester 1872/73", "Seminar über verschiedene Gegenstände"],
   "1873.0": ["Sommersemester 1873", "Seminar über verschiedene Gegenstände der Geometrie und Algebra"],
@@ -396,9 +396,9 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 		}).join(', ') : '';
 
 		origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
-
+		console.log(semester_titles);
 		let semesters = record.sns
-			.map(semester => `<a href="#sn-${semester}">${semester}</a>`)
+			.map(semester => `<a href="#sn-${semester}">${semester_titles[semester.toFixed(1)][0].replace("Wintersemester", "WS").replace("Sommersemester", "SS")}</a>`)
 			.join(', ');
 
 		li = '<li class="' + cssClass + '"><div><p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">Vorträge: ' + talks + ', Semester: ' + semesters + '</p></div></li>';
