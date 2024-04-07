@@ -3,7 +3,25 @@
 # python3 ./scripts/integrity.py
 
 import json
+import ast
 from datetime import datetime
+
+
+def js_obj_to_py_dict(file_path, start_line, end_line):
+    """Reads a JS object from a file and converts it into a Python dictionary."""
+    js_data = ''
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for i, line in enumerate(file, 1):
+            if start_line <= i <= end_line:
+                js_data += line
+    py_data = js_data.replace("let semesters =", "").replace("\n", "").replace(";","")
+    try:
+        py_dict = ast.literal_eval(py_data)
+        return py_dict
+    except SyntaxError as e:
+        print(f"Error converting JS object to Python dict: {e}")
+        return {}
+
 
 
 def is_valid_date(date_string):
@@ -75,6 +93,8 @@ def get_sns(prot_data, prot_ids):
     return list(map(lambda x: get_sn(prot_data, x), prot_ids))
 
 def test_valid_seminar_numbers(teil_data, prot_data, errors):
+    semester_dict = js_obj_to_py_dict('./js/klein.js', 7, 91)
+    print(semester_dict.keys())
     for teilnehmer_key, teilnehmer in teil_data.items():
         if "ids_to_signatures" in teilnehmer:
 
@@ -86,7 +106,9 @@ def test_valid_seminar_numbers(teil_data, prot_data, errors):
             if not set(sns) <= set(teilnehmer["sns"]):
                 errors.append(
                     f"not enough seminar numbers for teilnehmer {teilnehmer_key} : {sns} versus {teilnehmer['sns']}")
-
+            for sn in teilnehmer["sns"]:
+                if str(sn) not in semester_dict:
+                    errors.append(f"unknown seminar number for teilnehmer {teilnehmer_key}: {sn=}")
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
@@ -107,6 +129,7 @@ def test_structure_teilnehmer_dict(teil_data, errors):
             elif key == 'sources':
                 if type(val)!= dict:
                     errors.append(f"unexpected type: {val=}")
+
 
 
 def test_struture_protokolle_dict(prot_data, teil_data, errors):
