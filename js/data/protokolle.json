@@ -3496,8 +3496,8 @@
     "sok": true,
     "datum": "1879-11-22",
     "dok": true,
-    "titel": "[Ueber singuläre Specialgruppen [Fortsetzung]]",
-    "ktitel": "",
+    "titel": "",
+    "ktitel": "Ueber singuläre Specialgruppen [Fortsetzung]",
     "speaker": [
       55
     ]
@@ -3538,8 +3538,8 @@
     "sok": true,
     "datum": "1879-12-13",
     "dok": true,
-    "titel": "[Der Quaternionencalcul [Fortsetzung]]",
-    "ktitel": "",
+    "titel": "",
+    "ktitel": "Der Quaternionencalcul [Fortsetzung]",
     "speaker": [
       1041
     ]
