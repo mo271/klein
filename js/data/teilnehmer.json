@@ -49,12 +49,15 @@
     ]
   },
   "425": {
-    "name": "Franz Adami?",
+    "name": "Franz Adami",
     "ids_to_signatures": {
-      "159": "Franz Adami?"
+      "159": "Franz Adami"
     },
     "first": "Franz",
-    "last": "Adami?",
+    "last": "Adami",
+    "sources": {
+      "KT S. 71": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B71%5D%7D",
+    },
     "sns": [
       1876.4
     ]
@@ -1613,6 +1616,11 @@
     },
     "first": "Gottlob",
     "last": "Fischer",
+    "sources":{
+      "KT S. 71": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B71%5D%7D",
+      "KT S. 102":  "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B102%5D%7D"
+    },
+    "origin": "Erlangen",
     "sns": [
       1876.4,
       1876.5
@@ -2519,13 +2527,16 @@
     ]
   },
   "413": {
-    "name": "Wilhelm?. Hecht?",
+    "name": "Wilhelm Hecht",
     "ids_to_signatures": {
-      "152": "Wilh[elm]?. Hecht?",
-      "158": "Wilh[elm]? Hecht?"
+      "152": "Wilh[elm]. Hecht",
+      "158": "Wilh[elm] Hecht"
     },
-    "first": "Wilhelm?.",
-    "last": "Hecht?",
+    "first": "Wilhelm",
+    "last": "Hecht",
+    "sources":{
+      "KT S. 102": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B102%5D%7D","
+    },
     "sns": [
       1876.4
     ]
@@ -3798,12 +3809,16 @@
     ]
   },
   "236": {
-    "name": "W? Küffner",
+    "name": "Wolfang Küffner",
     "ids_to_signatures": {
-      "153": "W[?]. Küffner"
+      "153": "W[olfgang]. Küffner"
     },
-    "first": "W?",
+    "first": "Wolfang",
     "last": "Küffner",
+    "sources":{
+      "KT S. 102": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B102%5D%7D",
+    },
+    "origin": "Kulmbach",
     "sns": [
       1876.4
     ]
@@ -6896,12 +6911,16 @@
     ]
   },
   "198": {
-    "name": "G Weigand",
+    "name": "Georg Weigand",
     "ids_to_signatures": {
-      "155": "G[]. Weigand"
+      "155": "G[eorg]. Weigand"
     },
-    "first": "G",
+    "first": "Georg",
     "last": "Weigand",
+    "sources":{
+      "KT S. 102": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B102%5D%7D",
+    },
+    "origin": "Speier [Speyer]",
     "sns": [
       1876.4
     ]
