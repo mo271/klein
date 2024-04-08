@@ -1937,14 +1937,19 @@
     ]
   },
   "1026": {
-    "name": "Brunel Georges",
+    "name": "Georges Brunel",
     "ids_to_signatures": {
       "279": "Brunel G[eorges]",
       "284": "Brunel G[eorges]",
       "291": "Brunel G[eorges]"
     },
-    "first": "Brunel",
-    "last": "Georges",
+    "first": "Georges",
+    "last": "Brunel",
+    "sources" :{
+      "wiki-de": "https://de.wikipedia.org/wiki/Georges_Brunel",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Georges_Brunel_(math%C3%A9maticien)"
+    },
+    "origin": "Abbeville, Frankreich",
     "sns": [
       1880.5,
       1881.0
