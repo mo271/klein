@@ -3,6 +3,7 @@
     "name": "[Kein Vortragender]",
     "ids_to_signatures": {
       "241": "",
+      "253": "",
       "273": "",
       "324": "",
       "582": "[Vortrag vermutlich ausgefallen]",
@@ -14,6 +15,7 @@
     "last": "Κein Vortragender",
     "sns": [
       1879.0,
+      1879.5,
       1880.5,
       1882.0,
       1893.5,
@@ -3618,7 +3620,7 @@
     "name": "Ludvík [Ludwig] Kraus",
     "ids_to_signatures": {
       "220": "Lud[vík]. Kraus",
-      "228": "Lud[vík]. Kraus?",
+      "228": "Lud[vík]. Kraus",
       "231": "Lud[vík] Kraus",
       "239": "Lud[vík] Kraus",
       "247": "Lud[vík]. Kraus",

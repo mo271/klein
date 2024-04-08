@@ -3314,7 +3314,7 @@
     "sok": false,
     "datum": "1879-05-12",
     "dok": true,
-    "titel": "",
+    "titel": "[Ueber regulär verzweigte Flächen [Fortsetzung]]",
     "ktitel": "",
     "speaker": [
       16
@@ -3342,7 +3342,7 @@
     "sok": true,
     "datum": "1879-05-26",
     "dok": true,
-    "titel": "",
+    "titel": "[Ueber Kronecker'sche Relationen [Fortsetzung]]",
     "ktitel": "",
     "speaker": [
       238
@@ -3496,8 +3496,8 @@
     "sok": true,
     "datum": "1879-11-22",
     "dok": true,
-    "titel": "Es wurden die Fälle $p=3,4,5$ discutirt.",
-    "ktitel": "",
+    "titel": "",
+    "ktitel": "Ueber singuläre Specialgruppen [Fortsetzung]",
     "speaker": [
       55
     ]
@@ -3539,7 +3539,7 @@
     "datum": "1879-12-13",
     "dok": true,
     "titel": "",
-    "ktitel": "",
+    "ktitel": "Der Quaternionencalcul [Fortsetzung]",
     "speaker": [
       1041
     ]
@@ -3569,7 +3569,7 @@
     "titel": "Freie Beschprechung über neuere Literatur und sich anschliessende Fragen.",
     "ktitel": "",
     "speaker": [
-      940
+      121
     ]
   },
   {
@@ -3594,7 +3594,7 @@
     "sok": true,
     "datum": "1880-01-24",
     "dok": true,
-    "titel": "Über die Krümmung der Flächen und den Satz von [Julius] Weingarten",
+    "titel": "Über die Krümmung der Flächen und den Satz von [Julius] Weingarten [Fortsetzung]",
     "ktitel": "",
     "speaker": [
       591
@@ -3608,7 +3608,7 @@
     "sok": true,
     "datum": "1880-01-31",
     "dok": true,
-    "titel": "Úeber die Bewegungen im Nicht-Euklidischen Raume.",
+    "titel": "Ueber die Bewegungen im Nicht-Euklidischen Raume.",
     "ktitel": "",
     "speaker": [
       940
@@ -3620,8 +3620,8 @@
     "sn": 1879.5,
     "seite": 101,
     "sok": true,
-    "datum": "  [7/02/1880]",
-    "dok": false,
+    "datum": "1880-02-07",
+    "dok": true,
     "titel": "Nachtrag zum Vorstehenden",
     "ktitel": "",
     "speaker": [
