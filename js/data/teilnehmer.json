@@ -590,10 +590,15 @@
     },
     "first": "Paul",
     "last": "Biedermann",
+    "sources": {
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
+    },
     "sns": [
       1883.5,
       1884.0,
-      1884.5
+      1884.5,
+      1885.0
     ]
   },
   "1138": {
@@ -1043,9 +1048,13 @@
       "430": "Adolf Böttger",
       "441": "Adolf Böttger"
     },
+    "sources": {
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
     "first": "Adolf",
     "last": "Böttger",
     "sns": [
+      1884.5,
       1885.0,
       1885.5
     ]
@@ -1323,10 +1332,12 @@
     "last": "Dingeldey",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Dingeldey",
-      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Dingeldey"
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Dingeldey",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
     "sns": [
-      1881.5
+      1881.5,
+      1885.0
     ]
   },
   "118": {
@@ -1338,10 +1349,14 @@
     },
     "first": "Paul",
     "last": "Domsch",
+    "sources":{
+      "P Bd. 6 S. 252": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p252_normal.jpg"
+    },
     "sns": [
       1882.5,
       1883.0,
-      1883.5
+      1883.5,
+      1884.0
     ]
   },
   "894": {
@@ -1446,10 +1461,10 @@
     ]
   },
   "503": {
-    "name": "Friedrich Engel\\newline Dr. phil",
+    "name": "Friedrich Engel",
     "ids_to_signatures": {
-      "397": "Friedrich Engel\\newline Dr. phil",
-      "400": "F. Engel\\newline Dr. phil."
+      "397": "Friedrich Engel Dr. phil",
+      "400": "F[riedrich]. Engel  Dr. phil."
     },
     "first": "Friedrich",
     "last": "Engel",
@@ -1587,11 +1602,13 @@
     "last": "Fiedler",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Ernst_Fiedler",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Ernst Fiedler"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Ernst Fiedler",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
     "sns": [
       1884.0,
-      1884.5
+      1884.5,
+      1885.0
     ]
   },
   "269": {
@@ -1637,10 +1654,14 @@
     },
     "first": "Otto",
     "last": "Fischer",
+    "sources": {
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
     "sns": [
       1883.0,
       1883.5,
-      1884.0
+      1884.0,
+      1884.5
     ]
   },
   "1192": {
@@ -1755,12 +1776,14 @@
     "last": "Fricke",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Robert Fricke (Mathematiker)",
-      "wiki-en": "https://en.wikipedia.org/wiki/Robert_Fricke"
+      "wiki-en": "https://en.wikipedia.org/wiki/Robert_Fricke",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
     "sns": [
       1883.5,
       1884.0,
-      1884.5
+      1884.5,
+      1885.0
     ]
   },
   "380": {
@@ -1773,11 +1796,15 @@
     },
     "first": "Georg",
     "last": "Friedrich",
+    "sources": {
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
+    },
     "sns": [
       1883.0,
       1883.5,
       1884.0,
-      1884.5
+      1884.5,
+      1885.0
     ]
   },
   "548": {
@@ -2657,9 +2684,11 @@
     "last": "Herrmann",
     "origin": "Eberbach?",
     "sources": {
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
       "KT foll. 142": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B292%5D%7D"
     },
     "sns": [
+      1885.0,
       1885.5
     ]
   },
@@ -2747,7 +2776,11 @@
     },
     "first": "Rudolf",
     "last": "Hildebrand",
+    "sources":{
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
+    },
     "sns": [
+      1880.0,
       1885.5
     ]
   },
@@ -3043,7 +3076,11 @@
     },
     "first": "Georg",
     "last": "Höckner",
+    "sources": {
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
+    },
     "sns": [
+      1885.0,
       1885.5
     ]
   },
@@ -3879,10 +3916,14 @@
     },
     "first": "Ernst",
     "last": "Lange",
+    "sources":{
+      "P Bd. 4 S. 223": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V04-1882-1883/V4-p223_normal.jpg"
+    },
     "sns": [
       1880.5,
       1881.0,
-      1881.5
+      1881.5,
+      1882.0
     ]
   },
   "302": {
@@ -4537,11 +4578,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Theodor_Molien",
       "wiki-en": "https://en.wikipedia.org/wiki/Theodor_Molien",
-      "wiki-ru": "https://ru.wikipedia.org/wiki/Молин, Фёдор Эдуардович"
+      "wiki-ru": "https://ru.wikipedia.org/wiki/Молин, Фёдор Эдуардович",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
     "sns": [
       1883.5,
       1884.0,
+      1884.5,
       1887.0
     ]
   },
@@ -4566,9 +4609,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Giacinto_Morera",
       "wiki-en": "https://en.wikipedia.org/wiki/Giacinto_Morera",
-      "wiki-it": "https://it.wikipedia.org/wiki/Giacinto Morera"
+      "wiki-it": "https://it.wikipedia.org/wiki/Giacinto Morera",
+      "P Bd. 5. S. 323": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V05-1883-1884/V5-p323_normal.jpg"
     },
     "sns": [
+      1883.5,
       1884.0
     ]
   },
@@ -4726,10 +4771,14 @@
     },
     "first": "Paul",
     "last": "Nimsch",
+    "sources": {
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
     "sns": [
       1883.0,
       1883.5,
-      1884.0
+      1884.0,
+      1884.5
     ]
   },
   "317": {
@@ -4772,9 +4821,13 @@
     },
     "first": "Richard",
     "last": "Olbricht",
+    "sources": {
+      "P Bd. 6 S. 252": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p252_normal.jpg"
+    },
     "sns": [
       1883.0,
-      1883.5
+      1883.5,
+      1884.0
     ]
   },
   "814": {
@@ -4871,7 +4924,7 @@
     ]
   },
   "593": {
-    "name": "Dr. Erwin Papperitz",
+    "name": "Erwin Papperitz",
     "ids_to_signatures": {
       "365": "Dr. [Erwin] Papperitz",
       "370": "Dr. [Erwin] Papperitz",
@@ -4883,12 +4936,14 @@
     "first": "Erwin",
     "last": "Papperitz",
     "sources": {
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Erwin_Papperitz"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Erwin_Papperitz",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
     "sns": [
       1883.0,
       1883.5,
       1884.0,
+      1884.5,
       1885.0
     ]
   },
@@ -5230,16 +5285,22 @@
     ]
   },
   "1078": {
-    "name": "Gustav Raussnitz Gustáv Rados",
+    "name": "Gustav Raussnitz [Gusztáv Rados]",
     "ids_to_signatures": {
-      "417": "Gustav Raussnitz [Gustáv Rados]",
-      "424": "Gustav Raussnitz [Gustáv Rados]",
-      "425": "Gustav Raussnitz [Gustáv Rados]",
-      "426": "Gustav Raussnitz [Gustáv Rados]"
+      "417": "Gustav Raussnitz [Gusztáv Rados]",
+      "424": "Gustav Raussnitz [Gusztáv Rados]",
+      "425": "Gustav Raussnitz [Gusztáv Rados]",
+      "426": "Gustav Raussnitz [Gusztáv Rados]"
     },
-    "first": "Gustáv",
-    "last": "Rados",
+    "first": "Gustav [Gusztáv]",
+    "last": "Raussnitz [Rados]",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Gustav_Rados",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Rados_Guszt%C3%A1v",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
     "sns": [
+      1884.5,
       1885.0
     ]
   },
@@ -6740,10 +6801,12 @@
     "last": "Waelsch",
     "sources": {
       "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=62350",
-      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html"
+      "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
     "origin": "Prag",
     "sns": [
+      1884.5,
       1885.0
     ]
   },
@@ -6962,10 +7025,12 @@
     "last": "Weiß",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Wilhelm_Weiss_(mathematician)",
-      "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss"
+      "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
     "origin": "Prag",
     "sns": [
+      1884.5,
       1885.0
     ]
   },
@@ -7229,7 +7294,11 @@
     },
     "first": "K.",
     "last": "Wirtz",
+    "sources":{
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
+    },
     "sns": [
+      1885.0,
       1885.5,
       1886.0
     ]
@@ -7765,5 +7834,65 @@
         1881.5,
         1882.0
       ]
+  },
+  "123": {
+    "name": "Hans Cornelius",
+    "ids_to_signatures": {},
+    "first": "Hans",
+    "last": "Cornelius",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Cornelius",
+      "TO 2021 S. 231": "",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
+    "sns": [
+      1884.5
+    ]
+  },
+  "125": {
+    "name": "Ludwig von Struve",
+    "ids_to_signatures": {},
+    "first": "Ludiwg",
+    "last": "von Struve",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_von_Struve",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B2%D0%B5,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3_%D0%9E%D1%82%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "TO 2021 S. 231": "",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
+    "origin": "St. Petersburg, Russland",
+    "sns": [
+      1884.5
+    ]
+  },
+  "128": {
+    "name": "Frank Nelson Cole",
+    "ids_to_signatures": {},
+    "first": "Frank Nelson",
+    "last": "Cole",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Frank_Nelson_Cole",
+      "wiki-en": "https://en.wikipedia.org/wiki/Frank_Nelson_Cole",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "TO 2021 S. 231": ""
+    },
+    "sns" : [
+      1885.0
+    ]
+  },
+  "129": {
+    "name": "Henry Burchard Fine",
+    "ids_to_signatures": {},
+    "first": "Henry Burchard",
+    "last": "Fine",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Burchard_Fine",
+      "wiki-de": "https://de.wikipedia.org/wiki/Henry_Fine",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "TO 2021 S. 231": ""
+    },
+    "sns" : [
+      1885.0
+    ]
   }
 }
