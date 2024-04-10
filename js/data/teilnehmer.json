@@ -2508,12 +2508,16 @@
     "last": "Haskell",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Mellen Woodman Haskell",
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Mellen_Woodman_Haskell"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Mellen_Woodman_Haskell",
+      "P Bd. 9 S. 271ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p271_normal.jpg"
     },
     "sns": [
       1886.0,
       1886.5,
-      1887.4
+      1887.4,
+      1887.5,
+      1888.0,
+      1888.5
     ]
   },
   "729": {
@@ -7894,5 +7898,17 @@
     "sns" : [
       1885.0
     ]
+  },
+  "133": {
+    "name": "Ernesto Pascal",
+    "ids_to_signatures": {},
+    "first": "Ernesto",
+    "last": "Pascal" ,
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernesto_Pascal",
+      "wiki-it": "https://it.wikipedia.org/wiki/Ernesto_Pascal",
+      "P Bd. 9 S. 274": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p274_normal.jpg"
+    },
+    "origin": "Neapel, Italien"
   }
 }
