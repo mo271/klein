@@ -7923,6 +7923,8 @@
     "first": "Paul",
     "last": "Painlevé",
     "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Painlev%C3%A9",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Painlev%C3%A9",
       "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
       "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
     },
