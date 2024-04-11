@@ -1618,9 +1618,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gino_Fano",
       "wiki-en": "https://en.wikipedia.org/wiki/Gino Fano",
-      "wiki-it": "https://it.wikipedia.org/wiki/Gino Fano"
+      "wiki-it": "https://it.wikipedia.org/wiki/Gino Fano",
+      "P Bd. 11 S. 348": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p348_low.jpg"
     },
     "sns": [
+      1893.5,
       1894.0
     ]
   },
@@ -3354,6 +3356,22 @@
     },
     "sns": [
       1900.5
+    ]
+  },
+  "122": {
+    "name": "Seligmann Kantor",
+    "ids_to_signatures": {},
+    "first": "Seligmann",
+    "last": "Kantor",
+    "origin": "Soborten [Sobědruhy], Österreich-Ungarn [Tschechien]",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Seligmann_Kantor",
+      "Klein-Protokolle Bd. 3 S. 148": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V03-1881-1882/V3-p148_normal.jpg",
+      "Klein-Protokolle Bd. 4 S. 223": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V04-1882-1883/V4-p223_normal.jpg"
+    },
+    "sns": [
+      1881.5,
+      1882.0
     ]
   },
   "666": {
@@ -5920,12 +5938,14 @@
     "first": "Friedrich",
     "last": "Schilling",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Schilling (Mathematiker)",
-      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Schilling"
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Schilling_(Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Schilling",
+      "P Bd. 11 S. 345": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p345_low.jpg"
     },
     "sns": [
       1890.0,
-      1891.0
+      1891.0,
+      1892.5
     ]
   },
   "1181": {
@@ -6872,10 +6892,12 @@
     "last": "Van Vleck",
     "sources":{
       "wiki-de": "https://de.wikipedia.org/wiki/Edward_Burr_Van_Vleck",
-      "wiki-en": "https://en.wikipedia.org/wiki/Edward_Burr_Van_Vleck"
+      "wiki-en": "https://en.wikipedia.org/wiki/Edward_Burr_Van_Vleck",
+      "P Bd. 11 S. 345": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p345_low.jpg"
     },
     "sns": [
-      1891.0
+      1891.0,
+      1892.5
     ],
     "origin": "Middletown, Connecticut, USA"
   },
@@ -8012,21 +8034,5 @@
     "sns": [
       1891.0
     ]
-  },
-  "122": {
-      "name": "Seligmann Kantor",
-      "ids_to_signatures": {},
-      "first": "Seligmann",
-      "last": "Kantor",
-      "origin": "Soborten [Sobědruhy], Österreich-Ungarn [Tschechien]",
-      "sources": {
-        "wiki-en": "https://en.wikipedia.org/wiki/Seligmann_Kantor",
-        "Klein-Protokolle Bd. 3 S. 148": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V03-1881-1882/V3-p148_normal.jpg",
-        "Klein-Protokolle Bd. 4 S. 223": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V04-1882-1883/V4-p223_normal.jpg"
-      },
-      "sns": [
-        1881.5,
-        1882.0
-      ]
   }
 }
