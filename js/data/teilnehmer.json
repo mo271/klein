@@ -1107,6 +1107,20 @@
       1911.5
     ]
   },
+  "153":{
+    "name": "A. E. Burnham",
+    "ids_to_signatures": {},
+    "last": "Burnham",
+    "first": "A. E.",
+    "sources":{
+      "AV 1896.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B38%5D%7D",
+      "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    },
+    "sns": [
+      1896.5
+    ],
+    "origin": "Russel, USA"
+  },
   "705": {
     "name": "Geo. Büttner",
     "ids_to_signatures": {
@@ -1197,6 +1211,22 @@
       1902.0,
       1904.0
     ]
+  },
+  "168":{
+    "name": "Horatio Scott Carslaw",
+    "ids":{},
+    "first": "Horatio Scott",
+    "last": "Carslaw",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Horatio_Scott_Carslaw",
+      "wiki-en": "https://en.wikipedia.org/wiki/Horatio_Scott_Carslaw",
+      "AV 1897.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
+      "P Bd. 13. S. 316": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p316_normal.jpg"
+    },
+    "sns": [
+      1897.0
+    ],
+    "origin": "Helmsburgh, Schottland"
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -1496,8 +1526,13 @@
     "last": "Dörrie",
     "sns": [
       1895.0,
-      1895.5
-    ]
+      1895.5,
+      1896.5,
+      1897.0
+    ],
+    "sources": {
+      "P Bd. 13 S. 314ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    }
   },
   "824": {
     "name": "E??Grassmann??",
@@ -2347,6 +2382,20 @@
       1899.5
     ]
   },
+  "158":{
+  "name": "W. Grobler",
+  "ids_to_signatures":{},
+  "first": "W.",
+  "last": "Grobler",
+  "sources":{
+    "AV 1896.5 S. 42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B38%5D%7D",
+    "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+  },
+  "sns": [
+    1896.5
+  ],
+  "origin": "Magdeburg"
+  },
   "204": {
     "name": "August Grossmann",
     "ids_to_signatures": {
@@ -2386,11 +2435,13 @@
     "first": "Alf",
     "last": "Guldberg",
     "sources": {
-      "wiki-en": "https://en.wikipedia.org/wiki/Alf Victor Guldberg",
-      "wiki-no": "https://no.wikipedia.org/wiki/Alf_Victor_Guldberg"
+      "wiki-en": "https://en.wikipedia.org/wiki/Alf_Victor_Guldberg",
+      "wiki-no": "https://no.wikipedia.org/wiki/Alf_Victor_Guldberg",
+      "P Bd. 13 S. 312": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p312_normal.jpg"
     },
     "sns": [
-      1888.5
+      1888.5,
+      1896.0
     ]
   },
   "480": {
@@ -3943,10 +3994,13 @@
     "first": "Stefan",
     "last": "Kwietniewski",
     "sources": {
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan_Kwietniewski"
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan_Kwietniewski",
+      "AV 1896.5 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B46%5D%7D",
+      "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
     },
     "sns": [
-      1896.0
+      1896.0,
+      1896.5
     ]
   },
   "580": {
@@ -4489,8 +4543,16 @@
     },
     "first": "Joseph Lybrand",
     "last": "Markley",
+    "sources": {
+      "AV 1897.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B50%5D%7D",
+      "P Bd. 13 S. 312ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p312_low.jpg"
+    },
+    "origin": "Ann Arbor, Michigan, USA (geb. in East Nantmeal Township, Pennsylvania)",
     "sns": [
-      1896.0
+      1895.5,
+      1896.0,
+      1896.5,
+      1897.0
     ]
   },
   "567": {
@@ -4741,6 +4803,20 @@
       1899.5
     ]
   },
+  "162":{
+    "name": "John Miller",
+    "ids_to_signatures": {},
+    "first": "John",
+    "last": "Miller",
+    "sources": {
+      "MacTutor": "https://mathshistory.st-andrews.ac.uk/Biographies/Miller_John/",
+      "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    },
+    "sns":[
+      1896.5
+    ], 
+    "origin": "Glasgow, Schottland"
+  },
   "146": {
     "name": "Mlodzienowski",
     "ids_to_signatures": {},
@@ -4969,6 +5045,19 @@
       1884.5
     ]
   },
+  "165":{
+    "name": "A. Nippoldt",
+    "first": "A.",
+    "last": "Nippoldt",
+    "sources":{
+      "AV 1896.5 S. 50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B50%5D%7D",
+      "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    },
+    "sns": [
+      1896.5
+    ],
+    "origin": "Frankfurt am Main"
+  },
   "317": {
     "name": "Josef Nix",
     "ids_to_signatures": {
@@ -5104,9 +5193,11 @@
     "origin": "Witten",
     "sources": {
       "AV 1898.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B54%5D%7D",
-      "KT foll. 182": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B372%5D%7D"
+      "KT foll. 182": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B372%5D%7D",
+      "P Bd. 13. S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
     },
     "sns": [
+      1896.5,
       1897.0,
       1898.0
     ]
@@ -5231,6 +5322,18 @@
     },
     "sns": [
       1910.5
+    ]
+  },
+  "169":{
+    "name": "Prof. Pfannenstiel(?)",
+    "ids_to_signatures": {},
+    "first":{},
+    "last": "Prof. Pfannenstiel(?)",
+    "sources": {
+      "P Bd. 13. S. 316": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p316_normal.jpg"
+    },
+    "sns": [
+      1897.0
     ]
   },
   "884": {
@@ -5899,11 +6002,18 @@
       "656": "L[jubow] Sapolsky",
       "651": "Ljubow Sapolsky"
     },
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Ljubow_Nikolajewna_Sapolskaja",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F,_%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0",
+      "P Bd. 13. S. 314ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    },
     "first": "Ljubow",
     "last": "Sapolsky",
     "sns": [
       1895.5,
-      1896.0
+      1896.0,
+      1896.5,
+      1897.0
     ]
   },
   "247": {
@@ -6881,6 +6991,21 @@
       1909.5
     ]
   },
+  "170":{
+    "name": "Aisso Toxopeus",
+    "ids_to_signatures":{},
+    "first": "Aisso",
+    "last": "Toxopeus",
+    "sources":{
+      "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=145209",
+      "AV 1897.0 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B59%5D%7D",
+      "P Bd. 13 S. 316":  "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p316_normal.jpg"
+    },
+    "sns": [
+      1897.0
+    ],
+    "origin": "Groningen, Niederlande"
+  },
   "780": {
     "name": "Edgar Jerome Townsend",
     "ids_to_signatures": {
@@ -7536,6 +7661,20 @@
       1901.5,
       1902.0
     ]
+  },
+  "167":{
+    "name": "W. E. Winship",
+    "ids_to_signatures":{},
+    "first": "W. E.",
+    "last": "Winship",
+    "sources":{
+      "AV 1896.5 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B38%5D%7D",
+      "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
+    },
+    "sns":[
+      1896.5
+    ],
+    "origin": "St. Diego, Kalifornien, USA"
   },
   "383": {
     "name": "Mary Frances Winston",
