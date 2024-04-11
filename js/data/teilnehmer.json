@@ -751,9 +751,11 @@
     "last": "Bolza",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Oskar_Bolza",
-      "wiki-en": "https://en.wikipedia.org/wiki/Oskar_Bolza"
+      "wiki-en": "https://en.wikipedia.org/wiki/Oskar_Bolza",
+      "P Bd. 8 S. 263": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
     },
     "sns": [
+      1886.0,
       1886.5,
       1887.4
     ]
@@ -6715,15 +6717,20 @@
     ]
   },
   "783": {
-    "name": "Edward Burr Van Vleok",
+    "name": "Edward Burr Van Vleck",
     "ids_to_signatures": {
-      "527": "E[dward]. B[urr]. Van Vleok"
+      "527": "E[dward]. B[urr]. Van Vleck"
     },
     "first": "Edward Burr",
-    "last": "Van Vleok",
+    "last": "Van Vleck",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Edward_Burr_Van_Vleck",
+      "wiki-en": "https://en.wikipedia.org/wiki/Edward_Burr_Van_Vleck"
+    },
     "sns": [
       1891.0
-    ]
+    ],
+    "origin": "Middletown, Connecticut, USA"
   },
   "250": {
     "name": "Giuseppe Veronese",
@@ -7883,10 +7890,12 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Frank_Nelson_Cole",
       "wiki-en": "https://en.wikipedia.org/wiki/Frank_Nelson_Cole",
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg",
       "TO 2021 S. 231": ""
     },
     "sns" : [
-      1885.0
+      1885.0,
+      1887.0
     ]
   },
   "129": {
@@ -7905,6 +7914,35 @@
       1885.0,
       1891.0
     ]
+  },
+  "131": {
+      "name": "N. Cór(?)",
+      "ids_to_signatures": {},
+      "first": "N.",
+      "last": "Cór(?)",
+      "sources": {
+        "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
+        "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
+      },
+      "sns": [
+        1886.5
+      ]
+  },
+  "132": {
+    "name": "Paul Painlevé",
+    "ids_to_signatures": {},
+    "first": "Paul",
+    "last": "Painlevé",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Painlev%C3%A9",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Painlev%C3%A9",
+      "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
+      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
+    },
+    "sns": [
+      1886.5
+    ],
+    "origin": "Paris"
   },
   "134": {
     "name": "James Edward Oliver",
@@ -7989,6 +8027,6 @@
     "sns":[
       1891.0
     ],
-    "origin": "Ancona, Italien"
+    "origin": "Ancona, Italien"  
   }
 }
