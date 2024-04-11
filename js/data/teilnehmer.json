@@ -1009,11 +1009,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Maxime_B%C3%B4cher",
       "wiki-en": "https://en.wikipedia.org/wiki/Maxime_B%C3%B4cher",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Maxime Bôcher"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Maxime_B%C3%B4cher",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
     },
     "sns": [
       1889.5,
-      1890.0
+      1890.0,
+      1891.0
     ]
   },
   "628": {
@@ -3874,13 +3876,18 @@
     ]
   },
   "1196": {
-    "name": "Stanisław Kępiński",
+    "name": "Stanisław Kępiński [Kepinski]",
     "ids_to_signatures": {
       "549": "S[tanisław]. Kępiński"
     },
     "first": "Stanisław",
-    "last": "Kępiński",
+    "last": "Kępiński [Kepinski]",
+    "sources":{
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "origin": "Salzberg, Österreich-Ungarn [Bochnia, Polen]",
     "sns": [
+      1891.0,
       1892.5
     ]
   },
@@ -7089,11 +7096,13 @@
     "last": "White",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Henry Seely White",
-      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Seely_White"
+      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Seely_White",
+      "P Bd. 10 S. 183": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p183_normal.jpg"
     },
     "sns": [
       1888.0,
-      1888.5
+      1888.5,
+      1889.5
     ]
   },
   "472": {
@@ -7898,10 +7907,12 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Henry_Burchard_Fine",
       "wiki-de": "https://de.wikipedia.org/wiki/Henry_Fine",
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
       "TO 2021 S. 231": ""
     },
     "sns" : [
-      1885.0
+      1885.0,
+      1891.0
     ]
   },
   "131": {
@@ -7932,5 +7943,90 @@
       1886.5
     ],
     "origin": "Paris"
+  },
+  "134": {
+    "name": "James Edward Oliver",
+    "ids_to_signatures": {},
+    "first": "James Edward",
+    "last": "Oliver",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/James_Edward_Oliver",
+      "wiki-en": "https://en.wikipedia.org/wiki/James_Edward_Oliver",
+      "P Bd. 10 S. 183": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p183_normal.jpg"
+    },
+    "origin": "Portland, Maine, USA",
+    "sns":[
+      1889.5
+    ]
+  },
+  "135": {
+    "name": "Athanasios Carajianides [Karagiannides]",
+    "ids_to_signatures": {},
+    "first": "Athanasios",
+    "last": "Carajianides [Karagiannides]",
+    "sources": {
+      "TO 2021 S. 335": "",
+      "AV 1891.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_1892_WS?tify=%7B%22pages%22%3A%5B40%5D%7D",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "origin": "Athen",
+    "sns": [
+      1891.0
+    ]
+  },
+  "138": {
+    "name": "R. Glaser",
+    "ids_to_signatures": {},
+    "first": "R.",
+    "last": "Glaser",
+    "sources": {
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
+    },
+    "sns": [
+      1891.0
+    ]
+  },
+  "144": {
+    "name": "J. Kropáček [Kropacek]",
+    "ids_to_signatures": {},
+    "first": "J.",
+    "last": "Kropáček [Kropacek]",
+    "sources": {
+      "AV 1890.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_1891_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "origin": "Sobichur, Österreich-Ungarn [Soběkury, Tschechien]",
+    "sns": [
+      1891.0
+    ]
+  },
+  "146": {
+    "name": "Mlodzienowski",
+    "ids_to_signatures": {},
+    "first": "",
+    "last": "Mlodzienowski",
+    "sources": {
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
+    },
+    "sns":[
+      1891.0
+    ]
+  },
+  "147": {
+    "name": "Vito Volterra",
+    "ids_to_signatures": {},
+    "first": "Vito",
+    "last": "Volterra",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Vito_Volterra",
+      "wiki-it": "https://it.wikipedia.org/wiki/Vito_Volterra",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "sns":[
+      1891.0
+    ],
+    "origin": "Ancona, Italien"  
   }
 }
