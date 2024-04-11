@@ -201,10 +201,16 @@
     },
     "first": "L.",
     "last": "Anhenn",
+    "sources":{
+      "AV 1895.0 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B37%5D%7D",
+      "P Bd. 12 S. 373": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p373_normal.jpg"
+    },
     "sns": [
+      1894.0,
       1895.5,
       1896.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "679": {
     "name": "August Ansel",
@@ -1354,6 +1360,21 @@
       1909.5
     ]
   },
+  "149": {
+    "name": "Theodor Dedoff",
+    "ids_to_signatures": {},
+    "first": "Theodor",
+    "last": "Dedoff [Iwanoff]",
+    "sources":{
+      "Matrikel Zürich": "https://www.matrikel.uzh.ch/active/static/4509.htm",
+      "AV 1894.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B40%5D%7D",
+      "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
+    },
+    "origin": "Alypascha, Tschirpan, Bulgarien",
+    "sns": [
+      1894.5
+    ]
+  },
   "900": {
     "name": "Max Dehn",
     "ids_to_signatures": {
@@ -1531,9 +1552,13 @@
     },
     "first": "Friedrich",
     "last": "Engel",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Engel_(Mathematiker)"
+    },
     "sns": [
       1884.0
-    ]
+    ],
+    "origin": "Lugau, Sachsen"
   },
   "481": {
     "name": "Paul Epstein",
@@ -1687,6 +1712,22 @@
     "sns": [
       1908.5
     ]
+  },
+  "150": {
+    "name": "John Charles Fields",
+    "ids_to_signatures": {},
+    "first": "John Charles",
+    "last": "Fields",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/John_Charles_Fields",
+      "wiki-en": "https://en.wikipedia.org/wiki/John_Charles_Fields",
+      "AV 1894.5 S. 41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
+      "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
+    },
+    "sns": [
+      1894.5
+    ],
+    "origin": "Hamilton, Ontario, Kanada"
   },
   "129": {
     "name": "Henry Burchard Fine",
@@ -5125,6 +5166,21 @@
       1885.0
     ]
   },
+  "133": {
+    "name": "Ernesto Pascal",
+    "ids_to_signatures": {},
+    "first": "Ernesto",
+    "last": "Pascal" ,
+    "sns": [
+      1888.5
+    ],
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ernesto_Pascal",
+      "wiki-it": "https://it.wikipedia.org/wiki/Ernesto_Pascal",
+      "P Bd. 9 S. 274": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p274_low.jpg"
+    },
+    "origin": "Neapel, Italien"
+  },
   "44": {
     "name": "Ernest Pasquier",
     "ids_to_signatures": {
@@ -5984,6 +6040,20 @@
       1877.0
     ]
   },
+  "152": {
+    "name": "Schlesinger",
+    "ids_to_signatures": {},
+    "first": "Dr.",
+    "last": "Schlesinger",
+    "sources": {
+      "wiki-de???": "https://de.wikipedia.org/wiki/Ludwig_Schlesinger_(Mathematiker)",
+      "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg",
+      "KT S. 358": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B358%5D%7D"
+    },
+    "sns": [
+      1894.5
+    ]
+  },
   "703": {
     "name": "Dietrich Schlüter",
     "ids_to_signatures": {
@@ -6396,11 +6466,13 @@
     "last": "Snyder",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Virgil_Snyder",
-      "wiki-en": "https://en.wikipedia.org/wiki/Virgil Snyder"
+      "wiki-en": "https://en.wikipedia.org/wiki/Virgil Snyder",
+      "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
     },
     "sns": [
       1893.5,
-      1894.0
+      1894.0,
+      1894.5
     ]
   },
   "1030": {
@@ -6757,15 +6829,22 @@
     ]
   },
   "794": {
-    "name": "Max Toepler",
+    "name": "Maximilian Toepler",
     "ids_to_signatures": {
-      "619": "M[ax] Toepler"
+      "619": "M[aximilian] Toepler"
     },
-    "first": "Max",
+    "first": "Maximilian",
     "last": "Toepler",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Maximilian_Toepler",
+      "AV 1894.5 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B54%5D%7D",
+      "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
+    },
     "sns": [
+      1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Dresden (geb. in Graz)"
   },
   "211": {
     "name": "Otto Toeplitz",
@@ -8038,20 +8117,5 @@
     "sns": [
       1891.0
     ]
-  },
-  "133": {
-    "name": "Ernesto Pascal",
-    "ids_to_signatures": {},
-    "first": "Ernesto",
-    "last": "Pascal" ,
-    "sns": [
-      1888.5
-    ],
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Ernesto_Pascal",
-      "wiki-it": "https://it.wikipedia.org/wiki/Ernesto_Pascal",
-      "P Bd. 9 S. 274": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p274_low.jpg"
-    },
-    "origin": "Neapel, Italien"
   }
 }
