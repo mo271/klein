@@ -1158,6 +1158,21 @@
       1893.5
     ]
   },
+  "135": {
+    "name": "Athanasios Carajianides [Karagiannides]",
+    "ids_to_signatures": {},
+    "first": "Athanasios",
+    "last": "Carajianides [Karagiannides]",
+    "sources": {
+      "TO 2021 S. 335": "",
+      "AV 1891.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_1892_WS?tify=%7B%22pages%22%3A%5B40%5D%7D",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "origin": "Athen",
+    "sns": [
+      1891.0
+    ]
+  },
   "664": {
     "name": "Constantin Carathéodory",
     "ids_to_signatures": {
@@ -1229,6 +1244,23 @@
       1894.0
     ]
   },
+  "128": {
+    "name": "Frank Nelson Cole",
+    "ids_to_signatures": {},
+    "first": "Frank Nelson",
+    "last": "Cole",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Frank_Nelson_Cole",
+      "wiki-en": "https://en.wikipedia.org/wiki/Frank_Nelson_Cole",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg",
+      "TO 2021 S. 231": ""
+    },
+    "sns" : [
+      1885.0,
+      1887.0
+    ]
+  },
   "603": {
     "name": "Adam Comstock",
     "ids_to_signatures": {
@@ -1242,6 +1274,19 @@
       1897.0
     ]
   },
+  "131": {
+    "name": "N. Cór(?)",
+    "ids_to_signatures": {},
+    "first": "N.",
+    "last": "Cór(?)",
+    "sources": {
+      "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
+      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
+    },
+    "sns": [
+      1886.5
+    ]
+},
   "935": {
     "name": "Wilhelm[?] Cordes",
     "ids_to_signatures": {
@@ -1255,6 +1300,20 @@
     },
     "sns": [
       1903.5
+    ]
+  },
+  "123": {
+    "name": "Hans Cornelius",
+    "ids_to_signatures": {},
+    "first": "Hans",
+    "last": "Cornelius",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Cornelius",
+      "TO 2021 S. 231": "",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
+    "sns": [
+      1884.5
     ]
   },
   "321": {
@@ -1625,6 +1684,23 @@
     "last": "Field",
     "sns": [
       1908.5
+    ]
+  },
+  "129": {
+    "name": "Henry Burchard Fine",
+    "ids_to_signatures": {},
+    "first": "Henry Burchard",
+    "last": "Fine",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Burchard_Fine",
+      "wiki-de": "https://de.wikipedia.org/wiki/Henry_Fine",
+      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "TO 2021 S. 231": ""
+    },
+    "sns" : [
+      1885.0,
+      1891.0
     ]
   },
   "909": {
@@ -2091,6 +2167,19 @@
     "last": "Giesing",
     "sns": [
       1902.0
+    ]
+  },
+  "138": {
+    "name": "R. Glaser",
+    "ids_to_signatures": {},
+    "first": "R.",
+    "last": "Glaser",
+    "sources": {
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
+    },
+    "sns": [
+      1891.0
     ]
   },
   "365": {
@@ -3729,6 +3818,20 @@
       1882.5
     ]
   },
+  "144": {
+    "name": "J. Kropáček [Kropacek]",
+    "ids_to_signatures": {},
+    "first": "J.",
+    "last": "Kropáček [Kropacek]",
+    "sources": {
+      "AV 1890.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_1891_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "origin": "Sobichur, Österreich-Ungarn [Soběkury, Tschechien]",
+    "sns": [
+      1891.0
+    ]
+  },
   "978": {
     "name": "Xenia Kucharsky?",
     "ids_to_signatures": {
@@ -4575,6 +4678,19 @@
       1899.5
     ]
   },
+  "146": {
+    "name": "Mlodzienowski",
+    "ids_to_signatures": {},
+    "first": "",
+    "last": "Mlodzienowski",
+    "sources": {
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
+    },
+    "sns":[
+      1891.0
+    ]
+  },
   "368": {
     "name": "Theodor Molien",
     "ids_to_signatures": {
@@ -4839,6 +4955,21 @@
       1884.0
     ]
   },
+  "134": {
+    "name": "James Edward Oliver",
+    "ids_to_signatures": {},
+    "first": "James Edward",
+    "last": "Oliver",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/James_Edward_Oliver",
+      "wiki-en": "https://en.wikipedia.org/wiki/James_Edward_Oliver",
+      "P Bd. 10 S. 183": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p183_normal.jpg"
+    },
+    "origin": "Portland, Maine, USA",
+    "sns":[
+      1889.5
+    ]
+  },
   "814": {
     "name": "Albert Oppermann",
     "ids_to_signatures": {
@@ -4916,6 +5047,22 @@
       1897.0,
       1898.0
     ]
+  },
+  "132": {
+    "name": "Paul Painlevé",
+    "ids_to_signatures": {},
+    "first": "Paul",
+    "last": "Painlevé",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Painlev%C3%A9",
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Painlev%C3%A9",
+      "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
+      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
+    },
+    "sns": [
+      1886.5
+    ],
+    "origin": "Paris"
   },
   "579": {
     "name": "Anna Helene Palmié",
@@ -6806,6 +6953,21 @@
       1909.0
     ]
   },
+  "147": {
+    "name": "Vito Volterra",
+    "ids_to_signatures": {},
+    "first": "Vito",
+    "last": "Volterra",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Vito_Volterra",
+      "wiki-it": "https://it.wikipedia.org/wiki/Vito_Volterra",
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+    },
+    "sns":[
+      1891.0
+    ],
+    "origin": "Ancona, Italien"  
+  },
   "864": {
     "name": "Emil Waelsch",
     "ids_to_signatures": {
@@ -7819,6 +7981,22 @@
       1895.5
     ]
   },
+  "125": {
+    "name": "Ludwig von Struve",
+    "ids_to_signatures": {},
+    "first": "Ludiwg",
+    "last": "von Struve",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_von_Struve",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B2%D0%B5,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3_%D0%9E%D1%82%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "TO 2021 S. 231": "",
+      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
+    },
+    "origin": "St. Petersburg, Russland",
+    "sns": [
+      1884.5
+    ]
+  },
   "466": {
     "name": "Kazimierz Żorawski",
     "ids_to_signatures": {
@@ -7850,183 +8028,5 @@
         1881.5,
         1882.0
       ]
-  },
-  "123": {
-    "name": "Hans Cornelius",
-    "ids_to_signatures": {},
-    "first": "Hans",
-    "last": "Cornelius",
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Cornelius",
-      "TO 2021 S. 231": "",
-      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
-    },
-    "sns": [
-      1884.5
-    ]
-  },
-  "125": {
-    "name": "Ludwig von Struve",
-    "ids_to_signatures": {},
-    "first": "Ludiwg",
-    "last": "von Struve",
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_von_Struve",
-      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B2%D0%B5,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3_%D0%9E%D1%82%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
-      "TO 2021 S. 231": "",
-      "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
-    },
-    "origin": "St. Petersburg, Russland",
-    "sns": [
-      1884.5
-    ]
-  },
-  "128": {
-    "name": "Frank Nelson Cole",
-    "ids_to_signatures": {},
-    "first": "Frank Nelson",
-    "last": "Cole",
-    "sources":{
-      "wiki-de": "https://de.wikipedia.org/wiki/Frank_Nelson_Cole",
-      "wiki-en": "https://en.wikipedia.org/wiki/Frank_Nelson_Cole",
-      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
-      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg",
-      "TO 2021 S. 231": ""
-    },
-    "sns" : [
-      1885.0,
-      1887.0
-    ]
-  },
-  "129": {
-    "name": "Henry Burchard Fine",
-    "ids_to_signatures": {},
-    "first": "Henry Burchard",
-    "last": "Fine",
-    "sources": {
-      "wiki-en": "https://en.wikipedia.org/wiki/Henry_Burchard_Fine",
-      "wiki-de": "https://de.wikipedia.org/wiki/Henry_Fine",
-      "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
-      "TO 2021 S. 231": ""
-    },
-    "sns" : [
-      1885.0,
-      1891.0
-    ]
-  },
-  "131": {
-      "name": "N. Cór(?)",
-      "ids_to_signatures": {},
-      "first": "N.",
-      "last": "Cór(?)",
-      "sources": {
-        "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
-        "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
-      },
-      "sns": [
-        1886.5
-      ]
-  },
-  "132": {
-    "name": "Paul Painlevé",
-    "ids_to_signatures": {},
-    "first": "Paul",
-    "last": "Painlevé",
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Painlev%C3%A9",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Painlev%C3%A9",
-      "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
-      "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
-    },
-    "sns": [
-      1886.5
-    ],
-    "origin": "Paris"
-  },
-  "134": {
-    "name": "James Edward Oliver",
-    "ids_to_signatures": {},
-    "first": "James Edward",
-    "last": "Oliver",
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/James_Edward_Oliver",
-      "wiki-en": "https://en.wikipedia.org/wiki/James_Edward_Oliver",
-      "P Bd. 10 S. 183": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p183_normal.jpg"
-    },
-    "origin": "Portland, Maine, USA",
-    "sns":[
-      1889.5
-    ]
-  },
-  "135": {
-    "name": "Athanasios Carajianides [Karagiannides]",
-    "ids_to_signatures": {},
-    "first": "Athanasios",
-    "last": "Carajianides [Karagiannides]",
-    "sources": {
-      "TO 2021 S. 335": "",
-      "AV 1891.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_1892_WS?tify=%7B%22pages%22%3A%5B40%5D%7D",
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
-    },
-    "origin": "Athen",
-    "sns": [
-      1891.0
-    ]
-  },
-  "138": {
-    "name": "R. Glaser",
-    "ids_to_signatures": {},
-    "first": "R.",
-    "last": "Glaser",
-    "sources": {
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
-      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
-    },
-    "sns": [
-      1891.0
-    ]
-  },
-  "144": {
-    "name": "J. Kropáček [Kropacek]",
-    "ids_to_signatures": {},
-    "first": "J.",
-    "last": "Kropáček [Kropacek]",
-    "sources": {
-      "AV 1890.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_1891_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
-    },
-    "origin": "Sobichur, Österreich-Ungarn [Soběkury, Tschechien]",
-    "sns": [
-      1891.0
-    ]
-  },
-  "146": {
-    "name": "Mlodzienowski",
-    "ids_to_signatures": {},
-    "first": "",
-    "last": "Mlodzienowski",
-    "sources": {
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
-      "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
-    },
-    "sns":[
-      1891.0
-    ]
-  },
-  "147": {
-    "name": "Vito Volterra",
-    "ids_to_signatures": {},
-    "first": "Vito",
-    "last": "Volterra",
-    "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Vito_Volterra",
-      "wiki-it": "https://it.wikipedia.org/wiki/Vito_Volterra",
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
-    },
-    "sns":[
-      1891.0
-    ],
-    "origin": "Ancona, Italien"  
   }
 }
