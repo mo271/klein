@@ -1214,7 +1214,7 @@
   },
   "168":{
     "name": "Horatio Scott Carslaw",
-    "ids_to_signature":{},
+    "ids_to_signatures": {},
     "first": "Horatio Scott",
     "last": "Carslaw",
     "sources":{
@@ -5047,9 +5047,9 @@
   },
   "165":{
     "name": "A. Nippoldt",
+    "ids_to_signatures": {},
     "first": "A.",
     "last": "Nippoldt",
-    "ids_to_signatures": {},
     "sources":{
       "AV 1896.5 S. 50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B50%5D%7D",
       "P Bd. 13 S. 314": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
