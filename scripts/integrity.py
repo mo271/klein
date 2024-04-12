@@ -77,13 +77,16 @@ def test_valid_speaker_protocol_ids(prot_data, teil_data, errors):
     prot_ids = [str(prot["id"]) for prot in prot_data]
 
     for speaker, data in teil_data.items():
-        ids = list(map(int, data['ids_to_signatures'].keys()))
-        if len(ids) != len(set(ids)):
-            errors.append(f"Duplicate IDs found for speaker {speaker}.")
+        if 'ids_to_signatures' not in data:
+            errors.append(f"missing ids_to_signature for speaker {speaker}")
+        else:
+            ids = list(map(int, data['ids_to_signatures'].keys()))
+            if len(ids) != len(set(ids)):
+                errors.append(f"Duplicate IDs found for speaker {speaker}.")
 
-        for single_id in ids:
-            if str(single_id) not in prot_ids:
-                errors.append(f"Invalid protocol ID {single_id} found for speaker {speaker}.")
+            for single_id in ids:
+                if str(single_id) not in prot_ids:
+                    errors.append(f"Invalid protocol ID {single_id} found for speaker {speaker}.")
 
 def get_sns(prot_data, prot_ids):
     def get_sn(prot_data, prot_id):
