@@ -6,6 +6,7 @@ import json
 import ast
 from datetime import datetime
 
+DATE_FORMAT = "%Y-%m-%d"
 
 def js_obj_to_py_dict(file_path, start_line, end_line):
     """Reads a JS object from a file and converts it into a Python dictionary."""
@@ -26,7 +27,7 @@ def js_obj_to_py_dict(file_path, start_line, end_line):
 
 def is_valid_date(date_string):
     try:
-        datetime.strptime(date_string, "%Y-%m-%d")
+        datetime.strptime(date_string, DATE_FORMAT)
         return True
     except ValueError:
         return False
@@ -112,6 +113,35 @@ def test_valid_seminar_numbers(teil_data, prot_data, errors):
                 if str(sn) not in semester_dict:
                     errors.append(f"unknown seminar number for teilnehmer {teilnehmer_key}: {sn=}")
 
+def test_dates(prot_data, errors):
+    """
+    Test that each protocol's date falls within the appropriate semester range.
+
+    Each protocol in prot_data is expected to have a 'datum' (date), 'dok' (date ok) and 'sn' (semester number) field.
+    """
+    def get_start_and_end(semester_number):
+        date_head = str(semester_number).split(".")[0]
+        if str(semester_number).endswith(".0") or str(semester_number).endswith(".4"):
+            return (datetime.strptime( date_head + "-04-01", DATE_FORMAT),
+                    datetime.strptime( date_head + "-08-31", DATE_FORMAT))
+        elif str(semester_number).endswith(".5") or str(semester_number).endswith(".9"):
+            return (datetime.strptime( date_head + "-10-15", DATE_FORMAT),
+                    datetime.strptime( str(int(date_head) + 1) + "-05-15", DATE_FORMAT))
+        else:
+            assert False, "semester_number should end in .0, .4, .5 or .9, but it is: " + str(semester_number)
+
+    for protocol in prot_data:
+        prot_date = protocol.get('datum')
+        semester_number = protocol.get('sn')
+        print(prot_date, semester_number)
+        print(get_start_and_end(semester_number))
+        #break
+        semester_start, semester_end = get_start_and_end(semester_number)
+        if protocol.get('dok'):
+            prot_date_parsed = datetime.strptime(prot_date, DATE_FORMAT)
+            if not (semester_start <= prot_date_parsed <= semester_end):
+                errors.append(f"Date {prot_date} for protocol {protocol['id']} does not fall within the semester range {semester_start} to {semester_end}.")
+
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
@@ -122,7 +152,7 @@ def test_structure_teilnehmer_dict(teil_data, errors):
         for key, val in teilnehmer.items():
             if key in ['name', 'first', 'last', 'origin', 'name_non_latin']:
                 if type(val) != str:
-                    errors.append(f"unexpected type: {val=}")
+                    errors.append(f"unexpected type for teilnehmer {teilnehmer}: {val=}")
             elif key == 'ids_to_signatures':
                 if type(val) != dict:
                     errors.append(f"ids_to_signatures not a list:{val}")
@@ -132,8 +162,6 @@ def test_structure_teilnehmer_dict(teil_data, errors):
             elif key == 'sources':
                 if type(val)!= dict:
                     errors.append(f"unexpected type: {val=}")
-
-
 
 def test_struture_protokolle_dict(prot_data, teil_data, errors):
     for prot in prot_data:
@@ -186,6 +214,7 @@ if __name__ == "__main__":
         test_structure_teilnehmer_dict(teil_data, errors)
         test_struture_protokolle_dict(prot_data, teil_data, errors)
         test_valid_seminar_numbers(teil_data, prot_data, errors)
+        test_dates(prot_data, errors)
 
     if errors:
        print("Errors found during tests:")
