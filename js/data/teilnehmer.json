@@ -2873,17 +2873,17 @@
     ]
   },
   "514": {
-    "name": "Theodor[?] Herrmann",
+    "name": "Theodor Herrmann",
     "ids_to_signatures": {
-      "433": "T[heodor[?]] Herrmann",
-      "440": "T[heodor[?]] Herrmann"
+      "433": "T[heodor] Herrmann",
+      "440": "T[heodor] Herrmann"
     },
-    "first": "Theodor[?]",
+    "first": "Theodor",
     "last": "Herrmann",
-    "origin": "Eberbach?",
+    "origin": "Eberbach",
     "sources": {
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg",
-      "KT foll. 142": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B292%5D%7D"
+      "KT S. 294": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B292%5D%7D"
     },
     "sns": [
       1885.0,
@@ -3392,7 +3392,8 @@
       1895.0,
       1895.5,
       1896.0
-    ]
+    ],
+    "origin": "Newnham College, Camdridge, UK"
   },
   "164": {
     "name": "Hans Jordan",
@@ -3414,15 +3415,19 @@
   "137": {
     "name": "Hans Josephson",
     "ids_to_signatures": {
-      "960": "Hans Josephson.?",
+      "960": "Hans Josephson.",
       "998": "Hans Josephson."
     },
     "first": "Hans",
     "last": "Josephson",
+    "sources":{
+      "AV 1905.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1905.0,
       1906.0
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "38": {
     "name": "Paul Jungmann",
@@ -3532,12 +3537,13 @@
     "first": "Paul",
     "last": "Kirchberger",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Paul Kirchberger",
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Kirchberger",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Paul_Kirchberger"
     },
     "sns": [
       1900.0
-    ]
+    ],
+    "origin": "Niederlahnstein"
   },
   "462": {
     "name": "Hugo Kistler",
@@ -3771,11 +3777,13 @@
     "first": "Felix",
     "last": "Klitzkowski",
     "sources": {
-      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162"
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162",
+      "TO S. 665": ""
     },
     "sns": [
       1887.4
-    ]
+    ],
+    "origin": "Danzig [Polen]"
   },
   "97": {
     "name": "Johannes Klien",
@@ -3793,15 +3801,19 @@
     ]
   },
   "749": {
-    "name": "Karl Knoke",
+    "name": "Johannes Knoke",
     "ids_to_signatures": {
-      "1146": "[Karl] Knoke"
+      "1146": "[Johannes] Knoke"
     },
-    "first": "Karl",
+    "first": "Johannes",
     "last": "Knoke",
+    "sources":{
+      "AV 1910.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Artlenburg, Hannover"
   },
   "412": {
     "name": "Hugo Koch",
@@ -3842,12 +3854,13 @@
     "first": "Paul",
     "last": "Koebe",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Paul Koebe",
-      "wiki-en": "https://en.wikipedia.org/wiki/Paul Koebe"
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Koebe",
+      "wiki-en": "https://en.wikipedia.org/wiki/Paul_Koebe"
     },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Luckenwalde, Brandenburg"
   },
   "106": {
     "name": "Julius Kollert",
@@ -4026,19 +4039,20 @@
     ]
   },
   "253": {
-    "name": "Dénes König",
+    "name": "Dénes Kőnig [König]",
     "ids_to_signatures": {
       "1020": "Dénes König"
     },
     "first": "Dénes",
-    "last": "König",
+    "last": "Kőnig [König]",
     "sources": {
-      "wiki-en": "https://en.wikipedia.org/wiki/Dénes Kőnig",
+      "wiki-en": "https://en.wikipedia.org/wiki/Dénes_Kőnig",
       "wiki-hu": "https://hu.wikipedia.org/wiki/K%C5%91nig_D%C3%A9nes"
     },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Budapast"
   },
   "917": {
     "name": "Robert König",
@@ -4048,12 +4062,14 @@
     "first": "Robert",
     "last": "König",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Robert König (Mathematiker)",
-      "wiki-en": "https://en.wikipedia.org/wiki/Robert_K%C3%B6nig"
+      "wiki-de": "https://de.wikipedia.org/wiki/Robert_König_(Mathematiker)",
+      "wiki-en": "https://en.wikipedia.org/wiki/Robert_K%C3%B6nig",
+      "AV 1906.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"
     },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Linz, Österreich-Ungarn"
   },
   "1062": {
     "name": "Karl Körner",
@@ -4070,15 +4086,19 @@
     ]
   },
   "861": {
-    "name": "E? Köster?",
+    "name": "Emil Köster",
     "ids_to_signatures": {
-      "1079": "E[?] Köster?"
+      "1079": "E[mil] Köster"
     },
-    "first": "E?",
-    "last": "Köster?",
+    "first": "Emil",
+    "last": "Köster",
+    "sources":{
+      "AV 1908.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    },
     "sns": [
       1908.5
-    ]
+    ],
+    "origin": "Heide, Holstein"
   },
   "236": {
     "name": "Wolfang Küffner",
@@ -4123,16 +4143,20 @@
     ]
   },
   "754": {
-    "name": "Laackmann?",
+    "name": "Heinrich Laackmann",
     "ids_to_signatures": {
-      "888": "[?]Laackmann?",
-      "889": "[?]Laackmann?"
+      "888": "[Heinrich] Laackmann",
+      "889": "[Heinrich] Laackmann"
     },
-    "first": "",
-    "last": "Laackmann?",
+    "first": "Heinrich",
+    "last": "Laackmann",
+    "sources":{
+      "AV 1903.5 S.53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+    },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Oberndorf, Hannover"
   },
   "653": {
     "name": "v. Landen",
