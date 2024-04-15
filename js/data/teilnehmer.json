@@ -1534,33 +1534,26 @@
       "P Bd. 13 S. 314ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
     }
   },
-  "824": {
-    "name": "E??Grassmann??",
-    "ids_to_signatures": {
-      "517": "E?[?].Grassmann??"
-    },
-    "first": "",
-    "last": "E??Grassmann??",
-    "sns": [
-      1890.0
-    ]
-  },
   "1119": {
-    "name": "Joh? Ehlers",
+    "name": "Joh. Ehlers",
     "ids_to_signatures": {
       "604": "Joh[?] Ehlers",
       "622": "Joh[?] Ehlers",
       "588": "Jo[s|f] Ehlers",
       "564": "Jo[h|s][?] Ehlers?"
     },
-    "first": "Joh?",
+    "first": "Joh.",
     "last": "Ehlers",
+    "sources": {
+       "AV 1895.0 S. 41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
+    },
     "sns": [
       1893.0,
       1894.0,
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "47": {
     "name": "Paul Ehrenfest",
@@ -1571,7 +1564,7 @@
     "first": "Paul",
     "last": "Ehrenfest",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Paul Ehrenfest",
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Ehrenfest",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
     },
     "sns": [
@@ -1606,7 +1599,7 @@
     "first": "Paul",
     "last": "Epstein",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Paul Epstein (Mathematiker)",
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_Epstein_(Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Epstein"
     },
     "sns": [
@@ -1654,17 +1647,6 @@
     },
     "sns": [
       1900.5
-    ]
-  },
-  "692": {
-    "name": "H Fabusch?",
-    "ids_to_signatures": {
-      "864": "H[]. Fabusch?"
-    },
-    "first": "H",
-    "last": "Fabusch?",
-    "sns": [
-      1903.0
     ]
   },
   "1004": {
@@ -1831,7 +1813,7 @@
     "last": "Fitschen",
     "origin": "Worpswede, Hannover",
     "sources": {
-      "AV 1912.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+       "AV 1890.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1912.0
@@ -1980,15 +1962,19 @@
     ]
   },
   "527": {
-    "name": "R? Frobese?",
+    "name": "Richard Frobese",
     "ids_to_signatures": {
-      "975": "R[?] Frobese?"
+      "975": "R[ichard] Frobese"
     },
-    "first": "R?",
-    "last": "Frobese?",
+    "first": "Richard",
+    "last": "Frobese",
+    "sources":{
+      "AV 1905.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Berel, Braunschwein"
   },
   "816": {
     "name": "Rudolf Fueter",
@@ -2284,14 +2270,15 @@
     ]
   },
   "161": {
-    "name": "Meier[?] Goldman?",
+    "name": "Meier Goldman?",
     "ids_to_signatures": {
-      "1000": "Mar.[Meier] Goldman"
+      "1000": "Mar. [Meier] Goldman"
     },
-    "first": "Meier[?]",
+    "first": "Meier",
     "last": "Goldman",
-    "origin": "Lodz, Rußland[?]",
+    "origin": "Lodz, Rußland [Polen]",
     "sources": {
+      "Ciesielska et al. 2017 S. 292": "",
       "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
     "sns": [
@@ -2368,11 +2355,11 @@
     ]
   },
   "130": {
-    "name": "Julius[?] Greßler",
+    "name": "Julius Greßler",
     "ids_to_signatures": {
       "769": "[Gressler]"
     },
-    "first": "Julius[?]",
+    "first": "Julius",
     "last": "Greßler",
     "sources": {
       "P 1899.5, S. 441": "",
@@ -2410,6 +2397,22 @@
     "sns": [
       1904.0
     ]
+  },
+  "824": {
+    "name": "Ernst A. F. W. Großmann",
+    "ids_to_signatures": {
+      "517": "E[rnst]. Grossmann [Großmann]"
+    },
+    "first": "Ernst A. F. W.",
+    "last": "Großmann",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Ernst_A._F._W._Grossmann",
+      "AV 1890.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
+    "sns": [
+      1890.0
+    ],
+    "origin": "Rotenburg (Wümme)"
   },
   "957": {
     "name": "Joseph Grünwald",
@@ -2550,15 +2553,19 @@
     ]
   },
   "344": {
-    "name": "Fr? Hanker?",
+    "name": "Friedrich Hanker",
     "ids_to_signatures": {
-      "966": "Fr[?] Hanker?"
+      "966": "Fr[iedrich] Hanker"
     },
-    "first": "Fr?",
-    "last": "Hanker?",
+    "first": "Friedrich",
+    "last": "Hanker",
+    "sources": {
+      "AV 1905.0 S. 50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B50%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Geismar, Hannover [Göttingen]"
   },
   "525": {
     "name": "Rudolph Hansen",
@@ -2569,8 +2576,8 @@
     "first": "Rudolph",
     "last": "Hansen",
     "sources": {
-      "AV 1899.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
-      "AV 1901.0 S.46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
+      "AV 1899.5 S. 45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "AV 1901.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
     },
     "sns": [
       1899.5,
@@ -2630,7 +2637,7 @@
     "first": "Roderich",
     "last": "Hartenstein",
     "sources": {
-      "AV 1904.5 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+      "AV 1904.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
     "sns": [
       1904.5,
@@ -2658,8 +2665,8 @@
     "first": "Balthasar",
     "last": "Hartmann",
     "sources": {
-      "AV 1899.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
-      "AV 1900.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "AV 1899.5 S. 45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B45%5D%7D",
+      "AV 1900.0 S. 45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "KT foll. 191": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B390%5D%7D",
       "KT foll. 192": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B392%5D%7D"
     },
@@ -2677,7 +2684,7 @@
     "last": "Hartung",
     "origin": "Niedernstöcken, Hannover",
     "sources": {
-      "AV 1902.5 S.48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+      "AV 1902.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
       1902.5
@@ -3355,15 +3362,19 @@
     ]
   },
   "963": {
-    "name": "H??. Johannes?",
+    "name": "Hermann Johannes",
     "ids_to_signatures": {
-      "814": "H[?]?. Johannes?"
+      "814": "H[ermann]. Johannes"
     },
-    "first": "H??.",
-    "last": "Johannes?",
+    "first": "Hermann",
+    "last": "Johannes",
+    "sources": {
+      "AV 1901.0 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    },
     "sns": [
       1901.0
-    ]
+    ],
+    "origin": "Meiningen [Thüringen]"
   },
   "719": {
     "name": "Ada Maria Jane Elizabeth Johnson",
@@ -6938,6 +6949,21 @@
       1904.0,
       1904.5
     ]
+  },
+  "692": {
+    "name": "Hermann Tobusch",
+    "ids_to_signatures": {
+      "864": "H[ermann]. Tobusch"
+    },
+    "first": "Hermann",
+    "last": "Tobusch",
+    "sources": {
+      "AV 1903.0 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
+    "sns": [
+      1903.0
+    ],
+    "origin": "Gellershagen, Westfalen"
   },
   "794": {
     "name": "Maximilian Toepler",
