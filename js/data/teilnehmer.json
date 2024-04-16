@@ -4408,15 +4408,19 @@
     ]
   },
   "399": {
-    "name": "Luyken??",
+    "name": "Wilhelm Luyken",
     "ids_to_signatures": {
-      "826": "[Luyken??]"
+      "826": "[Wilhelm Luyken]"
     },
-    "first": "",
-    "last": "Luyken??",
+    "first": "Wilhelm",
+    "last": "Luyken",
+    "sources":{
+      "AV 1901.5 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1901.5
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "308": {
     "name": "Gustav Löwenstein",
@@ -4498,12 +4502,16 @@
     },
     "first": "Annie Louise",
     "last": "MacKinnon",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Annie_MacKinnon"
+    },
     "sns": [
       1894.5,
       1895.0,
       1895.5,
       1896.0
-    ]
+    ],
+    "origin": "Woodstock, Ontario, Kanada"
   },
   "986": {
     "name": "Isabel Maddison",
@@ -4521,7 +4529,8 @@
     "sns": [
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Cumberland, England"
   },
   "810": {
     "name": "Erwin Madelung",
@@ -4540,7 +4549,8 @@
       1904.5,
       1905.0,
       1908.0
-    ]
+    ],
+    "origin": "Bonn"
   },
   "528": {
     "name": "Alf Mahlke",
@@ -4611,10 +4621,15 @@
     },
     "first": "Sophus",
     "last": "Marxsen",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7341",
+      "AV 1899.0 S. 52":  "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1896.5,
       1899.0
-    ]
+    ],
+    "origin": "Eilendorf [Aachen]"
   },
   "1109": {
     "name": "Heinrich Maschke",
@@ -6804,20 +6819,21 @@
     ]
   },
   "218": {
-    "name": "Antoni Łomnicki?",
+    "name": "Antoni Łomnicki [Lomnicki]",
     "ids_to_signatures": {
-      "1025": "Dr. Antoni R. v. Łomnicki?"
+      "1025": "Dr. Antoni R. v. Łomnicki"
     },
     "first": "Antoni",
     "last": "Łomnicki",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Antoni Łomnicki",
+      "wiki-de": "https://de.wikipedia.org/wiki/Antoni_Łomnicki",
       "wiki-en": "https://en.wikipedia.org/wiki/Antoni_%C5%81omnicki",
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Antoni Łomnicki"
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Antoni_Łomnicki"
     },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Lemberg, Österreich-Ungarn [Lwiw, Ukraine]"
   },
   "395": {
     "name": "Johannes Wiechmann",
