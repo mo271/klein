@@ -4689,29 +4689,39 @@
     },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Warschau"
   },
   "764": {
-    "name": "B? Meese",
+    "name": "Berta Meese",
     "ids_to_signatures": {
-      "1147": "B[?]. Meese"
+      "1147": "B[erta] Meese"
     },
-    "first": "B?",
+    "first": "Berta",
     "last": "Meese",
     "sns": [
       1910.5
-    ]
+    ],
+    "sources":{
+      "KT S. 576": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B576%5D%7D",
+      "Wie der Krieg in die Viktoriaschule kam S. 14": "" 
+    },
+    "orirgin": "Essen"
   },
   "578": {
-    "name": "F? Meinecke?",
+    "name": "Frant Meinecke",
     "ids_to_signatures": {
-      "944": "F[?]. Meinecke?"
+      "944": "F[ranz]. Meinecke"
     },
-    "first": "F?",
-    "last": "Meinecke?",
+    "first": "Franz",
+    "last": "Meinecke",
+    "sources":{
+      "AV 1904.5 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Bergen b. Celle, Hannover"
   },
   "674": {
     "name": "Heinrich Meldau",
@@ -4729,28 +4739,36 @@
     ]
   },
   "1166": {
-    "name": "Th? Mens|zinger?",
+    "name": "Theodor Mensinger",
     "ids_to_signatures": {
-      "1086": "Th[?] Men[s|z]inger?",
-      "1094": "Th[?] Men[s|z]inger?"
+      "1086": "Th[eodor] Mensinger",
+      "1094": "Th[eodor] Mensinger"
     },
-    "first": "Th?",
-    "last": "Mens|zinger?",
+    "first": "Theodor",
+    "last": "Mensinger",
+    "sources": {
+      "AV 1908.5 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
+    },
     "sns": [
       1908.5,
       1909.0
-    ]
+    ],
+    "origin": "Frankfurt am Main"
   },
   "1151": {
-    "name": "Walther Mertius?",
+    "name": "Walther Mertins",
     "ids_to_signatures": {
-      "836": "Walther Mertius?"
+      "836": "Walther Mertins"
     },
     "first": "Walther",
-    "last": "Mertius?",
+    "last": "Mertins",
+    "sources": {
+      "AV 1902.0 S 56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B56%5D%7D"
+    },
     "sns": [
       1902.0
-    ]
+    ],
+    "origin": "Düsseldorf"
   },
   "577": {
     "name": "George Frederick Metzler",
@@ -4761,7 +4779,8 @@
     "last": "Metzler",
     "sns": [
       1893.5
-    ]
+    ],
+    "origin": "Odessa, Großbr. [Kanada]"
   },
   "502": {
     "name": "Carl Metzner",
@@ -4777,15 +4796,19 @@
     ]
   },
   "522": {
-    "name": "Wilhelm Meyerpromotion München, mitarbeit an der Enzyklopädie??",
+    "name": "Wilhelm Meyer",
     "ids_to_signatures": {
-      "996": "Wilh[elm]. Meyer[promotion München, mitarbeit an der Enzyklopädie??]"
+      "996": "Wilh[elm]. Meyer"
     },
     "first": "Wilhelm",
     "last": "Meyer",
+    "sources":{
+      "AV 1906.0 S. 63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Lippstadt, Westfalen"
   },
   "35": {
     "name": "Franz Meyer",
