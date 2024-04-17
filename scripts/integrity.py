@@ -97,7 +97,7 @@ def get_sns(prot_data, prot_ids):
     return list(map(lambda x: get_sn(prot_data, x), prot_ids))
 
 def test_valid_seminar_numbers(teil_data, prot_data, errors):
-    semester_dict = js_obj_to_py_dict('./js/klein.js', 7, 92)
+    semester_dict = js_obj_to_py_dict('./js/globalData.js', 2, 87)
     for teilnehmer_key, teilnehmer in teil_data.items():
         if "ids_to_signatures" in teilnehmer:
 
@@ -111,7 +111,7 @@ def test_valid_seminar_numbers(teil_data, prot_data, errors):
                     f"not enough seminar numbers for teilnehmer {teilnehmer_key} : {sns} versus {teilnehmer['sns']}")
             for sn in teilnehmer["sns"]:
                 if str(sn) not in semester_dict:
-                    errors.append(f"unknown seminar number for teilnehmer {teilnehmer_key}: {sn=}")
+                      errors.append(f"unknown seminar number for teilnehmer {teilnehmer_key}: {sn=}")
 
 def test_dates(prot_data, errors):
     """
@@ -133,9 +133,6 @@ def test_dates(prot_data, errors):
     for protocol in prot_data:
         prot_date = protocol.get('datum')
         semester_number = protocol.get('sn')
-        print(prot_date, semester_number)
-        print(get_start_and_end(semester_number))
-        #break
         semester_start, semester_end = get_start_and_end(semester_number)
         if protocol.get('dok'):
             prot_date_parsed = datetime.strptime(prot_date, DATE_FORMAT)

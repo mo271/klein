@@ -37,10 +37,12 @@
 				jax: ["input/TeX", "output/HTML-CSS"],
 				tex2jax: { inlineMath: [["$", "$"], ["\\(", "\\)"]] }
 			});
-		</script>
+	</script>
+
 
 	<script language="javascript" type="text/javascript" charset="UTF-8" src="./js/data/prottitel.js"></script>
 	<script language="javascript" type="text/javascript" charset="UTF-8" src="./js/data/htmlnames.js"></script>
+	<script language="javascript" type="text/javascript" charset="UTF-8" src="./js/globalData.js"></script>
 	<script language="javascript" type="text/javascript" charset="UTF-8" src="./js/klein.js"></script>
 
 
@@ -73,6 +75,7 @@
 					<li><a id="homelink" href="#fkp" data-toggle="tab">Home</a></li>
 					<li><a id="protokollelink" href="#protokolle" data-toggle="tab">Protokolle</a></li>
 					<li><a id="teilnehmerlink" href="#teilnehmer" data-toggle="tab">Teilnehmer</a></li>
+					<li><a id="kalenderlink" href="#kalender" data-toggle="tab">Kalender</a></li>
 					<li><a id="aboutlink" href="#about" data-toggle="tab">Editorische Notiz</a></li>
 					<li><a href='#' id="kommentarlabel" data-toggle="tooltip" data-placement="bottom"
 							title="Kommentare [in eckigen Klammern]">Kommentare</a></li>
@@ -827,8 +830,12 @@
 				</footer>
 			</div><!--/.container-->
 
-		</div><!--tab pane home-->
+		</div><!--tab-pane home-->
+		<div class="tab-pane" id="kalender">
+
+		</div><!--tab-pane kalender-->
 	</div><!--/.tab-content-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 </body>
 
