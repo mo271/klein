@@ -100,3 +100,10 @@ legend{
 .switchsprache {
     margin-bottom: 6px;
     }
+
+.tab-pane#kalender {
+  width: 100%; /* Set a specific width or max-width as needed */
+  margin: 0 auto; /* Centers the div horizontally within its parent */
+  display: flex;
+  justify-content: center; /* Centers content horizontally */
+}
