@@ -1,0 +1,87 @@
+<html>
+
+<head>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script language="javascript" type="text/javascript" charset="UTF-8" src="./js/globalData.js"></script>
+    <script type="text/javascript">
+        // TODO: see you we can get this to work for standalone ./kalender.html
+        protokolle = protokolle || []
+        google.charts.load("current", { packages: ["calendar"], 'language': 'de'});
+        google.charts.setOnLoadCallback(drawChart);
+        // adhoc way of generating 83 colors, so that neighbors are distinct.
+        // TODO: use different families for different locations where Klein was
+        colors = Array(10).fill(['red', 'yellow', 'blue', 'fuchsia', 'orange', 'gray', 'green',
+            'pink']).flat().concat(['red', 'yellow', 'blue']);
+
+        function makeChartListener(chart, data) {
+            return function() {
+            var selection = chart.getSelection()[0];
+            if (selection && selection.row >= 0) {
+                var link = data.getRowProperty(selection.row, 'link');
+                if (link) {
+                window.open("#id-" + link)
+                }
+            }
+            }
+        }
+        function getTooltip(record){
+            speakers = record.speaker;
+            // TODO handle the case with multiple speakers
+            let speaker_id = speakers[0]
+
+            let speaker_name = teilnehmer[speaker_id]["ids_to_signatures"][record.id];
+            li = '<div>' + record.datum + '</p><h4>' + record.titel + '</h4><p>' + speaker_name + '</p>';
+            return li;
+        }
+
+        function drawChart() {
+            var dataTable = new google.visualization.DataTable();
+            dataTable.addColumn({ type: 'date', id: 'Datum' });
+            dataTable.addColumn({ type: 'number', id: 'Title' });
+            dataTable.addColumn({type: 'string', role: 'tooltip', 'p': {'html': true}});
+            semester_keys = Object.keys(semester_titles).map((x) => parseFloat(x));
+            counter = 0;
+            //TODO: handle the case where multiple talks fall on a a single date
+            for (i = protokolle.length - 1; i >= 0; i--) {
+                if (protokolle[i]["dok"]) {
+                    
+                    date = protokolle[i].iso_date;
+                    semester_number = semester_keys.indexOf(protokolle[i].sn);
+                    dataTable.addRow([new Date(date), semester_number, getTooltip(protokolle[i])]);
+                    dataTable.setRowProperty(counter, "link",  protokolle[i].id);
+                    counter +=1;
+                }
+            }
+
+            var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
+
+            var options = {
+                title: "Seminarkalender",
+                height: 6000,
+                calendar: {
+                    daysOfWeek: "SMDMDFS",
+                },
+                colorAxis: { minValue: 0, maxValue: 82, colors: colors, values: [...Array(83).keys()] },
+                legend : { position:"none"},
+                    // This line makes the entire category's tooltip active.
+                focusTarget: 'category',
+                // Use an HTML tooltip.
+                tooltip: { isHtml: true }
+            };
+
+            chart.draw(dataTable, options);
+            google.visualization.events.addListener(chart, 'select', makeChartListener(chart, dataTable));
+
+        }
+
+
+
+    </script>
+</head>
+
+<body>
+    <div id="calendar_basic" style="width: 1000px; height: 6000px;"></div>
+</body>
+
+</html>
