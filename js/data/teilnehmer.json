@@ -4845,16 +4845,20 @@
     ]
   },
   "645": {
-    "name": "L? Meyeringh?",
+    "name": "Ludwig Meyeringh",
     "ids_to_signatures": {
-      "1185": "L[?]. Meyeringh?",
-      "1186": "L[?]. Meyeringh?"
+      "1185": "L[udwig]. Meyeringh",
+      "1186": "L[udwig]. Meyeringh"
     },
-    "first": "L?",
+    "first": "Ludwig",
     "last": "Meyeringh?",
+    "sources":{
+      "AV 1912.0 S. 73": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B73%5D%7D"
+    },
     "sns": [
       1912.0
-    ]
+    ],
+    "origin": "Weener, Hannoverg"
   },
   "94": {
     "name": "Bruno Meyermann",
@@ -4918,7 +4922,8 @@
       1884.0,
       1884.5,
       1887.0
-    ]
+    ],
+    "origin": "Riga, Russland [Lettland]"
   },
   "460": {
     "name": "Erwin  Moll",
@@ -4947,15 +4952,19 @@
     "sns": [
       1883.5,
       1884.0
-    ]
+    ],
+    "origin": "Novara, Italien"
   },
   "1096": {
-    "name": "Ludwig Mosbacher?",
+    "name": "Ludwig Mosbacher",
     "ids_to_signatures": {
-      "203": "L[udwig]. Mosbacher?"
+      "203": "L[udwig]. Mosbacher"
     },
     "first": "Ludwig",
-    "last": "Mosbacher?",
+    "last": "Mosbacher",
+    "sources":{
+      "Archivportal-d": "https://www.archivportal-d.de/item/ZNNYBDXSO4KWSB4C5KXNKBB7UWRY52CU"
+    },
     "sns": [
       1878.4
     ]
@@ -4988,7 +4997,8 @@
     },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Bukarest"
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -5090,9 +5100,13 @@
     },
     "first": "Burt Newkirk",
     "last": "Newkirk",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=61003"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Ellenwille, New York, USA"
   },
   "742": {
     "name": "Paul Nimsch",
@@ -5111,7 +5125,8 @@
       1883.5,
       1884.0,
       1884.5
-    ]
+    ],
+    "origin": "Leipzig"
   },
   "165":{
     "name": "A. Nippoldt",
@@ -5136,10 +5151,14 @@
     },
     "first": "Josef",
     "last": "Nix",
+    "sources":{
+      "AV 1911.5 S. 74": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B74%5D%7D"
+    },
     "sns": [
       1911.5,
       1912.0
-    ]
+    ],
+    "origin": "Hofheim am Taunus"
   },
   "430": {
     "name": "Charles Albert Noble",
@@ -5151,12 +5170,14 @@
     "last": "Noble",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Charles_Albert_Noble",
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Charles_Albert_Noble"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Charles_Albert_Noble",
+      "AV 1894.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
     },
     "sns": [
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Soquel, Kalifornien, USA"
   },
   "1137": {
     "name": "Richard Olbricht",
@@ -5222,7 +5243,8 @@
     "sns": [
       1888.0,
       1888.5
-    ]
+    ],
+    "origin": "Boston, Massachusetts, USA"
   },
   "56": {
     "name": "Alex Osthoff",
@@ -5245,11 +5267,12 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Henri_Pad%C3%A9",
       "wiki-en": "https://en.wikipedia.org/wiki/Henri_Pad%C3%A9",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Henri Padé"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Henri_Pad%C3%A9"
     },
     "sns": [
       1890.0
-    ]
+    ],
+    "origin": "Abbeville, Frankreich"
   },
   "811": {
     "name": "Fritz Pahde",
@@ -5324,7 +5347,8 @@
       1884.0,
       1884.5,
       1885.0
-    ]
+    ],
+    "origin": "Dresden"
   },
   "133": {
     "name": "Ernesto Pascal",
@@ -5349,9 +5373,13 @@
     },
     "first": "Ernest",
     "last": "Pasquier",
+    "sources":{
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Ernest_Pasquier"
+    },
     "sns": [
       1872.0
-    ]
+    ],
+    "origin": "Fleurus, Belgien"
   },
   "74": {
     "name": "Gustav Penseler",
@@ -5360,9 +5388,13 @@
     },
     "first": "Gustav",
     "last": "Penseler",
+    "sources":{
+      "AV 1888.0 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Lüneburg"
   },
   "311": {
     "name": "Heinrich Personn",
@@ -5387,7 +5419,7 @@
     "first": "Hilda?",
     "last": "Petersen",
     "sources": {
-      "KT foll. 283": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B574%5D%7D"
+      "KT S. 572": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B572%5D%7D"
     },
     "sns": [
       1910.5
@@ -5501,12 +5533,13 @@
     "first": "Max",
     "last": "Planck",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Max Planck",
+      "wiki-de": "https://de.wikipedia.org/wiki/Max_Planck",
       "wiki-en": "https://en.wikipedia.org/wiki/Max_Planck"
     },
     "sns": [
       1877.4
-    ]
+    ],
+    "origin": "Kiel"
   },
   "581": {
     "name": "Friedrich Pockels",
@@ -5519,12 +5552,13 @@
     "first": "Friedrich",
     "last": "Pockels",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich Pockels",
-      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich Carl Alwin Pockels"
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Pockels",
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Carl_Alwin_Pockels"
     },
     "sns": [
       1889.5
-    ]
+    ],
+    "origin":  "Vicenza, Italien"
   },
   "338": {
     "name": "Ernst Pohlhausen",
@@ -5548,9 +5582,13 @@
     },
     "first": "Egon",
     "last": "Pollak",
+    "sources":{
+      "AV 1899.0 S. 56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B56%5D%7D"
+    },
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "Prag"
   },
   "1193": {
     "name": "Hubert Post",
@@ -5573,12 +5611,13 @@
     "last": "Prandtl",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Prandtl",
-      "wiki-en": "https://en.wikipedia.org/wiki/Ludwig Prandtl"
+      "wiki-en": "https://en.wikipedia.org/wiki/Ludwig_Prandtl"
     },
     "sns": [
       1904.5,
       1909.0
-    ]
+    ],
+    "origin": "Freising"
   },
   "1064": {
     "name": "Georg Prange",
