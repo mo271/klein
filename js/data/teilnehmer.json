@@ -27,11 +27,13 @@
   "931": {
     "name": "?",
     "ids_to_signatures": {
+      "204": "[Anonym]",
       "1111": "[?]"
     },
     "first": "",
-    "last": "Αnonymous",
+    "last": "Anonymous",
     "sns": [
+      1878.4,
       1911.0
     ]
   },
@@ -4851,14 +4853,14 @@
       "1186": "L[udwig]. Meyeringh"
     },
     "first": "Ludwig",
-    "last": "Meyeringh?",
+    "last": "Meyeringh",
     "sources":{
       "AV 1912.0 S. 73": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B73%5D%7D"
     },
     "sns": [
       1912.0
     ],
-    "origin": "Weener, Hannoverg"
+    "origin": "Weener, Hannover"
   },
   "94": {
     "name": "Bruno Meyermann",
@@ -4873,7 +4875,8 @@
     },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Straßburg"
   },
   "162":{
     "name": "John Miller",
@@ -5065,7 +5068,7 @@
     ]
   },
   "572": {
-    "name": "Dr. Friedrich Neesen",
+    "name": "Friedrich Neesen",
     "ids_to_signatures": {
       "13": "Dr. [Friedrich] Neesen",
       "20": "Dr. F[riedrich]. Neesen"
@@ -5091,12 +5094,13 @@
     },
     "sns": [
       1909.5
-    ]
+    ],
+    "origin": "Berlin"
   },
   "895": {
-    "name": "Burt L? Newkirk",
+    "name": "Burt L. Newkirk",
     "ids_to_signatures": {
-      "858": "B[urt] L[?]. Newkirk"
+      "858": "B[urt] L. Newkirk"
     },
     "first": "Burt Newkirk",
     "last": "Newkirk",
@@ -5573,7 +5577,8 @@
     },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Mittweida, Sachsen"
   },
   "862": {
     "name": "Egon Pollak",
@@ -5628,14 +5633,15 @@
     "last": "Prange",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Prange",
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Georg Prange"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Georg_Prange"
     },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Hannover"
   },
   "793": {
-    "name": "Dr. Ing. Reinhold Proell",
+    "name": "Reinhold Proell",
     "ids_to_signatures": {
       "902": "Dr. Ing. R[einhold]. Proell",
       "898": "Dr. Ing. R[einhold]. Proell."
@@ -5679,7 +5685,7 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anton_Puchta"
     },
-    "origin": "Staré Sedlo [Altsattel], Tschechien",
+    "origin": "Altsattel, Österreich-Ungardn [Staré Sedlo, Tschechien]",
     "sns": [
       1875.5,
       1876.5,
@@ -5747,15 +5753,16 @@
     "sns": [
       1884.5,
       1885.0
-    ]
+    ],
+    "origin": "Pest, Österreich-Ungarn [Budapest, Ungarn]"
   },
   "145": {
     "name": "Wilibald Reichardt",
     "ids_to_signatures": {
       "436": "Wilibald Reichardt",
       "438": "Wilibald Reichardt",
-      "415": "Wilibald Reichardt?",
-      "429": "Wilibald Reichardt?"
+      "415": "Wilibald Reichardt",
+      "429": "Wilibald Reichardt"
     },
     "first": "Wilibald",
     "last": "Reichardt",
@@ -5815,9 +5822,13 @@
     },
     "first": "Ernst",
     "last": "Reinstein",
+    "sources": {
+      "AV 1905.0 66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Dresden"
   },
   "506": {
     "name": "Hugo Relander",
@@ -5827,7 +5838,7 @@
     "first": "Hugo",
     "last": "Relander",
     "sources": {
-      "wiki-fi": "https://fi.wikipedia.org/wiki/H. M. J. Relander"
+      "wiki-fi": "https://fi.wikipedia.org/wiki/H._M._J._Relander"
     },
     "sns": [
       1886.0
@@ -5840,9 +5851,13 @@
     },
     "first": "Tscheslaw",
     "last": "Retschinsky",
+    "sources":{
+      "AV 1902.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Charkow, Rußland [Charkiw, Ukraine]"
   },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
@@ -5860,20 +5875,25 @@
     "sns": [
       1878.5,
       1879.0
-    ]
+    ],
+    "origin": "Lugo, Italien"
   },
   "1077": {
     "name": "Louis Richter",
     "ids_to_signatures": {
       "1002": "Louis Richter",
-      "959": "Louis Richter?"
+      "959": "Louis Richter"
     },
     "first": "Louis",
     "last": "Richter",
+    "sources":{
+      "AV 1905.0 S. 67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    },
     "sns": [
       1905.0,
       1906.0
-    ]
+    ],
+    "origin": "Harleshausen [Kassel]"
   },
   "59": {
     "name": "Otto Richter",
@@ -5900,21 +5920,22 @@
     ]
   },
   "177": {
-    "name": "Eduard Ritter von Weber",
+    "name": "Eduard von Weber",
     "ids_to_signatures": {
-      "548": "E[duard] [Ritter] v[on] Weber",
-      "553": "E[duard] [Ritter] v[on] Weber",
-      "554": "E[duard] [Ritter] v[on] Weber"
+      "548": "E[duard] v[on] Weber",
+      "553": "E[duard] v[on] Weber",
+      "554": "E[duard] v[on] Weber"
     },
     "first": "Eduard",
-    "last": "Ritter von Weber",
+    "last": "von Weber",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Eduard von Weber",
-      "wiki-en": "https://en.wikipedia.org/wiki/Eduard Ritter von Weber"
+      "wiki-de": "https://de.wikipedia.org/wiki/Eduard_von_Weber",
+      "wiki-en": "https://en.wikipedia.org/wiki/Eduard_Ritter_von_Weber"
     },
     "sns": [
       1892.5
-    ]
+    ],
+    "origin": "München"
   },
   "877": {
     "name": "Carl [Karl] Friedrich Rodenberg",
@@ -5934,18 +5955,18 @@
     ]
   },
   "278": {
-    "name": "Karl Friedrich Wilhelm Rohn",
+    "name": "Karl Friedrich Wihelm Rohn",
     "ids_to_signatures": {
-      "117": "K[arl Friedrich Wilhelm] Rohn",
-      "122": "K[arl Friedrich Wilhelm] Rohn",
-      "135": "K[arl Friedrich Wilhelm] Rohn",
-      "136": "K[arl Friedrich Wilhelm] Rohn",
-      "143": "K[arl Friedrich Wilhelm] Rohn",
-      "205": "K[arl Friedrich Wilhelm] Rohn",
-      "209": "K[arl Friedrich Wilhelm] Rohn",
-      "212": "K[arl Friedrich Wilhelm] Rohn"
+      "117": "K[arl] Rohn",
+      "122": "K[arl] Rohn",
+      "135": "K[arl] Rohn",
+      "136": "K[arl] Rohn",
+      "143": "K[arl] Rohn",
+      "205": "K[arl] Rohn",
+      "209": "K[arl] Rohn",
+      "212": "K[arl] Rohn"
     },
-    "first": "Karl Friedrich Wilhelm",
+    "first": "Karl",
     "last": "Rohn",
     "sns": [
       1875.5,
@@ -5953,7 +5974,11 @@
       1877.0,
       1877.5,
       1878.0
-    ]
+    ],
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Karl_Rohn"
+    },
+    "origin": "Schwanheim [Bensheim]"
   },
   "441": {
     "name": "Arthur Rosenthal",
@@ -5964,13 +5989,14 @@
     "first": "Arthur",
     "last": "Rosenthal",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Arthur Rosenthal (Mathematiker)",
+      "wiki-de": "https://de.wikipedia.org/wiki/Arthur_Rosenthal_(Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Rosenthal"
     },
     "sns": [
       1911.0,
       1911.5
-    ]
+    ],
+    "origin": "Fürth"
   },
   "1202": {
     "name": "Dr. Paul Roth",
@@ -6024,15 +6050,20 @@
     ]
   },
   "12": {
-    "name": "Friedrich Rulf?",
+    "name": "Dr. Friedrich Rulf",
     "ids_to_signatures": {
-      "1167": "F[riedrich] Rulf?"
+      "1167": "F[riedrich] Rulf"
     },
     "first": "Friedrich",
-    "last": "Rulf?",
+    "last": "Rulf",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64962",
+      "AV 1911.5 S. 81": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B81%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Wien"
   },
   "944": {
     "name": "Iris Runge",
@@ -6043,27 +6074,29 @@
     "first": "Iris",
     "last": "Runge",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Iris Runge",
+      "wiki-de": "https://de.wikipedia.org/wiki/Iris_Runge",
       "wiki-en": "https://en.wikipedia.org/wiki/Iris_Runge"
     },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Hannover"
   },
   "157": {
     "name": "Carl David Tolmé Runge",
     "ids_to_signatures": {
-      "940": "C[arl David Tolmé] Runge"
+      "940": "C[arl] Runge"
     },
-    "first": "Carl David Tolmé",
+    "first": "Carl",
     "last": "Runge",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Carl Runge",
-      "wiki-en": "https://en.wikipedia.org/wiki/Carl Runge"
+      "wiki-de": "https://de.wikipedia.org/wiki/Carl_Runge",
+      "wiki-en": "https://en.wikipedia.org/wiki/Carl_Runge"
     },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Bremen"
   },
   "1033": {
     "name": "Gottfried Rückle",
@@ -6075,16 +6108,17 @@
     "first": "Gottfried",
     "last": "Rückle",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Gottfried Rückle"
+      "wiki-de": "https://de.wikipedia.org/wiki/Gottfried_Rückle"
     },
     "sns": [
       1898.0,
       1899.0,
       1900.0
-    ]
+    ],
+    "origin": "Rödelheim [Frankfurt am Main]"
   },
   "10": {
-    "name": "Reinhold Rüdenberg",
+    "name": "Günther Reinhold Rüdenberg",
     "ids_to_signatures": {
       "970": "R[einhold] Rüdenberg",
       "971": "R[einhold] Rüdenberg",
@@ -6096,13 +6130,14 @@
     "last": "Rüdenberg",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Reinhold_R%C3%BCdenberg",
-      "wiki-en": "https://en.wikipedia.org/wiki/Reinhold Rudenberg"
+      "wiki-en": "https://en.wikipedia.org/wiki/Reinhold_Rudenberg"
     },
     "sns": [
       1905.0,
       1907.5,
       1908.0
-    ]
+    ],
+    "origin": "Hannover"
   },
   "688": {
     "name": "Ljubow Sapolsky",
@@ -6122,7 +6157,8 @@
       1896.0,
       1896.5,
       1897.0
-    ]
+    ],
+    "origin": "Dankov, Gouvernement Rjasan, Russland"
   },
   "247": {
     "name": "Andreas Saß",
@@ -6139,15 +6175,19 @@
     ]
   },
   "971": {
-    "name": "K? Scharer?",
+    "name": "K? Schorer",
     "ids_to_signatures": {
-      "560": "K[?] Scharer?"
+      "560": "K[?] Schorer"
     },
     "first": "K?",
-    "last": "Scharer?",
+    "last": "Schorer",
+    "sources":{
+      "AV 1893.0 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_SS?tify=%7B%22pages%22%3A%5B51%5D%7D"
+    },
     "sns": [
       1893.0
-    ]
+    ],
+    "origin": "Lübeck"
   },
   "1070": {
     "name": "Carl Schellenberg",
@@ -6175,7 +6215,8 @@
     "sns": [
       1892.0,
       1893.0
-    ]
+    ],
+    "origin": " Tagelswangen bei Lindau, Schweiz"
   },
   "746": {
     "name": "Harald Schering",
@@ -6224,7 +6265,8 @@
       1890.0,
       1891.0,
       1892.5
-    ]
+    ],
+    "origin": "Hildesheim"
   },
   "1181": {
     "name": "Rudolf Schimmack",
@@ -6264,13 +6306,14 @@
     "first": "Dr.",
     "last": "Schlesinger",
     "sources": {
-      "wiki-de???": "https://de.wikipedia.org/wiki/Ludwig_Schlesinger_(Mathematiker)",
+      "vermutlich wiki-de": "https://de.wikipedia.org/wiki/Ludwig_Schlesinger_(Mathematiker)",
       "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg",
       "KT S. 358": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B358%5D%7D"
     },
     "sns": [
       1894.5
-    ]
+    ],
+    "origin": "vermutlich Tyrnau, Österreich-Ungarn [Trnava, Slowakei]"
   },
   "703": {
     "name": "Dietrich Schlüter",
@@ -6355,17 +6398,6 @@
       1878.4
     ]
   },
-  "362": {
-    "name": "Schriftenvergleich?!",
-    "ids_to_signatures": {
-      "204": "[? Schriftenvergleich?!]"
-    },
-    "first": "",
-    "last": "Schriftenvergleich?!",
-    "sns": [
-      1878.4
-    ]
-  },
   "61": {
     "name": "Friedrich Schröder",
     "ids_to_signatures": {
@@ -6390,11 +6422,15 @@
     },
     "first": "Johannes",
     "last": "Schröder",
+    "sources":{
+      "AV 1888.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    },
     "sns": [
       1887.5,
       1888.0,
       1888.5
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "350": {
     "name": "Johannes Schröder",
@@ -6403,7 +6439,7 @@
     },
     "first": "Johannes",
     "last": "Schröder",
-    "origin": "Erfurt, Provinz Sachsen",
+    "origin": "Erfurt",
     "sources": {
       "AV 1907.5 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1907_1908_WS?tify=%7B%22pages%22%3A%5B72%5D%7D",
       "KT foll. 264": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B536%5D%7D"
@@ -6436,7 +6472,8 @@
     },
     "sns": [
       1901.0
-    ]
+    ],
+    "origin": "Amsterdam"
   },
   "357": {
     "name": "Max Schuhardt",
@@ -6497,7 +6534,8 @@
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Frankfurt am Main"
   },
   "458": {
     "name": "Eduard Schweikert",
@@ -6599,13 +6637,13 @@
     ]
   },
   "384": {
-    "name": "Friedrich[?] Siebert",
+    "name": "Friedrich Siebert",
     "ids_to_signatures": {
-      "1155": "Friedrich[?] Siebert"
+      "1155": "Friedrich Siebert"
     },
-    "first": "Friedrich[?]",
+    "first": "Friedrich",
     "last": "Siebert",
-    "origin": "Hannover[?]",
+    "origin": "Hannover",
     "sources": {
       "AV 1910.5 S.80": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B80%5D%7D"
     },
@@ -6632,23 +6670,25 @@
       1894.0,
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "329": {
-    "name": "Carl Siegel",
+    "name": "Carl LudwigSiegel",
     "ids_to_signatures": {
       "567": "C[arl] Siegel",
       "563": "C[arl] Siegel"
     },
-    "first": "Carl",
+    "first": "Carl Ludwig",
     "last": "Siegel",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Carl Ludwig Siegel",
-      "wiki-en": "https://en.wikipedia.org/wiki/Carl Ludwig Siegel"
+      "wiki-de": "https://de.wikipedia.org/wiki/Carl_Ludwig_Siegel",
+      "wiki-en": "https://en.wikipedia.org/wiki/Carl_Ludwig_Siegel"
     },
     "sns": [
       1893.0
-    ]
+    ],
+    "origin": "Berlin"
   },
   "36": {
     "name": "Percy Franklyn Smith",
@@ -6660,14 +6700,15 @@
     "last": "Smith",
     "sns": [
       1894.5
-    ]
+    ],
+    "origin": "New York, USA"
   },
   "112": {
     "name": "Gustaf Robert Snellman.",
     "ids_to_signatures": {
       "532": "G[ustaf]. R[obert]. Snellman."
     },
-    "first": "G R",
+    "first": "Gustaf Robert",
     "last": "Snellman",
     "origin": "Helsinki",
     "sns": [
@@ -6691,7 +6732,8 @@
       1893.5,
       1894.0,
       1894.5
-    ]
+    ],
+    "origin": "Dyxon, Iowa, USA"
   },
   "1030": {
     "name": "Julius Sommer",
@@ -6707,7 +6749,8 @@
     },
     "sns": [
       1897.5
-    ]
+    ],
+    "origin": "Reutlingen"
   },
   "4": {
     "name": "Arnold Sommerfeld",
@@ -6723,7 +6766,8 @@
     },
     "sns": [
       1894.5
-    ]
+    ],
+    "origin": "Königsberg"
   },
   "952": {
     "name": "Otto Staude",
@@ -6742,7 +6786,7 @@
     "first": "Otto",
     "last": "Staude",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Otto Staude"
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Staude"
     },
     "sns": [
       1880.5,
@@ -6750,7 +6794,8 @@
       1881.5,
       1882.0,
       1882.5
-    ]
+    ],
+    "origin": "Limbach [Limbach-Oberfrohna]"
   },
   "908": {
     "name": "Fritz Steckel",
@@ -6787,9 +6832,13 @@
     },
     "first": "Ludwig",
     "last": "Steiner",
+    "sources":{
+      "AV 1895.0 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1895.0
-    ]
+    ],
+    "origin": "O'Gyalla, Österreich-Ungarn [Hurbanovo, Slowakei]"
   },
   "143": {
     "name": "Washington Irving Stringham",
@@ -6798,15 +6847,19 @@
       "288": "W[ashington]. I[rving]. Stringham",
       "294": "W[ashington]. I[rving]. Stringham"
     },
-    "first": "Washington Irving",
+    "first": "Irving",
     "last": "Stringham",
+    "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/Irving_Stringham"
+    },
     "sns": [
       1880.5,
       1881.0
-    ]
+    ],
+    "origin": "New York, USA"
   },
   "741": {
-    "name": "Eduard Study",
+    "name": "Christian Hugo Eduard Study",
     "ids_to_signatures": {
       "326": "[Eduard] Study",
       "422": "[Eduard] Study"
@@ -6820,7 +6873,8 @@
     "sns": [
       1882.0,
       1885.0
-    ]
+    ],
+    "origin": "Coburg"
   },
   "484": {
     "name": "Ernst Sommerfeld",
@@ -6919,7 +6973,8 @@
     "sns": [
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Fort Plain, New York, USA"
   },
   "139": {
     "name": "Friedrich Thiersch",
@@ -6941,10 +6996,14 @@
     },
     "first": "Henry Dallas",
     "last": "Thompson",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7433"
+    },
     "sns": [
       1887.5,
       1888.0
-    ]
+    ],
+    "origin": "USA"
   },
   "315": {
     "name": "Paul Thormeyer",
