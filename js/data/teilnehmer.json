@@ -6967,11 +6967,12 @@
     "last": "Threlfall",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/William_Threlfall",
-      "wiki-en": "https://en.wikipedia.org/wiki/William Threlfall"
+      "wiki-en": "https://en.wikipedia.org/wiki/William_Threlfall"
     },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Dresden"
   },
   "501": {
     "name": "Matvej Tichomaridritzky\\newline Docent an der Universität Charkow.",
@@ -6981,9 +6982,14 @@
     "first": "Matvej",
     "last": "Tichomaridritzky",
     "name_non_latin": "Матвей Александрович Тихомандрицкий",
+    "sources":{
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "wiki-uk": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D1%82%D0%B2%D1%96%D0%B9_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+    },
     "sns": [
       1884.0
-    ]
+    ],
+    "origin": "Kiew"
   },
   "1097": {
     "name": "Wilhelm Tiedge",
@@ -7022,9 +7028,15 @@
     "first": "Stepan Prokopowytsch",
     "last": "Timoschenko",
     "name_non_latin": "Степан Прокопович Тимошенко",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Stepan_Tymoschenko",
+      "wiki-en": "https://en.wikipedia.org/wiki/Stephen_Timoshenko",
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD_%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+    },
     "sns": [
       1909.0
-    ]
+    ],
+    "origin": "Schpotowka, Gouvernement Tschernigow, Russland"
   },
   "699": {
     "name": "Anton Aloys Timpe.",
@@ -7038,9 +7050,9 @@
     "last": "Timpe",
     "sources": {
       "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D",
-      "wiki-de": "https://de.wikipedia.org/wiki/Anton Aloys Timpe"
+      "wiki-de": "https://de.wikipedia.org/wiki/Anton_Aloys_Timpe"
     },
-    "origin": "[Hamburg-]Bergedorf",
+    "origin": "Bergedorf [Hamburg]",
     "sns": [
       1903.0,
       1904.0,
@@ -7113,7 +7125,8 @@
       1905.5,
       1906.5,
       1909.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "170":{
     "name": "Aisso Toxopeus",
@@ -7158,26 +7171,17 @@
     ]
   },
   "305": {
-    "name": "Joseph H Tudor",
+    "name": "Joseph H. Tudor",
     "ids_to_signatures": {
-      "542": "Joseph H[]. Tudor"
+      "533": "Joseph H. Tudor",
+      "542": "Joseph H. Tudor"
     },
-    "first": "Joseph H",
+    "first": "Joseph H.",
     "last": "Tudor",
     "sns": [
       1892.0
-    ]
-  },
-  "768": {
-    "name": "Joseph H. Tudor?",
-    "ids_to_signatures": {
-      "533": "Joseph H. Tudor?"
-    },
-    "first": "Joseph H.",
-    "last": "Tudor?",
-    "sns": [
-      1892.0
-    ]
+    ],
+    "origin": "USA"
   },
   "1152": {
     "name": "Harry Walter Tyler ",
@@ -7186,9 +7190,14 @@
     },
     "first": "Harry Walter",
     "last": "Tyler",
+    "sources":{
+      "wiki-en": "https://en.wikipedia.org/wiki/Harry_Walter_Tyler",
+      "science.org": "https://www.science.org/doi/10.1126/science.87.2252.181.a"
+    },
     "sns": [
       1888.0
-    ]
+    ],
+    "origin": "Ipswich, Massachusetts, USA"
   },
   "440": {
     "name": "Bernhard Uffrecht",
@@ -7202,15 +7211,20 @@
     },
     "sns": [
       1909.5
-    ]
+    ],
+    "origin": "Haldensleben"
   },
   "221": {
-    "name": "P. Unger?",
+    "name": "F.? Meyer",
     "ids_to_signatures": {
-      "950": "P. Unger?"
+      "950": "F.? Meyer"
     },
-    "first": "P.",
-    "last": "Unger?",
+    "first": "F.?",
+    "last": "Meyer",
+    "sources":{
+      "AV 1904.5 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B59%5D%7D",
+      "KT S. 486": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B486%5D%7D"
+    },
     "sns": [
       1904.5
     ]
@@ -7244,25 +7258,31 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Giuseppe_Veronese",
       "wiki-en": "https://en.wikipedia.org/wiki/Giuseppe_Veronese",
-      "wiki-it": "https://it.wikipedia.org/wiki/Giuseppe Veronese"
+      "wiki-it": "https://it.wikipedia.org/wiki/Giuseppe_Veronese"
     },
     "sns": [
       1880.5,
       1881.0
-    ]
+    ],
+    "origin": "Chioggia bei Venedig, Italien"
   },
   "673": {
-    "name": "Aladar Visnya",
+    "name": "Alador Visnya [Visnya Aladár]",
     "ids_to_signatures": {
-      "1055": "A[ladar] Visnya",
-      "1059": "A[ladar] Visnya"
+      "1055": "A[lador] Visnya",
+      "1059": "A[lador] Visnya"
     },
-    "first": "Aladar",
+    "first": "Alador",
     "last": "Visnya",
+    "sources":{
+      "AV 1908.0 S. 81": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B81%5D%7D",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Visnya_Alad%C3%A1r"
+    },
     "sns": [
       1907.5,
       1908.0
-    ]
+    ],
+    "origin": "Fünfkirchen, Österreich-Ungarn [Pécs, Ungarn]"
   },
   "453": {
     "name": "Adolfo Viterbi",
@@ -7341,15 +7361,19 @@
     ]
   },
   "614": {
-    "name": "Wilhelm? Wagemann?",
+    "name": "Wilhelm Wagemann",
     "ids_to_signatures": {
-      "963": "Wilh[elm?]. Wagemann?"
+      "963": "Wilh[elm]. Wagemann"
     },
-    "first": "Wilhelm?",
-    "last": "Wagemann?",
+    "first": "Wilhelm",
+    "last": "Wagemann",
+    "sources":{
+      "AV 1905.0 S. 76": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B76%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Burgdorf, Hannover"
   },
   "563": {
     "name": "Gotthold Wagner",
@@ -7376,7 +7400,7 @@
     },
     "first": "J. H.",
     "last": "Walley",
-    "origin": "Gloucester, Engl",
+    "origin": "Gloucester, England",
     "sources": {
       "AV 1897.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
     },
@@ -7409,17 +7433,21 @@
     ]
   },
   "999": {
-    "name": "W? Wecken?",
+    "name": "Wilhelm Wecken",
     "ids_to_signatures": {
-      "821": "W[?]. Wecken?, stud. math.",
-      "843": "W[?] Wecken?\\newline stud. math."
+      "821": "W[ilhelm]. Wecken, stud. math.",
+      "843": "W[ilhelm] Wecken\\newline stud. math."
     },
-    "first": "W?",
-    "last": "Wecken?",
+    "first": "Wilhelm",
+    "last": "Wecken",
+    "sources":{
+      "AV 1902.0 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
+    },
     "sns": [
       1901.5,
       1902.0
-    ]
+    ],
+    "origin": "Römstedt, Hannover"
   },
   "9": {
     "name": "Ludwig Wedekind",
@@ -7436,12 +7464,16 @@
     },
     "first": "Ludwig",
     "last": "Wedekind",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7409"
+    },
     "sns": [
       1873.0,
       1873.5,
       1874.5,
       1875.5
-    ]
+    ],
+    "origin": "Palermo, Italien"
   },
   "953": {
     "name": "Charlotte Wedell",
@@ -7456,7 +7488,8 @@
     },
     "sns": [
       1896.5
-    ]
+    ],
+    "origin": "Dänemark"
   },
   "217": {
     "name": "Otto Weerth",
@@ -7472,18 +7505,23 @@
     },
     "sns": [
       1872.0
-    ]
+    ],
+    "origin": "Blomberg"
   },
   "610": {
-    "name": "Emil Wegmann?",
+    "name": "Emil Wegmann",
     "ids_to_signatures": {
-      "723": "Emil Wegmann?"
+      "723": "Emil Wegmann"
     },
     "first": "Emil",
-    "last": "Wegmann?",
+    "last": "Wegmann",
+    "sources":{
+      "AV 1898.0 S. 63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    },
     "sns": [
       1898.0
-    ]
+    ],
+    "origin": "Langendreer [Bochum]"
   },
   "946": {
     "name": "Guido Weicholdt",
@@ -7533,7 +7571,8 @@
     "sns": [
       1872.0,
       1873.0
-    ]
+    ],
+    "origin": "Winterthur, Schweiz"
   },
   "583": {
     "name": "Dr. Hermann Weinreich",
