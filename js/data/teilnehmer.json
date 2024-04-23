@@ -8125,25 +8125,20 @@
   "346": {
     "name": "Theodor Zorn",
     "ids_to_signatures": {
-      "1105": "[[Theodor] Zorn]"
+      "1105": "[[Theodor] Zorn]",
+      "1198": "Th[eodor]. Zorn.",
+      "1191": "Theo[dor] Zorn"
     },
     "first": "Theodor",
     "last": "Zorn",
-    "sns": [
-      1911.0
-    ]
-  },
-  "938": {
-    "name": "Theo Zorn.",
-    "ids_to_signatures": {
-      "1198": "Th[eo]. Zorn.",
-      "1191": "Theo Zorn"
+    "sources":{
+      "AV 1913.0 S. 88": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1913_SS?tify=%7B%22pages%22%3A%5B88%5D%7D"
     },
-    "first": "Theo",
-    "last": "Zorn",
     "sns": [
+      1911.0,
       1912.0
-    ]
+    ],
+    "origin": "Basel, Schweiz"
   },
   "273": {
     "name": "Richard Suppantschitsch [Rihard Zupančič]",
