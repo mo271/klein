@@ -1266,20 +1266,23 @@
     ]
   },
   "1045": {
-    "name": "Grace Chisholm",
+    "name": "Grace Chisholm [später: Young]",
     "ids_to_signatures": {
       "577": "Grace Chisholm",
-      "586": "Grace Chisholm"
+      "586": "Grace Chisholm",
+      "695": "[Frau [Grace] Young]"
     },
     "first": "Grace",
-    "last": "Chisholm",
+    "last": "Chisholm [später: Young]",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Grace_Chisholm_Young",
-      "wiki-en": "https://en.wikipedia.org/wiki/Grace_Chisholm_Young"
+      "wiki-en": "https://en.wikipedia.org/wiki/Grace_Chisholm_Young",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=18555"
     },
     "sns": [
       1893.5,
-      1894.0
+      1894.0,
+      1897.5
     ]
   },
   "128": {
@@ -2447,17 +2450,6 @@
     "sns": [
       1888.5,
       1896.0
-    ]
-  },
-  "480": {
-    "name": "D\\textsuperscript{r}  Zemplén Győző",
-    "ids_to_signatures": {
-      "939": "D\\textsuperscript{r}  Zemplén Győző"
-    },
-    "first": "Zemplén",
-    "last": "Győző",
-    "sns": [
-      1904.5
     ]
   },
   "258": {
@@ -7237,10 +7229,13 @@
     },
     "first": "Joseph H.",
     "last": "Tudor",
+    "sources":{
+      "AV 1892.0. S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1892.0
     ],
-    "origin": "USA"
+    "origin": "Florence [State?], USA"
   },
   "1152": {
     "name": "Harry Walter Tyler ",
@@ -7670,18 +7665,27 @@
     "last": "Wernicke",
     "sns": [
       1902.5
-    ]
+    ],
+    "sources":{
+      "AV 1902.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B68%5D%7D",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=52382"
+    },
+    "origin": "Lexington, Kentucky, USA (geb. in Leipzig)"
   },
   "490": {
-    "name": "J.V.Westfall Wilhelmus David Allen Westfall",
+    "name": "J. E. Westfall",
     "ids_to_signatures": {
-      "674": "J.V.Westfall [Wilhelmus David Allen Westfall]"
+      "674": "J. E. Westfall"
     },
-    "first": "Wilhelmus David Allen",
+    "first": "J. E.",
     "last": "Westfall",
+    "sources": {
+      "AV 1896.5 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1896.5
-    ]
+    ],
+    "origin": "Moravia [New York?], USA"
   },
   "879": {
     "name": "Hermann Weyl",
@@ -7697,7 +7701,8 @@
     },
     "sns": [
       1909.5
-    ]
+    ],
+    "origin": "Elmshorn"
   },
   "857": {
     "name": "Henry Seely White",
@@ -7708,7 +7713,7 @@
     "first": "Henry Seely",
     "last": "White",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Henry Seely White",
+      "wiki-de": "https://de.wikipedia.org/wiki/Henry_Seely_White",
       "wiki-en": "https://en.wikipedia.org/wiki/Henry_Seely_White",
       "P Bd. 10 S. 183": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p183_normal.jpg"
     },
@@ -7716,7 +7721,8 @@
       1888.0,
       1888.5,
       1889.5
-    ]
+    ],
+    "origin": "Cazenovia, New York, USA"
   },
   "472": {
     "name": "James Kelsey Whittemore",
@@ -7750,9 +7756,9 @@
     ]
   },
   "889": {
-    "name": "Wilhelm Wiechern.",
+    "name": "Wilhelm Wiechern",
     "ids_to_signatures": {
-      "1144": "Wilh[elm]. Wiechern."
+      "1144": "Wilh[elm]. Wiechern"
     },
     "first": "Wilhelm",
     "last": "Wiechern",
@@ -7787,13 +7793,14 @@
     "first": "Karl",
     "last": "Wieghardt",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Karl Wieghardt (Mathematiker)"
+      "wiki-de": "https://de.wikipedia.org/wiki/Karl_Wieghardt_(Mathematiker)"
     },
     "sns": [
       1900.0,
       1903.0,
       1903.5
-    ]
+    ],
+    "origin": "Bergeborbeck [Essen]"
   },
   "426": {
     "name": "Hermann Wiener",
@@ -7811,7 +7818,8 @@
     "sns": [
       1881.5,
       1882.0
-    ]
+    ],
+    "origin": "Karlsruhe"
   },
   "210": {
     "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
@@ -7821,10 +7829,16 @@
     },
     "first": "Józef [Joseph]",
     "last": "Wierusz-Kowalski [von Kowalski]",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/J%C3%B3zef_Wierusz-Kowalski",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Wierusz-Kowalski",
+      "AV 1888.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    },
     "sns": [
       1886.0,
       1886.5
-    ]
+    ],
+    "origin": "Olbiencien, Russland [Puławy, Polen]"
   },
   "411": {
     "name": "Julius Wigger",
@@ -7833,9 +7847,13 @@
     },
     "first": "Julius",
     "last": "Wigger",
+    "sources":{
+      "AV 1894.0 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1894.0
-    ]
+    ],
+    "origin": "Sankow [Carlow], Meckl."
   },
   "662": {
     "name": "Fritz Wilde",
@@ -7906,9 +7924,9 @@
       "620": "Mary Winston"
     },
     "first": "Mary Frances",
-    "last": "Winston",
+    "last": "Winston [später: Newson]",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Mary Winston Newson",
+      "wiki-de": "https://de.wikipedia.org/wiki/Mary_Winston_Newson",
       "wiki-en": "https://en.wikipedia.org/wiki/Mary_Frances_Winston_Newson"
     },
     "sns": [
@@ -7916,35 +7934,42 @@
       1894.0,
       1894.5,
       1895.0
-    ]
+    ],
+    "origin": "Forreston, Illinois, USA"
   },
   "872": {
-    "name": "H? Winter?",
+    "name": "Hermann Winter",
     "ids_to_signatures": {
-      "847": "H[?]. Winter?"
+      "847": "H[ermann]. Winter"
     },
-    "first": "H?",
-    "last": "Winter?",
+    "first": "Hermann",
+    "last": "Winter",
+    "sources":{
+      "AV 1902.5 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Wismar"
   },
   "850": {
-    "name": "K. Wirtz",
+    "name": "Karl Wirtz",
     "ids_to_signatures": {
-      "428": "K. Wirtz",
-      "448": "K. Wirtz"
+      "428": "K[arl]. Wirtz",
+      "448": "K[arl]. Wirtz"
     },
-    "first": "K.",
+    "first": "Karl",
     "last": "Wirtz",
     "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Karl_Wirtz_(Elektrotechniker)",
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
     "sns": [
       1885.0,
       1885.5,
       1886.0
-    ]
+    ],
+    "origin": "Darmstadt"
   },
   "392": {
     "name": "Alexander Witting",
@@ -7965,7 +7990,8 @@
       1885.0,
       1885.5,
       1886.0
-    ]
+    ],
+    "origin": "Dresden"
   },
   "156": {
     "name": "Alexej Konstantinowitsch Wlassoff",
@@ -7975,9 +8001,13 @@
     "first": "Alexej Konstantinowitsch",
     "last": "Wlassoff",
     "name_non_latin": "Алексей Константинович Власов",
+    "sources":{
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"
+    },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Vlasovka, Gouvernement Wladimir, Russland"
   },
   "1036": {
     "name": "Christoph Wolff",
@@ -7994,17 +8024,21 @@
     ]
   },
   "1047": {
-    "name": "Ernst Wolfhagen?",
+    "name": "Ernst Wolfhagen",
     "ids_to_signatures": {
-      "822": "Ernst Wolfhagen?",
-      "884": "Ernst Wolfhagen?"
+      "822": "Ernst Wolfhagen",
+      "884": "Ernst Wolfhagen"
     },
     "first": "Ernst",
-    "last": "Wolfhagen?",
+    "last": "Wolfhagen",
+    "sources":{
+      "AV 1903.0 S. 72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
+    },
     "sns": [
       1901.5,
       1903.0
-    ]
+    ],
+    "origin": "Einbeck, Hannover"
   },
   "1001": {
     "name": "Frederick Shenstone Woods",
@@ -8015,10 +8049,16 @@
     },
     "first": "Frederick",
     "last": "Woods",
+    "sources":{
+      "wiki-en": "https://en.wikipedia.org/wiki/Frederick_S._Woods",
+      "mathgenealogy": "https://mathgenealogy.org/id.php?id=7439",
+      "AV 1893.0 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1892.5,
       1893.5
-    ]
+    ],
+    "origin": "Westfield [Massachusetts?], USA"
   },
   "980": {
     "name": "Takuji Yoshiye",
@@ -8028,31 +8068,28 @@
     "first": "Takuji",
     "last": "Yoshiye",
     "name_non_latin": "吉江琢兒",
+    "sources":{
+      "AV 1899.5 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
+    },
     "sns": [
       1899.5
-    ]
-  },
-  "1085": {
-    "name": "Mrs Grace Young geb.Chisholm?",
-    "ids_to_signatures": {
-      "695": "[Mrs [Grace] Young [geb.Chisholm?]]"
-    },
-    "first": "Grace",
-    "last": "Young",
-    "sns": [
-      1897.5
-    ]
+    ],
+    "origin": "Tokio"
   },
   "174": {
-    "name": "Everett I. Yowell",
+    "name": "Everett Irving Yowell",
     "ids_to_signatures": {
-      "634": "Everett I[rving?]. Yowell"
+      "634": "Everett I[rving]. Yowell"
     },
-    "first": "Everett Irving?",
+    "first": "Everett Irving",
     "last": "Yowell",
+    "sources":{
+      "AV 1895.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1895.0
-    ]
+    ],
+    "origin": "Cincinnati, Ohio, USA"
   },
   "1153": {
     "name": "Dr. Rudolf Zahler.",
@@ -8061,15 +8098,20 @@
     },
     "first": "Rudolf",
     "last": "Zahler",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=62110",
+      "AV 1903.0 S. 72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
+    },
     "sns": [
       1903.0
-    ]
+    ],
+    "origin": "Türkheim, Bayern"
   },
   "454": {
     "name": "Anton Zeilbehr",
     "ids_to_signatures": {
       "183": "A[nton]. Zeilbehr",
-      "190": "[unleserliches Kürzel:q.e.d?]A[nton]. Zeilbehr"
+      "190": "[gez.?] A[nton]. Zeilbehr"
     },
     "first": "Anton",
     "last": "Zeilbehr",
@@ -8078,21 +8120,23 @@
     ]
   },
   "670": {
-    "name": "Győző Zemplén",
+    "name": "Győző Zemplén [Victor Zemplin]",
     "ids_to_signatures": {
       "935": "Győző Zemplén",
-      "936": "Győző Zemplén"
+      "936": "Győző Zemplén",
+      "939": "Dr Zemplén Győző"
     },
     "first": "Győző",
     "last": "Zemplén",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
       "wiki-en": "https://en.wikipedia.org/wiki/Gy%C5%91z%C5%91_Zempl%C3%A9n",
-      "wiki-hu": "https://hu.wikipedia.org/wiki/Zemplén Győző"
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Zemplén_Győző"
     },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Budapest [geb. in Großkirchen, Österreich-Ungarn/Nagykanizsa, Ungarn]"
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -8109,7 +8153,8 @@
     },
     "sns": [
       1897.5
-    ]
+    ],
+    "origin": "Berlin"
   },
   "371": {
     "name": "Otto Zoll.",
