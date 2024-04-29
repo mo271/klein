@@ -522,20 +522,29 @@
     },
     "first": "Arthur",
     "last": "Berry",
+    "sources":{
+      "Sarton 1938: Arthur Berry, Historian of Astronomy (1862-1929)": ""
+    },
     "sns": [
       1887.4
-    ]
+    ],
+    "origin": "London"
   },
   "776": {
-    "name": "Charles Harold Berry",
+    "name": "Charles William Berry",
     "ids_to_signatures": {
-      "678": "Charles H[arold] Berry"
+      "678": "Charles W[illiam] Berry"
     },
-    "first": "Charles Harold",
+    "first": "Charles William",
     "last": "Berry",
+    "sources":{
+      "http://rklab.mit.edu/berry.html": "http://rklab.mit.edu/berry.html",
+      "AV 1897.0 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B37%5D%7D"
+    },
     "sns": [
       1897.0
-    ]
+    ],
+    "origin": "Somerville, Massachussets, USA (geb. in Charleston [Boston])"
   },
   "822": {
     "name": "Franz Bertheau",
@@ -565,10 +574,16 @@
     },
     "first": "Luigi",
     "last": "Bianci",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Luigi_Bianchi",
+      "wiki-en": "https://en.wikipedia.org/wiki/Luigi_Bianchi",
+      "wiki-it": "https://it.wikipedia.org/wiki/Luigi_Bianchi"
+    },
     "sns": [
       1879.5,
       1880.0
-    ]
+    ],
+    "origin": "Parma, Italien"
   },
   "382": {
     "name": "Friedrich Bidlingmaier",
@@ -582,7 +597,7 @@
       "AV 1897.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B37%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Bidlingmaier"
     },
-    "origin": "Laussen",
+    "origin": "Lauffen am Neckar",
     "sns": [
       1897.5
     ]
@@ -662,7 +677,8 @@
     },
     "sns": [
       1907.5
-    ]
+    ],
+    "origin": "Berlin"
   },
   "611": {
     "name": "K[?]. Blumenfeld",
@@ -721,9 +737,13 @@
     },
     "first": "Erna",
     "last": "Bockmann",
+    "sources":{
+      "AV 1911.5 S. 94": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B94%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "405": {
     "name": "Paul Bode",
@@ -906,15 +926,19 @@
     ]
   },
   "68": {
-    "name": "Margaret E. Brusstor",
+    "name": "Margarete E. Brusster",
     "ids_to_signatures": {
-      "1173": "M[argaret]. E. Brusstor"
+      "1173": "M[argarete]. E. Brusster"
     },
-    "first": "Margaret E.",
-    "last": "Brusstor",
+    "first": "Margarete E.",
+    "last": "Brusster",
+    "sources":{
+      "AV 1911.5 S. 95": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B95%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Philadelphia, Pennsylvania, USA"
   },
   "724": {
     "name": "Walther Brügmann",
@@ -1178,7 +1202,8 @@
     },
     "sns": [
       1893.5
-    ]
+    ],
+    "origin": "Hastings, Minnesota, USA"
   },
   "135": {
     "name": "Athanasios Carajianides [Karagiannides]",
@@ -1283,7 +1308,8 @@
       1893.5,
       1894.0,
       1897.5
-    ]
+    ],
+    "origin": "Haslemere, England"
   },
   "128": {
     "name": "Frank Nelson Cole",
@@ -1610,7 +1636,8 @@
     "sns": [
       1892.0,
       1892.5
-    ]
+    ],
+    "origin": "Frankfurt am Main"
   },
   "419": {
     "name": "Christoph Ernst",
@@ -2058,7 +2085,8 @@
       1892.0,
       1892.5,
       1893.5
-    ]
+    ],
+    "origin": "Elze"
   },
   "312": {
     "name": "Ludwig Föppel",
@@ -2097,8 +2125,7 @@
     "last": "Gehring",
     "origin": "Gut Feilz[?]",
     "sources": {
-      "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D",
-      "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Gehring"
+      "AV 1899.5 S.43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B43%5D%7D"
     },
     "sns": [
       1899.5
@@ -2118,7 +2145,8 @@
     },
     "sns": [
       1908.0
-    ]
+    ],
+    "origin": "Basel"
   },
   "1026": {
     "name": "Georges Brunel",
@@ -2148,12 +2176,13 @@
     "last": "Gerbaldi",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Francesco_Gerbaldi",
-      "wiki-en": "https://en.wikipedia.org/wiki/Francesco Gerbaldi",
-      "wiki-it": "https://it.wikipedia.org/wiki/Francesco Gerbaldi"
+      "wiki-en": "https://en.wikipedia.org/wiki/Francesco_Gerbaldi",
+      "wiki-it": "https://it.wikipedia.org/wiki/Francesco_Gerbaldi"
     },
     "sns": [
       1883.0
-    ]
+    ],
+    "origin": "La Spezia, Italien"
   },
   "718": {
     "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
@@ -2164,7 +2193,7 @@
     "last": "Gernet [Gernett]",
     "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
-      "TO S. 396": ""
+      "TO 2021 S. 396": ""
     },
     "sns": [
       1899.0
@@ -2493,7 +2522,8 @@
       1906.0,
       1906.5,
       1909.0
-    ]
+    ],
+    "origin": "Budapest, Österreich-Ungarn"
   },
   "15": {
     "name": "Arthur Erich Haas",
@@ -2796,10 +2826,14 @@
     },
     "first": "Käthe",
     "last": "Heinemann",
+    "sources":{
+      "AV 1911.5 S. 96": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B96%5D%7D"
+    },
     "sns": [
       1910.5,
       1911.5
-    ]
+    ],
+    "origin": "Kassel"
   },
   "290": {
     "name": "Ernst Hellinger",
@@ -2819,7 +2853,8 @@
       1904.5,
       1906.5,
       1907.5
-    ]
+    ],
+    "origin": "Striegau [Strzegom, Polen]"
   },
   "622": {
     "name": "Theodor Henninger",
@@ -3108,7 +3143,7 @@
     "last": "Hoppe",
     "origin": "Chemnitz",
     "sources": {
-      "TO 2021 S. 231": ""
+      "Tobies 2021 S. 231": ""
     },
     "sns": [
       1881.5,
@@ -3332,13 +3367,18 @@
     },
     "first": "Charles",
     "last": "Jaccottet",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7442",
+      "AV 1893.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_1894_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1893.5,
       1894.0,
       1894.5,
       1899.5,
       1900.0
-    ]
+    ],
+    "origin": "Echallens, Schweiz"
   },
   "1044": {
     "name": "Karl Janke",
@@ -3368,7 +3408,7 @@
     "sns": [
       1901.0
     ],
-    "origin": "Meiningen [Thüringen]"
+    "origin": "Meiningen, Thüringen"
   },
   "719": {
     "name": "Ada Maria Jane Elizabeth Johnson",
@@ -3469,7 +3509,7 @@
     "ids_to_signatures": {},
     "first": "Seligmann",
     "last": "Kantor",
-    "origin": "Soborten [Sobědruhy], Österreich-Ungarn [Tschechien]",
+    "origin": "Soborten, Österreich-Ungarn [Sobědruhy, Tschechien]",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Seligmann_Kantor",
       "Klein-Protokolle Bd. 3 S. 148": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V03-1881-1882/V3-p148_normal.jpg",
@@ -3501,7 +3541,7 @@
     "sources": {
       "AV 1899.5 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B47%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Edward_Kasner",
-      "wiki-en": "https://en.wikipedia.org/wiki/Edward Kasner"
+      "wiki-en": "https://en.wikipedia.org/wiki/Edward_Kasner"
     },
     "origin": "New York, USA",
     "sns": [
@@ -3572,9 +3612,14 @@
     },
     "first": "Elisabeth",
     "last": "Klein",
+    "sources":{
+      "Tobies 2008: Elisabeth Staiger – Oberstudiendirektorin in Hildesheim": "",
+      "AV 1911.0 S. 97": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B97%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Göttingen"
   },
   "940": {
     "name": "Felix Klein",
@@ -3772,7 +3817,7 @@
     "last": "Klitzkowski",
     "sources": {
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162",
-      "TO S. 665": ""
+      "Tobies 2021 S. 665": ""
     },
     "sns": [
       1887.4
@@ -5408,18 +5453,20 @@
     ]
   },
   "540": {
-    "name": "E. Hilda? Petersen",
+    "name": "Elisabeth Petersen",
     "ids_to_signatures": {
-      "1148": "E[?]. [Hilda?] Petersen"
+      "1148": "E[lisabeth]. Petersen"
     },
-    "first": "Hilda?",
+    "first": "Elisabeth",
     "last": "Petersen",
     "sources": {
+      "AV 1910.5 S. 92": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B92%5D%7D",
       "KT S. 572": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B572%5D%7D"
     },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Lübow, Mecklenburg-Schwerin"
   },
   "169":{
     "name": "Prof. Pfannenstiel",
@@ -6333,7 +6380,7 @@
     "origin": "Dresden",
     "sources": {
       "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
-      "FT foll. 192": ""
+      "KT S. 390": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B390%5D%7D"
     },
     "sns": [
       1899.5
@@ -6800,7 +6847,7 @@
     "origin": "Marienburg, Westpreußen",
     "sources": {
       "AV 1909.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
-      "TO S. 491f.n": ""
+      "Tobies 2021 S. 491f.n": ""
     },
     "sns": [
       1909.5
