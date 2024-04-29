@@ -523,7 +523,7 @@
     "first": "Arthur",
     "last": "Berry",
     "sources":{
-      "jstor": "https://www.jstor.org/stable/225698?seq=1"
+      "jstor": "https://www.jstor.org/stable/225698"
     },
     "sns": [
       1887.4
@@ -2193,7 +2193,7 @@
     "last": "Gernet [Gernett]",
     "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
-      "TO S. 396": ""
+      "TO 2021 S. 396": ""
     },
     "sns": [
       1899.0
@@ -3143,7 +3143,7 @@
     "last": "Hoppe",
     "origin": "Chemnitz",
     "sources": {
-      "TO 2021 S. 231": ""
+      "Tobies 2021 S. 231": ""
     },
     "sns": [
       1881.5,
@@ -3817,7 +3817,7 @@
     "last": "Klitzkowski",
     "sources": {
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=66162",
-      "TO S. 665": ""
+      "Tobies 2021 S. 665": ""
     },
     "sns": [
       1887.4
@@ -6380,7 +6380,7 @@
     "origin": "Dresden",
     "sources": {
       "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
-      "FT foll. 192": ""
+      "KT S. 390": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B390%5D%7D"
     },
     "sns": [
       1899.5
@@ -6847,7 +6847,7 @@
     "origin": "Marienburg, Westpreußen",
     "sources": {
       "AV 1909.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
-      "TO S. 491f.n": ""
+      "Tobies 2021 S. 491f.n": ""
     },
     "sns": [
       1909.5
