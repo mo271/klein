@@ -1075,7 +1075,8 @@
     },
     "sns": [
       1872.0
-    ]
+    ],
+    "origin": "Königsberg"
   },
   "1142": {
     "name": "Adolf Böttger",
@@ -1237,7 +1238,8 @@
     "sns": [
       1902.0,
       1904.0
-    ]
+    ],
+    "origin": "Brüssel (geb. in Berlin)"
   },
   "168":{
     "name": "Horatio Scott Carslaw",
@@ -1263,13 +1265,14 @@
     "first": "Pierre",
     "last": "Ceresole",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Pierre Cérésole",
-      "wiki-en": "https://en.wikipedia.org/wiki/Pierre Cérésole",
+      "wiki-de": "https://de.wikipedia.org/wiki/Pierre_Cérésole",
+      "wiki-en": "https://en.wikipedia.org/wiki/Pierre_Cérésole",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Pierre_Ceresole"
     },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Lausanne, Schweiz"
   },
   "163": {
     "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
@@ -1326,20 +1329,25 @@
     "sns" : [
       1885.0,
       1887.0
-    ]
+    ],
+    "origin": "Ashland, Massachusetts, USA"
   },
   "603": {
     "name": "Adam Comstock",
     "ids_to_signatures": {
-      "685": "A. Cowstock",
+      "685": "A. Comstock",
       "671": "AC"
     },
     "first": "Adam",
     "last": "Comstock",
+    "sources":{
+      "AV 1897.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    },
     "sns": [
       1896.5,
       1897.0
-    ]
+    ],
+    "origin": "Madison, Wisconsin, USA"
   },
   "131": {
     "name": "N. Cór(?)",
@@ -1355,13 +1363,13 @@
     ]
 },
   "935": {
-    "name": "Wilhelm[?] Cordes",
+    "name": "Wilhelm Cordes",
     "ids_to_signatures": {
-      "890": "[Wilhelm[?]] Cordes?"
+      "890": "[Wilhelm] Cordes"
     },
-    "first": "Wilhelm[?]",
+    "first": "Wilhelm",
     "last": "Cordes",
-    "origin": "Northeim, Hannover[?]",
+    "origin": "Northeim, Hannover",
     "sources": {
       "AV 1903.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
     },
@@ -1381,7 +1389,8 @@
     },
     "sns": [
       1884.5
-    ]
+    ],
+    "origin": "München"
   },
   "321": {
     "name": "Charles Emerson Curry",
@@ -1390,9 +1399,13 @@
     },
     "first": "Charles Emerson",
     "last": "Curry",
+    "sources":{
+      "AV 1890.0 S. 35": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B35%5D%7D"
+    },
     "sns": [
       1890.0
-    ]
+    ],
+    "origin": "Boston, Massachusetts, USA"
   },
   "617": {
     "name": "G. Dane",
@@ -1451,7 +1464,8 @@
     "sns": [
       1898.0,
       1898.5
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "712": {
     "name": "Johannes Denker",
@@ -1483,7 +1497,8 @@
     "sns": [
       1881.5,
       1885.0
-    ]
+    ],
+    "origin": "Darmstadt"
   },
   "118": {
     "name": "Paul Domsch",
@@ -1527,13 +1542,14 @@
     "first": "Hans Julius",
     "last": "Duncker",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Hans Duncker (Ornithologe)",
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Duncker_(Ornithologe)",
       "wiki-en": "https://en.wikipedia.org/wiki/Hans_Julius_Duncker"
     },
     "sns": [
       1904.0,
       1905.0
-    ]
+    ],
+    "origin": "Ballenstedt"
   },
   "639": {
     "name": "Wacław Michał Dziewulski.",
@@ -1542,9 +1558,13 @@
     },
     "first": "Wacław Michał",
     "last": "Dziewulski",
+    "sources":{
+      "AV 1902.5 S. 43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B43%5D%7D"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Warschau"
   },
   "57": {
     "name": "Henri Heinrich Dörrie",
@@ -1562,8 +1582,11 @@
       1897.0
     ],
     "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_D%C3%B6rrie_(Mathematiker)",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7301",
       "P Bd. 13 S. 314ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
-    }
+    },
+    "origin": "Hannover"
   },
   "1119": {
     "name": "Joh. Ehlers",
@@ -1601,7 +1624,8 @@
     "sns": [
       1901.5,
       1902.5
-    ]
+    ],
+    "origin": "Wien"
   },
   "503": {
     "name": "Friedrich Engel",
@@ -1675,7 +1699,7 @@
     "origin": "München",
     "sources": {
       "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
-      "wiki-de": "https://de.wikipedia.org/wiki/Georg Faber (Mathematiker)"
+      "wiki-de": "https://de.wikipedia.org/wiki/Georg_Faber_(Mathematiker)"
     },
     "sns": [
       1900.5
@@ -1691,14 +1715,15 @@
     "last": "Fano",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gino_Fano",
-      "wiki-en": "https://en.wikipedia.org/wiki/Gino Fano",
-      "wiki-it": "https://it.wikipedia.org/wiki/Gino Fano",
+      "wiki-en": "https://en.wikipedia.org/wiki/Gino_Fano",
+      "wiki-it": "https://it.wikipedia.org/wiki/Gino_Fano",
       "P Bd. 11 S. 348": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p348_low.jpg"
     },
     "sns": [
       1893.5,
       1894.0
-    ]
+    ],
+    "origin": "Mantua [Mantova], Italien"
   },
   "675": {
     "name": "Ernst Fanta",
@@ -7188,7 +7213,7 @@
       1894.5,
       1895.0
     ],
-    "origin": "Dresden (geb. in Graz)"
+    "origin": "Dresden (geb. in Graz, Österreich-Ungarn)"
   },
   "211": {
     "name": "Otto Toeplitz",
@@ -7515,7 +7540,7 @@
     },
     "first": "Alois",
     "last": "Walter",
-    "origin": "Graz",
+    "origin": "Graz, Österreich-Ungarn",
     "sns": [
       1899.0
     ]
