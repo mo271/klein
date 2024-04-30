@@ -7869,7 +7869,7 @@
     "origin": "Karlsruhe"
   },
   "210": {
-    "name": "Józef [Joseph] Wierusz-Kowalski [von Kowalski]",
+    "name": "Józef Wierusz-Kowalski [Joseph von Kowalski]",
     "ids_to_signatures": {
       "446": "J[oseph]. v[on]. Kowalski",
       "459": "J[oseph]. v[on]. Kowalski"
@@ -8183,7 +8183,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Budapest [geb. in Großkirchen, Österreich-Ungarn/Nagykanizsa, Ungarn]"
+    "origin": "Budapest (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])"
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -8570,11 +8570,12 @@
     "last": "Żorawski",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Kazimierz_%C5%BBorawski",
-      "wiki-en": "https://en.wikipedia.org/wiki/Kazimierz Żorawski",
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Kazimierz Żorawski"
+      "wiki-en": "https://en.wikipedia.org/wiki/Kazimierz_Żorawski",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Kazimierz_Żorawski"
     },
     "sns": [
       1891.0
-    ]
+    ],
+    "origin": "Warschau (geb. in Szczuki, Polen)"
   }
 }
