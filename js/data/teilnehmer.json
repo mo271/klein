@@ -819,19 +819,21 @@
     ]
   },
   "266": {
-    "name": "Anne Bosworth",
+    "name": "Anne Bosworth [später Focke]",
     "ids_to_signatures": {
-      "731": "Anne Bosworth"
+      "731": "Anne Bosworth [später Focke]"
     },
     "first": "Anne",
-    "last": "Bosworth",
+    "last": "Bosworth [später Focke]",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Anne Bosworth Focke",
-      "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke"
+      "wiki-de": "https://de.wikipedia.org/wiki/Anne_Bosworth_Focke",
+      "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7338"
     },
     "sns": [
       1898.5
-    ]
+    ],
+    "origin": "Woonsocket, Rhode Island, USA"
   },
   "409": {
     "name": "Werner Boy",
