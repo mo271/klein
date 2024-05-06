@@ -375,11 +375,13 @@
     "first": "Bernhard",
     "last": "Bavink",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Bavink"
+      "wiki-de": "https://de.wikipedia.org/wiki/Bernhard_Bavink",
+      "AV 1900.0 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B36%5D%7D"
     },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Leer"
   },
   "796": {
     "name": "Theodor Bechen",
@@ -471,9 +473,13 @@
     },
     "first": "Torsten Ragner",
     "last": "Bendz",
+    "sources": {
+      "AV 1899.0 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B37%5D%7D"
+    },
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "Mariestad, Schweden"
   },
   "1103": {
     "name": "A[lfred] Benecke",
@@ -776,16 +782,21 @@
     ]
   },
   "738": {
-    "name": "Hans Boegenhold",
+    "name": "Hans Boegehold",
     "ids_to_signatures": {
-      "746": "H[ans] Boegenhold",
+      "746": "H[ans] Boegehold",
       "745": "Hans Boegehold."
+    },
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Hans_Boegehold",
+      "AV 1899.0 S. 38":  "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "first": "Hans",
     "last": "Boegenhold",
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "Jena"
   },
   "322": {
     "name": "Oskar Bolza",
@@ -863,11 +874,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Werner Boy",
       "wiki-en": "https://en.wikipedia.org/wiki/Werner_Boy",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Werner Boy"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Werner Boy",
+      "AV 1899.0 S. 38":  "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "349": {
     "name": "James Harrington Boyd",
@@ -1141,9 +1154,13 @@
     },
     "first": "Wilhelm",
     "last": "Büchel",
+    "sources":{
+      "AV 1899.0 S. 39":  "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "378": {
     "name": "Oskar Bürgener",
@@ -2470,10 +2487,14 @@
     },
     "first": "Walther",
     "last": "Greve",
+    "sources":{
+      "AV 1899.0 S. 44":  "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1899.5,
       1900.5
-    ]
+    ],
+    "origin": "Zerbst [Anhalt]"
   },
   "130": {
     "name": "Julius Greßler",
@@ -2488,7 +2509,8 @@
     },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "158":{
   "name": "W. Grobler",
@@ -2693,7 +2715,8 @@
     "sns": [
       1899.5,
       1901.0
-    ]
+    ],
+    "origin": "Glückstadt"
   },
   "360": {
     "name": "Hans Happel",
@@ -2784,7 +2807,8 @@
     "sns": [
       1899.5,
       1900.0
-    ]
+    ],
+    "origin": "Großhausen"
   },
   "892": {
     "name": "Julius Hartung",
@@ -4627,7 +4651,7 @@
     },
     "first": "Georg",
     "last": "Lüttemeyer",
-    "origin": "Wiedenbrück",
+    "origin": "Wiedenbrück [Rheda-Wiedenbrück]",
     "sources": {
       "AV 1899.5 S.51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
     },
@@ -5197,9 +5221,13 @@
     },
     "first": "Erich",
     "last": "Müller",
+    "sources":{
+      "AV 1899.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1899.5
-    ]
+    ],
+    "origin": "Stettin"
   },
   "331": {
     "name": "Conrad Heinrich Müller",
@@ -5211,11 +5239,15 @@
     },
     "first": "Conrad Heinrich",
     "last": "Müller",
+    "sources":{
+      "AV 1899.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1899.5,
       1900.0,
       1903.5
-    ]
+    ],
+    "origin": "Stade"
   },
   "572": {
     "name": "Friedrich Neesen",
@@ -5970,10 +6002,14 @@
     },
     "first": "Ludwig",
     "last": "Reingardt",
+    "sources":{
+      "AV 1899.0 S. 57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B57%5D%7D"
+    },
     "sns": [
       1899.0,
       1899.5
-    ]
+    ],
+    "origin": "Hannover"
   },
   "187": {
     "name": "Ernst Reinstein",
@@ -7160,9 +7196,13 @@
     },
     "first": "Friedrich",
     "last": "Thiersch",
+    "sources":{
+      "AV 1899.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "München"
   },
   "190": {
     "name": "Henry Dallas Thompson",
@@ -8356,9 +8396,13 @@
     },
     "first": "Otto",
     "last": "Zoll",
+    "sources":{
+      "AV 1899.0 S. 66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B66%5D%7D"
+    },
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "Düren"
   },
   "346": {
     "name": "Theodor Zorn",
