@@ -439,7 +439,7 @@
     ]
   },
   "964": {
-    "name": "Dr. Emanuel Beke",
+    "name": "Emanuel Beke",
     "ids_to_signatures": {
       "574": "Dr. Em[anuel]. Beke",
       "575": "Dr. Em[anuel]. Beke",
@@ -453,7 +453,8 @@
     },
     "sns": [
       1893.5
-    ]
+    ],
+    "origin": "Poppa, Österreich-Ungarn [Pápa, Ungarn]"
   },
   "474": {
     "name": "Torsten Ragnar Bendz",
@@ -3043,9 +3044,13 @@
     },
     "first": "Wilhelm",
     "last": "Hille",
+    "sources":{
+      "AV 1892.0. S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1892.0
-    ]
+    ],
+    "origin": "Süpplingen, Braunschweig"
   },
   "903": {
     "name": "Alexander Leonard Hjelmman",
@@ -7821,11 +7826,15 @@
     },
     "first": "Robert",
     "last": "Wiebrecht",
+    "sources":{
+      "AV 1892.0. S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1892.0,
       1892.5,
       1893.0
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "889": {
     "name": "Wilhelm Wiechern",
