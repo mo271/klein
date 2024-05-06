@@ -786,7 +786,8 @@
       1886.0,
       1886.5,
       1887.4
-    ]
+    ],
+    "origin": "Bergzabern, Bayerische Pfalz"
   },
   "356": {
     "name": "Max Born",
@@ -869,9 +870,13 @@
     },
     "first": "Friedrich",
     "last": "Bradhering",
+    "sources":{
+      "AV 1888.0 S. 29": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B29%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Wustrow, Mecklenburg-Schwerin"
   },
   "1056": {
     "name": "Wilhelm Braun",
@@ -921,9 +926,13 @@
     },
     "first": "Adolf",
     "last": "Brosinsky",
+    "sources": {
+      "AV 1888.0 S. 30": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B30%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Jägersburg, Brandenburg"
   },
   "68": {
     "name": "Margarete E. Brusster",
@@ -1024,9 +1033,13 @@
     },
     "first": "Carl Georg Theodor",
     "last": "Buschbaum",
+    "sources": {
+      "AV 1888.0 S. 30": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B30%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Lüneburg"
   },
   "1013": {
     "name": "Maxime Bôcher",
@@ -1921,9 +1934,13 @@
     },
     "first": "W.",
     "last": "Freise",
+    "sources": {
+      "AV 1888.0 S. 33": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B33%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Göttingen"
   },
   "245": {
     "name": "Erwin Freundlich",
@@ -2068,11 +2085,13 @@
     "first": "Otto",
     "last": "Fulst",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Fulst"
+      "wiki-de": "https://de.wikipedia.org/wiki/Otto_Fulst",
+      "AV 1888.0 S. 33": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B33%5D%7D"
     },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Linden, Hannover"
   },
   "626": {
     "name": "Paul Funk",
@@ -2312,9 +2331,13 @@
     },
     "first": "Theodor",
     "last": "Glauner",
+    "sources": {
+      "AV 1888.0 S. 34": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B34%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Soest"
   },
   "1123": {
     "name": "Wilhelm Godt",
@@ -2366,9 +2389,13 @@
     },
     "first": "Adolf",
     "last": "Gottschalk",
+    "sources": {
+      "AV 1888.0 S. 34": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B34%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Soest"
   },
   "829": {
     "name": "Franz Graf",
@@ -2752,6 +2779,7 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Mellen Woodman Haskell",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Mellen_Woodman_Haskell",
+      "AV 1888.0 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B36%5D%7D",
       "P Bd. 9 S. 271ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p271_low.jpg"
     },
     "sns": [
@@ -2761,7 +2789,8 @@
       1887.5,
       1888.0,
       1888.5
-    ]
+    ],
+    "origin": "Boston, Massachusetts, USA"
   },
   "729": {
     "name": "Karl Hass",
@@ -2794,11 +2823,13 @@
     "last": "Hayn",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Hayn",
-      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Hayn"
+      "wiki-en": "https://en.wikipedia.org/wiki/Friedrich_Hayn",
+      "AV 1888.0 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B36%5D%7D"
     },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Dresden (geb. in Auerbach [Zwickau])"
   },
   "413": {
     "name": "Wilhelm Hecht",
@@ -4709,7 +4740,8 @@
     "sns": [
       1886.5,
       1887.4
-    ]
+    ],
+    "origin": "Breslau"
   },
   "657": {
     "name": "August Maurer",
@@ -4796,11 +4828,13 @@
     "last": "Meldau",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Meldau",
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich_Meldau"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Heinrich_Meldau",
+      "AV 1888.0 S. 24": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B42%5D%7D"
     },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Lüneburg (geb. in Nordholz)"
   },
   "1166": {
     "name": "Theodor Mensinger",
@@ -5795,9 +5829,13 @@
     },
     "first": "Christoph Gerhard?",
     "last": "Rabba",
+    "sources": {
+      "AV 1888.0 S. 45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B45%5D%7D"
+    },
     "sns": [
       1887.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "1078": {
     "name": "Gustav Raussnitz [Gusztáv Rados]",
@@ -5906,7 +5944,8 @@
     },
     "sns": [
       1886.0
-    ]
+    ],
+    "origin": "Viipuri, Finnland [Wyborg, Russland]"
   },
   "960": {
     "name": "Tscheslaw Retschinsky",
