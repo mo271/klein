@@ -84,7 +84,8 @@
     },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Kiew, Russland [Ukraine]"
   },
   "651": {
     "name": "Michael Akimoff",
@@ -311,7 +312,8 @@
     },
     "sns": [
       1901.5
-    ]
+    ],
+    "origin": "Celle"
   },
   "495": {
     "name": "Heinrich Barkhausen",
@@ -666,10 +668,14 @@
     },
     "first": "Otto",
     "last": "Birck",
+    "sources": {
+      "AV 1902.0 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    },
     "sns": [
       1901.5,
       1902.0
-    ]
+    ],
+    "origin": "Aachen"
   },
   "488": {
     "name": "Edwin Mortimer Blake",
@@ -2213,10 +2219,14 @@
     },
     "first": "Erwin",
     "last": "Geck",
+    "sources":{
+      "AV 1903.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
+    },
     "sns": [
       1902.5,
       1903.0
-    ]
+    ],
+    "origin": "Stuttgart"
   },
   "753": {
     "name": "Alfred Gehring",
@@ -2365,9 +2375,13 @@
     },
     "first": "Wilhelm",
     "last": "Giesing",
+    "sources": {
+      "AV 1902.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
+    },
     "sns": [
       1902.0
-    ]
+    ],
+    "origin": "Aspel(?)"
   },
   "138": {
     "name": "R. Glaser",
@@ -3317,7 +3331,8 @@
     "last": "Hort",
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Madelungen bei Eisenach"
   },
   "936": {
     "name": "Wilhelm Hort",
@@ -3735,9 +3750,13 @@
     },
     "first": "Hugo",
     "last": "Kistler",
+    "sources":{
+      "AV 1903.0 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Basel, Schweiz(?)"
   },
   "504": {
     "name": "Walther Klebe",
@@ -4193,15 +4212,19 @@
     },
     "first": "Friedrich",
     "last": "Kuhse",
+    "sources":{
+      "AV 1903.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1903.0,
       1903.5
-    ]
+    ],
+    "origin": "Wismar, Mecklenburg-Schwerin"
   },
   "751": {
-    "name": "Stefan Kwietniewski.",
+    "name": "Stefan Kwietniewski",
     "ids_to_signatures": {
-      "659": "S[tefan] Kwietniewski."
+      "659": "S[tefan] Kwietniewski"
     },
     "first": "Stefan",
     "last": "Kwietniewski",
@@ -4530,9 +4553,13 @@
     },
     "first": "Martin",
     "last": "Linnemann",
+    "sources":{
+      "AV 1903.0 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1902.5
-    ]
+    ],
+    "origin": "Sehlde, Hannover"
   },
   "140": {
     "name": "Alfred Loewy",
@@ -5429,11 +5456,15 @@
     },
     "first": "Albert",
     "last": "Oppermann",
+    "sources": {
+      "AV 1902.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1902.0,
       1902.5,
       1903.0
-    ]
+    ],
+    "origin": "Lesse, Braunschweig"
   },
   "658": {
     "name": "William Fogg Osgood",
@@ -6508,10 +6539,14 @@
     },
     "first": "Rudolf",
     "last": "Schimmack",
+    "sources": {
+      "AV 1902.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1902.0,
       1912.0
-    ]
+    ],
+    "origin": "Verden (Aller), Hannover"
   },
   "21": {
     "name": "Ludwig Schleiermacher",
@@ -6600,9 +6635,13 @@
     },
     "first": "Walther",
     "last": "Schmiedeberg",
+    "sources":{
+      "AV 1901.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
+    },
     "sns": [
       1901.5
-    ]
+    ],
+    "origin": "Birkholz (Bernau bei Berlin?), Brandenburg"
   },
   "500": {
     "name": "Bernhard Schniete",
@@ -6871,9 +6910,13 @@
     },
     "first": "Alexander",
     "last": "Sendler",
+    "sources":{
+      "AV 1901.5 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_1902_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1901.5
-    ]
+    ],
+    "origin": "Pößneck, Schlesien"
   },
   "384": {
     "name": "Friedrich Siebert",
@@ -7737,9 +7780,13 @@
     },
     "first": "Willy",
     "last": "Weber",
+    "sources":{
+      "AV 1903.0 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B70%5D%7D"
+    },
     "sns": [
       1903.0
-    ]
+    ],
+    "origin": "Charlottenburg [Berlin]"
   },
   "999": {
     "name": "Wilhelm Wecken",
@@ -8667,13 +8714,16 @@
     },
     "first": "Albert",
     "last": "von Brunn",
+    
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Albert von Brunn (Astronom)"
+      "wiki-de": "https://de.wikipedia.org/wiki/Albert_von_Brunn_(Astronom)",
+      "AV 1902.0 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
     },
     "sns": [
       1902.0,
       1904.0
-    ]
+    ],
+    "origin": "Cöthen [Köthen], Anhalt"
   },
   "704": {
     "name": "Franz von Krieg",
