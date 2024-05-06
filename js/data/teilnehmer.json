@@ -45,10 +45,14 @@
     },
     "first": "August",
     "last": "Abt",
+    "sources":{
+      "AV 1890.0 S. 31": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B31%5D%7D"
+    },
     "sns": [
       1890.0,
       1892.0
-    ]
+    ],
+    "origin": "Höchst am Main [Frankfurt am Main]"
   },
   "425": {
     "name": "Franz Adami",
@@ -556,10 +560,14 @@
     },
     "first": "Franz",
     "last": "Bertheau",
+    "sources":{
+      "AV 1890.0 S. 33": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B33%5D%7D"
+    },
     "sns": [
       1890.0,
       1892.0
-    ]
+    ],
+    "origin": "Hamburg"
   },
   "591": {
     "name": "Luigi Bianci",
@@ -857,10 +865,14 @@
     },
     "first": "James",
     "last": "Boyd",
+    "sources":{
+      "AV 1891.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
+    },
     "sns": [
       1891.0,
       1892.5
-    ]
+    ],
+    "origin": "St. Paul, Minnesota, USA"
   },
   "789": {
     "name": "Friedrich Bradhering",
@@ -1042,13 +1054,15 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Maxime_B%C3%B4cher",
       "wiki-en": "https://en.wikipedia.org/wiki/Maxime_B%C3%B4cher",
       "wiki-fr": "https://fr.wikipedia.org/wiki/Maxime_B%C3%B4cher",
-      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
+      "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
+      "AV 1890.0 S. 33": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B33%5D%7D"
     },
     "sns": [
       1889.5,
       1890.0,
       1891.0
-    ]
+    ],
+    "origin": "Boston, Massachusetts, USA"
   },
   "628": {
     "name": "Paul Böhmer",
@@ -3240,9 +3254,15 @@
     },
     "first": "Lorrain Sherman",
     "last": "Hulburt",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=37590",
+      "Zitarelli 2019 S. 313": "https://bookstore.ams.org/spec-94/",
+      "AV 1890.0 S. 41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
+    },
     "sns": [
       1890.0
-    ]
+    ],
+    "origin": "Vermillion, South Dakota, USA"
   },
   "358": {
     "name": "A? Humbert?",
@@ -5979,9 +5999,13 @@
     },
     "first": "Ernst",
     "last": "Ritter",
+    "sources":{
+      "AV 1890.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    },
     "sns": [
       1891.0
-    ]
+    ],
+    "origin": "Waltershausen, Sachsen-Gotha [Thüringen]"
   },
   "177": {
     "name": "Eduard von Weber",
@@ -6261,9 +6285,13 @@
     },
     "first": "Carl",
     "last": "Schellenberg",
+    "sources":{
+      "AV 1890.0 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1890.0
-    ]
+    ],
+    "origin": "Themar, Sachsen-Gotha [Thüringen]"
   },
   "447": {
     "name": "Hans Schenkel",
