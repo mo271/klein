@@ -402,11 +402,15 @@
     },
     "first": "Fritz",
     "last": "Beer",
+    "sources":{
+      "AV 1896.5 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
+    },
     "sns": [
       1896.5,
       1897.0,
       1897.5
-    ]
+    ],
+    "origin": "Wien"
   },
   "526": {
     "name": "Wilhelm Behrens",
@@ -659,9 +663,13 @@
     },
     "first": "Edwin Mortimer",
     "last": "Blake",
+    "sources":{
+      "AV 1896.0 S. 35": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B35%5D%7D"
+    },
     "sns": [
       1896.0
-    ]
+    ],
+    "origin": "Brooklyn [New York], USA"
   },
   "1136": {
     "name": "Heinrich Blasius",
@@ -705,12 +713,14 @@
     "last": "Blumenthal",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Otto Blumenthal (Mathematiker)",
-      "wiki-en": "https://en.wikipedia.org/wiki/Otto_Blumenthal"
+      "wiki-en": "https://en.wikipedia.org/wiki/Otto_Blumenthal",
+      "AV 1896.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B37%5D%7D"
     },
     "sns": [
       1896.5,
       1897.0
-    ]
+    ],
+    "origin": "Frankfurt am Main"
   },
   "1184": {
     "name": "Karl Bobek",
@@ -4344,9 +4354,16 @@
     },
     "first": "Karl Otto Heinrich",
     "last": "Liebmann",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Liebmann",
+      "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Liebmann",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=37640",
+      "AV 1896.5 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    },
     "sns": [
       1896.5
-    ]
+    ],
+    "origin": "Jena (geb. in Straßburg)"
   },
   "630": {
     "name": "Heinrich Liebmann",
@@ -6655,12 +6672,16 @@
     },
     "first": "Ernst Harald",
     "last": "Schütz",
+    "sources":{
+      "AV 1896.5 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+    },
     "sns": [
       1896.5,
       1897.0,
       1897.5,
       1899.0
-    ]
+    ],
+    "origin": "Frankfurt am Main"
   },
   "786": {
     "name": "Ludwig Schütz",
@@ -7952,10 +7973,14 @@
     },
     "first": "Franz",
     "last": "Willers",
+    "sources":{
+      "AV 1896.5 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1896.5,
       1897.0
-    ]
+    ],
+    "origin": "Oldenburg"
   },
   "1012": {
     "name": "Max Winkelmann",
@@ -8552,10 +8577,14 @@
     },
     "first": "Hans",
     "last": "von Schaper",
+    "sources":{
+      "AV 1896.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+    },
     "sns": [
       1896.5,
       1897.0
-    ]
+    ],
+    "origin": "Potsdam"
   },
   "307": {
     "name": "Alexandra von Stebnitzky",
