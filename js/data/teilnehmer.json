@@ -839,19 +839,21 @@
     ]
   },
   "266": {
-    "name": "Anne Bosworth",
+    "name": "Anne Bosworth [später Focke]",
     "ids_to_signatures": {
-      "731": "Anne Bosworth"
+      "731": "Anne Bosworth [später Focke]"
     },
     "first": "Anne",
-    "last": "Bosworth",
+    "last": "Bosworth [später Focke]",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Anne Bosworth Focke",
-      "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke"
+      "wiki-de": "https://de.wikipedia.org/wiki/Anne_Bosworth_Focke",
+      "wiki-en": "https://en.wikipedia.org/wiki/Anne_Bosworth_Focke",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7338"
     },
     "sns": [
       1898.5
-    ]
+    ],
+    "origin": "Woonsocket, Rhode Island, USA"
   },
   "409": {
     "name": "Werner Boy",
@@ -980,9 +982,13 @@
     },
     "first": "Walther",
     "last": "Brügmann",
+    "sources":{
+      "AV 1898.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
     "sns": [
       1898.5
-    ]
+    ],
+    "origin": "Nusse [Schleswig-Holstein]"
   },
   "1167": {
     "name": "Hermann Brühl",
@@ -2458,9 +2464,13 @@
     },
     "first": "Richard",
     "last": "Greiner",
+    "sources":{
+      "AV 1898.0 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1898.0
-    ]
+    ],
+    "origin": "Mannheim"
   },
   "224": {
     "name": "Walther Greve",
@@ -2703,10 +2713,14 @@
     },
     "first": "Hans",
     "last": "Happel",
+    "sources":{
+      "AV 1898.0 S. 45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B45%5D%7D"
+    },
     "sns": [
       1898.0,
       1899.0
-    ]
+    ],
+    "origin": "Kassel"
   },
   "1015": {
     "name": "Axel Harnack",
@@ -3120,15 +3134,19 @@
     "origin": "Süpplingen, Braunschweig"
   },
   "903": {
-    "name": "Alexander Leonard Hjelmman",
+    "name": "Alexander Leonard Hjelmann",
     "ids_to_signatures": {
-      "698": "A[lexander] L[eonard] Hjelmman"
+      "698": "A[lexander] L[eonard] Hjelmann"
     },
     "first": "Alexander Leonard",
     "last": "Hjelmman",
+    "sources":{
+      "AV 1898.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
+    },
     "sns": [
       1897.5
-    ]
+    ],
+    "origin": "Helsinfors [Helsinki, Finnland]"
   },
   "874": {
     "name": "Heinrich Hochschild.",
@@ -3630,9 +3648,13 @@
     },
     "first": "Heinrich",
     "last": "Karstens",
+    "sources":{
+      "AV 1898.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
+    },
     "sns": [
       1898.0
-    ]
+    ],
+    "origin": "Reval, Russland [Tallinn, Estland]"
   },
   "990": {
     "name": "Edward Kasner",
@@ -6210,12 +6232,16 @@
     },
     "first": "Ernst",
     "last": "Rudel",
+    "sources":{
+      "AV 1898.0 S. 56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B56%5D%7D"
+    },
     "sns": [
       1898.0
-    ]
+    ],
+    "origin": "Nürnberg"
   },
   "12": {
-    "name": "Dr. Friedrich Rulf",
+    "name": "Friedrich Rulf",
     "ids_to_signatures": {
       "1167": "F[riedrich] Rulf"
     },
@@ -6939,7 +6965,8 @@
     "last": "Sommerfeld",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arnold_Sommerfeld",
-      "wiki-en": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
+      "wiki-en": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=31357"
     },
     "sns": [
       1894.5
@@ -7056,13 +7083,17 @@
   "484": {
     "name": "Ernst Sommerfeld",
     "ids_to_signatures": {
-      "739": "[Ersten Sommerfeld]"
+      "739": "[Ernst Sommerfeld]"
     },
     "first": "Ernst",
     "last": "Sommerfeldt",
+    "sources":{
+      "AV 1898.5 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B59%5D%7D"
+    },
     "sns": [
       1898.5
-    ]
+    ],
+    "origin": "Königsberg"
   },
   "535": {
     "name": "Friedrich Stöhr",
