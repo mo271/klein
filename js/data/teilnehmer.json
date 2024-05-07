@@ -94,9 +94,13 @@
     },
     "first": "Michael",
     "last": "Akimoff",
+    "sources":{
+      "AV 1906.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Kassimow, Gouvernement Rjasan, Russland"
   },
   "110": {
     "name": "Alekseyevsky",
@@ -144,7 +148,7 @@
   "647": {
     "name": "Julius Alsen",
     "ids_to_signatures": {
-      "1005": "J[ulius] Alsen?"
+      "1005": "J[ulius] Alsen"
     },
     "first": "Julius",
     "last": "Alsen",
@@ -153,7 +157,8 @@
     },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Nieby, Schleswig-Holstein"
   },
   "656": {
     "name": "Julius Amelung",
@@ -3162,7 +3167,8 @@
     "sns": [
       1885.5,
       1906.5
-    ]
+    ],
+    "origin": "Königsberg"
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -3534,10 +3540,14 @@
     },
     "first": "Wilhelm",
     "last": "Ihlenburg",
+    "sources":{
+      "AV 1906.0 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1906.0,
       1906.5
-    ]
+    ],
+    "origin": "Oschersleben (Bode)"
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -5102,9 +5112,13 @@
     },
     "first": "Friedrich",
     "last": "Meyer",
+    "sources":{
+      "AV 1906.0 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Hannover oder Einbeck"
   },
   "645": {
     "name": "Ludwig Meyeringh",
@@ -6302,15 +6316,19 @@
     "origin": "Fürth"
   },
   "1202": {
-    "name": "Dr. Paul Roth",
+    "name": "Paul Roth",
     "ids_to_signatures": {
       "1018": "Dr. Paul Roth"
     },
     "first": "Paul",
     "last": "Roth",
+    "sources":{
+      "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
   },
   "775": {
     "name": "Wilhelm Rothe",
