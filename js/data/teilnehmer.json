@@ -280,7 +280,7 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Aleksander_Axer",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Aleksander Axer"
     },
-    "origin": "Przemyśl, Galizien",
+    "origin": "Przemyśl, Österreich-Ungarn [Polen]",
     "sns": [
       1904.0
     ]
@@ -1324,7 +1324,7 @@
       1902.0,
       1904.0
     ],
-    "origin": "Brüssel (geb. in Berlin)"
+    "origin": "Brüssel, Belgien (geb. in Berlin)"
   },
   "168":{
     "name": "Horatio Scott Carslaw",
@@ -2136,11 +2136,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Rudolf_Fueter",
       "wiki-en": "https://en.wikipedia.org/wiki/Rudolf_Fueter",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter",
+      "AV 1902.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
     },
     "sns": [
       1902.0
-    ]
+    ],
+    "origin": "Basel, Schweiz"
   },
   "853": {
     "name": "Georg Fuhrmann",
@@ -2447,7 +2449,7 @@
     },
     "first": "Meier",
     "last": "Goldman",
-    "origin": "Lodz, Rußland [Polen]",
+    "origin": "Lodz, Russland [Polen]",
     "sources": {
       "Ciesielska et al. 2017 S. 292": "",
       "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
@@ -3372,7 +3374,8 @@
     "sns": [
       1902.5,
       1903.0
-    ]
+    ],
+    "origin": "Madelungen bei Eisenach"
   },
   "536": {
     "name": "G? Huber?",
@@ -4510,7 +4513,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "St. Petersburg"
+    "origin": "St. Petersburg, Russland"
   },
   "491": {
     "name": "Karl Otto Heinrich Liebmann",
@@ -5261,7 +5264,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "Bukarest"
+    "origin": "Bukarest, Rumänien"
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -6006,7 +6009,7 @@
     },
     "first": "Eduard",
     "last": "Pulpe",
-    "origin": "Riga, Rußland",
+    "origin": "Riga, Russland",
     "sources": {
       "AV 1908.0 S.68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
     },
@@ -6156,7 +6159,7 @@
     "sns": [
       1902.5
     ],
-    "origin": "Charkow, Rußland [Charkiw, Ukraine]"
+    "origin": "Charkow, Russland [Charkiw, Ukraine]"
   },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
@@ -8707,7 +8710,7 @@
     "sns": [
       1898.0
     ],
-    "origin": "St. Petersburg?"
+    "origin": "St. Petersburg?, Russland"
   },
   "291": {
     "name": "Helene von Bortkewitsch",
@@ -8843,7 +8846,7 @@
     },
     "first": "Wladimir",
     "last": "von Philippow",
-    "origin": "St. Petersburg, Rußland",
+    "origin": "St. Petersburg, Russland",
     "sources": {
       "AV 1909.0 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
     },
