@@ -333,12 +333,14 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Barkhausen",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Barkhausen",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen",
+      "AV 1904.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "582": {
     "name": "Dr. Anton Baule",
@@ -847,11 +849,13 @@
     "last": "Born",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max Born",
-      "wiki-en": "https://en.wikipedia.org/wiki/Max Born"
+      "wiki-en": "https://en.wikipedia.org/wiki/Max Born",
+      "AV 1904.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B40%5D%7D"
     },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -2693,12 +2697,14 @@
     "last": "Haas",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arthur_Erich_Haas",
-      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas"
+      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas",
+      "AV 1904.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
   },
   "124": {
     "name": "Hans Hahn",
@@ -2830,7 +2836,8 @@
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Essen"
   },
   "928": {
     "name": "Chr Hartmann",
@@ -3131,10 +3138,14 @@
     },
     "first": "Karl",
     "last": "Hiemenz",
+    "sources":{
+      "AV 1905.0 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1905.0,
       1907.5
-    ]
+    ],
+    "origin": "Darmstadt"
   },
   "878": {
     "name": "Emil Hilb",
@@ -3451,15 +3462,19 @@
     ]
   },
   "486": {
-    "name": "Ludwig Hänert",
+    "name": "Ludwig [Louis?] Hänert",
     "ids_to_signatures": {
       "953": "Ludw[ig]. Hänert"
     },
     "first": "Ludwig",
     "last": "Hänert",
+    "sources":{
+      "AV 1904.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Sangerhausen(?)"
   },
   "969": {
     "name": "Walter Härter",
@@ -4505,9 +4520,13 @@
     },
     "first": "Ludwig",
     "last": "Lauer",
+    "sources":{
+      "AV 1905.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Köln"
   },
   "381": {
     "name": "Wera Lebedewa [Vera Myller-Lebedev]",
@@ -6856,10 +6875,14 @@
     },
     "first": "Edwin",
     "last": "Schulze",
+    "sources":{
+      "AV 1905.0 S. 71": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B71%5D%7D"
+    },
     "sns": [
       1905.0,
       1906.0
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "212": {
     "name": "Karl Schwarzschild",
@@ -7378,9 +7401,13 @@
     },
     "first": "Paul",
     "last": "Thormeyer",
+    "sources":{
+      "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D"
+    },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "817": {
     "name": "William Threlfall",
