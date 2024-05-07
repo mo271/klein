@@ -432,10 +432,14 @@
     },
     "first": "Wilhelm",
     "last": "Behrens",
+    "sources":{
+      "AV 1909.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1909.0,
       1909.5
-    ]
+    ],
+    "origin": "Hannover"
   },
   "171": {
     "name": "L. Behse.",
@@ -1868,9 +1872,13 @@
     },
     "first": "Peter",
     "last": "Field",
+    "sources": {
+      "AV 1908.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1908.5
-    ]
+    ],
+    "origin": "Mitchell, Iowa, USA"
   },
   "150": {
     "name": "John Charles Fields",
@@ -2149,9 +2157,13 @@
     },
     "first": "Georg",
     "last": "Fuhrmann",
+    "sources": {
+      "AV 1908.0 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    },
     "sns": [
       1907.5
-    ]
+    ],
+    "origin": "Hannover"
   },
   "66": {
     "name": "Otto Fulst",
@@ -2209,19 +2221,26 @@
     "origin": "Elze"
   },
   "312": {
-    "name": "Ludwig Föppel",
+    "name": "Ludwig Föppl",
     "ids_to_signatures": {
-      "1071": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
-      "1072": "[Felix Klein, aufgeschrieben von Ludwig Föppel]",
-      "1080": "L[udwig] Föppel",
-      "1081": "L[udwig] Föppel",
-      "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppel"
+      "1071": "[Felix Klein, aufgeschrieben von Ludwig Föppl]",
+      "1072": "[Felix Klein, aufgeschrieben von Ludwig Föppl]",
+      "1080": "L[udwig] Föppl",
+      "1081": "L[udwig] Föppl",
+      "1082": "[Felix Klein, aufgeschrieben von] L[udwig] Föppl"
     },
     "first": "Ludwig",
     "last": "Föppel",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Ludwig_F%C3%B6ppl",
+      "wiki-en": "https://en.wikipedia.org/wiki/Ludwig_F%C3%B6ppl",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7385",
+      "AV 1908.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
+    },
     "sns": [
       1908.5
-    ]
+    ],
+    "origin": "München"
   },
   "1159": {
     "name": "Erwin Geck",
@@ -2270,7 +2289,7 @@
     "sns": [
       1908.0
     ],
-    "origin": "Basel"
+    "origin": "Basel, Schweiz"
   },
   "1026": {
     "name": "Georges Brunel",
@@ -3572,7 +3591,7 @@
     "last": "Janke",
     "origin": "Schwerin, Mecklenburg",
     "sources": {
-      "AV 1908.5 S.57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
+      "AV 1908.5 S. 57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
     },
     "sns": [
       1908.5
@@ -3668,9 +3687,13 @@
     },
     "first": "Manfred",
     "last": "Jäger",
+    "sources": {
+      "AV 1908.0 S. 57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B57%5D%7D"
+    },
     "sns": [
       1907.5
-    ]
+    ],
+    "origin": "Straßburg"
   },
   "562": {
     "name": "Paul Kaltenbach",
@@ -4399,16 +4422,20 @@
     "origin": "Oberndorf, Hannover"
   },
   "653": {
-    "name": "v. Landen",
+    "name": "Stanislaus Landau",
     "ids_to_signatures": {
-      "1065": "v. Landen",
-      "1066": "v. Landen"
+      "1065": "[Stanislaus] Landau",
+      "1066": "[Stanislaus] Landau"
     },
-    "first": "v.",
-    "last": "Landen",
+    "first": "Stanislaus",
+    "last": "Landau",
+    "sources": {
+      "AV 1908.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1908.0
-    ]
+    ],
+    "origin": "Warschau"
   },
   "968": {
     "name": "Ernst Lange",
@@ -5239,9 +5266,9 @@
     },
     "first": "Piet",
     "last": "Mulder",
-    "origin": "Leiden, Holland",
+    "origin": "Leiden, Niederlande",
     "sources": {
-      "AV 1908.0 S.67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B67%5D%7D"
+      "AV 1908.0 S. 67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B67%5D%7D"
     },
     "sns": [
       1908.0
@@ -5285,9 +5312,13 @@
     },
     "first": "Otto",
     "last": "Mühlendyck",
+    "sources":{
+      "AV 1908.5 S. 66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B66%5D%7D"
+    },
     "sns": [
       1908.5
-    ]
+    ],
+    "origin": "Daaden"
   },
   "841": {
     "name": "Hans Müller",
@@ -5730,11 +5761,17 @@
     },
     "first": "Friedrich",
     "last": "Pfeiffer",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Friedrich_Pfeiffer_(Mathematiker)",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=85030",
+      "AV 1908.0 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
     "sns": [
       1908.0,
       1908.5,
       1909.0
-    ]
+    ],
+    "origin": "Augsburg"
   },
   "1058": {
     "name": "Georg Pick",
@@ -7157,12 +7194,16 @@
     },
     "first": "Adolf",
     "last": "Steichen",
+    "sources":{
+      "AV 1908.0 S. 78": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B78%5D%7D"
+    },
     "sns": [
       1907.5
-    ]
+    ],
+    "origin": "Dieschburgerhof [Echternach], Luxemburg"
   },
   "448": {
-    "name": "Dr. Ludwig Steiner",
+    "name": "Ludwig Steiner",
     "ids_to_signatures": {
       "625": "Dr. Ludwig Steiner"
     },
@@ -7728,9 +7769,13 @@
     },
     "first": "Paul",
     "last": "Voigt",
+    "sources": {
+      "AV 1909.0 S. 84": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_SS?tify=%7B%22pages%22%3A%5B84%5D%7D"
+    },
     "sns": [
       1909.0
-    ]
+    ],
+    "origin": "Erfurt"
   },
   "147": {
     "name": "Vito Volterra",
@@ -8808,17 +8853,19 @@
     "first": "Theodore",
     "last": "von Kármán",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Theodore von Kármán",
-      "wiki-en": "https://en.wikipedia.org/wiki/Theodore von Kármán",
-      "wiki-hu": "https://hu.wikipedia.org/wiki/Kármán Tódor"
+      "wiki-de": "https://de.wikipedia.org/wiki/Theodore_von_Kármán",
+      "wiki-en": "https://en.wikipedia.org/wiki/Theodore_von_Kármán",
+      "wiki-hu": "https://hu.wikipedia.org/wiki/Kármán_Tódor",
+      "AV 1908.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
     },
     "sns": [
       1907.5,
       1909.0
-    ]
+    ],
+    "origin": "Budapest, Österreich-Ungarn"
   },
   "532": {
-    "name": "Dr. Max von Laue",
+    "name": "Max von Laue",
     "ids_to_signatures": {
       "894": "Dr. M[ax von]. Laue",
       "895": "Dr. M[ax von]. Laue"
