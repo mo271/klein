@@ -94,9 +94,13 @@
     },
     "first": "Michael",
     "last": "Akimoff",
+    "sources":{
+      "AV 1906.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Kassimow, Gouvernement Rjasan, Russland"
   },
   "110": {
     "name": "Alekseyevsky",
@@ -144,7 +148,7 @@
   "647": {
     "name": "Julius Alsen",
     "ids_to_signatures": {
-      "1005": "J[ulius] Alsen?"
+      "1005": "J[ulius] Alsen"
     },
     "first": "Julius",
     "last": "Alsen",
@@ -153,7 +157,8 @@
     },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Nieby, Schleswig-Holstein"
   },
   "656": {
     "name": "Julius Amelung",
@@ -280,7 +285,7 @@
       "wiki-en": "https://en.wikipedia.org/wiki/Aleksander_Axer",
       "wiki-pl": "https://pl.wikipedia.org/wiki/Aleksander Axer"
     },
-    "origin": "Przemyśl, Galizien",
+    "origin": "Przemyśl, Österreich-Ungarn [Polen]",
     "sns": [
       1904.0
     ]
@@ -328,12 +333,14 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Heinrich_Barkhausen",
       "wiki-en": "https://en.wikipedia.org/wiki/Heinrich_Barkhausen",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Heinrich Barkhausen",
+      "AV 1904.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Bremen"
   },
   "582": {
     "name": "Dr. Anton Baule",
@@ -432,7 +439,7 @@
     },
     "first": "Wilhelm",
     "last": "Behrens",
-    "sources":{
+    "sources": {
       "AV 1909.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
     },
     "sns": [
@@ -795,9 +802,13 @@
     },
     "first": "Paul",
     "last": "Bode",
+    "sources": {
+      "AV 1910.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B44%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Lehrte, Hannover"
   },
   "738": {
     "name": "Hans Boegehold",
@@ -846,11 +857,13 @@
     "last": "Born",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max Born",
-      "wiki-en": "https://en.wikipedia.org/wiki/Max Born"
+      "wiki-en": "https://en.wikipedia.org/wiki/Max Born",
+      "AV 1904.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B40%5D%7D"
     },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -1082,9 +1095,13 @@
     },
     "first": "Aloys",
     "last": "Burlet",
+    "sources": {
+      "AV 1911.0 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Luzern, Schweiz"
   },
   "904": {
     "name": "Carl Georg Theodor Buschbaum",
@@ -1213,9 +1230,13 @@
     },
     "first": "Curt",
     "last": "Bürger",
+    "sources":{
+      "AV 1911.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Halberstadt"
   },
   "153":{
     "name": "A. E. Burnham",
@@ -1262,38 +1283,24 @@
       1882.0
     ]
   },
-  "1114": {
+  "1113": {
     "name": "George Ashley Campbell",
     "ids_to_signatures": {
-      "597": "Geo[rge] A[shley]. Campbell"
-    },
-    "first": "George Ashley",
-    "last": "Campbell",
-    "sources":{
-      "wiki-en": "https://en.wikipedia.org/wiki/George_Ashley_Campbell",
-      "wiki-de": "https://de.wikipedia.org/wiki/George_Ashley_Campbell",
-      "AV 1894.0 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
-    },
-    "sns": [
-      1894.0
-    ],
-    "origin": "Derry, USA (geb. in Hastings, Minnesota, USA)"
-  },
-  "1113": {
-    "name": "George Ashley. Campbell",
-    "ids_to_signatures": {
-      "584": "G[eorge]. A[shley]. Campbell"
+      "584": "G[eorge]. A[shley]. Campbell",
+      "597": "Geo[rge]. A[shley]. Campbell"
     },
     "first": "George Ashley",
     "last": "Campbell",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/George_Ashley_Campbell",
-      "wiki-en": "https://en.wikipedia.org/wiki/George_Ashley_Campbell"
+      "wiki-en": "https://en.wikipedia.org/wiki/George_Ashley_Campbell",
+      "AV 1894.0 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
     },
     "sns": [
-      1893.5
+      1893.5,
+      1894.0
     ],
-    "origin": "Hastings, Minnesota, USA"
+    "origin": "Derry, USA (geb. in Hastings, Minnesota, USA)"
   },
   "135": {
     "name": "Athanasios Carajianides [Karagiannides]",
@@ -1328,7 +1335,7 @@
       1902.0,
       1904.0
     ],
-    "origin": "Brüssel (geb. in Berlin)"
+    "origin": "Brüssel, Belgien (geb. in Berlin)"
   },
   "168":{
     "name": "Horatio Scott Carslaw",
@@ -1774,9 +1781,13 @@
     },
     "first": "Alfred",
     "last": "Errara",
+    "sources": {
+      "AV 1909.5 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
+    },
     "sns": [
       1909.5
-    ]
+    ],
+    "origin": "Brüssel, Belgien"
   },
   "251": {
     "name": "Georg Faber",
@@ -2023,7 +2034,7 @@
     "origin": "Göttingen"
   },
   "245": {
-    "name": "Erwin Freundlich",
+    "name": "Erwin Freundlich [Finlay-Freundlich]",
     "ids_to_signatures": {
       "1116": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
       "1118": "[Erwin Freundlich, aufgeschrieben von Felix] Klein",
@@ -2031,15 +2042,17 @@
       "1137": "[Erwin Freundlich, aufgeschrieben von Felix Klein]"
     },
     "first": "Erwin",
-    "last": "Freundlich",
+    "last": "Freundlich [Finlay-Freundlich]",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Erwin_Freundlich",
-      "wiki-en": "https://en.wikipedia.org/wiki/Erwin Finlay-Freundlich",
-      "wiki-cs": "https://cs.wikipedia.org/wiki/Erwin Finlay-Freundlich"
+      "wiki-en": "https://en.wikipedia.org/wiki/Erwin_Finlay-Freundlich",
+      "wiki-cs": "https://cs.wikipedia.org/wiki/Erwin_Finlay-Freundlich",
+      "AV 1909.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
     },
     "sns": [
       1909.5
-    ]
+    ],
+    "origin": "Biebrich [Wiesbaden]"
   },
   "374": {
     "name": "Hermann Fricke",
@@ -2144,11 +2157,13 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Rudolf_Fueter",
       "wiki-en": "https://en.wikipedia.org/wiki/Rudolf_Fueter",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Rudolf Fueter",
+      "AV 1902.0 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_SS?tify=%7B%22pages%22%3A%5B46%5D%7D"
     },
     "sns": [
       1902.0
-    ]
+    ],
+    "origin": "Basel, Schweiz"
   },
   "853": {
     "name": "Georg Fuhrmann",
@@ -2466,7 +2481,7 @@
     },
     "first": "Meier",
     "last": "Goldman",
-    "origin": "Lodz, Rußland [Polen]",
+    "origin": "Lodz, Russland [Polen]",
     "sources": {
       "Ciesielska et al. 2017 S. 292": "",
       "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
@@ -2705,12 +2720,14 @@
     "last": "Haas",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Arthur_Erich_Haas",
-      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas"
+      "wiki-en": "https://en.wikipedia.org/wiki/Arthur_Erich_Haas",
+      "AV 1904.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
   },
   "124": {
     "name": "Hans Hahn",
@@ -2842,7 +2859,8 @@
     "sns": [
       1904.5,
       1905.0
-    ]
+    ],
+    "origin": "Essen"
   },
   "928": {
     "name": "Chr Hartmann",
@@ -2924,9 +2942,13 @@
     },
     "first": "Karl",
     "last": "Hass",
+    "sources":{
+      "AV 1911.5 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Duisburg"
   },
   "323": {
     "name": "Robert Haussner",
@@ -2996,9 +3018,13 @@
     },
     "first": "Fritz",
     "last": "Heiligenpahl",
+    "sources": {
+      "AV 1911.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Dortmund"
   },
   "893": {
     "name": "Käthe Heinemann",
@@ -3143,10 +3169,14 @@
     },
     "first": "Karl",
     "last": "Hiemenz",
+    "sources":{
+      "AV 1905.0 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1905.0,
       1907.5
-    ]
+    ],
+    "origin": "Darmstadt"
   },
   "878": {
     "name": "Emil Hilb",
@@ -3181,7 +3211,8 @@
     "sns": [
       1885.5,
       1906.5
-    ]
+    ],
+    "origin": "Königsberg"
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -3305,9 +3336,13 @@
     },
     "first": "Paul",
     "last": "Hommel",
+    "sources":{
+      "AV 1911.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Ulm"
   },
   "1028": {
     "name": "Stanko Hondl",
@@ -3391,7 +3426,8 @@
     "sns": [
       1902.5,
       1903.0
-    ]
+    ],
+    "origin": "Madelungen bei Eisenach"
   },
   "536": {
     "name": "G? Huber?",
@@ -3461,15 +3497,19 @@
     ]
   },
   "486": {
-    "name": "Ludwig Hänert",
+    "name": "Ludwig [Louis?] Hänert",
     "ids_to_signatures": {
       "953": "Ludw[ig]. Hänert"
     },
     "first": "Ludwig",
     "last": "Hänert",
+    "sources":{
+      "AV 1904.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Sangerhausen(?)"
   },
   "969": {
     "name": "Walter Härter",
@@ -3488,15 +3528,19 @@
     ]
   },
   "1024": {
-    "name": "Henrik Edvard Johannes (Heikki) Hårdh",
+    "name": "Henrik Edvard Johannes (Heikki) Hårdh [Hardh]",
     "ids_to_signatures": {
       "1200": "H[enrik]. Hårdh Lektor in Kuopio (Finnland)."
     },
     "first": "Henrik Edvard Johannes (Heikki)",
-    "last": "Hårdh",
+    "last": "Hårdh [Hardh]",
+    "sources":{
+      "wiki-fi": "https://fi.wikipedia.org/wiki/H._E._J._H%C3%A5rdh"
+    },
     "sns": [
       1912.0
-    ]
+    ],
+    "origin": "Jyväskylä, Finnland"
   },
   "455": {
     "name": "Georg Höckner",
@@ -3553,10 +3597,14 @@
     },
     "first": "Wilhelm",
     "last": "Ihlenburg",
+    "sources":{
+      "AV 1906.0 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1906.0,
       1906.5
-    ]
+    ],
+    "origin": "Oschersleben (Bode)"
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -4187,9 +4235,13 @@
     },
     "first": "Franz",
     "last": "Krauß",
+    "sources":{
+      "AV 1911.5 S. 66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B66%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Köln"
   },
   "1162": {
     "name": "Adolf Krazer",
@@ -4344,9 +4396,13 @@
     },
     "first": "Karl",
     "last": "Körner",
+    "sources": {
+      "AV 1910.5 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Göttingen"
   },
   "861": {
     "name": "Emil Köster",
@@ -4385,9 +4441,13 @@
     },
     "first": "Robert",
     "last": "Künzer",
+    "sources": {
+      "AV 1910.5 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Aachen"
   },
   "1196": {
     "name": "Stanisław Kępiński [Kepinski]",
@@ -4465,10 +4525,14 @@
     },
     "first": "Eduard",
     "last": "Langebeck",
+    "sources":{
+      "AV 1911.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B68%5D%7D"
+    },
     "sns": [
       1911.5,
       1912.0
-    ]
+    ],
+    "origin": "Aachen"
   },
   "77": {
     "name": "C. Laubert. stud. math.",
@@ -4519,9 +4583,13 @@
     },
     "first": "Ludwig",
     "last": "Lauer",
+    "sources":{
+      "AV 1905.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1905.0
-    ]
+    ],
+    "origin": "Köln"
   },
   "381": {
     "name": "Wera Lebedewa [Vera Myller-Lebedev]",
@@ -4537,7 +4605,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "St. Petersburg"
+    "origin": "St. Petersburg, Russland"
   },
   "491": {
     "name": "Karl Otto Heinrich Liebmann",
@@ -4706,9 +4774,13 @@
     },
     "first": "Gustav",
     "last": "Löwenstein",
+    "sources":{
+      "AV 1911.5 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Stuttgart"
   },
   "232": {
     "name": "Ernst Karl Wilhelm Lübcke",
@@ -4743,15 +4815,19 @@
     ]
   },
   "155": {
-    "name": "Fritz Lüdemann",
+    "name": "Fritz [Friedrich] Lüdemann",
     "ids_to_signatures": {
       "1196": "Fritz Lüdemann"
     },
-    "first": "Fritz",
+    "first": "Fritz [Friedrich]",
     "last": "Lüdemann",
+    "sources":{
+      "AV 1912.0 S. 71": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B71%5D%7D"
+    },
     "sns": [
       1912.0
-    ]
+    ],
+    "origin": "Ülzen, Hannover"
   },
   "279": {
     "name": "Georg Lüttemeyer",
@@ -4968,7 +5044,8 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Stefan_Mazurkiewicz",
       "wiki-en": "https://en.wikipedia.org/wiki/Stefan_Mazurkiewicz",
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz"
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz",
+      "AV 1911.0 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B70%5D%7D"
     },
     "sns": [
       1911.0
@@ -5129,9 +5206,13 @@
     },
     "first": "Friedrich",
     "last": "Meyer",
+    "sources":{
+      "AV 1906.0 S.63": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B63%5D%7D"
+    },
     "sns": [
       1906.0
-    ]
+    ],
+    "origin": "Hannover oder Einbeck"
   },
   "645": {
     "name": "Ludwig Meyeringh",
@@ -5222,9 +5303,13 @@
     },
     "first": "Erwin",
     "last": "Moll",
+    "sources":{
+      "AV 1911.5 S. 72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B72%5D%7D"
+    },
     "sns": [
       1911.5
-    ]
+    ],
+    "origin": "Lörrach"
   },
   "175": {
     "name": "Giacinto Morera",
@@ -5288,7 +5373,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "Bukarest"
+    "origin": "Bukarest, Rumänien"
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -5401,7 +5486,7 @@
     "ids_to_signatures": {
       "858": "B[urt] L. Newkirk"
     },
-    "first": "Burt Newkirk",
+    "first": "Burt L.",
     "last": "Newkirk",
     "sources":{
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=61003"
@@ -5842,12 +5927,16 @@
     },
     "first": "Johannes",
     "last": "Pistel",
+    "sources": {
+      "AV 1911.0 S. 76": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B76%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Magdeburg"
   },
   "1201": {
-    "name": "Max Planck.",
+    "name": "Max Planck",
     "ids_to_signatures": {
       "175": "Max Planck.",
       "176": "Max Planck.",
@@ -5892,12 +5981,13 @@
     "last": "Pohlhausen",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Pohlhausen",
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Ernst_Pohlhausen"
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Ernst_Pohlhausen",
+      "AV 1911.5 S. 94": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B94%5D%7D"
     },
     "sns": [
       1911.5
     ],
-    "origin": "Mittweida, Sachsen"
+    "origin": "Oberlößnitz [Radebeul] (geb. in Mittweida, Sachsen)"
   },
   "862": {
     "name": "Egon Pollak",
@@ -5921,9 +6011,13 @@
     },
     "first": "Hubert",
     "last": "Post",
+    "sources": {
+      "AV 1911.0 S. 76": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B76%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Merseburg"
   },
   "802": {
     "name": "Ludwig Prandtl",
@@ -6043,7 +6137,7 @@
     },
     "first": "Eduard",
     "last": "Pulpe",
-    "origin": "Riga, Rußland",
+    "origin": "Riga, Russland",
     "sources": {
       "AV 1908.0 S.68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
     },
@@ -6193,7 +6287,7 @@
     "sns": [
       1902.5
     ],
-    "origin": "Charkow, Rußland [Charkiw, Ukraine]"
+    "origin": "Charkow, Russland [Charkiw, Ukraine]"
   },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
@@ -6339,15 +6433,19 @@
     "origin": "Fürth"
   },
   "1202": {
-    "name": "Dr. Paul Roth",
+    "name": "Paul Roth",
     "ids_to_signatures": {
       "1018": "Dr. Paul Roth"
     },
     "first": "Paul",
     "last": "Roth",
+    "sources":{
+      "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
+    },
     "sns": [
       1906.5
-    ]
+    ],
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
   },
   "775": {
     "name": "Wilhelm Rothe",
@@ -6356,9 +6454,13 @@
     },
     "first": "Wilhelm",
     "last": "Rothe",
+    "sources": {
+      "AV 1911.0 S. 79": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B79%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Witten"
   },
   "1089": {
     "name": "Emil Rottgardt",
@@ -6591,10 +6693,14 @@
     },
     "first": "Helmuth",
     "last": "Schickert",
+    "sources":{
+      "AV 1911.5 S. 82": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_1912_WS?tify=%7B%22pages%22%3A%5B82%5D%7D"
+    },
     "sns": [
       1911.5,
       1912.0
-    ]
+    ],
+    "origin": "Essen"
   },
   "961": {
     "name": "Friedrich Schilling",
@@ -6736,9 +6842,13 @@
     },
     "first": "Bernhard",
     "last": "Schniete",
+    "sources": {
+      "AV 1910.5 S. 78": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B78%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "529": {
     "name": "Josef Schreiner",
@@ -6872,10 +6982,14 @@
     },
     "first": "Edwin",
     "last": "Schulze",
+    "sources":{
+      "AV 1905.0 S. 71": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B71%5D%7D"
+    },
     "sns": [
       1905.0,
       1906.0
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "212": {
     "name": "Karl Schwarzschild",
@@ -7398,9 +7512,13 @@
     },
     "first": "Paul",
     "last": "Thormeyer",
+    "sources":{
+      "AV 1904.5 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B70%5D%7D"
+    },
     "sns": [
       1904.5
-    ]
+    ],
+    "origin": "Braunschweig"
   },
   "817": {
     "name": "William Threlfall",
@@ -8167,9 +8285,13 @@
     },
     "first": "Wilhelm",
     "last": "Wiechern",
+    "sources": {
+      "AV 1910.5 S. 86": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B86%5D%7D"
+    },
     "sns": [
       1910.5
-    ]
+    ],
+    "origin": "Lauenbrück, Hannover"
   },
   "324": {
     "name": "Emil? Wiechert",
@@ -8752,7 +8874,7 @@
     "sns": [
       1898.0
     ],
-    "origin": "St. Petersburg?"
+    "origin": "St. Petersburg?, Russland"
   },
   "291": {
     "name": "Helene von Bortkewitsch",
@@ -8890,7 +9012,7 @@
     },
     "first": "Wladimir",
     "last": "von Philippow",
-    "origin": "St. Petersburg, Rußland",
+    "origin": "St. Petersburg, Russland",
     "sources": {
       "AV 1909.0 S.72": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_SS?tify=%7B%22pages%22%3A%5B72%5D%7D"
     },
