@@ -1087,9 +1087,13 @@
     },
     "first": "Aloys",
     "last": "Burlet",
+    "sources": {
+      "AV 1911.0 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Luzern, Schweiz"
   },
   "904": {
     "name": "Carl Georg Theodor Buschbaum",
@@ -2991,9 +2995,13 @@
     },
     "first": "Fritz",
     "last": "Heiligenpahl",
+    "sources": {
+      "AV 1911.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Dortmund"
   },
   "893": {
     "name": "Käthe Heinemann",
@@ -4973,7 +4981,8 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Stefan_Mazurkiewicz",
       "wiki-en": "https://en.wikipedia.org/wiki/Stefan_Mazurkiewicz",
-      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz"
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stefan Mazurkiewicz",
+      "AV 1911.0 S. 70": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B70%5D%7D"
     },
     "sns": [
       1911.0
@@ -5841,12 +5850,16 @@
     },
     "first": "Johannes",
     "last": "Pistel",
+    "sources": {
+      "AV 1911.0 S. 76": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B76%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Magdeburg"
   },
   "1201": {
-    "name": "Max Planck.",
+    "name": "Max Planck",
     "ids_to_signatures": {
       "175": "Max Planck.",
       "176": "Max Planck.",
@@ -5920,9 +5933,13 @@
     },
     "first": "Hubert",
     "last": "Post",
+    "sources": {
+      "AV 1911.0 S. 76": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B76%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Merseburg"
   },
   "802": {
     "name": "Ludwig Prandtl",
@@ -6359,9 +6376,13 @@
     },
     "first": "Wilhelm",
     "last": "Rothe",
+    "sources": {
+      "AV 1911.0 S. 79": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1911_SS?tify=%7B%22pages%22%3A%5B79%5D%7D"
+    },
     "sns": [
       1911.0
-    ]
+    ],
+    "origin": "Witten"
   },
   "1089": {
     "name": "Emil Rottgardt",
