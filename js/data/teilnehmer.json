@@ -497,16 +497,20 @@
     ]
   },
   "248": {
-    "name": "Sigfrid Berliner",
+    "name": "Siegfrid Berliner",
     "ids_to_signatures": {
-      "929": "S[igfrid] Berliner",
-      "930": "S[igfrid] Berliner"
+      "929": "S[iegfrid] Berliner",
+      "930": "S[iegfrid] Berliner"
     },
-    "first": "Sigfrid",
+    "sources":{
+      "AV 1904.0 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    },
+    "first": "Siegfrid",
     "last": "Berliner",
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Hannover"
   },
   "981": {
     "name": "Felix Bernstein",
@@ -2663,7 +2667,7 @@
     ]
   },
   "124": {
-    "name": "Dr. Hans Hahn",
+    "name": "Hans Hahn",
     "ids_to_signatures": {
       "906": "Dr. Hans Hahn"
     },
@@ -2671,11 +2675,13 @@
     "last": "Hahn",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hans_Hahn",
-      "wiki-en": "https://en.wikipedia.org/wiki/Hans Hahn (mathematician)"
+      "wiki-en": "https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=5852"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Wien"
   },
   "619": {
     "name": "Georg Hamel",
@@ -3011,11 +3017,13 @@
     "last": "Herglotz",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gustav_Herglotz",
-      "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz"
+      "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz",
+      "AV 1903.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Wien (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])"
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -3103,11 +3111,13 @@
     "last": "Hilb",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Emil_Hilb",
-      "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb"
+      "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb",
+      "AV 1904.0 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B51%5D%7D"
     },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Augsburg (geb. in Stuttgart)"
   },
   "142": {
     "name": "David Hilbert",
@@ -4193,10 +4203,14 @@
     },
     "first": "Friedrich",
     "last": "Kuhse",
+    "sources":{
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+    },
     "sns": [
       1903.0,
       1903.5
-    ]
+    ],
+    "origin": "Wismar, Mecklenburg-Schwerin"
   },
   "751": {
     "name": "Stefan Kwietniewski.",
@@ -4340,7 +4354,7 @@
     "first": "Heinrich",
     "last": "Laackmann",
     "sources":{
-      "AV 1903.5 S.53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
     },
     "sns": [
       1903.5
@@ -5718,9 +5732,13 @@
     },
     "first": "Norbert",
     "last": "Pinkus",
+    "sources":{
+      "AV 1904.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Warschau"
   },
   "905": {
     "name": "Johannes Pistel",
@@ -5854,9 +5872,13 @@
     },
     "first": "Reinhold",
     "last": "Proell",
+    "sources": {
+      "AV 1903.5 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B59%5D%7D"
+    },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Dresden"
   },
   "470": {
     "name": "Erich Prümm",
@@ -6252,8 +6274,8 @@
     "last": "Rottgardt",
     "origin": "Geschendorf, Schleswig-Holstein",
     "sources": {
-      "AV 1903.0 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
-      "AV 1904.0 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
+      "AV 1903.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
+      "AV 1904.0 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
       "KT foll. 226": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B460%5D%7D"
     },
     "sns": [
@@ -6806,7 +6828,7 @@
     "last": "Schöning",
     "origin": "Reelkirchen, Lippe-Detmold",
     "sources": {
-      "AV 1903.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+      "AV 1903.5 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
     },
     "sns": [
       1903.5
@@ -8716,11 +8738,13 @@
     "last": "von Laue",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max_von_Laue",
-      "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue"
+      "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue",
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz])"
   },
   "1187": {
     "name": "Wladimir von Philippow",
