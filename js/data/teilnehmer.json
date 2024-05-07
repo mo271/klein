@@ -190,11 +190,13 @@
     "first": "Albert",
     "last": "Andrae",
     "sources": {
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae",
+      "AV 1900.5 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
     },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Gotha"
   },
   "1101": {
     "name": "L Anhenn",
@@ -311,7 +313,8 @@
     },
     "sns": [
       1901.5
-    ]
+    ],
+    "origin": "Celle"
   },
   "495": {
     "name": "Heinrich Barkhausen",
@@ -525,14 +528,16 @@
     "first": "Felix",
     "last": "Bernstein",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Felix Bernstein",
-      "wiki-en": "https://en.wikipedia.org/wiki/Felix Bernstein (mathematician)"
+      "wiki-de": "https://de.wikipedia.org/wiki/Felix_Bernstein",
+      "wiki-en": "https://en.wikipedia.org/wiki/Felix_Bernstein_(mathematician)",
+      "AV 1900.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B37%5D%7D"
     },
     "sns": [
       1900.0,
       1901.0,
       1909.5
-    ]
+    ],
+    "origin": "Halle (Saale)"
   },
   "565": {
     "name": "Arthur Berry",
@@ -1118,9 +1123,13 @@
     },
     "first": "Paul",
     "last": "Böhmer",
+    "sources":{
+      "AV 1900.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Marienwerder"
   },
   "473": {
     "name": "Richard Börnstein",
@@ -1769,7 +1778,7 @@
     "last": "Faber",
     "origin": "München",
     "sources": {
-      "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
+      "AV 1900.5 S. 42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Faber_(Mathematiker)"
     },
     "sns": [
@@ -2321,19 +2330,24 @@
     ]
   },
   "845": {
-    "name": "Friedrich Giebel",
+    "name": "Karl Giebel",
     "ids_to_signatures": {
-      "808": "Fr[iedrich] Giebel",
-      "855": "Fr[iedrich] Giebel",
-      "907": "Fr[iedrich] Giebel"
+      "808": "K[arl] Giebel",
+      "855": "K[arl] Giebel",
+      "907": "K[arl] Giebel"
     },
-    "first": "Friedrich",
+    "first": "Karl",
     "last": "Giebel",
+    "sources":{
+      "AV 1900.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
+      "KT S. 410": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B410%5D%7D"
+    },
     "sns": [
       1901.0,
       1902.5,
       1903.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "238": {
     "name": "Joseph Gierster",
@@ -3270,7 +3284,7 @@
     },
     "first": "Stanko",
     "last": "Hondl",
-    "origin": "Agram [Zagreb]",
+    "origin": "Agram, Österreich-Ungarn [Zagreb, Kroatien]",
     "sources": {
       "AV 1900.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D",
       "wiki-sh": "https://sh.wikipedia.org/wiki/Stanko Hondl",
@@ -4078,9 +4092,13 @@
     },
     "first": "Albert",
     "last": "Kraft",
+    "sources":{
+      "AV 1900.5 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
+    },
     "sns": [
       1901.0
-    ]
+    ],
+    "origin": "Gera"
   },
   "53": {
     "name": "Hans Kramer",
@@ -4601,15 +4619,20 @@
     ]
   },
   "913": {
-    "name": "Walter Ludwig",
+    "name": "Walther Ludwig",
     "ids_to_signatures": {
-      "792": "Dr. W[alter]. Ludwig"
+      "792": "Dr. W[alther]. Ludwig"
     },
-    "first": "Walter",
+    "first": "Walther",
     "last": "Ludwig",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Walther_Ludwig_(Mathematiker)",
+      "AV 1900.5 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "399": {
     "name": "Wilhelm Luyken",
@@ -5002,10 +5025,14 @@
     },
     "first": "Carl",
     "last": "Metzner",
+    "sources":{
+      "AV 1900.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+    },
     "sns": [
       1900.5,
       1901.0
-    ]
+    ],
+    "origin": "Cottbus"
   },
   "522": {
     "name": "Wilhelm Meyer",
@@ -5475,9 +5502,13 @@
     },
     "first": "Alex",
     "last": "Osthoff",
+    "sources":{
+      "AV 1900.5 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "70": {
     "name": "Henri Padé",
@@ -6813,10 +6844,14 @@
     },
     "first": "Heinrich",
     "last": "Schwienhorst",
+    "sources":{
+      "AV 1900.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    },
     "sns": [
       1900.5,
       1901.0
-    ]
+    ],
+    "origin": "Süchteln [Viersen]"
   },
   "111": {
     "name": "Aruthr Schöning",
@@ -8181,11 +8216,15 @@
     },
     "first": "Max",
     "last": "Winkelmann",
+    "sources":{
+      "AV 1900.5 S. 67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B67%5D%7D"
+    },
     "sns": [
       1901.0,
       1901.5,
       1902.0
-    ]
+    ],
+    "origin": "Friedenau [Berlin]"
   },
   "167":{
     "name": "W. E. Winship",
@@ -8500,10 +8539,14 @@
     },
     "first": "Walther",
     "last": "Zurhellen",
+    "sources":{
+      "AV 1900.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B68%5D%7D"
+    },
     "sns": [
       1901.0,
       1901.5
-    ]
+    ],
+    "origin": "Mülheim an der Ruhr"
   },
   "62": {
     "name": "Albert Zühlke",
