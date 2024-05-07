@@ -191,11 +191,13 @@
     "first": "Albert",
     "last": "Andrae",
     "sources": {
-      "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae"
+      "wiki-pt": "https://pt.wikipedia.org/wiki/Albert_Andrae",
+      "AV 1900.5 S. 36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
     },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Gotha"
   },
   "1101": {
     "name": "L Anhenn",
@@ -499,16 +501,20 @@
     ]
   },
   "248": {
-    "name": "Sigfrid Berliner",
+    "name": "Siegfrid Berliner",
     "ids_to_signatures": {
-      "929": "S[igfrid] Berliner",
-      "930": "S[igfrid] Berliner"
+      "929": "S[iegfrid] Berliner",
+      "930": "S[iegfrid] Berliner"
     },
-    "first": "Sigfrid",
+    "sources":{
+      "AV 1904.0 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
+    },
+    "first": "Siegfrid",
     "last": "Berliner",
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Hannover"
   },
   "981": {
     "name": "Felix Bernstein",
@@ -523,14 +529,16 @@
     "first": "Felix",
     "last": "Bernstein",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Felix Bernstein",
-      "wiki-en": "https://en.wikipedia.org/wiki/Felix Bernstein (mathematician)"
+      "wiki-de": "https://de.wikipedia.org/wiki/Felix_Bernstein",
+      "wiki-en": "https://en.wikipedia.org/wiki/Felix_Bernstein_(mathematician)",
+      "AV 1900.5 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B37%5D%7D"
     },
     "sns": [
       1900.0,
       1901.0,
       1909.5
-    ]
+    ],
+    "origin": "Halle (Saale)"
   },
   "565": {
     "name": "Arthur Berry",
@@ -1120,9 +1128,13 @@
     },
     "first": "Paul",
     "last": "Böhmer",
+    "sources":{
+      "AV 1900.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Marienwerder"
   },
   "473": {
     "name": "Richard Börnstein",
@@ -1771,7 +1783,7 @@
     "last": "Faber",
     "origin": "München",
     "sources": {
-      "AV 1900.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
+      "AV 1900.5 S. 42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B42%5D%7D",
       "wiki-de": "https://de.wikipedia.org/wiki/Georg_Faber_(Mathematiker)"
     },
     "sns": [
@@ -2327,19 +2339,24 @@
     ]
   },
   "845": {
-    "name": "Friedrich Giebel",
+    "name": "Karl Giebel",
     "ids_to_signatures": {
-      "808": "Fr[iedrich] Giebel",
-      "855": "Fr[iedrich] Giebel",
-      "907": "Fr[iedrich] Giebel"
+      "808": "K[arl] Giebel",
+      "855": "K[arl] Giebel",
+      "907": "K[arl] Giebel"
     },
-    "first": "Friedrich",
+    "first": "Karl",
     "last": "Giebel",
+    "sources":{
+      "AV 1900.5 S. 44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
+      "KT S. 410": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B410%5D%7D"
+    },
     "sns": [
       1901.0,
       1902.5,
       1903.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "238": {
     "name": "Joseph Gierster",
@@ -2677,7 +2694,7 @@
     ]
   },
   "124": {
-    "name": "Dr. Hans Hahn",
+    "name": "Hans Hahn",
     "ids_to_signatures": {
       "906": "Dr. Hans Hahn"
     },
@@ -2685,11 +2702,13 @@
     "last": "Hahn",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Hans_Hahn",
-      "wiki-en": "https://en.wikipedia.org/wiki/Hans Hahn (mathematician)"
+      "wiki-en": "https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=5852"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Wien"
   },
   "619": {
     "name": "Georg Hamel",
@@ -3025,11 +3044,13 @@
     "last": "Herglotz",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Gustav_Herglotz",
-      "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz"
+      "wiki-en": "https://en.wikipedia.org/wiki/Gustav_Herglotz",
+      "AV 1903.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Wien (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])"
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -3117,11 +3138,13 @@
     "last": "Hilb",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Emil_Hilb",
-      "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb"
+      "wiki-en": "https://en.wikipedia.org/wiki/Emil_Hilb",
+      "AV 1904.0 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B51%5D%7D"
     },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Augsburg (geb. in Stuttgart)"
   },
   "142": {
     "name": "David Hilbert",
@@ -3274,7 +3297,7 @@
     },
     "first": "Stanko",
     "last": "Hondl",
-    "origin": "Agram [Zagreb]",
+    "origin": "Agram, Österreich-Ungarn [Zagreb, Kroatien]",
     "sources": {
       "AV 1900.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D",
       "wiki-sh": "https://sh.wikipedia.org/wiki/Stanko Hondl",
@@ -4087,9 +4110,13 @@
     },
     "first": "Albert",
     "last": "Kraft",
+    "sources":{
+      "AV 1900.5 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
+    },
     "sns": [
       1901.0
-    ]
+    ],
+    "origin": "Gera"
   },
   "53": {
     "name": "Hans Kramer",
@@ -4213,7 +4240,8 @@
     "first": "Friedrich",
     "last": "Kuhse",
     "sources":{
-      "AV 1903.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+      "AV 1904.0 S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
     },
     "sns": [
       1903.0,
@@ -4363,7 +4391,7 @@
     "first": "Heinrich",
     "last": "Laackmann",
     "sources":{
-      "AV 1903.5 S.53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
     },
     "sns": [
       1903.5
@@ -4614,15 +4642,20 @@
     ]
   },
   "913": {
-    "name": "Walter Ludwig",
+    "name": "Walther Ludwig",
     "ids_to_signatures": {
-      "792": "Dr. W[alter]. Ludwig"
+      "792": "Dr. W[alther]. Ludwig"
     },
-    "first": "Walter",
+    "first": "Walther",
     "last": "Ludwig",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Walther_Ludwig_(Mathematiker)",
+      "AV 1900.5 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B52%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "399": {
     "name": "Wilhelm Luyken",
@@ -5015,10 +5048,14 @@
     },
     "first": "Carl",
     "last": "Metzner",
+    "sources":{
+      "AV 1900.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
+    },
     "sns": [
       1900.5,
       1901.0
-    ]
+    ],
+    "origin": "Cottbus"
   },
   "522": {
     "name": "Wilhelm Meyer",
@@ -5492,9 +5529,13 @@
     },
     "first": "Alex",
     "last": "Osthoff",
+    "sources":{
+      "AV 1900.5 S. 55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"
+    },
     "sns": [
       1900.5
-    ]
+    ],
+    "origin": "Barmen [Wuppertal]"
   },
   "70": {
     "name": "Henri Padé",
@@ -5749,9 +5790,13 @@
     },
     "first": "Norbert",
     "last": "Pinkus",
+    "sources":{
+      "AV 1904.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+    },
     "sns": [
       1904.0
-    ]
+    ],
+    "origin": "Warschau"
   },
   "905": {
     "name": "Johannes Pistel",
@@ -5885,9 +5930,13 @@
     },
     "first": "Reinhold",
     "last": "Proell",
+    "sources": {
+      "AV 1903.5 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B59%5D%7D"
+    },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Dresden"
   },
   "470": {
     "name": "Erich Prümm",
@@ -6283,8 +6332,8 @@
     "last": "Rottgardt",
     "origin": "Geschendorf, Schleswig-Holstein",
     "sources": {
-      "AV 1903.0 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
-      "AV 1904.0 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
+      "AV 1903.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
+      "AV 1904.0 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
       "KT foll. 226": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B460%5D%7D"
     },
     "sns": [
@@ -6830,10 +6879,14 @@
     },
     "first": "Heinrich",
     "last": "Schwienhorst",
+    "sources":{
+      "AV 1900.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
+    },
     "sns": [
       1900.5,
       1901.0
-    ]
+    ],
+    "origin": "Süchteln [Viersen]"
   },
   "111": {
     "name": "Aruthr Schöning",
@@ -6845,7 +6898,7 @@
     "last": "Schöning",
     "origin": "Reelkirchen, Lippe-Detmold",
     "sources": {
-      "AV 1903.5 S.62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
+      "AV 1903.5 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B62%5D%7D"
     },
     "sns": [
       1903.5
@@ -8206,11 +8259,15 @@
     },
     "first": "Max",
     "last": "Winkelmann",
+    "sources":{
+      "AV 1900.5 S. 67": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B67%5D%7D"
+    },
     "sns": [
       1901.0,
       1901.5,
       1902.0
-    ]
+    ],
+    "origin": "Friedenau [Berlin]"
   },
   "167":{
     "name": "W. E. Winship",
@@ -8525,10 +8582,14 @@
     },
     "first": "Walther",
     "last": "Zurhellen",
+    "sources":{
+      "AV 1900.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B68%5D%7D"
+    },
     "sns": [
       1901.0,
       1901.5
-    ]
+    ],
+    "origin": "Mülheim an der Ruhr"
   },
   "62": {
     "name": "Albert Zühlke",
@@ -8766,11 +8827,13 @@
     "last": "von Laue",
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Max_von_Laue",
-      "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue"
+      "wiki-en": "https://en.wikipedia.org/wiki/Max_von_Laue",
+      "AV 1903.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D"
     },
     "sns": [
       1903.5
-    ]
+    ],
+    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz])"
   },
   "1187": {
     "name": "Wladimir von Philippow",
