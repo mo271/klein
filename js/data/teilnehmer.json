@@ -175,7 +175,8 @@
       1878.5,
       1879.0,
       1879.5
-    ]
+    ],
+    "origin": "Dorpat, Russland [Tartu, Estland]"
   },
   "196": {
     "name": "Adolf Ameseder",
@@ -305,7 +306,8 @@
     "sns": [
       1875.5,
       1876.5
-    ]
+    ],
+    "origin": "Seligenstadt"
   },
   "745": {
     "name": "Erwin Backhaus",
@@ -955,6 +957,10 @@
     },
     "first": "Wilhelm",
     "last": "Braun",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7407",
+      "Tobies 2021": ""
+    },
     "sns": [
       1873.5,
       1874.0
@@ -2014,9 +2020,13 @@
     },
     "first": "Wilhelm",
     "last": "Frahm",
+    "sources":{
+      "Tobies 2021 S. 191": ""
+    },
     "sns": [
       1875.0
-    ]
+    ],
+    "origin": "Rendsburg, Schleswig-Holstein"
   },
   "770": {
     "name": "W. Freise",
@@ -2410,6 +2420,9 @@
     },
     "first": "Joseph",
     "last": "Gierster",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7412"
+    },
     "sns": [
       1876.9,
       1877.4,
@@ -2417,7 +2430,8 @@
       1878.0,
       1878.5,
       1879.0
-    ]
+    ],
+    "origin": "Haibach, Bayern"
   },
   "5": {
     "name": "Wilhelm Giesing",
@@ -2503,7 +2517,8 @@
     },
     "sns": [
       1874.5
-    ]
+    ],
+    "origin": "Breslau"
   },
   "148": {
     "name": "Adolf Gottschalk",
@@ -2684,7 +2699,8 @@
     "sns": [
       1873.0,
       1873.5
-    ]
+    ],
+    "origin": "Nürnberg"
   },
   "1165": {
     "name": "Alfréd Haar",
@@ -2843,7 +2859,8 @@
       1874.0,
       1874.5,
       1875.0
-    ]
+    ],
+    "origin": "Dorpat, Russland [Tartu, Estland]"
   },
   "654": {
     "name": "Roderich Hartenstein.",
@@ -3155,11 +3172,15 @@
     },
     "first": "Wilhelm",
     "last": "Hess",
+    "sources":{
+      "wiki-de": "https://de.wikipedia.org/wiki/Wilhelm_Hess_(Mathematiker)"
+    },
     "sns": [
       1878.4,
       1878.5,
       1879.0
-    ]
+    ],
+    "origin": "Aschaffenburg"
   },
   "594": {
     "name": "Karl Hiemenz",
@@ -3312,7 +3333,8 @@
     "sns": [
       1874.5,
       1875.0
-    ]
+    ],
+    "origin": "Drammen, Buskerud, Norwegen"
   },
   "888": {
     "name": "Paul Holtzhüter",
@@ -3494,7 +3516,8 @@
       1879.5,
       1880.5,
       1881.0
-    ]
+    ],
+    "origin": "Hildesheim"
   },
   "486": {
     "name": "Ludwig [Louis?] Hänert",
@@ -4067,7 +4090,8 @@
       1909.5,
       1910.5,
       1911.5
-    ]
+    ],
+    "origin": "Düsseldorf"
   },
   "191": {
     "name": "Felix Klitzkowski",
@@ -4221,7 +4245,7 @@
     "sources": {
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/ludvik_kraus.html"
     },
-    "origin": "Turnov [Turnau], Tschechien",
+    "origin": "Turnau, Österreich-Ungarn [Turnov, Tschechien]",
     "sns": [
       1878.5,
       1879.0,
@@ -5197,7 +5221,8 @@
       1876.5,
       1877.0,
       1877.5
-    ]
+    ],
+    "origin": "Magdeburg"
   },
   "1189": {
     "name": "Friedrich Meyer",
@@ -5459,9 +5484,13 @@
     },
     "first": "Friedrich",
     "last": "Neesen",
+    "sources":{
+      "Tobies 2021 S. 113": ""
+    },
     "sns": [
       1872.0
-    ]
+    ],
+    "origin": "Cleve"
   },
   "1039": {
     "name": "Leonard Nelson",
@@ -6756,7 +6785,8 @@
       1875.5,
       1876.5,
       1877.0
-    ]
+    ],
+    "origin": "Aschaffenburg"
   },
   "152": {
     "name": "Schlesinger",
