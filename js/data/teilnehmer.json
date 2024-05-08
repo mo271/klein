@@ -656,6 +656,7 @@
     "first": "Paul",
     "last": "Biedermann",
     "sources": {
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=745",
       "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg",
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
@@ -776,7 +777,7 @@
       "mathgenealogy": "https://mathgenealogy.org/id.php?id=61734",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/karl_bobek.html"
     },
-    "origin": "Lhotka, Tschechien",
+    "origin": "Lhotka?, Österreich-Ungarn [Tschechien]",
     "sns": [
       1881.5,
       1882.0
@@ -1071,7 +1072,8 @@
     "sns": [
       1881.0,
       1881.5
-    ]
+    ],
+    "origin": "London(?), UK"
   },
   "259": {
     "name": "Heinrich Burkhardt",
@@ -1616,6 +1618,7 @@
     "first": "Paul",
     "last": "Domsch",
     "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7420",
       "P Bd. 6 S. 252": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p252_normal.jpg"
     },
     "sns": [
@@ -1623,16 +1626,17 @@
       1883.0,
       1883.5,
       1884.0
-    ]
+    ],
+    "origin": "Zittau"
   },
   "894": {
-    "name": "Heinrich Dreßler",
+    "name": "Heinrich Dreßler [Dressler]",
     "ids_to_signatures": {
       "293": "H[einrich]. Dreßler",
       "310": "H[einrich]. Dreßler"
     },
     "first": "Heinrich",
-    "last": "Dreßler",
+    "last": "Dreßler [Dressler]",
     "sns": [
       1881.0,
       1881.5
@@ -2105,7 +2109,8 @@
       1884.0,
       1884.5,
       1885.0
-    ]
+    ],
+    "origin": "Helmstedt, Braunschweig"
   },
   "380": {
     "name": "Georg Friedrich",
@@ -2118,6 +2123,7 @@
     "first": "Georg",
     "last": "Friedrich",
     "sources": {
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7423",
       "P Bd. 7 S. 303": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V07-1885-1886/V7-p303_normal.jpg"
     },
     "sns": [
@@ -3127,6 +3133,9 @@
     },
     "first": "Oskar",
     "last": "Herrmann",
+    "sources":{
+      "Tobies 2021 S. 228": ""
+    },
     "sns": [
       1881.0,
       1881.5,
@@ -4291,7 +4300,8 @@
     "sns": [
       1882.0,
       1882.5
-    ]
+    ],
+    "origin": "Zusmarshausen"
   },
   "144": {
     "name": "J. Kropáček [Kropacek]",
@@ -4536,6 +4546,7 @@
     "first": "Ernst",
     "last": "Lange",
     "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7415",
       "P Bd. 4 S. 223": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V04-1882-1883/V4-p223_normal.jpg"
     },
     "sns": [
@@ -4543,7 +4554,8 @@
       1881.0,
       1881.5,
       1882.0
-    ]
+    ],
+    "origin": "Riesa"
   },
   "302": {
     "name": "Eduard Langebeck",
@@ -5610,6 +5622,7 @@
     "first": "Richard",
     "last": "Olbricht",
     "sources": {
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7426",
       "P Bd. 6 S. 252": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p252_normal.jpg"
     },
     "sns": [
@@ -8135,7 +8148,7 @@
     "origin": "Langendreer [Bochum]"
   },
   "946": {
-    "name": "Guido Weicholdt",
+    "name": "Guido Weicholdt [Weichold]",
     "ids_to_signatures": {
       "313": "G[uido]. Weicholdt",
       "333": "G[uido]. Weicholdt",
@@ -8145,12 +8158,16 @@
       "355": "G[uido] Weicholdt"
     },
     "first": "Guido",
-    "last": "Weicholdt",
+    "last": "Weicholdt [Weichold]",
+    "sources":{
+      "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=7416"
+    },
     "sns": [
       1881.5,
       1882.0,
       1882.5
-    ]
+    ],
+    "origin": "London, UK"
   },
   "198": {
     "name": "Georg Weigand",
