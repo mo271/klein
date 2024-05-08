@@ -1282,12 +1282,16 @@
     },
     "first": "Friedrich",
     "last": "Büttner",
+    "sources":{
+      "digiporta.net": "http://www.digiporta.net/index.php?id=294955988"
+    },
     "sns": [
       1880.5,
       1881.0,
       1881.5,
       1882.0
-    ]
+    ],
+    "origin": "Elbing [Elbląg, Polen]"
   },
   "1113": {
     "name": "George Ashley Campbell",
@@ -7904,10 +7908,15 @@
     },
     "first": "Peter",
     "last": "Vogel",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=62724",
+      "isbn.de": "https://www.isbn.de/buch/9783877077399/peter-vogel"
+    },
     "sns": [
       1876.9,
       1877.4
-    ]
+    ],
+    "origin": "Uehlfeld, Bayern"
   },
   "561": {
     "name": "Paul Voigt",
@@ -8935,7 +8944,7 @@
     "first": "Anton",
     "last": "von Braunmühl",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Anton von Braunmühl (Mathematiker)",
+      "wiki-de": "https://de.wikipedia.org/wiki/Anton_von_Braunm%C3%BChl_(Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Anton_von_Braunm%C3%BChl"
     },
     "sns": [
@@ -8944,10 +8953,11 @@
       1877.5,
       1878.0,
       1878.5
-    ]
+    ],
+    "origin": "Tiflis, Russland [Georgien]"
   },
   "1076": {
-    "name": "Alexander später: von Brill",
+    "name": "Alexander [später: von] Brill",
     "ids_to_signatures": {
       "92": "A[lexander]. [später: von] Brill",
       "110": "A[lexander] [später: von] Brill",
@@ -8956,13 +8966,14 @@
     "first": "Alexander",
     "last": "von Brill",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Alexander von Brill",
-      "wiki-en": "https://en.wikipedia.org/wiki/Alexander von Brill"
+      "wiki-de": "https://de.wikipedia.org/wiki/Alexander_von_Brill",
+      "wiki-en": "https://en.wikipedia.org/wiki/Alexander_von_Brill"
     },
     "sns": [
       1875.0,
       1875.5
-    ]
+    ],
+    "origin": "Darmstadt"
   },
   "592": {
     "name": "Albert von Brunn",
