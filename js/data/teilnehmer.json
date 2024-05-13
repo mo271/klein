@@ -707,7 +707,7 @@
     "first": "Edwin Mortimer",
     "last": "Blake",
     "sources":{
-      "AV 1896.0 S. 35": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B35%5D%7D"
+      "AV 1896.0 S. 35": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_SS?tify=%7B%22pages%22%3A%5B35%5D%7D"
     },
     "sns": [
       1896.0
@@ -5534,19 +5534,20 @@
     "origin": "Berlin"
   },
   "895": {
-    "name": "Burt L. Newkirk",
+    "name": "Burt L. Newkirk [Neukirch]",
     "ids_to_signatures": {
       "858": "B[urt] L. Newkirk"
     },
     "first": "Burt L.",
-    "last": "Newkirk",
+    "last": "Newkirk [Neukirch]",
     "sources":{
-      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=61003"
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=61003",
+      "AV 1902.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
     "sns": [
       1902.5
     ],
-    "origin": "Ellenwille, New York, USA"
+    "origin": "Minneapolis, Minnesota, USA"
   },
   "742": {
     "name": "Paul Nimsch",
@@ -5611,7 +5612,7 @@
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Charles_Albert_Noble",
       "wiki-pt": "https://pt.wikipedia.org/wiki/Charles_Albert_Noble",
-      "AV 1894.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B54%5D%7D"
+      "AV 1894.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
     "sns": [
       1894.5,
@@ -7266,6 +7267,7 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Virgil_Snyder",
       "wiki-en": "https://en.wikipedia.org/wiki/Virgil Snyder",
+      "AV 1894.5 S. 53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1894_1895_WS?tify=%7B%22pages%22%3A%5B53%5D%7D",
       "P Bd. 12 S. 371" : "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
     },
     "sns": [
@@ -7273,7 +7275,7 @@
       1894.0,
       1894.5
     ],
-    "origin": "Dyxon, Iowa, USA"
+    "origin": "Ithaca, New York, USA (geb. in Dyxon, Iowa)"
   },
   "1030": {
     "name": "Julius Sommer",
@@ -7858,6 +7860,7 @@
     "sources":{
       "wiki-de": "https://de.wikipedia.org/wiki/Edward_Burr_Van_Vleck",
       "wiki-en": "https://en.wikipedia.org/wiki/Edward_Burr_Van_Vleck",
+      "AV 1892.0. S. 54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B54%5D%7D",
       "P Bd. 11 S. 345": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p345_low.jpg"
     },
     "sns": [
