@@ -429,7 +429,7 @@
       1897.0,
       1897.5
     ],
-    "origin": "Wien"
+    "origin": "Wien, Österreich-Ungarn"
   },
   "526": {
     "name": "Wilhelm Behrens",
@@ -566,7 +566,7 @@
     "sns": [
       1887.4
     ],
-    "origin": "London"
+    "origin": "London, England, UK"
   },
   "776": {
     "name": "Charles William Berry",
@@ -866,7 +866,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Breslau"
+    "origin": "Breslau [Wrocław, Polen]"
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -1180,7 +1180,7 @@
     "sns": [
       1872.0
     ],
-    "origin": "Königsberg"
+    "origin": "Königsberg [Kaliningrad, Russland]"
   },
   "1142": {
     "name": "Adolf Böttger",
@@ -1324,7 +1324,7 @@
       "AV 1891.5 S. 40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_1892_WS?tify=%7B%22pages%22%3A%5B40%5D%7D",
       "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
     },
-    "origin": "Athen",
+    "origin": "Athen, Griechenland",
     "sns": [
       1891.0
     ]
@@ -1363,7 +1363,7 @@
     "sns": [
       1897.0
     ],
-    "origin": "Helmsburgh, Schottland"
+    "origin": "Helmsburgh, Schottland, UK"
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -1390,7 +1390,7 @@
     },
     "first": "Nicolaus [Nikolaos]",
     "last": "Chatzidakis [Hatzdakis]",
-    "origin": "Athen",
+    "origin": "Athen, Griechenland",
     "name_non_latin": "Νικόλαος Χατζιδάκις",
     "sources": {
       "AV 1898.0 S.39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B39%5D%7D",
@@ -1420,7 +1420,7 @@
       1894.0,
       1897.5
     ],
-    "origin": "Haslemere, England"
+    "origin": "Haslemere, England, UK"
   },
   "128": {
     "name": "Frank Nelson Cole",
@@ -1674,7 +1674,7 @@
     "sns": [
       1902.5
     ],
-    "origin": "Warschau"
+    "origin": "Warschau, Russland [Warszawa, Polen]"
   },
   "57": {
     "name": "Henri Heinrich Dörrie",
@@ -1735,7 +1735,7 @@
       1901.5,
       1902.5
     ],
-    "origin": "Wien"
+    "origin": "Wien, Österreich-Ungarn"
   },
   "503": {
     "name": "Friedrich Engel",
@@ -1849,7 +1849,7 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Ernst_Fanta"
     },
-    "origin": "Wien",
+    "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1901.5
     ]
@@ -1865,7 +1865,7 @@
       "AV 1898.5 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7335"
     },
-    "origin": "Warschau, Polen",
+    "origin": "Warschau, Russland [Warszawa, Polen]",
     "sns": [
       1898.5
     ]
@@ -2012,7 +2012,7 @@
     },
     "first": "Emil",
     "last": "Foerster",
-    "origin": "Wien",
+    "origin": "Wien, Österreich-Ungarn",
     "sources": {
       "AV 1902.5 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B45%5D%7D"
     },
@@ -2227,7 +2227,7 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Paul Funk (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Paul_Funk"
     },
-    "origin": "Wien",
+    "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1911.5
     ]
@@ -2528,7 +2528,7 @@
     "sns": [
       1874.5
     ],
-    "origin": "Breslau"
+    "origin": "Breslau [Wrocław, Polen]"
   },
   "148": {
     "name": "Adolf Gottschalk",
@@ -2558,7 +2558,7 @@
     "sources": {
       "AV 1906.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
-    "origin": "Prag",
+    "origin": "Prag, Österreich-Ungarn [Tschechien]",
     "sns": [
       1906.0,
       1906.5
@@ -2668,7 +2668,7 @@
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64803",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/josef_gruenwald.html"
     },
-    "origin": "Prag",
+    "origin": "Prag, Österreich-Ungarn [Tschechien]",
     "sns": [
       1899.5
     ]
@@ -2770,7 +2770,7 @@
     "sns": [
       1903.5
     ],
-    "origin": "Wien"
+    "origin": "Wien, Österreich-Ungarn"
   },
   "619": {
     "name": "Georg Hamel",
@@ -3090,7 +3090,7 @@
       1906.5,
       1907.5
     ],
-    "origin": "Striegau [Strzegom, Polen]"
+    "origin": "Striegau, Schlesien [Strzegom, Polen]"
   },
   "622": {
     "name": "Theodor Henninger",
@@ -3122,7 +3122,7 @@
     "sns": [
       1903.5
     ],
-    "origin": "Wien (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])"
+    "origin": "Wien, Österreich-Ungarn (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])"
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -3246,7 +3246,7 @@
       1885.5,
       1906.5
     ],
-    "origin": "Königsberg"
+    "origin": "Königsberg [Kaliningrad, Russland]"
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -3726,7 +3726,7 @@
     "sources": {
       "AV 1900.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
-    "origin": "Königsberg",
+    "origin": "Königsberg [Kaliningrad, Russland]",
     "sns": [
       1898.5,
       1900.0
@@ -3777,7 +3777,7 @@
     "sns": [
       1907.5
     ],
-    "origin": "Straßburg"
+    "origin": "Straßburg [Strasbourg, Frankreich]"
   },
   "562": {
     "name": "Paul Kaltenbach",
@@ -4121,7 +4121,7 @@
     "sns": [
       1887.4
     ],
-    "origin": "Danzig [Polen]"
+    "origin": "Danzig [Gdańsk, Polen]"
   },
   "97": {
     "name": "Johannes Klien",
@@ -4378,7 +4378,7 @@
       1896.0,
       1896.5
     ],
-    "origin": "Warschau"
+    "origin": "Warschau, Russland [Warszawa, Polen]"
   },
   "580": {
     "name": "Szánthó Kálmán??",
@@ -4405,7 +4405,7 @@
     "sns": [
       1906.5
     ],
-    "origin": "Budapast"
+    "origin": "Budapast, Österreich-Ungarn"
   },
   "917": {
     "name": "Robert König",
@@ -4467,7 +4467,7 @@
     "sources":{
       "KT S. 102": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B102%5D%7D"
     },
-    "origin": "Kulmbach",
+    "origin": "Kulmbach, Bayern",
     "sns": [
       1876.4
     ]
@@ -4533,7 +4533,7 @@
     "sns": [
       1908.0
     ],
-    "origin": "Warschau"
+    "origin": "Warschau, Russland [Warszawa, Polen]"
   },
   "968": {
     "name": "Ernst Lange",
@@ -4663,7 +4663,7 @@
     "sns": [
       1896.5
     ],
-    "origin": "Jena (geb. in Straßburg)"
+    "origin": "Jena (geb. in Straßburg [Strasbourg, Frankreich])"
   },
   "630": {
     "name": "Heinrich Liebmann",
@@ -4740,7 +4740,7 @@
       1894.5,
       1895.5
     ],
-    "origin": "Rawitsch [Rawicz, Polen]"
+    "origin": "Rawitsch, Posen [Rawicz, Polen]"
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -4790,7 +4790,7 @@
     "sns": [
       1900.5
     ],
-    "origin": "Breslau"
+    "origin": "Breslau [Wrocław, Polen]"
   },
   "399": {
     "name": "Wilhelm Luyken",
@@ -4923,7 +4923,7 @@
       1894.5,
       1895.0
     ],
-    "origin": "Cumberland, England"
+    "origin": "Cumberland, England, UK"
   },
   "810": {
     "name": "Erwin Madelung",
@@ -5044,7 +5044,7 @@
       1886.5,
       1887.4
     ],
-    "origin": "Breslau"
+    "origin": "Breslau [Wrocław, Polen]"
   },
   "657": {
     "name": "August Maurer",
@@ -5090,7 +5090,7 @@
     "sns": [
       1911.0
     ],
-    "origin": "Warschau"
+    "origin": "Warschau, Russland [Warszawa, Polen]"
   },
   "764": {
     "name": "Berta Meese",
@@ -5182,7 +5182,7 @@
     "sns": [
       1893.5
     ],
-    "origin": "Odessa, Großbr. [Kanada]"
+    "origin": "Odessa, Ontario, Kanada"
   },
   "502": {
     "name": "Carl Metzner",
@@ -5285,7 +5285,7 @@
     "sns": [
       1899.5
     ],
-    "origin": "Straßburg"
+    "origin": "Straßburg [Strasbourg, Frankreich]"
   },
   "162":{
     "name": "John Miller",
@@ -5470,7 +5470,7 @@
     "sns": [
       1899.5
     ],
-    "origin": "Stettin"
+    "origin": "Stettin, Pommern [Szczecin, Polen]"
   },
   "331": {
     "name": "Conrad Heinrich Müller",
@@ -5750,7 +5750,7 @@
     "sns": [
       1886.5
     ],
-    "origin": "Paris"
+    "origin": "Paris, Frankreich"
   },
   "579": {
     "name": "Anna Helene Palmié",
@@ -5919,7 +5919,7 @@
       "wiki-de": "https://de.wikipedia.org/wiki/Georg Pick (Mathematiker)",
       "wiki-en": "https://en.wikipedia.org/wiki/Georg Alexander Pick"
     },
-    "origin": "Wien",
+    "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1883.5,
       1884.0
@@ -5943,7 +5943,7 @@
     },
     "first": "Alfred",
     "last": "Pietzner",
-    "origin": "Liegnitz",
+    "origin": "Liegnitz, Schlesien [Legnica, Polen]",
     "sources": {
       "AV 1901.0 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1901_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
     },
@@ -5964,7 +5964,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "Warschau"
+    "origin": "Warschau, Russland [Warszawa, Polen]"
   },
   "905": {
     "name": "Johannes Pistel",
@@ -6048,7 +6048,7 @@
     "sns": [
       1899.0
     ],
-    "origin": "Prag"
+    "origin": "Prag, Österreich-Ungarn [Tschechien]"
   },
   "1193": {
     "name": "Hubert Post",
@@ -6183,7 +6183,7 @@
     },
     "first": "Eduard",
     "last": "Pulpe",
-    "origin": "Riga, Russland",
+    "origin": "Riga, Russland [Lettland]",
     "sources": {
       "AV 1908.0 S.68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B68%5D%7D"
     },
@@ -6555,7 +6555,7 @@
     "sns": [
       1911.5
     ],
-    "origin": "Wien"
+    "origin": "Wien, Österreich-Ungarn"
   },
   "944": {
     "name": "Iris Runge",
@@ -6712,7 +6712,7 @@
       1892.0,
       1893.0
     ],
-    "origin": " Tagelswangen bei Lindau, Schweiz"
+    "origin": "Tagelswangen bei Lindau, Schweiz"
   },
   "746": {
     "name": "Harald Schering",
@@ -6986,7 +6986,7 @@
     "sns": [
       1901.0
     ],
-    "origin": "Amsterdam"
+    "origin": "Amsterdam, Niederlande"
   },
   "357": {
     "name": "Max Schuhardt",
@@ -7061,7 +7061,7 @@
     },
     "first": "Eduard",
     "last": "Schweikert",
-    "origin": "M[önchen].-Gladbach",
+    "origin": "M.-Gladbach [Mönchengladbach]",
     "sources": {
       "AV 1900.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
@@ -7167,7 +7167,7 @@
     "sns": [
       1901.5
     ],
-    "origin": "Pößneck, Schlesien"
+    "origin": "Pößneck, Schlesien [Thüringen?]"
   },
   "384": {
     "name": "Friedrich Siebert",
@@ -7243,7 +7243,7 @@
     },
     "first": "Gustaf Robert",
     "last": "Snellman",
-    "origin": "Helsinki",
+    "origin": "Helsinki, Finnland",
     "sns": [
       1892.0
     ]
@@ -7301,7 +7301,7 @@
     "sns": [
       1894.5
     ],
-    "origin": "Königsberg"
+    "origin": "Königsberg [Kaliningrad, Russland]"
   },
   "952": {
     "name": "Otto Staude",
@@ -7339,7 +7339,7 @@
     },
     "first": "Fritz",
     "last": "Steckel",
-    "origin": "Marienburg, Westpreußen",
+    "origin": "Marienburg, Westpreußen [Malbork, Polen]",
     "sources": {
       "AV 1909.5 S.44": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B44%5D%7D",
       "Tobies 2021 S. 491f.n": ""
@@ -7427,7 +7427,7 @@
     "sns": [
       1898.5
     ],
-    "origin": "Königsberg"
+    "origin": "Königsberg [Kaliningrad, Russland]"
   },
   "535": {
     "name": "Friedrich Stöhr",
@@ -7466,7 +7466,7 @@
     "sources": {
       "AV 1906.5 S.69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
-    "origin": "Wien",
+    "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1906.5
     ]
@@ -7598,7 +7598,7 @@
     "sns": [
       1884.0
     ],
-    "origin": "Kiew"
+    "origin": "Kiew, Russland [Ukraine]"
   },
   "1097": {
     "name": "Wilhelm Tiedge",
@@ -7735,7 +7735,7 @@
       1906.5,
       1909.5
     ],
-    "origin": "Breslau"
+    "origin": "Breslau [Wrocław, Polen]"
   },
   "170":{
     "name": "Aisso Toxopeus",
@@ -7974,7 +7974,7 @@
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html",
       "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
-    "origin": "Prag",
+    "origin": "Prag, Österreich-Ungarn [Tschechien]",
     "sns": [
       1884.5,
       1885.0
@@ -8020,7 +8020,7 @@
     },
     "first": "J. H.",
     "last": "Walley",
-    "origin": "Gloucester, England",
+    "origin": "Gloucester, England, UK",
     "sources": {
       "AV 1897.5 S. 61": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B61%5D%7D"
     },
@@ -8167,7 +8167,7 @@
       1882.0,
       1882.5
     ],
-    "origin": "London, UK"
+    "origin": "London, England, UK"
   },
   "198": {
     "name": "Georg Weigand",
@@ -8225,7 +8225,7 @@
       "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss",
       "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
-    "origin": "Prag",
+    "origin": "Prag, Österreich-Ungarn [Tschechien]",
     "sns": [
       1884.5,
       1885.0
@@ -8436,7 +8436,7 @@
     "sns": [
       1894.0
     ],
-    "origin": "Sankow [Carlow], Meckl."
+    "origin": "Sankow [Carlow], Mecklenburg-Schwerin"
   },
   "662": {
     "name": "Fritz Wilde",
@@ -8665,7 +8665,7 @@
     "sns": [
       1899.5
     ],
-    "origin": "Tokio"
+    "origin": "Tokio, Japan"
   },
   "174": {
     "name": "Everett Irving Yowell",
@@ -8727,7 +8727,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Budapest (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])"
+    "origin": "Budapest, Österreich-Ungarn (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])"
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -8918,7 +8918,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Wien"
+    "origin": "Wien, Österreich-Ungarn"
   },
   "1052": {
     "name": "N. v. Zitowitsch",
@@ -9060,7 +9060,7 @@
     "sns": [
       1903.5
     ],
-    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz])"
+    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz]) [Strasbourg, Frankreich]"
   },
   "1187": {
     "name": "Wladimir von Philippow",
@@ -9141,6 +9141,6 @@
     "sns": [
       1891.0
     ],
-    "origin": "Warschau (geb. in Szczuki, Polen)"
+    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczuki, Polen)"
   }
 }
