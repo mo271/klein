@@ -960,12 +960,14 @@
     "last": "Braun",
     "sources":{
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7407",
-      "Tobies 2021": ""
+      "Tobies 2021": "",
+      "Verzeichnis der Erlanger Promotionen 1743 - 1885, S. 144": ""
     },
     "sns": [
       1873.5,
       1874.0
-    ]
+    ],
+    "origin": "Erlangen"
   },
   "267": {
     "name": "Wilhelm Bretschneider",
@@ -977,10 +979,15 @@
     },
     "first": "Wilhelm",
     "last": "Bretschneider",
+    "sources":{
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=100246",
+      "Verzeichnis der Erlanger Promotionen 1743 - 1885, S. 145": ""
+    },
     "sns": [
       1873.0,
       1873.5
-    ]
+    ],
+    "origin": "Paris, Frankreich"
   },
   "160": {
     "name": "Carl Brochmann",
