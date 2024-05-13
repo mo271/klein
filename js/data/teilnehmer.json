@@ -7550,13 +7550,14 @@
     "first": "Henry Dallas",
     "last": "Thompson",
     "sources":{
-      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7433"
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7433",
+      "American Colony of Göttingen": ""
     },
     "sns": [
       1887.5,
       1888.0
     ],
-    "origin": "USA"
+    "origin": "Berkeley, California, USA"
   },
   "315": {
     "name": "Paul Thormeyer",
@@ -8511,7 +8512,7 @@
     "sns":[
       1896.5
     ],
-    "origin": "St. Diego, Kalifornien, USA"
+    "origin": "St. Diego, California, USA"
   },
   "383": {
     "name": "Mary Frances Winston",
