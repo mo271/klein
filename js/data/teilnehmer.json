@@ -8944,17 +8944,18 @@
     "origin": "St. Petersburg?, Russland"
   },
   "291": {
-    "name": "Helene von Bortkewitsch",
+    "name": "Helene von Bortkewitsch [Helena Bortkiewicz]",
     "ids_to_signatures": {
       "623": "Helene v[on]. Bortkewitsch",
       "643": "Helene v[on]. Bortkewitsch"
     },
-    "first": "Helene",
-    "last": "von Bortkewitsch",
+    "first": "Helene [Helena]",
+    "last": "von Bortkewitsch [Bortkiewicz]",
     "sns": [
       1895.0,
       1895.5
-    ]
+    ],
+    "origin": "St. Petersburg, Russland"
   },
   "423": {
     "name": "Anton von Braunmühl",
@@ -8982,7 +8983,7 @@
       1878.0,
       1878.5
     ],
-    "origin": "Tiflis, Russland [Georgien]"
+    "origin": "geb. in Tiflis, Russland [Georgien]"
   },
   "1076": {
     "name": "Alexander [später: von] Brill",
@@ -9109,17 +9110,18 @@
     "origin": "Potsdam"
   },
   "307": {
-    "name": "Alexandra von Stebnitzky",
+    "name": "Alexandra von Stebnitzky [Aleksandra Stebnicka]",
     "ids_to_signatures": {
       "624": "Alexandra v[on]. Stebnitzky",
       "641": "Alexandra v[on]. Stebnitzky"
     },
-    "first": "Alexandra",
-    "last": "von Stebnitzky",
+    "first": "Alexandra [Aleksandra]",
+    "last": "von Stebnitzky [Stebnicka]",
     "sns": [
       1895.0,
       1895.5
-    ]
+    ],
+    "origin": "St. Petersburg, Russland (geb. in Tiflis, Russland [Georgien])"
   },
   "125": {
     "name": "Ludwig von Struve",
