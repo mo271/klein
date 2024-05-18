@@ -52,7 +52,11 @@
       1890.0,
       1892.0
     ],
-    "origin": "Höchst am Main [Frankfurt am Main]"
+    "origin": "Höchst am Main [Frankfurt am Main]",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "425": {
     "name": "Franz Adami",
@@ -85,7 +89,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Kiew, Russland [Ukraine]"
+    "origin": "Kiew, Russland [Ukraine]",
+    "pos": [
+      31.2718321,
+      49.4871968
+    ]
   },
   "651": {
     "name": "Michael Akimoff",
@@ -100,7 +108,11 @@
     "sns": [
       1906.0
     ],
-    "origin": "Kassimow, Gouvernement Rjasan, Russland"
+    "origin": "Kassimow, Gouvernement Rjasan, Russland",
+    "pos": [
+      41.39518,
+      54.939693
+    ]
   },
   "110": {
     "name": "Alekseyevsky",
@@ -127,6 +139,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      7.2536222,
+      50.6024988
     ]
   },
   "803": {
@@ -143,6 +159,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      10.5236066,
+      52.2646577
     ]
   },
   "647": {
@@ -158,7 +178,11 @@
     "sns": [
       1906.0
     ],
-    "origin": "Nieby, Schleswig-Holstein"
+    "origin": "Nieby, Schleswig-Holstein",
+    "pos": [
+      9.934754,
+      54.7723415
+    ]
   },
   "656": {
     "name": "Julius Amelung",
@@ -176,7 +200,11 @@
       1879.0,
       1879.5
     ],
-    "origin": "Dorpat, Russland [Tartu, Estland]"
+    "origin": "Dorpat, Russland [Tartu, Estland]",
+    "pos": [
+      26.72245,
+      58.3801207
+    ]
   },
   "196": {
     "name": "Adolf Ameseder",
@@ -203,7 +231,11 @@
     "sns": [
       1900.5
     ],
-    "origin": "Gotha"
+    "origin": "Gotha",
+    "pos": [
+      10.7014435,
+      50.9494849
+    ]
   },
   "1101": {
     "name": "L Anhenn",
@@ -225,7 +257,11 @@
       1895.5,
       1896.0
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "679": {
     "name": "August Ansel",
@@ -240,6 +276,10 @@
     },
     "sns": [
       1908.0
+    ],
+    "pos": [
+      9.1800132,
+      48.7784485
     ]
   },
   "166": {
@@ -257,6 +297,10 @@
     "sns": [
       1900.5,
       1901.5
+    ],
+    "pos": [
+      9.075962,
+      52.8398531
     ]
   },
   "1022": {
@@ -272,6 +316,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      13.3888599,
+      52.5170365
     ]
   },
   "818": {
@@ -289,6 +337,10 @@
     "origin": "Przemyśl, Österreich-Ungarn [Polen]",
     "sns": [
       1904.0
+    ],
+    "pos": [
+      19.134422,
+      52.215933
     ]
   },
   "339": {
@@ -307,7 +359,11 @@
       1875.5,
       1876.5
     ],
-    "origin": "Seligenstadt"
+    "origin": "Seligenstadt",
+    "pos": [
+      8.9755128,
+      50.0441737
+    ]
   },
   "745": {
     "name": "Erwin Backhaus",
@@ -322,7 +378,11 @@
     "sns": [
       1901.5
     ],
-    "origin": "Celle"
+    "origin": "Celle",
+    "pos": [
+      10.081052,
+      52.624056
+    ]
   },
   "495": {
     "name": "Heinrich Barkhausen",
@@ -342,7 +402,11 @@
       1904.5,
       1905.0
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "582": {
     "name": "Anton Baule",
@@ -394,7 +458,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Leer"
+    "origin": "Leer",
+    "pos": [
+      7.459463962492224,
+      53.20509275
+    ]
   },
   "796": {
     "name": "Theodor Bechen",
@@ -409,6 +477,10 @@
     },
     "sns": [
       1911.5
+    ],
+    "pos": [
+      6.7763137,
+      51.2254018
     ]
   },
   "1000": {
@@ -429,7 +501,11 @@
       1897.0,
       1897.5
     ],
-    "origin": "Wien, Österreich-Ungarn"
+    "origin": "Wien, Österreich-Ungarn",
+    "pos": [
+      16.3725042,
+      48.2083537
+    ]
   },
   "526": {
     "name": "Wilhelm Behrens",
@@ -448,7 +524,11 @@
       1909.0,
       1909.5
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "171": {
     "name": "L. Behse",
@@ -463,6 +543,10 @@
     },
     "sns": [
       1892.0
+    ],
+    "pos": [
+      11.002888241720438,
+      52.2089226
     ]
   },
   "964": {
@@ -481,7 +565,11 @@
     "sns": [
       1893.5
     ],
-    "origin": "Poppa, Österreich-Ungarn [Pápa, Ungarn]"
+    "origin": "Poppa, Österreich-Ungarn [Pápa, Ungarn]",
+    "pos": [
+      17.4705293,
+      47.3261087
+    ]
   },
   "474": {
     "name": "Torsten Ragnar Bendz",
@@ -496,7 +584,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "Mariestad, Schweden"
+    "origin": "Mariestad, Schweden",
+    "pos": [
+      13.8228754,
+      58.7093225
+    ]
   },
   "1103": {
     "name": "A[lfred] Benecke",
@@ -527,7 +619,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "981": {
     "name": "Felix Bernstein",
@@ -551,7 +647,11 @@
       1901.0,
       1909.5
     ],
-    "origin": "Halle (Saale)"
+    "origin": "Halle (Saale)",
+    "pos": [
+      11.9705452,
+      51.4825041
+    ]
   },
   "565": {
     "name": "Arthur Berry",
@@ -566,7 +666,11 @@
     "sns": [
       1887.4
     ],
-    "origin": "London, England, UK"
+    "origin": "London, England, UK",
+    "pos": [
+      -0.14405508452768728,
+      51.4893335
+    ]
   },
   "776": {
     "name": "Charles William Berry",
@@ -582,7 +686,11 @@
     "sns": [
       1897.0
     ],
-    "origin": "Somerville, Massachussets, USA (geb. in Charleston [Boston])"
+    "origin": "Somerville, Massachussets, USA (geb. in Charleston [Boston])",
+    "pos": [
+      -71.060511,
+      42.3554334
+    ]
   },
   "822": {
     "name": "Franz Bertheau",
@@ -601,7 +709,11 @@
       1890.0,
       1892.0
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "591": {
     "name": "Luigi Bianci",
@@ -625,7 +737,11 @@
       1879.5,
       1880.0
     ],
-    "origin": "Parma, Italien"
+    "origin": "Parma, Italien",
+    "pos": [
+      10.3280833,
+      44.8013678
+    ]
   },
   "382": {
     "name": "Friedrich Bidlingmaier",
@@ -642,6 +758,10 @@
     "origin": "Lauffen am Neckar",
     "sns": [
       1897.5
+    ],
+    "pos": [
+      9.154451,
+      49.0753911
     ]
   },
   "1141": {
@@ -680,6 +800,10 @@
     },
     "sns": [
       1905.0
+    ],
+    "pos": [
+      17.670899,
+      50.1505842
     ]
   },
   "277": {
@@ -697,7 +821,11 @@
       1901.5,
       1902.0
     ],
-    "origin": "Aachen"
+    "origin": "Aachen",
+    "pos": [
+      6.083862,
+      50.776351
+    ]
   },
   "488": {
     "name": "Edwin Mortimer Blake",
@@ -712,7 +840,11 @@
     "sns": [
       1896.0
     ],
-    "origin": "Brooklyn [New York], USA"
+    "origin": "Brooklyn [New York], USA",
+    "pos": [
+      -74.0060152,
+      40.7127281
+    ]
   },
   "1136": {
     "name": "Heinrich Blasius",
@@ -729,7 +861,11 @@
     "sns": [
       1907.5
     ],
-    "origin": "Berlin"
+    "origin": "Berlin",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "611": {
     "name": "K[?]. Blumenfeld",
@@ -744,6 +880,10 @@
     },
     "sns": [
       1892.0
+    ],
+    "pos": [
+      9.754828700068703,
+      51.5679522
     ]
   },
   "1200": {
@@ -763,7 +903,11 @@
       1896.5,
       1897.0
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "1184": {
     "name": "Karl Bobek",
@@ -781,6 +925,10 @@
     "sns": [
       1881.5,
       1882.0
+    ],
+    "pos": [
+      15.3381061,
+      49.7439047
     ]
   },
   "108": {
@@ -796,7 +944,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "405": {
     "name": "Paul Bode",
@@ -811,7 +963,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lehrte, Hannover"
+    "origin": "Lehrte, Hannover",
+    "pos": [
+      9.9748557,
+      52.3749334
+    ]
   },
   "738": {
     "name": "Hans Boegehold",
@@ -828,7 +984,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "Jena"
+    "origin": "Jena",
+    "pos": [
+      11.5879359,
+      50.9281717
+    ]
   },
   "322": {
     "name": "Oskar Bolza",
@@ -849,7 +1009,11 @@
       1886.5,
       1887.4
     ],
-    "origin": "Bergzabern, Bayerische Pfalz"
+    "origin": "Bergzabern, Bayerische Pfalz",
+    "pos": [
+      7.9991268,
+      49.1028075
+    ]
   },
   "356": {
     "name": "Max Born",
@@ -866,7 +1030,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Breslau [Wrocław, Polen]"
+    "origin": "Breslau [Wrocław, Polen]",
+    "pos": [
+      17.0326689,
+      51.1089776
+    ]
   },
   "1102": {
     "name": "Ferdiand Bornemann",
@@ -881,6 +1049,10 @@
     },
     "sns": [
       1902.0
+    ],
+    "pos": [
+      9.9351811,
+      51.5328328
     ]
   },
   "266": {
@@ -898,7 +1070,11 @@
     "sns": [
       1898.5
     ],
-    "origin": "Woonsocket, Rhode Island, USA"
+    "origin": "Woonsocket, Rhode Island, USA",
+    "pos": [
+      -71.5147839,
+      42.0028761
+    ]
   },
   "409": {
     "name": "Werner Boy",
@@ -916,7 +1092,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Barmen [Wuppertal]"
+    "origin": "Barmen [Wuppertal]",
+    "pos": [
+      7.1780374,
+      51.264018
+    ]
   },
   "349": {
     "name": "James Harrington Boyd",
@@ -933,7 +1113,11 @@
       1891.0,
       1892.5
     ],
-    "origin": "St. Paul, Minnesota, USA"
+    "origin": "St. Paul, Minnesota, USA",
+    "pos": [
+      -93.0931028,
+      44.9497487
+    ]
   },
   "789": {
     "name": "Friedrich Bradhering",
@@ -948,7 +1132,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Wustrow, Mecklenburg-Schwerin"
+    "origin": "Wustrow, Mecklenburg-Schwerin",
+    "pos": [
+      12.9698436,
+      53.2253478
+    ]
   },
   "1056": {
     "name": "Wilhelm Braun",
@@ -967,7 +1155,11 @@
       1873.5,
       1874.0
     ],
-    "origin": "Erlangen"
+    "origin": "Erlangen",
+    "pos": [
+      11.0056,
+      49.5928616
+    ]
   },
   "267": {
     "name": "Wilhelm Bretschneider",
@@ -987,7 +1179,11 @@
       1873.0,
       1873.5
     ],
-    "origin": "Paris, Frankreich"
+    "origin": "Paris, Frankreich",
+    "pos": [
+      2.3483915,
+      48.8534951
+    ]
   },
   "160": {
     "name": "Carl Brochmann",
@@ -1015,7 +1211,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Jägersburg, Brandenburg"
+    "origin": "Jägersburg, Brandenburg",
+    "pos": [
+      7.3232996,
+      49.3708834
+    ]
   },
   "68": {
     "name": "Margarete E. Brusster",
@@ -1030,7 +1230,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Philadelphia, Pennsylvania, USA"
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "pos": [
+      -75.1635262,
+      39.9527237
+    ]
   },
   "724": {
     "name": "Walther Brügmann",
@@ -1046,7 +1250,11 @@
     "sns": [
       1898.5
     ],
-    "origin": "Nusse [Schleswig-Holstein]"
+    "origin": "Nusse [Schleswig-Holstein]",
+    "pos": [
+      9.8220089,
+      54.1853998
+    ]
   },
   "1167": {
     "name": "Hermann Brühl",
@@ -1061,6 +1269,10 @@
     },
     "sns": [
       1911.0
+    ],
+    "pos": [
+      9.9351811,
+      51.5328328
     ]
   },
   "69": {
@@ -1080,7 +1292,11 @@
       1881.0,
       1881.5
     ],
-    "origin": "London(?), UK"
+    "origin": "London(?), UK",
+    "pos": [
+      -0.14405508452768728,
+      51.4893335
+    ]
   },
   "259": {
     "name": "Heinrich Burkhardt",
@@ -1116,7 +1332,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Luzern, Schweiz"
+    "origin": "Luzern, Schweiz",
+    "pos": [
+      8.3054682,
+      47.0505452
+    ]
   },
   "904": {
     "name": "Carl Georg Theodor Buschbaum",
@@ -1131,7 +1351,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Lüneburg"
+    "origin": "Lüneburg",
+    "pos": [
+      10.407855,
+      53.248706
+    ]
   },
   "1013": {
     "name": "Maxime Bôcher",
@@ -1155,7 +1379,11 @@
       1890.0,
       1891.0
     ],
-    "origin": "Boston, Massachusetts, USA"
+    "origin": "Boston, Massachusetts, USA",
+    "pos": [
+      -71.060511,
+      42.3554334
+    ]
   },
   "628": {
     "name": "Paul Böhmer",
@@ -1170,7 +1398,11 @@
     "sns": [
       1900.5
     ],
-    "origin": "Marienwerder"
+    "origin": "Marienwerder",
+    "pos": [
+      18.937464130662192,
+      53.7204653
+    ]
   },
   "473": {
     "name": "Richard Börnstein",
@@ -1187,7 +1419,11 @@
     "sns": [
       1872.0
     ],
-    "origin": "Königsberg [Kaliningrad, Russland]"
+    "origin": "Königsberg [Kaliningrad, Russland]",
+    "pos": [
+      20.456566646621738,
+      54.70464845
+    ]
   },
   "1142": {
     "name": "Adolf Böttger",
@@ -1220,7 +1456,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "378": {
     "name": "Oskar Bürgener",
@@ -1236,6 +1476,10 @@
     },
     "sns": [
       1898.0
+    ],
+    "pos": [
+      9.2417601,
+      52.150773
     ]
   },
   "467": {
@@ -1251,7 +1495,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Halberstadt"
+    "origin": "Halberstadt",
+    "pos": [
+      11.0520563,
+      51.8953514
+    ]
   },
   "153": {
     "name": "A. E. Burnham",
@@ -1265,7 +1513,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Russel, USA"
+    "origin": "Russel, USA",
+    "pos": [
+      -89.979615,
+      36.663989
+    ]
   },
   "705": {
     "name": "Geo. Büttner",
@@ -1300,7 +1552,11 @@
       1881.5,
       1882.0
     ],
-    "origin": "Elbing [Elbląg, Polen]"
+    "origin": "Elbing [Elbląg, Polen]",
+    "pos": [
+      19.44108568736702,
+      54.1988997
+    ]
   },
   "1113": {
     "name": "George Ashley Campbell",
@@ -1319,7 +1575,11 @@
       1893.5,
       1894.0
     ],
-    "origin": "Derry, USA (geb. in Hastings, Minnesota, USA)"
+    "origin": "Derry, USA (geb. in Hastings, Minnesota, USA)",
+    "pos": [
+      -7.3213056,
+      54.9978678
+    ]
   },
   "135": {
     "name": "Athanasios Carajianides [Karagiannides]",
@@ -1334,6 +1594,10 @@
     "origin": "Athen, Griechenland",
     "sns": [
       1891.0
+    ],
+    "pos": [
+      23.7348324,
+      37.9755648
     ]
   },
   "664": {
@@ -1354,7 +1618,11 @@
       1902.0,
       1904.0
     ],
-    "origin": "Brüssel, Belgien (geb. in Berlin)"
+    "origin": "Brüssel, Belgien (geb. in Berlin)",
+    "pos": [
+      4.3512333761166175,
+      50.8550018
+    ]
   },
   "168": {
     "name": "Horatio Scott Carslaw",
@@ -1387,7 +1655,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Lausanne, Schweiz"
+    "origin": "Lausanne, Schweiz",
+    "pos": [
+      6.6327025,
+      46.5218269
+    ]
   },
   "163": {
     "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
@@ -1406,6 +1678,10 @@
     "sns": [
       1898.0,
       1899.0
+    ],
+    "pos": [
+      23.7348324,
+      37.9755648
     ]
   },
   "1045": {
@@ -1427,7 +1703,11 @@
       1894.0,
       1897.5
     ],
-    "origin": "Haslemere, England, UK"
+    "origin": "Haslemere, England, UK",
+    "pos": [
+      -0.7097768,
+      51.0876062
+    ]
   },
   "128": {
     "name": "Frank Nelson Cole",
@@ -1445,7 +1725,11 @@
       1885.0,
       1887.0
     ],
-    "origin": "Ashland, Massachusetts, USA"
+    "origin": "Ashland, Massachusetts, USA",
+    "pos": [
+      -71.4641337,
+      42.2606614
+    ]
   },
   "603": {
     "name": "Adam Comstock",
@@ -1462,7 +1746,11 @@
       1896.5,
       1897.0
     ],
-    "origin": "Madison, Wisconsin, USA"
+    "origin": "Madison, Wisconsin, USA",
+    "pos": [
+      -89.3837613,
+      43.074761
+    ]
   },
   "131": {
     "name": "N. Cór(?)",
@@ -1490,6 +1778,10 @@
     },
     "sns": [
       1903.5
+    ],
+    "pos": [
+      9.9865371,
+      51.7031949
     ]
   },
   "123": {
@@ -1505,7 +1797,11 @@
     "sns": [
       1884.5
     ],
-    "origin": "München"
+    "origin": "München",
+    "pos": [
+      11.5753822,
+      48.1371079
+    ]
   },
   "321": {
     "name": "Charles Emerson Curry",
@@ -1520,7 +1816,11 @@
     "sns": [
       1890.0
     ],
-    "origin": "Boston, Massachusetts, USA"
+    "origin": "Boston, Massachusetts, USA",
+    "pos": [
+      -71.060511,
+      42.3554334
+    ]
   },
   "617": {
     "name": "G. Dane",
@@ -1547,6 +1847,10 @@
     "origin": "Löwen, Belgien",
     "sns": [
       1909.5
+    ],
+    "pos": [
+      4.7011675,
+      50.879202
     ]
   },
   "149": {
@@ -1580,7 +1884,11 @@
       1898.0,
       1898.5
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "712": {
     "name": "Johannes Denker",
@@ -1595,6 +1903,10 @@
     },
     "sns": [
       1902.0
+    ],
+    "pos": [
+      10.081052,
+      52.624056
     ]
   },
   "1110": {
@@ -1613,7 +1925,11 @@
       1881.5,
       1885.0
     ],
-    "origin": "Darmstadt"
+    "origin": "Darmstadt",
+    "pos": [
+      8.6736295,
+      49.8851869
+    ]
   },
   "118": {
     "name": "Paul Domsch",
@@ -1634,7 +1950,11 @@
       1883.5,
       1884.0
     ],
-    "origin": "Zittau"
+    "origin": "Zittau",
+    "pos": [
+      14.8064807,
+      50.8960964
+    ]
   },
   "894": {
     "name": "Heinrich Dreßler [Dressler]",
@@ -1666,7 +1986,11 @@
       1904.0,
       1905.0
     ],
-    "origin": "Ballenstedt"
+    "origin": "Ballenstedt",
+    "pos": [
+      11.2290268,
+      51.722527
+    ]
   },
   "639": {
     "name": "Wacław Michał Dziewulski",
@@ -1681,7 +2005,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen]"
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   },
   "57": {
     "name": "Henri Heinrich Dörrie",
@@ -1703,7 +2031,11 @@
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7301",
       "P Bd. 13 S. 314ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p314_normal.jpg"
     },
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "1119": {
     "name": "Joh. Ehlers",
@@ -1724,7 +2056,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "47": {
     "name": "Paul Ehrenfest",
@@ -1742,7 +2078,11 @@
       1901.5,
       1902.5
     ],
-    "origin": "Wien, Österreich-Ungarn"
+    "origin": "Wien, Österreich-Ungarn",
+    "pos": [
+      16.3725042,
+      48.2083537
+    ]
   },
   "503": {
     "name": "Friedrich Engel",
@@ -1758,7 +2098,11 @@
     "sns": [
       1884.0
     ],
-    "origin": "Lugau, Sachsen"
+    "origin": "Lugau, Sachsen",
+    "pos": [
+      12.7520515,
+      50.7579779
+    ]
   },
   "481": {
     "name": "Paul Epstein",
@@ -1778,7 +2122,11 @@
       1892.0,
       1892.5
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "419": {
     "name": "Christoph Ernst",
@@ -1808,7 +2156,11 @@
     "sns": [
       1909.5
     ],
-    "origin": "Brüssel, Belgien"
+    "origin": "Brüssel, Belgien",
+    "pos": [
+      4.351697,
+      50.8465573
+    ]
   },
   "251": {
     "name": "Georg Faber",
@@ -1824,6 +2176,10 @@
     },
     "sns": [
       1900.5
+    ],
+    "pos": [
+      11.5753822,
+      48.1371079
     ]
   },
   "1004": {
@@ -1844,7 +2200,11 @@
       1893.5,
       1894.0
     ],
-    "origin": "Mantua [Mantova], Italien"
+    "origin": "Mantua [Mantova], Italien",
+    "pos": [
+      10.670836515673878,
+      45.1692628
+    ]
   },
   "675": {
     "name": "Ernst Fanta",
@@ -1859,6 +2219,10 @@
     "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1901.5
+    ],
+    "pos": [
+      16.3725042,
+      48.2083537
     ]
   },
   "199": {
@@ -1875,6 +2239,10 @@
     "origin": "Warschau, Russland [Warszawa, Polen]",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      21.071432235636493,
+      52.2337172
     ]
   },
   "81": {
@@ -1910,7 +2278,11 @@
     "sns": [
       1908.5
     ],
-    "origin": "Mitchell, Iowa, USA"
+    "origin": "Mitchell, Iowa, USA",
+    "pos": [
+      -92.7840209,
+      43.342033
+    ]
   },
   "150": {
     "name": "John Charles Fields",
@@ -1926,7 +2298,11 @@
     "sns": [
       1894.5
     ],
-    "origin": "Hamilton, Ontario, Kanada"
+    "origin": "Hamilton, Ontario, Kanada",
+    "pos": [
+      -79.8728583,
+      43.2560802
+    ]
   },
   "129": {
     "name": "Henry Burchard Fine",
@@ -1963,6 +2339,10 @@
     "sns": [
       1876.4,
       1876.5
+    ],
+    "pos": [
+      11.0056,
+      49.5928616
     ]
   },
   "911": {
@@ -1999,6 +2379,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      8.9283482,
+      53.2230018
     ]
   },
   "533": {
@@ -2025,6 +2409,10 @@
     },
     "sns": [
       1902.5
+    ],
+    "pos": [
+      16.3725042,
+      48.2083537
     ]
   },
   "534": {
@@ -2041,7 +2429,11 @@
     "sns": [
       1875.0
     ],
-    "origin": "Rendsburg, Schleswig-Holstein"
+    "origin": "Rendsburg, Schleswig-Holstein",
+    "pos": [
+      9.6516356,
+      54.3000225
+    ]
   },
   "770": {
     "name": "W. Freise",
@@ -2056,7 +2448,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "pos": [
+      9.9351811,
+      51.5328328
+    ]
   },
   "245": {
     "name": "Erwin Freundlich [Finlay-Freundlich]",
@@ -2077,7 +2473,11 @@
     "sns": [
       1909.5
     ],
-    "origin": "Biebrich [Wiesbaden]"
+    "origin": "Biebrich [Wiesbaden]",
+    "pos": [
+      8.2416556,
+      50.0820384
+    ]
   },
   "374": {
     "name": "Hermann Fricke",
@@ -2095,6 +2495,10 @@
     "origin": "Goslar",
     "sns": [
       1898.0
+    ],
+    "pos": [
+      10.4266284,
+      51.9059936
     ]
   },
   "1080": {
@@ -2117,7 +2521,11 @@
       1884.5,
       1885.0
     ],
-    "origin": "Helmstedt, Braunschweig"
+    "origin": "Helmstedt, Braunschweig",
+    "pos": [
+      10.8926011,
+      52.1247218
+    ]
   },
   "380": {
     "name": "Georg Friedrich",
@@ -2157,7 +2565,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Minsk, Russland [Belarus]"
+    "origin": "Minsk, Russland [Belarus]",
+    "pos": [
+      27.6971358,
+      53.4250605
+    ]
   },
   "527": {
     "name": "Richard Frobese",
@@ -2172,7 +2584,11 @@
     "sns": [
       1905.0
     ],
-    "origin": "Berel, Braunschwein"
+    "origin": "Berel, Braunschwein",
+    "pos": [
+      10.2176555,
+      52.1646173
+    ]
   },
   "816": {
     "name": "Rudolf Fueter",
@@ -2190,7 +2606,11 @@
     "sns": [
       1902.0
     ],
-    "origin": "Basel, Schweiz"
+    "origin": "Basel, Schweiz",
+    "pos": [
+      7.5878261,
+      47.5581077
+    ]
   },
   "853": {
     "name": "Georg Fuhrmann",
@@ -2205,7 +2625,11 @@
     "sns": [
       1907.5
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "66": {
     "name": "Otto Fulst",
@@ -2221,7 +2645,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Linden, Hannover"
+    "origin": "Linden, Hannover",
+    "pos": [
+      9.695234673382409,
+      52.36167845
+    ]
   },
   "626": {
     "name": "Paul Funk",
@@ -2237,6 +2665,10 @@
     "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1911.5
+    ],
+    "pos": [
+      16.3725042,
+      48.2083537
     ]
   },
   "342": {
@@ -2260,7 +2692,11 @@
       1892.5,
       1893.5
     ],
-    "origin": "Elze"
+    "origin": "Elze",
+    "pos": [
+      9.7386084,
+      52.1187857
+    ]
   },
   "312": {
     "name": "Ludwig Föppl",
@@ -2282,7 +2718,11 @@
     "sns": [
       1908.5
     ],
-    "origin": "München"
+    "origin": "München",
+    "pos": [
+      11.5753822,
+      48.1371079
+    ]
   },
   "1159": {
     "name": "Erwin Geck",
@@ -2299,7 +2739,11 @@
       1902.5,
       1903.0
     ],
-    "origin": "Stuttgart"
+    "origin": "Stuttgart",
+    "pos": [
+      9.1800132,
+      48.7784485
+    ]
   },
   "753": {
     "name": "Alfred Gehring",
@@ -2331,7 +2775,11 @@
     "sns": [
       1908.0
     ],
-    "origin": "Basel, Schweiz"
+    "origin": "Basel, Schweiz",
+    "pos": [
+      7.5878261,
+      47.5581077
+    ]
   },
   "1026": {
     "name": "Georges Brunel",
@@ -2350,6 +2798,10 @@
     "sns": [
       1880.5,
       1881.0
+    ],
+    "pos": [
+      1.8337029,
+      50.1060835
     ]
   },
   "950": {
@@ -2367,7 +2819,11 @@
     "sns": [
       1883.0
     ],
-    "origin": "La Spezia, Italien"
+    "origin": "La Spezia, Italien",
+    "pos": [
+      9.691232634547537,
+      44.23836595
+    ]
   },
   "718": {
     "name": "Nadezhda [Nadeschda] Nikolaevna [Nikolajewna] Gernet [Gernett]",
@@ -2384,7 +2840,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "Simbirsk, Russland"
+    "origin": "Simbirsk, Russland",
+    "pos": [
+      48.38341656199037,
+      54.3413021
+    ]
   },
   "1100": {
     "name": "Gustav Gersting",
@@ -2419,7 +2879,11 @@
       1902.5,
       1903.5
     ],
-    "origin": "Barmen [Wuppertal]"
+    "origin": "Barmen [Wuppertal]",
+    "pos": [
+      7.1780374,
+      51.264018
+    ]
   },
   "238": {
     "name": "Joseph Gierster",
@@ -2450,7 +2914,11 @@
       1878.5,
       1879.0
     ],
-    "origin": "Haibach, Bayern"
+    "origin": "Haibach, Bayern",
+    "pos": [
+      9.2005109,
+      49.9667881
+    ]
   },
   "5": {
     "name": "Wilhelm Giesing",
@@ -2465,7 +2933,11 @@
     "sns": [
       1902.0
     ],
-    "origin": "Aspel(?)"
+    "origin": "Aspel(?)",
+    "pos": [
+      -86.1655374,
+      34.6209198
+    ]
   },
   "138": {
     "name": "Glaser",
@@ -2493,7 +2965,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Soest"
+    "origin": "Soest",
+    "pos": [
+      8.1061259,
+      51.5725501
+    ]
   },
   "1123": {
     "name": "Wilhelm Godt",
@@ -2521,6 +2997,10 @@
     },
     "sns": [
       1906.0
+    ],
+    "pos": [
+      19.134422,
+      52.215933
     ]
   },
   "634": {
@@ -2537,7 +3017,11 @@
     "sns": [
       1874.5
     ],
-    "origin": "Breslau [Wrocław, Polen]"
+    "origin": "Breslau [Wrocław, Polen]",
+    "pos": [
+      17.0326689,
+      51.1089776
+    ]
   },
   "148": {
     "name": "Adolf Gottschalk",
@@ -2552,7 +3036,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Soest"
+    "origin": "Soest",
+    "pos": [
+      8.1061259,
+      51.5725501
+    ]
   },
   "829": {
     "name": "Franz Graf",
@@ -2571,6 +3059,10 @@
     "sns": [
       1906.0,
       1906.5
+    ],
+    "pos": [
+      15.3381061,
+      49.7439047
     ]
   },
   "262": {
@@ -2586,7 +3078,11 @@
     "sns": [
       1898.0
     ],
-    "origin": "Mannheim"
+    "origin": "Mannheim",
+    "pos": [
+      8.4673098,
+      49.4892913
+    ]
   },
   "224": {
     "name": "Walther Greve",
@@ -2603,7 +3099,11 @@
       1899.5,
       1900.5
     ],
-    "origin": "Zerbst [Anhalt]"
+    "origin": "Zerbst [Anhalt]",
+    "pos": [
+      -98.475574,
+      29.7941091
+    ]
   },
   "130": {
     "name": "Julius Greßler",
@@ -2619,7 +3119,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Barmen [Wuppertal]"
+    "origin": "Barmen [Wuppertal]",
+    "pos": [
+      7.1780374,
+      51.264018
+    ]
   },
   "158": {
     "name": "W. Grobler",
@@ -2633,7 +3137,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Magdeburg"
+    "origin": "Magdeburg",
+    "pos": [
+      11.6399609,
+      52.1315889
+    ]
   },
   "204": {
     "name": "August Grossmann",
@@ -2648,6 +3156,10 @@
     },
     "sns": [
       1904.0
+    ],
+    "pos": [
+      10.000654,
+      53.550341
     ]
   },
   "824": {
@@ -2664,7 +3176,11 @@
     "sns": [
       1890.0
     ],
-    "origin": "Rotenburg (Wümme)"
+    "origin": "Rotenburg (Wümme)",
+    "pos": [
+      9.4049292,
+      53.1108906
+    ]
   },
   "957": {
     "name": "Joseph Grünwald",
@@ -2680,6 +3196,10 @@
     "origin": "Prag, Österreich-Ungarn [Tschechien]",
     "sns": [
       1899.5
+    ],
+    "pos": [
+      15.3381061,
+      49.7439047
     ]
   },
   "127": {
@@ -2719,7 +3239,11 @@
       1873.0,
       1873.5
     ],
-    "origin": "Nürnberg"
+    "origin": "Nürnberg",
+    "pos": [
+      11.077298,
+      49.453872
+    ]
   },
   "1165": {
     "name": "Alfréd Haar",
@@ -2742,7 +3266,11 @@
       1906.5,
       1909.0
     ],
-    "origin": "Budapest, Österreich-Ungarn"
+    "origin": "Budapest, Österreich-Ungarn",
+    "pos": [
+      19.0402383,
+      47.4978789
+    ]
   },
   "15": {
     "name": "Arthur Erich Haas",
@@ -2762,7 +3290,11 @@
       1904.5,
       1905.0
     ],
-    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]",
+    "pos": [
+      16.6113382,
+      49.1922443
+    ]
   },
   "124": {
     "name": "Hans Hahn",
@@ -2779,7 +3311,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Wien, Österreich-Ungarn"
+    "origin": "Wien, Österreich-Ungarn",
+    "pos": [
+      16.3725042,
+      48.2083537
+    ]
   },
   "619": {
     "name": "Georg Hamel",
@@ -2797,6 +3333,10 @@
     "sns": [
       1900.0,
       1900.5
+    ],
+    "pos": [
+      6.4820806,
+      50.8031684
     ]
   },
   "344": {
@@ -2812,7 +3352,11 @@
     "sns": [
       1905.0
     ],
-    "origin": "Geismar, Hannover [Göttingen]"
+    "origin": "Geismar, Hannover [Göttingen]",
+    "pos": [
+      9.9351811,
+      51.5328328
+    ]
   },
   "525": {
     "name": "Rudolph Hansen",
@@ -2830,7 +3374,11 @@
       1899.5,
       1901.0
     ],
-    "origin": "Glückstadt"
+    "origin": "Glückstadt",
+    "pos": [
+      9.4238157,
+      53.787927
+    ]
   },
   "360": {
     "name": "Hans Happel",
@@ -2847,7 +3395,11 @@
       1898.0,
       1899.0
     ],
-    "origin": "Kassel"
+    "origin": "Kassel",
+    "pos": [
+      9.4924096,
+      51.3154546
+    ]
   },
   "1015": {
     "name": "Axel Harnack",
@@ -2879,7 +3431,11 @@
       1874.5,
       1875.0
     ],
-    "origin": "Dorpat, Russland [Tartu, Estland]"
+    "origin": "Dorpat, Russland [Tartu, Estland]",
+    "pos": [
+      26.72245,
+      58.3801207
+    ]
   },
   "654": {
     "name": "Roderich Hartenstein",
@@ -2896,7 +3452,11 @@
       1904.5,
       1905.0
     ],
-    "origin": "Essen"
+    "origin": "Essen",
+    "pos": [
+      7.0158171,
+      51.4582235
+    ]
   },
   "928": {
     "name": "Chr Hartmann",
@@ -2928,7 +3488,11 @@
       1899.5,
       1900.0
     ],
-    "origin": "Großhausen"
+    "origin": "Großhausen",
+    "pos": [
+      8.5466579,
+      49.675671
+    ]
   },
   "892": {
     "name": "Julius Hartung",
@@ -2943,6 +3507,10 @@
     },
     "sns": [
       1902.5
+    ],
+    "pos": [
+      9.5742323,
+      52.6449794
     ]
   },
   "126": {
@@ -2969,7 +3537,11 @@
       1888.0,
       1888.5
     ],
-    "origin": "Boston, Massachusetts, USA"
+    "origin": "Boston, Massachusetts, USA",
+    "pos": [
+      -71.060511,
+      42.3554334
+    ]
   },
   "729": {
     "name": "Karl Hass",
@@ -2984,7 +3556,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Duisburg"
+    "origin": "Duisburg",
+    "pos": [
+      6.759562,
+      51.434999
+    ]
   },
   "323": {
     "name": "Robert Haussner",
@@ -3012,7 +3588,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Dresden (geb. in Auerbach [Zwickau])"
+    "origin": "Dresden (geb. in Auerbach [Zwickau])",
+    "pos": [
+      12.4939267,
+      50.7185043
+    ]
   },
   "413": {
     "name": "Wilhelm Hecht",
@@ -3045,7 +3625,11 @@
     "sns": [
       1894.0
     ],
-    "origin": "Kopenhagen, Dänemark"
+    "origin": "Kopenhagen, Dänemark",
+    "pos": [
+      12.5700724,
+      55.6867243
+    ]
   },
   "314": {
     "name": "Fritz Heiligenpahl",
@@ -3060,7 +3644,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Dortmund"
+    "origin": "Dortmund",
+    "pos": [
+      7.4652789,
+      51.5142273
+    ]
   },
   "893": {
     "name": "Käthe Heinemann",
@@ -3078,7 +3666,11 @@
       1910.5,
       1911.5
     ],
-    "origin": "Kassel"
+    "origin": "Kassel",
+    "pos": [
+      9.4924096,
+      51.3154546
+    ]
   },
   "290": {
     "name": "Ernst Hellinger",
@@ -3099,7 +3691,11 @@
       1906.5,
       1907.5
     ],
-    "origin": "Striegau, Schlesien [Strzegom, Polen]"
+    "origin": "Striegau, Schlesien [Strzegom, Polen]",
+    "pos": [
+      16.3462134,
+      50.9601066
+    ]
   },
   "622": {
     "name": "Theodor Henninger",
@@ -3114,6 +3710,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      7.466302,
+      50.4302393
     ]
   },
   "545": {
@@ -3131,7 +3731,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Wien, Österreich-Ungarn (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])"
+    "origin": "Wien, Österreich-Ungarn (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])",
+    "pos": [
+      13.8883971,
+      48.9095977
+    ]
   },
   "465": {
     "name": "Oskar Herrmann",
@@ -3167,6 +3771,10 @@
     "sns": [
       1885.0,
       1885.5
+    ],
+    "pos": [
+      8.066278,
+      48.9273858
     ]
   },
   "620": {
@@ -3202,7 +3810,11 @@
       1878.5,
       1879.0
     ],
-    "origin": "Aschaffenburg"
+    "origin": "Aschaffenburg",
+    "pos": [
+      9.1493636,
+      49.9740542
+    ]
   },
   "594": {
     "name": "Karl Hiemenz",
@@ -3219,7 +3831,11 @@
       1905.0,
       1907.5
     ],
-    "origin": "Darmstadt"
+    "origin": "Darmstadt",
+    "pos": [
+      8.6736295,
+      49.8851869
+    ]
   },
   "878": {
     "name": "Emil Hilb",
@@ -3236,7 +3852,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "Augsburg (geb. in Stuttgart)"
+    "origin": "Augsburg (geb. in Stuttgart)",
+    "pos": [
+      10.8979522,
+      48.3690341
+    ]
   },
   "142": {
     "name": "David Hilbert",
@@ -3255,7 +3875,11 @@
       1885.5,
       1906.5
     ],
-    "origin": "Königsberg [Kaliningrad, Russland]"
+    "origin": "Königsberg [Kaliningrad, Russland]",
+    "pos": [
+      20.456566646621738,
+      54.70464845
+    ]
   },
   "521": {
     "name": "Rudolf Hildebrand",
@@ -3285,7 +3909,11 @@
     "sns": [
       1892.0
     ],
-    "origin": "Süpplingen, Braunschweig"
+    "origin": "Süpplingen, Braunschweig",
+    "pos": [
+      10.9040619,
+      52.2271049
+    ]
   },
   "903": {
     "name": "Alexander Leonard Hjelmann",
@@ -3300,7 +3928,11 @@
     "sns": [
       1897.5
     ],
-    "origin": "Helsinfors [Helsinki, Finnland]"
+    "origin": "Helsinfors [Helsinki, Finnland]",
+    "pos": [
+      24.9427473,
+      60.1674881
+    ]
   },
   "874": {
     "name": "Heinrich Hochschild",
@@ -3331,6 +3963,10 @@
     "sns": [
       1902.0,
       1902.5
+    ],
+    "pos": [
+      10.684738,
+      53.866444
     ]
   },
   "1025": {
@@ -3356,7 +3992,11 @@
       1874.5,
       1875.0
     ],
-    "origin": "Drammen, Buskerud, Norwegen"
+    "origin": "Drammen, Buskerud, Norwegen",
+    "pos": [
+      10.175641950012762,
+      59.6964936
+    ]
   },
   "888": {
     "name": "Paul Holtzhüter",
@@ -3371,6 +4011,10 @@
     },
     "sns": [
       1904.0
+    ],
+    "pos": [
+      13.3888599,
+      52.5170365
     ]
   },
   "779": {
@@ -3386,7 +4030,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Ulm"
+    "origin": "Ulm",
+    "pos": [
+      9.9931893,
+      48.3966578
+    ]
   },
   "1028": {
     "name": "Stanko Hondl",
@@ -3404,6 +4052,10 @@
     },
     "sns": [
       1900.0
+    ],
+    "pos": [
+      15.962231476593626,
+      45.84264135
     ]
   },
   "141": {
@@ -3422,6 +4074,10 @@
     "sns": [
       1881.5,
       1882.0
+    ],
+    "pos": [
+      12.918914,
+      50.8323531
     ]
   },
   "444": {
@@ -3440,6 +4096,10 @@
     "sns": [
       1896.5,
       1897.0
+    ],
+    "pos": [
+      8.2416556,
+      50.0820384
     ]
   },
   "1174": {
@@ -3453,7 +4113,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Madelungen bei Eisenach"
+    "origin": "Madelungen bei Eisenach",
+    "pos": [
+      10.3193565,
+      50.9747134
+    ]
   },
   "936": {
     "name": "Wilhelm Hort",
@@ -3471,7 +4135,11 @@
       1902.5,
       1903.0
     ],
-    "origin": "Madelungen bei Eisenach"
+    "origin": "Madelungen bei Eisenach",
+    "pos": [
+      10.3193565,
+      50.9747134
+    ]
   },
   "536": {
     "name": "G? Huber?",
@@ -3499,7 +4167,11 @@
     "sns": [
       1890.0
     ],
-    "origin": "Vermillion, South Dakota, USA"
+    "origin": "Vermillion, South Dakota, USA",
+    "pos": [
+      -96.929101,
+      42.7795273
+    ]
   },
   "358": {
     "name": "A? Humbert?",
@@ -3539,7 +4211,11 @@
       1880.5,
       1881.0
     ],
-    "origin": "Hildesheim"
+    "origin": "Hildesheim",
+    "pos": [
+      9.9513046,
+      52.1521636
+    ]
   },
   "486": {
     "name": "Ludwig [Louis?] Hänert",
@@ -3554,7 +4230,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Sangerhausen(?)"
+    "origin": "Sangerhausen(?)",
+    "pos": [
+      11.2981851,
+      51.4729797
+    ]
   },
   "969": {
     "name": "Walter Härter",
@@ -3570,6 +4250,10 @@
     },
     "sns": [
       1910.5
+    ],
+    "pos": [
+      9.268355,
+      50.7523545
     ]
   },
   "1024": {
@@ -3585,7 +4269,11 @@
     "sns": [
       1912.0
     ],
-    "origin": "Jyväskylä, Finnland"
+    "origin": "Jyväskylä, Finnland",
+    "pos": [
+      25.7495727,
+      62.2417066
+    ]
   },
   "455": {
     "name": "Georg Höckner",
@@ -3616,7 +4304,11 @@
     "sns": [
       1884.0
     ],
-    "origin": "Stuttgart"
+    "origin": "Stuttgart",
+    "pos": [
+      9.1800132,
+      48.7784485
+    ]
   },
   "402": {
     "name": "Augustin Hölscher",
@@ -3632,6 +4324,10 @@
     },
     "sns": [
       1892.0
+    ],
+    "pos": [
+      10.5638603,
+      51.9015027
     ]
   },
   "300": {
@@ -3650,7 +4346,11 @@
       1906.0,
       1906.5
     ],
-    "origin": "Oschersleben (Bode)"
+    "origin": "Oschersleben (Bode)",
+    "pos": [
+      11.227781,
+      52.0266526
+    ]
   },
   "566": {
     "name": "Charles Jaccottet",
@@ -3674,7 +4374,11 @@
       1899.5,
       1900.0
     ],
-    "origin": "Echallens, Schweiz"
+    "origin": "Echallens, Schweiz",
+    "pos": [
+      6.6346951,
+      46.6381163
+    ]
   },
   "1044": {
     "name": "Karl Janke",
@@ -3689,6 +4393,10 @@
     },
     "sns": [
       1908.5
+    ],
+    "pos": [
+      11.4148038,
+      53.6288297
     ]
   },
   "963": {
@@ -3704,7 +4412,11 @@
     "sns": [
       1901.0
     ],
-    "origin": "Meiningen, Thüringen"
+    "origin": "Meiningen, Thüringen",
+    "pos": [
+      10.4153029,
+      50.56761
+    ]
   },
   "719": {
     "name": "Ada Maria Jane Elizabeth Johnson",
@@ -3723,7 +4435,11 @@
       1895.5,
       1896.0
     ],
-    "origin": "Newnham College, Camdridge, UK"
+    "origin": "Newnham College, Camdridge, UK",
+    "pos": [
+      0.10771539131445149,
+      52.1995326
+    ]
   },
   "164": {
     "name": "Hans Jordan",
@@ -3740,6 +4456,10 @@
     "sns": [
       1898.5,
       1900.0
+    ],
+    "pos": [
+      20.456566646621738,
+      54.70464845
     ]
   },
   "137": {
@@ -3757,7 +4477,11 @@
       1905.0,
       1906.0
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "38": {
     "name": "Paul Jungmann",
@@ -3772,6 +4496,10 @@
     },
     "sns": [
       1903.5
+    ],
+    "pos": [
+      9.4924096,
+      51.3154546
     ]
   },
   "493": {
@@ -3787,7 +4515,11 @@
     "sns": [
       1907.5
     ],
-    "origin": "Straßburg [Strasbourg, Frankreich]"
+    "origin": "Straßburg [Strasbourg, Frankreich]",
+    "pos": [
+      7.7507127,
+      48.584614
+    ]
   },
   "562": {
     "name": "Paul Kaltenbach",
@@ -3802,6 +4534,10 @@
     },
     "sns": [
       1900.5
+    ],
+    "pos": [
+      12.2430723,
+      51.8309956
     ]
   },
   "122": {
@@ -3818,6 +4554,10 @@
     "sns": [
       1881.5,
       1882.0
+    ],
+    "pos": [
+      13.8527432,
+      50.6598714
     ]
   },
   "666": {
@@ -3833,7 +4573,11 @@
     "sns": [
       1898.0
     ],
-    "origin": "Reval, Russland [Tallinn, Estland]"
+    "origin": "Reval, Russland [Tallinn, Estland]",
+    "pos": [
+      24.7453688,
+      59.4372155
+    ]
   },
   "990": {
     "name": "Edward Kasner",
@@ -3850,6 +4594,10 @@
     "origin": "New York, USA",
     "sns": [
       1899.5
+    ],
+    "pos": [
+      -74.0060152,
+      40.7127281
     ]
   },
   "629": {
@@ -3865,6 +4613,10 @@
     },
     "sns": [
       1900.5
+    ],
+    "pos": [
+      9.5742323,
+      52.6449794
     ]
   },
   "1199": {
@@ -3881,7 +4633,11 @@
     "sns": [
       1900.0
     ],
-    "origin": "Niederlahnstein"
+    "origin": "Niederlahnstein",
+    "pos": [
+      7.6021724,
+      50.3145301
+    ]
   },
   "462": {
     "name": "Hugo Kistler",
@@ -3896,7 +4652,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Basel, Schweiz(?)"
+    "origin": "Basel, Schweiz(?)",
+    "pos": [
+      7.5878261,
+      47.5581077
+    ]
   },
   "504": {
     "name": "Walther Klebe",
@@ -3911,6 +4671,10 @@
     },
     "sns": [
       1911.5
+    ],
+    "pos": [
+      10.1266433,
+      52.6599822
     ]
   },
   "558": {
@@ -3927,7 +4691,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "pos": [
+      9.9351811,
+      51.5328328
+    ]
   },
   "940": {
     "name": "Felix Klein",
@@ -4114,7 +4882,11 @@
       1910.5,
       1911.5
     ],
-    "origin": "Düsseldorf"
+    "origin": "Düsseldorf",
+    "pos": [
+      6.7763137,
+      51.2254018
+    ]
   },
   "191": {
     "name": "Felix Klitzkowski",
@@ -4131,7 +4903,11 @@
     "sns": [
       1887.4
     ],
-    "origin": "Danzig [Gdańsk, Polen]"
+    "origin": "Danzig [Gdańsk, Polen]",
+    "pos": [
+      18.79832701217957,
+      54.42880315
+    ]
   },
   "97": {
     "name": "Johannes Klien",
@@ -4146,6 +4922,10 @@
     },
     "sns": [
       1904.0
+    ],
+    "pos": [
+      13.7381437,
+      51.0493286
     ]
   },
   "749": {
@@ -4161,7 +4941,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Artlenburg, Hannover"
+    "origin": "Artlenburg, Hannover",
+    "pos": [
+      10.4899048,
+      53.373402
+    ]
   },
   "412": {
     "name": "Hugo Koch",
@@ -4176,6 +4960,10 @@
     },
     "sns": [
       1907.5
+    ],
+    "pos": [
+      10.000654,
+      53.550341
     ]
   },
   "869": {
@@ -4191,6 +4979,10 @@
     },
     "sns": [
       1904.5
+    ],
+    "pos": [
+      10.000654,
+      53.550341
     ]
   },
   "7": {
@@ -4208,7 +5000,11 @@
     "sns": [
       1906.5
     ],
-    "origin": "Luckenwalde, Brandenburg"
+    "origin": "Luckenwalde, Brandenburg",
+    "pos": [
+      13.1741882,
+      52.0902045
+    ]
   },
   "106": {
     "name": "Julius Kollert",
@@ -4234,7 +5030,11 @@
     "sns": [
       1901.0
     ],
-    "origin": "Gera"
+    "origin": "Gera",
+    "pos": [
+      12.0832666,
+      50.8765537
+    ]
   },
   "53": {
     "name": "Hans Kramer",
@@ -4250,6 +5050,10 @@
     },
     "sns": [
       1910.5
+    ],
+    "pos": [
+      9.7385532,
+      52.3744779
     ]
   },
   "55": {
@@ -4273,6 +5077,10 @@
       1878.5,
       1879.0,
       1879.5
+    ],
+    "pos": [
+      15.1574182,
+      50.5874068
     ]
   },
   "1156": {
@@ -4288,7 +5096,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Köln"
+    "origin": "Köln",
+    "pos": [
+      6.959974,
+      50.938361
+    ]
   },
   "1162": {
     "name": "Adolf Krazer",
@@ -4311,7 +5123,11 @@
       1882.0,
       1882.5
     ],
-    "origin": "Zusmarshausen"
+    "origin": "Zusmarshausen",
+    "pos": [
+      10.5964024,
+      48.3996568
+    ]
   },
   "144": {
     "name": "J. Kropáček [Kropacek]",
@@ -4325,6 +5141,10 @@
     "origin": "Sobichur, Österreich-Ungarn [Soběkury, Tschechien]",
     "sns": [
       1891.0
+    ],
+    "pos": [
+      13.2392526,
+      49.5761288
     ]
   },
   "978": {
@@ -4370,7 +5190,11 @@
       1903.0,
       1903.5
     ],
-    "origin": "Wismar, Mecklenburg-Schwerin"
+    "origin": "Wismar, Mecklenburg-Schwerin",
+    "pos": [
+      11.4529392,
+      53.8994353
+    ]
   },
   "751": {
     "name": "Stefan Kwietniewski",
@@ -4388,7 +5212,11 @@
       1896.0,
       1896.5
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen]"
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   },
   "580": {
     "name": "Szánthó Kálmán??",
@@ -4432,7 +5260,11 @@
     "sns": [
       1906.5
     ],
-    "origin": "Linz, Österreich-Ungarn"
+    "origin": "Linz, Österreich-Ungarn",
+    "pos": [
+      14.286198,
+      48.3059078
+    ]
   },
   "1062": {
     "name": "Karl Körner",
@@ -4450,7 +5282,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Göttingen"
+    "origin": "Göttingen",
+    "pos": [
+      9.9351811,
+      51.5328328
+    ]
   },
   "861": {
     "name": "Emil Köster",
@@ -4465,7 +5301,11 @@
     "sns": [
       1908.5
     ],
-    "origin": "Heide, Holstein"
+    "origin": "Heide, Holstein",
+    "pos": [
+      9.0929015,
+      54.1948456
+    ]
   },
   "236": {
     "name": "Wolfang Küffner",
@@ -4480,6 +5320,10 @@
     "origin": "Kulmbach, Bayern",
     "sns": [
       1876.4
+    ],
+    "pos": [
+      11.4479149,
+      50.1008448
     ]
   },
   "511": {
@@ -4495,7 +5339,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Aachen"
+    "origin": "Aachen",
+    "pos": [
+      6.083862,
+      50.776351
+    ]
   },
   "1196": {
     "name": "Stanisław Kępiński [Kepinski]",
@@ -4511,6 +5359,10 @@
     "sns": [
       1891.0,
       1892.5
+    ],
+    "pos": [
+      20.430541,
+      49.9693563
     ]
   },
   "754": {
@@ -4527,7 +5379,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Oberndorf, Hannover"
+    "origin": "Oberndorf, Hannover",
+    "pos": [
+      8.5711222,
+      48.2908613
+    ]
   },
   "653": {
     "name": "Stanislaus Landau",
@@ -4543,7 +5399,11 @@
     "sns": [
       1908.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen]"
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   },
   "968": {
     "name": "Ernst Lange",
@@ -4565,7 +5425,11 @@
       1881.5,
       1882.0
     ],
-    "origin": "Riesa"
+    "origin": "Riesa",
+    "pos": [
+      13.308828,
+      51.3038241
+    ]
   },
   "302": {
     "name": "Eduard Langebeck",
@@ -4582,7 +5446,11 @@
       1911.5,
       1912.0
     ],
-    "origin": "Aachen"
+    "origin": "Aachen",
+    "pos": [
+      6.083862,
+      50.776351
+    ]
   },
   "77": {
     "name": "C. Laubert",
@@ -4600,6 +5468,10 @@
     "sns": [
       1896.5,
       1897.0
+    ],
+    "pos": [
+      9.9513046,
+      52.1521636
     ]
   },
   "348": {
@@ -4624,6 +5496,10 @@
       1903.0,
       1903.5,
       1904.0
+    ],
+    "pos": [
+      9.7470208,
+      52.1204247
     ]
   },
   "408": {
@@ -4639,7 +5515,11 @@
     "sns": [
       1905.0
     ],
-    "origin": "Köln"
+    "origin": "Köln",
+    "pos": [
+      6.959974,
+      50.938361
+    ]
   },
   "381": {
     "name": "Wera Lebedewa [Vera Myller-Lebedev]",
@@ -4655,7 +5535,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "St. Petersburg, Russland"
+    "origin": "St. Petersburg, Russland",
+    "pos": [
+      30.316229,
+      59.938732
+    ]
   },
   "491": {
     "name": "Karl Otto Heinrich Liebmann",
@@ -4673,7 +5557,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Jena (geb. in Straßburg [Strasbourg, Frankreich])"
+    "origin": "Jena (geb. in Straßburg [Strasbourg, Frankreich])",
+    "pos": [
+      7.7507127,
+      48.584614
+    ]
   },
   "630": {
     "name": "Heinrich Liebmann",
@@ -4700,6 +5588,10 @@
       1897.0,
       1897.5,
       1898.0
+    ],
+    "pos": [
+      11.5879359,
+      50.9281717
     ]
   },
   "795": {
@@ -4717,6 +5609,10 @@
     "sns": [
       1902.0,
       1903.0
+    ],
+    "pos": [
+      9.355814967041201,
+      52.097842549999996
     ]
   },
   "701": {
@@ -4732,7 +5628,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Sehlde, Hannover"
+    "origin": "Sehlde, Hannover",
+    "pos": [
+      10.2638817,
+      52.039418
+    ]
   },
   "140": {
     "name": "Alfred Loewy",
@@ -4750,7 +5650,11 @@
       1894.5,
       1895.5
     ],
-    "origin": "Rawitsch, Posen [Rawicz, Polen]"
+    "origin": "Rawitsch, Posen [Rawicz, Polen]",
+    "pos": [
+      16.8583657,
+      51.6101629
+    ]
   },
   "708": {
     "name": "Wilhelm Lorey",
@@ -4784,6 +5688,10 @@
       1895.0,
       1895.5,
       1896.0
+    ],
+    "pos": [
+      8.6820917,
+      50.1106444
     ]
   },
   "913": {
@@ -4800,7 +5708,11 @@
     "sns": [
       1900.5
     ],
-    "origin": "Breslau [Wrocław, Polen]"
+    "origin": "Breslau [Wrocław, Polen]",
+    "pos": [
+      17.0326689,
+      51.1089776
+    ]
   },
   "399": {
     "name": "Wilhelm Luyken",
@@ -4815,7 +5727,11 @@
     "sns": [
       1901.5
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "308": {
     "name": "Gustav Löwenstein",
@@ -4830,7 +5746,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Stuttgart"
+    "origin": "Stuttgart",
+    "pos": [
+      9.1800132,
+      48.7784485
+    ]
   },
   "232": {
     "name": "Ernst Karl Wilhelm Lübcke",
@@ -4846,6 +5766,10 @@
     },
     "sns": [
       1911.5
+    ],
+    "pos": [
+      10.5348215,
+      52.1625283
     ]
   },
   "715": {
@@ -4862,6 +5786,10 @@
     },
     "sns": [
       1904.5
+    ],
+    "pos": [
+      8.6238803,
+      53.1705249
     ]
   },
   "155": {
@@ -4877,7 +5805,11 @@
     "sns": [
       1912.0
     ],
-    "origin": "Ülzen, Hannover"
+    "origin": "Ülzen, Hannover",
+    "pos": [
+      7.728513774256951,
+      51.5441231
+    ]
   },
   "279": {
     "name": "Georg Lüttemeyer",
@@ -4892,6 +5824,10 @@
     },
     "sns": [
       1899.5
+    ],
+    "pos": [
+      8.2985615,
+      51.8428202
     ]
   },
   "1124": {
@@ -4914,7 +5850,11 @@
       1895.5,
       1896.0
     ],
-    "origin": "Woodstock, Ontario, Kanada"
+    "origin": "Woodstock, Ontario, Kanada",
+    "pos": [
+      -80.7562977,
+      43.1301111
+    ]
   },
   "986": {
     "name": "Isabel Maddison",
@@ -4933,7 +5873,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Cumberland, England, UK"
+    "origin": "Cumberland, England, UK",
+    "pos": [
+      -3.304001955591123,
+      54.67842505
+    ]
   },
   "810": {
     "name": "Erwin Madelung",
@@ -4953,7 +5897,11 @@
       1905.0,
       1908.0
     ],
-    "origin": "Bonn"
+    "origin": "Bonn",
+    "pos": [
+      7.10066,
+      50.735851
+    ]
   },
   "528": {
     "name": "Alf Mahlke",
@@ -4982,6 +5930,10 @@
     "origin": "Krefeld",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      6.5623343,
+      51.3331205
     ]
   },
   "29": {
@@ -5001,6 +5953,10 @@
       1896.0,
       1896.5,
       1897.0
+    ],
+    "pos": [
+      -83.7484616,
+      42.2813722
     ]
   },
   "567": {
@@ -5032,7 +5988,11 @@
       1896.5,
       1899.0
     ],
-    "origin": "Eilendorf [Aachen]"
+    "origin": "Eilendorf [Aachen]",
+    "pos": [
+      6.083862,
+      50.776351
+    ]
   },
   "1109": {
     "name": "Heinrich Maschke",
@@ -5054,7 +6014,11 @@
       1886.5,
       1887.4
     ],
-    "origin": "Breslau [Wrocław, Polen]"
+    "origin": "Breslau [Wrocław, Polen]",
+    "pos": [
+      17.0326689,
+      51.1089776
+    ]
   },
   "657": {
     "name": "August Maurer",
@@ -5100,7 +6064,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen]"
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   },
   "764": {
     "name": "Berta Meese",
@@ -5116,7 +6084,11 @@
       "KT S. 576": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B576%5D%7D",
       "Wie der Krieg in die Viktoriaschule kam S. 14": ""
     },
-    "origin": "Essen"
+    "origin": "Essen",
+    "pos": [
+      7.0158171,
+      51.4582235
+    ]
   },
   "578": {
     "name": "Frant Meinecke",
@@ -5131,7 +6103,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Bergen b. Celle, Hannover"
+    "origin": "Bergen b. Celle, Hannover",
+    "pos": [
+      9.9757312,
+      52.8098517
+    ]
   },
   "674": {
     "name": "Heinrich Meldau",
@@ -5148,7 +6124,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Lüneburg (geb. in Nordholz)"
+    "origin": "Lüneburg (geb. in Nordholz)",
+    "pos": [
+      10.407855,
+      53.248706
+    ]
   },
   "1166": {
     "name": "Theodor Mensinger",
@@ -5165,7 +6145,11 @@
       1908.5,
       1909.0
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "1151": {
     "name": "Walther Mertins",
@@ -5180,7 +6164,11 @@
     "sns": [
       1902.0
     ],
-    "origin": "Düsseldorf"
+    "origin": "Düsseldorf",
+    "pos": [
+      6.7763137,
+      51.2254018
+    ]
   },
   "577": {
     "name": "George Frederick Metzler",
@@ -5192,7 +6180,11 @@
     "sns": [
       1893.5
     ],
-    "origin": "Odessa, Ontario, Kanada"
+    "origin": "Odessa, Ontario, Kanada",
+    "pos": [
+      -76.722712,
+      44.276984
+    ]
   },
   "502": {
     "name": "Carl Metzner",
@@ -5209,7 +6201,11 @@
       1900.5,
       1901.0
     ],
-    "origin": "Cottbus"
+    "origin": "Cottbus",
+    "pos": [
+      14.3357307,
+      51.7567447
+    ]
   },
   "522": {
     "name": "Wilhelm Meyer",
@@ -5224,7 +6220,11 @@
     "sns": [
       1906.0
     ],
-    "origin": "Lippstadt, Westfalen"
+    "origin": "Lippstadt, Westfalen",
+    "pos": [
+      8.3722082,
+      51.6900017
+    ]
   },
   "35": {
     "name": "Franz Meyer",
@@ -5248,7 +6248,11 @@
       1877.0,
       1877.5
     ],
-    "origin": "Magdeburg"
+    "origin": "Magdeburg",
+    "pos": [
+      11.6399609,
+      52.1315889
+    ]
   },
   "1189": {
     "name": "Friedrich Meyer",
@@ -5279,7 +6283,11 @@
     "sns": [
       1912.0
     ],
-    "origin": "Weener, Hannover"
+    "origin": "Weener, Hannover",
+    "pos": [
+      7.3536239,
+      53.1645939
+    ]
   },
   "94": {
     "name": "Bruno Meyermann",
@@ -5295,7 +6303,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Straßburg [Strasbourg, Frankreich]"
+    "origin": "Straßburg [Strasbourg, Frankreich]",
+    "pos": [
+      7.7507127,
+      48.584614
+    ]
   },
   "162": {
     "name": "John Miller",
@@ -5309,7 +6321,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Glasgow, Schottland"
+    "origin": "Glasgow, Schottland",
+    "pos": [
+      -4.2501687,
+      55.861155
+    ]
   },
   "146": {
     "name": "Mlodzienowski",
@@ -5345,7 +6361,11 @@
       1884.5,
       1887.0
     ],
-    "origin": "Riga, Russland [Lettland]"
+    "origin": "Riga, Russland [Lettland]",
+    "pos": [
+      24.7537645,
+      56.8406494
+    ]
   },
   "460": {
     "name": "Erwin  Moll",
@@ -5360,7 +6380,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Lörrach"
+    "origin": "Lörrach",
+    "pos": [
+      7.6607218,
+      47.6120896
+    ]
   },
   "175": {
     "name": "Giacinto Morera",
@@ -5379,7 +6403,11 @@
       1883.5,
       1884.0
     ],
-    "origin": "Novara, Italien"
+    "origin": "Novara, Italien",
+    "pos": [
+      8.545996970894572,
+      45.584250049999994
+    ]
   },
   "1096": {
     "name": "Ludwig Mosbacher",
@@ -5408,6 +6436,10 @@
     },
     "sns": [
       1908.0
+    ],
+    "pos": [
+      4.4908843,
+      52.1594747
     ]
   },
   "801": {
@@ -5424,7 +6456,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "Bukarest, Rumänien"
+    "origin": "Bukarest, Rumänien",
+    "pos": [
+      26.1027202,
+      44.4361414
+    ]
   },
   "859": {
     "name": "Ferdinand Möller",
@@ -5439,6 +6475,10 @@
     "origin": "Hamburg",
     "sns": [
       1904.0
+    ],
+    "pos": [
+      10.000654,
+      53.550341
     ]
   },
   "625": {
@@ -5454,7 +6494,11 @@
     "sns": [
       1908.5
     ],
-    "origin": "Daaden"
+    "origin": "Daaden",
+    "pos": [
+      7.96766,
+      50.7391746
+    ]
   },
   "841": {
     "name": "Hans Müller",
@@ -5480,7 +6524,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Stettin, Pommern [Szczecin, Polen]"
+    "origin": "Stettin, Pommern [Szczecin, Polen]",
+    "pos": [
+      14.592912670292268,
+      53.42968095
+    ]
   },
   "331": {
     "name": "Conrad Heinrich Müller",
@@ -5500,7 +6548,11 @@
       1900.0,
       1903.5
     ],
-    "origin": "Stade"
+    "origin": "Stade",
+    "pos": [
+      9.475438,
+      53.599794
+    ]
   },
   "572": {
     "name": "Friedrich Neesen",
@@ -5516,7 +6568,11 @@
     "sns": [
       1872.0
     ],
-    "origin": "Cleve"
+    "origin": "Cleve",
+    "pos": [
+      6.1376008,
+      51.7895571
+    ]
   },
   "1039": {
     "name": "Leonard Nelson",
@@ -5534,7 +6590,11 @@
     "sns": [
       1909.5
     ],
-    "origin": "Berlin"
+    "origin": "Berlin",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "895": {
     "name": "Burt L. Newkirk [Neukirch]",
@@ -5550,7 +6610,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Minneapolis, Minnesota, USA"
+    "origin": "Minneapolis, Minnesota, USA",
+    "pos": [
+      -93.2654692,
+      44.9772995
+    ]
   },
   "742": {
     "name": "Paul Nimsch",
@@ -5570,7 +6634,11 @@
       1884.0,
       1884.5
     ],
-    "origin": "Leipzig"
+    "origin": "Leipzig",
+    "pos": [
+      12.3747329,
+      51.3406321
+    ]
   },
   "165": {
     "name": "A. Nippoldt",
@@ -5584,7 +6652,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "317": {
     "name": "Josef Nix",
@@ -5602,7 +6674,11 @@
       1911.5,
       1912.0
     ],
-    "origin": "Hofheim am Taunus"
+    "origin": "Hofheim am Taunus",
+    "pos": [
+      8.42285,
+      50.09494
+    ]
   },
   "430": {
     "name": "Charles Albert Noble",
@@ -5621,7 +6697,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Soquel, Kalifornien, USA"
+    "origin": "Soquel, Kalifornien, USA",
+    "pos": [
+      -121.942859743031,
+      36.992568000000006
+    ]
   },
   "1137": {
     "name": "Richard Olbricht",
@@ -5655,6 +6735,10 @@
     "origin": "Portland, Maine, USA",
     "sns": [
       1889.5
+    ],
+    "pos": [
+      -70.2586618,
+      43.6573605
     ]
   },
   "814": {
@@ -5674,7 +6758,11 @@
       1902.5,
       1903.0
     ],
-    "origin": "Lesse, Braunschweig"
+    "origin": "Lesse, Braunschweig",
+    "pos": [
+      6.5052,
+      48.9641
+    ]
   },
   "658": {
     "name": "William Fogg Osgood",
@@ -5693,7 +6781,11 @@
       1888.0,
       1888.5
     ],
-    "origin": "Boston, Massachusetts, USA"
+    "origin": "Boston, Massachusetts, USA",
+    "pos": [
+      -71.060511,
+      42.3554334
+    ]
   },
   "56": {
     "name": "Alex Osthoff",
@@ -5708,7 +6800,11 @@
     "sns": [
       1900.5
     ],
-    "origin": "Barmen [Wuppertal]"
+    "origin": "Barmen [Wuppertal]",
+    "pos": [
+      7.1780374,
+      51.264018
+    ]
   },
   "70": {
     "name": "Henri Padé",
@@ -5725,7 +6821,11 @@
     "sns": [
       1890.0
     ],
-    "origin": "Abbeville, Frankreich"
+    "origin": "Abbeville, Frankreich",
+    "pos": [
+      1.8337029,
+      50.1060835
+    ]
   },
   "811": {
     "name": "Fritz Pahde",
@@ -5745,6 +6845,10 @@
       1896.5,
       1897.0,
       1898.0
+    ],
+    "pos": [
+      7.335124,
+      51.4370171
     ]
   },
   "132": {
@@ -5761,7 +6865,11 @@
     "sns": [
       1886.5
     ],
-    "origin": "Paris, Frankreich"
+    "origin": "Paris, Frankreich",
+    "pos": [
+      2.3483915,
+      48.8534951
+    ]
   },
   "579": {
     "name": "Anna Helene Palmié",
@@ -5776,6 +6884,10 @@
     "origin": "New York, USA",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      -74.0060152,
+      40.7127281
     ]
   },
   "593": {
@@ -5801,7 +6913,11 @@
       1884.5,
       1885.0
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "133": {
     "name": "Ernesto Pascal",
@@ -5816,7 +6932,11 @@
       "wiki-it": "https://it.wikipedia.org/wiki/Ernesto_Pascal",
       "P Bd. 9 S. 274": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V09-1887-1889/V9-p274_low.jpg"
     },
-    "origin": "Neapel, Italien"
+    "origin": "Neapel, Italien",
+    "pos": [
+      14.2487679,
+      40.8358846
+    ]
   },
   "44": {
     "name": "Ernest Pasquier",
@@ -5832,7 +6952,11 @@
     "sns": [
       1872.0
     ],
-    "origin": "Fleurus, Belgien"
+    "origin": "Fleurus, Belgien",
+    "pos": [
+      4.549699,
+      50.482944
+    ]
   },
   "74": {
     "name": "Gustav Penseler",
@@ -5847,7 +6971,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Lüneburg"
+    "origin": "Lüneburg",
+    "pos": [
+      10.407855,
+      53.248706
+    ]
   },
   "311": {
     "name": "Heinrich Personn",
@@ -5862,6 +6990,10 @@
     },
     "sns": [
       1902.0
+    ],
+    "pos": [
+      9.9351811,
+      51.5328328
     ]
   },
   "540": {
@@ -5878,7 +7010,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lübow, Mecklenburg-Schwerin"
+    "origin": "Lübow, Mecklenburg-Schwerin",
+    "pos": [
+      11.5245017,
+      53.852032
+    ]
   },
   "169": {
     "name": "Prof. Pfannenstiel",
@@ -5913,7 +7049,11 @@
       1908.5,
       1909.0
     ],
-    "origin": "Augsburg"
+    "origin": "Augsburg",
+    "pos": [
+      10.8979522,
+      48.3690341
+    ]
   },
   "1058": {
     "name": "Georg Pick",
@@ -5934,6 +7074,10 @@
     "sns": [
       1883.5,
       1884.0
+    ],
+    "pos": [
+      16.3725042,
+      48.2083537
     ]
   },
   "43": {
@@ -5960,6 +7104,10 @@
     },
     "sns": [
       1901.0
+    ],
+    "pos": [
+      16.1603187,
+      51.2081617
     ]
   },
   "881": {
@@ -5975,7 +7123,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen]"
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   },
   "905": {
     "name": "Johannes Pistel",
@@ -5990,7 +7142,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Magdeburg"
+    "origin": "Magdeburg",
+    "pos": [
+      11.6399609,
+      52.1315889
+    ]
   },
   "1201": {
     "name": "Max Planck",
@@ -6008,7 +7164,11 @@
     "sns": [
       1877.4
     ],
-    "origin": "Kiel"
+    "origin": "Kiel",
+    "pos": [
+      10.135555,
+      54.3227085
+    ]
   },
   "581": {
     "name": "Friedrich Pockels",
@@ -6027,7 +7187,11 @@
     "sns": [
       1889.5
     ],
-    "origin": "Vicenza, Italien"
+    "origin": "Vicenza, Italien",
+    "pos": [
+      11.40635425660249,
+      45.63485905
+    ]
   },
   "338": {
     "name": "Ernst Pohlhausen",
@@ -6044,7 +7208,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Oberlößnitz [Radebeul] (geb. in Mittweida, Sachsen)"
+    "origin": "Oberlößnitz [Radebeul] (geb. in Mittweida, Sachsen)",
+    "pos": [
+      13.6799641,
+      51.1066072
+    ]
   },
   "862": {
     "name": "Egon Pollak",
@@ -6059,7 +7227,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "Prag, Österreich-Ungarn [Tschechien]"
+    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "pos": [
+      15.3381061,
+      49.7439047
+    ]
   },
   "1193": {
     "name": "Hubert Post",
@@ -6074,7 +7246,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Merseburg"
+    "origin": "Merseburg",
+    "pos": [
+      11.996148,
+      51.3564413
+    ]
   },
   "802": {
     "name": "Ludwig Prandtl",
@@ -6092,7 +7268,11 @@
       1904.5,
       1909.0
     ],
-    "origin": "Freising"
+    "origin": "Freising",
+    "pos": [
+      11.7439565,
+      48.4008273
+    ]
   },
   "1064": {
     "name": "Georg Prange",
@@ -6108,7 +7288,11 @@
     "sns": [
       1906.0
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "793": {
     "name": "Reinhold Proell",
@@ -6124,7 +7308,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "470": {
     "name": "Erich Prümm",
@@ -6143,7 +7331,11 @@
       1896.5,
       1898.0
     ],
-    "origin": "Bonn"
+    "origin": "Bonn",
+    "pos": [
+      7.10066,
+      50.735851
+    ]
   },
   "641": {
     "name": "Anton Puchta",
@@ -6170,6 +7362,10 @@
       1877.0,
       1877.5,
       1878.0
+    ],
+    "pos": [
+      12.863617,
+      49.6658913
     ]
   },
   "1063": {
@@ -6185,6 +7381,10 @@
     },
     "sns": [
       1900.5
+    ],
+    "pos": [
+      6.759562,
+      51.434999
     ]
   },
   "979": {
@@ -6200,6 +7400,10 @@
     },
     "sns": [
       1908.0
+    ],
+    "pos": [
+      24.7537645,
+      56.8406494
     ]
   },
   "461": {
@@ -6215,7 +7419,11 @@
     "sns": [
       1887.0
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "1078": {
     "name": "Gustav Raussnitz [Gusztáv Rados]",
@@ -6236,7 +7444,11 @@
       1884.5,
       1885.0
     ],
-    "origin": "Pest, Österreich-Ungarn [Budapest, Ungarn]"
+    "origin": "Pest, Österreich-Ungarn [Budapest, Ungarn]",
+    "pos": [
+      19.0402383,
+      47.4978789
+    ]
   },
   "145": {
     "name": "Wilibald Reichardt",
@@ -6267,6 +7479,10 @@
     "origin": "Alexandria, Virginia, USA",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      -77.0470229,
+      38.8051095
     ]
   },
   "159": {
@@ -6282,6 +7498,10 @@
     },
     "sns": [
       1912.0
+    ],
+    "pos": [
+      10.5236066,
+      52.2646577
     ]
   },
   "1185": {
@@ -6299,7 +7519,11 @@
       1899.0,
       1899.5
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "187": {
     "name": "Ernst Reinstein",
@@ -6314,7 +7538,11 @@
     "sns": [
       1905.0
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "506": {
     "name": "Hugo Relander",
@@ -6329,7 +7557,11 @@
     "sns": [
       1886.0
     ],
-    "origin": "Viipuri, Finnland [Wyborg, Russland]"
+    "origin": "Viipuri, Finnland [Wyborg, Russland]",
+    "pos": [
+      28.744051,
+      60.709217
+    ]
   },
   "960": {
     "name": "Tscheslaw Retschinsky",
@@ -6344,7 +7576,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Charkow, Russland [Charkiw, Ukraine]"
+    "origin": "Charkow, Russland [Charkiw, Ukraine]",
+    "pos": [
+      36.2310146,
+      49.9923181
+    ]
   },
   "295": {
     "name": "Grég. Gregorio Ricci-Curbastro",
@@ -6363,7 +7599,11 @@
       1878.5,
       1879.0
     ],
-    "origin": "Lugo, Italien"
+    "origin": "Lugo, Italien",
+    "pos": [
+      11.911365,
+      44.4202951
+    ]
   },
   "1077": {
     "name": "Louis Richter",
@@ -6380,7 +7620,11 @@
       1905.0,
       1906.0
     ],
-    "origin": "Harleshausen [Kassel]"
+    "origin": "Harleshausen [Kassel]",
+    "pos": [
+      9.4924096,
+      51.3154546
+    ]
   },
   "59": {
     "name": "Otto Richter",
@@ -6408,7 +7652,11 @@
     "sns": [
       1891.0
     ],
-    "origin": "Waltershausen, Sachsen-Gotha [Thüringen]"
+    "origin": "Waltershausen, Sachsen-Gotha [Thüringen]",
+    "pos": [
+      11.0377839,
+      50.9014721
+    ]
   },
   "177": {
     "name": "Eduard von Weber",
@@ -6426,7 +7674,11 @@
     "sns": [
       1892.5
     ],
-    "origin": "München"
+    "origin": "München",
+    "pos": [
+      11.5753822,
+      48.1371079
+    ]
   },
   "877": {
     "name": "Carl [Karl] Friedrich Rodenberg",
@@ -6443,6 +7695,10 @@
     "origin": "Plauen",
     "sns": [
       1872.0
+    ],
+    "pos": [
+      12.1346523,
+      50.4950632
     ]
   },
   "278": {
@@ -6469,7 +7725,11 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Karl_Rohn"
     },
-    "origin": "Schwanheim [Bensheim]"
+    "origin": "Schwanheim [Bensheim]",
+    "pos": [
+      8.6227577,
+      49.6810158
+    ]
   },
   "441": {
     "name": "Arthur Rosenthal",
@@ -6487,7 +7747,11 @@
       1911.0,
       1911.5
     ],
-    "origin": "Fürth"
+    "origin": "Fürth",
+    "pos": [
+      10.9893626,
+      49.4772475
+    ]
   },
   "1202": {
     "name": "Paul Roth",
@@ -6502,7 +7766,11 @@
     "sns": [
       1906.5
     ],
-    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]"
+    "origin": "Brünn, Österreich-Ungarn [Brno, Tschechien]",
+    "pos": [
+      16.6113382,
+      49.1922443
+    ]
   },
   "775": {
     "name": "Wilhelm Rothe",
@@ -6517,7 +7785,11 @@
     "sns": [
       1911.0
     ],
-    "origin": "Witten"
+    "origin": "Witten",
+    "pos": [
+      7.335124,
+      51.4370171
+    ]
   },
   "1089": {
     "name": "Emil Rottgardt",
@@ -6534,6 +7806,10 @@
     },
     "sns": [
       1904.0
+    ],
+    "pos": [
+      10.442976,
+      53.9213846
     ]
   },
   "401": {
@@ -6550,7 +7826,11 @@
     "sns": [
       1898.0
     ],
-    "origin": "Nürnberg"
+    "origin": "Nürnberg",
+    "pos": [
+      11.077298,
+      49.453872
+    ]
   },
   "12": {
     "name": "Friedrich Rulf",
@@ -6566,7 +7846,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Wien, Österreich-Ungarn"
+    "origin": "Wien, Österreich-Ungarn",
+    "pos": [
+      16.3725042,
+      48.2083537
+    ]
   },
   "944": {
     "name": "Iris Runge",
@@ -6583,7 +7867,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "157": {
     "name": "Carl David Tolmé Runge",
@@ -6599,7 +7887,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "1033": {
     "name": "Gottfried Rückle",
@@ -6618,7 +7910,11 @@
       1899.0,
       1900.0
     ],
-    "origin": "Rödelheim [Frankfurt am Main]"
+    "origin": "Rödelheim [Frankfurt am Main]",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "10": {
     "name": "Günther Reinhold Rüdenberg",
@@ -6640,7 +7936,11 @@
       1907.5,
       1908.0
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "688": {
     "name": "Ljubow Sapolsky",
@@ -6661,7 +7961,11 @@
       1896.5,
       1897.0
     ],
-    "origin": "Dankov, Gouvernement Rjasan, Russland"
+    "origin": "Dankov, Gouvernement Rjasan, Russland",
+    "pos": [
+      18.2233408,
+      49.1967563
+    ]
   },
   "247": {
     "name": "Andreas Saß",
@@ -6675,6 +7979,10 @@
     "sns": [
       1903.0,
       1903.5
+    ],
+    "pos": [
+      9.4333264,
+      54.7833021
     ]
   },
   "971": {
@@ -6690,7 +7998,11 @@
     "sns": [
       1893.0
     ],
-    "origin": "Lübeck"
+    "origin": "Lübeck",
+    "pos": [
+      10.684738,
+      53.866444
+    ]
   },
   "1070": {
     "name": "Carl Schellenberg",
@@ -6706,7 +8018,11 @@
     "sns": [
       1890.0
     ],
-    "origin": "Themar, Sachsen-Gotha [Thüringen]"
+    "origin": "Themar, Sachsen-Gotha [Thüringen]",
+    "pos": [
+      11.0377839,
+      50.9014721
+    ]
   },
   "447": {
     "name": "Hans Schenkel",
@@ -6723,7 +8039,11 @@
       1892.0,
       1893.0
     ],
-    "origin": "Tagelswangen bei Lindau, Schweiz"
+    "origin": "Tagelswangen bei Lindau, Schweiz",
+    "pos": [
+      8.6722839,
+      47.4426676
+    ]
   },
   "746": {
     "name": "Harald Schering",
@@ -6740,6 +8060,10 @@
     },
     "sns": [
       1901.5
+    ],
+    "pos": [
+      9.9351811,
+      51.5328328
     ]
   },
   "924": {
@@ -6757,7 +8081,11 @@
       1911.5,
       1912.0
     ],
-    "origin": "Essen"
+    "origin": "Essen",
+    "pos": [
+      7.0158171,
+      51.4582235
+    ]
   },
   "961": {
     "name": "Friedrich Schilling",
@@ -6777,7 +8105,11 @@
       1891.0,
       1892.5
     ],
-    "origin": "Hildesheim"
+    "origin": "Hildesheim",
+    "pos": [
+      9.9513046,
+      52.1521636
+    ]
   },
   "1181": {
     "name": "Rudolf Schimmack",
@@ -6795,7 +8127,11 @@
       1902.0,
       1912.0
     ],
-    "origin": "Verden (Aller), Hannover"
+    "origin": "Verden (Aller), Hannover",
+    "pos": [
+      9.2286737,
+      52.9219073
+    ]
   },
   "21": {
     "name": "Ludwig Schleiermacher",
@@ -6814,7 +8150,11 @@
       1876.5,
       1877.0
     ],
-    "origin": "Aschaffenburg"
+    "origin": "Aschaffenburg",
+    "pos": [
+      9.1493636,
+      49.9740542
+    ]
   },
   "152": {
     "name": "Schlesinger",
@@ -6829,7 +8169,11 @@
     "sns": [
       1894.5
     ],
-    "origin": "vermutlich Tyrnau, Österreich-Ungarn [Trnava, Slowakei]"
+    "origin": "vermutlich Tyrnau, Österreich-Ungarn [Trnava, Slowakei]",
+    "pos": [
+      17.5858175,
+      48.3767652
+    ]
   },
   "703": {
     "name": "Dietrich Schlüter",
@@ -6845,6 +8189,10 @@
     },
     "sns": [
       1899.5
+    ],
+    "pos": [
+      -105.7380624,
+      38.2513874
     ]
   },
   "544": {
@@ -6861,6 +8209,10 @@
     },
     "sns": [
       1899.5
+    ],
+    "pos": [
+      13.7381437,
+      51.0493286
     ]
   },
   "682": {
@@ -6876,6 +8228,10 @@
     },
     "sns": [
       1904.5
+    ],
+    "pos": [
+      7.459463962492224,
+      53.20509275
     ]
   },
   "1073": {
@@ -6891,7 +8247,11 @@
     "sns": [
       1901.5
     ],
-    "origin": "Birkholz (Bernau bei Berlin?), Brandenburg"
+    "origin": "Birkholz (Bernau bei Berlin?), Brandenburg",
+    "pos": [
+      13.5748718,
+      52.6263124
+    ]
   },
   "500": {
     "name": "Bernhard Schniete",
@@ -6906,7 +8266,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "pos": [
+      10.5236066,
+      52.2646577
+    ]
   },
   "529": {
     "name": "Josef Schreiner",
@@ -6954,7 +8318,11 @@
       1888.0,
       1888.5
     ],
-    "origin": "Hamburg"
+    "origin": "Hamburg",
+    "pos": [
+      10.000654,
+      53.550341
+    ]
   },
   "350": {
     "name": "Johannes Schröder",
@@ -6970,6 +8338,10 @@
     },
     "sns": [
       1907.5
+    ],
+    "pos": [
+      11.0287364,
+      50.9777974
     ]
   },
   "154": {
@@ -6997,7 +8369,11 @@
     "sns": [
       1901.0
     ],
-    "origin": "Amsterdam, Niederlande"
+    "origin": "Amsterdam, Niederlande",
+    "pos": [
+      4.8924534,
+      52.3730796
+    ]
   },
   "357": {
     "name": "Max Schuhardt",
@@ -7012,6 +8388,10 @@
     },
     "sns": [
       1893.0
+    ],
+    "pos": [
+      11.0520563,
+      51.8953514
     ]
   },
   "608": {
@@ -7029,6 +8409,10 @@
     "sns": [
       1903.0,
       1903.5
+    ],
+    "pos": [
+      14.7153567,
+      51.9503235
     ]
   },
   "805": {
@@ -7047,7 +8431,11 @@
       1905.0,
       1906.0
     ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "pos": [
+      10.5236066,
+      52.2646577
+    ]
   },
   "212": {
     "name": "Karl Schwarzschild",
@@ -7063,7 +8451,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "458": {
     "name": "Eduard Schweikert",
@@ -7078,6 +8470,10 @@
     },
     "sns": [
       1900.5
+    ],
+    "pos": [
+      6.4353792,
+      51.1947131
     ]
   },
   "929": {
@@ -7095,7 +8491,11 @@
       1900.5,
       1901.0
     ],
-    "origin": "Süchteln [Viersen]"
+    "origin": "Süchteln [Viersen]",
+    "pos": [
+      6.3905476,
+      51.2562118
+    ]
   },
   "111": {
     "name": "Aruthr Schöning",
@@ -7111,6 +8511,10 @@
     },
     "sns": [
       1903.5
+    ],
+    "pos": [
+      9.0285414,
+      51.914776
     ]
   },
   "1020": {
@@ -7132,7 +8536,11 @@
       1897.5,
       1899.0
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "786": {
     "name": "Ludwig Schütz",
@@ -7151,7 +8559,11 @@
       1894.5,
       1897.0
     ],
-    "origin": "Frankfurt am Main"
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ]
   },
   "706": {
     "name": "Carl Seefried",
@@ -7178,7 +8590,11 @@
     "sns": [
       1901.5
     ],
-    "origin": "Pößneck, Schlesien [Thüringen?]"
+    "origin": "Pößneck, Schlesien [Thüringen?]",
+    "pos": [
+      11.0377839,
+      50.9014721
+    ]
   },
   "384": {
     "name": "Friedrich Siebert",
@@ -7193,6 +8609,10 @@
     },
     "sns": [
       1910.5
+    ],
+    "pos": [
+      9.7385532,
+      52.3744779
     ]
   },
   "1042": {
@@ -7215,7 +8635,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Bremen"
+    "origin": "Bremen",
+    "pos": [
+      8.8071646,
+      53.0758196
+    ]
   },
   "329": {
     "name": "Carl LudwigSiegel",
@@ -7232,7 +8656,11 @@
     "sns": [
       1893.0
     ],
-    "origin": "Berlin"
+    "origin": "Berlin",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "36": {
     "name": "Percy Franklyn Smith",
@@ -7245,7 +8673,11 @@
     "sns": [
       1894.5
     ],
-    "origin": "New York, USA"
+    "origin": "New York, USA",
+    "pos": [
+      -74.0060152,
+      40.7127281
+    ]
   },
   "112": {
     "name": "Gustaf Robert Snellman",
@@ -7257,6 +8689,10 @@
     "origin": "Helsinki, Finnland",
     "sns": [
       1892.0
+    ],
+    "pos": [
+      24.9427473,
+      60.1674881
     ]
   },
   "136": {
@@ -7278,7 +8714,11 @@
       1894.0,
       1894.5
     ],
-    "origin": "Ithaca, New York, USA (geb. in Dyxon, Iowa)"
+    "origin": "Ithaca, New York, USA (geb. in Dyxon, Iowa)",
+    "pos": [
+      -76.4968019,
+      42.4396039
+    ]
   },
   "1030": {
     "name": "Julius Sommer",
@@ -7295,7 +8735,11 @@
     "sns": [
       1897.5
     ],
-    "origin": "Reutlingen"
+    "origin": "Reutlingen",
+    "pos": [
+      9.2114144,
+      48.4919508
+    ]
   },
   "4": {
     "name": "Arnold Sommerfeld",
@@ -7313,7 +8757,11 @@
     "sns": [
       1894.5
     ],
-    "origin": "Königsberg [Kaliningrad, Russland]"
+    "origin": "Königsberg [Kaliningrad, Russland]",
+    "pos": [
+      20.5105838,
+      54.710128
+    ]
   },
   "952": {
     "name": "Otto Staude",
@@ -7341,7 +8789,11 @@
       1882.0,
       1882.5
     ],
-    "origin": "Limbach [Limbach-Oberfrohna]"
+    "origin": "Limbach [Limbach-Oberfrohna]",
+    "pos": [
+      12.7545462,
+      50.8608138
+    ]
   },
   "908": {
     "name": "Fritz Steckel",
@@ -7358,6 +8810,10 @@
     },
     "sns": [
       1909.5
+    ],
+    "pos": [
+      19.039396385383558,
+      54.0287383
     ]
   },
   "33": {
@@ -7373,7 +8829,11 @@
     "sns": [
       1907.5
     ],
-    "origin": "Dieschburgerhof [Echternach], Luxemburg"
+    "origin": "Dieschburgerhof [Echternach], Luxemburg",
+    "pos": [
+      6.4214859,
+      49.8120961
+    ]
   },
   "448": {
     "name": "Ludwig Steiner",
@@ -7388,7 +8848,11 @@
     "sns": [
       1895.0
     ],
-    "origin": "O'Gyalla, Österreich-Ungarn [Hurbanovo, Slowakei]"
+    "origin": "O'Gyalla, Österreich-Ungarn [Hurbanovo, Slowakei]",
+    "pos": [
+      18.198313,
+      47.8761227
+    ]
   },
   "143": {
     "name": "Washington Irving Stringham",
@@ -7406,7 +8870,11 @@
       1880.5,
       1881.0
     ],
-    "origin": "New York, USA"
+    "origin": "New York, USA",
+    "pos": [
+      -74.0060152,
+      40.7127281
+    ]
   },
   "741": {
     "name": "Christian Hugo Eduard Study",
@@ -7424,7 +8892,11 @@
       1882.0,
       1885.0
     ],
-    "origin": "Coburg"
+    "origin": "Coburg",
+    "pos": [
+      10.964463,
+      50.258112
+    ]
   },
   "484": {
     "name": "Ernst Sommerfeld",
@@ -7439,7 +8911,11 @@
     "sns": [
       1898.5
     ],
-    "origin": "Königsberg [Kaliningrad, Russland]"
+    "origin": "Königsberg [Kaliningrad, Russland]",
+    "pos": [
+      20.5105838,
+      54.710128
+    ]
   },
   "535": {
     "name": "Friedrich Stöhr",
@@ -7481,6 +8957,10 @@
     "origin": "Wien, Österreich-Ungarn",
     "sns": [
       1906.5
+    ],
+    "pos": [
+      16.3725042,
+      48.2083537
     ]
   },
   "218": {
@@ -7498,7 +8978,11 @@
     "sns": [
       1906.5
     ],
-    "origin": "Lemberg, Österreich-Ungarn [Lwiw, Ukraine]"
+    "origin": "Lemberg, Österreich-Ungarn [Lwiw, Ukraine]",
+    "pos": [
+      24.0315921,
+      49.841952
+    ]
   },
   "395": {
     "name": "Johannes Wiechmann",
@@ -7513,6 +8997,10 @@
     "origin": "Wittmund, Hannover",
     "sns": [
       1903.5
+    ],
+    "pos": [
+      7.7331065,
+      53.5659417
     ]
   },
   "1144": {
@@ -7528,7 +9016,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Fort Plain, New York, USA"
+    "origin": "Fort Plain, New York, USA",
+    "pos": [
+      -74.6226425,
+      42.9314616
+    ]
   },
   "139": {
     "name": "Friedrich Thiersch",
@@ -7543,7 +9035,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "München"
+    "origin": "München",
+    "pos": [
+      11.5753822,
+      48.1371079
+    ]
   },
   "190": {
     "name": "Henry Dallas Thompson",
@@ -7562,7 +9058,11 @@
       1887.5,
       1888.0
     ],
-    "origin": "Berkeley, California, USA"
+    "origin": "Berkeley, California, USA",
+    "pos": [
+      -122.272863,
+      37.8708393
+    ]
   },
   "315": {
     "name": "Paul Thormeyer",
@@ -7578,7 +9078,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "pos": [
+      10.5236066,
+      52.2646577
+    ]
   },
   "817": {
     "name": "William Threlfall",
@@ -7594,7 +9098,11 @@
     "sns": [
       1911.5
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "501": {
     "name": "Matvej Tichomaridritzky",
@@ -7611,7 +9119,11 @@
     "sns": [
       1884.0
     ],
-    "origin": "Kiew, Russland [Ukraine]"
+    "origin": "Kiew, Russland [Ukraine]",
+    "pos": [
+      31.2718321,
+      49.4871968
+    ]
   },
   "1097": {
     "name": "Wilhelm Tiedge",
@@ -7640,6 +9152,10 @@
     "origin": "Moers, Rheinland",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      6.621847049184972,
+      51.4416091
     ]
   },
   "200": {
@@ -7679,6 +9195,10 @@
       1903.0,
       1904.0,
       1904.5
+    ],
+    "pos": [
+      10.000654,
+      53.550341
     ]
   },
   "692": {
@@ -7694,7 +9214,11 @@
     "sns": [
       1903.0
     ],
-    "origin": "Gellershagen, Westfalen"
+    "origin": "Gellershagen, Westfalen",
+    "pos": [
+      8.514,
+      52.0443361
+    ]
   },
   "794": {
     "name": "Maximilian Toepler",
@@ -7712,7 +9236,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Dresden (geb. in Graz, Österreich-Ungarn)"
+    "origin": "Dresden (geb. in Graz, Österreich-Ungarn)",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "211": {
     "name": "Otto Toeplitz",
@@ -7748,7 +9276,11 @@
       1906.5,
       1909.5
     ],
-    "origin": "Breslau [Wrocław, Polen]"
+    "origin": "Breslau [Wrocław, Polen]",
+    "pos": [
+      17.0326689,
+      51.1089776
+    ]
   },
   "170": {
     "name": "Aisso Toxopeus",
@@ -7763,7 +9295,11 @@
     "sns": [
       1897.0
     ],
-    "origin": "Groningen, Niederlande"
+    "origin": "Groningen, Niederlande",
+    "pos": [
+      6.5680077,
+      53.2190652
+    ]
   },
   "780": {
     "name": "Edgar Jerome Townsend",
@@ -7779,6 +9315,10 @@
     "origin": "Champaign, Illinois, USA",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      -88.2430932,
+      40.1164841
     ]
   },
   "849": {
@@ -7806,7 +9346,11 @@
     "sns": [
       1892.0
     ],
-    "origin": "Florence [State?], USA"
+    "origin": "Florence [State?], USA",
+    "pos": [
+      -71.0577716,
+      42.3588043
+    ]
   },
   "1152": {
     "name": "Harry Walter Tyler ",
@@ -7821,7 +9365,11 @@
     "sns": [
       1888.0
     ],
-    "origin": "Ipswich, Massachusetts, USA"
+    "origin": "Ipswich, Massachusetts, USA",
+    "pos": [
+      -70.8411583,
+      42.679273
+    ]
   },
   "440": {
     "name": "Bernhard Uffrecht",
@@ -7836,7 +9384,11 @@
     "sns": [
       1909.5
     ],
-    "origin": "Haldensleben"
+    "origin": "Haldensleben",
+    "pos": [
+      11.4132719,
+      52.2911243
+    ]
   },
   "221": {
     "name": "F.? Meyer",
@@ -7870,7 +9422,11 @@
       1891.0,
       1892.5
     ],
-    "origin": "Middletown, Connecticut, USA"
+    "origin": "Middletown, Connecticut, USA",
+    "pos": [
+      -72.6509061,
+      41.5623178
+    ]
   },
   "250": {
     "name": "Giuseppe Veronese",
@@ -7889,7 +9445,11 @@
       1880.5,
       1881.0
     ],
-    "origin": "Chioggia bei Venedig, Italien"
+    "origin": "Chioggia bei Venedig, Italien",
+    "pos": [
+      12.3345898,
+      45.4371908
+    ]
   },
   "673": {
     "name": "Alador Visnya [Visnya Aladár]",
@@ -7907,7 +9467,11 @@
       1907.5,
       1908.0
     ],
-    "origin": "Fünfkirchen, Österreich-Ungarn [Pécs, Ungarn]"
+    "origin": "Fünfkirchen, Österreich-Ungarn [Pécs, Ungarn]",
+    "pos": [
+      18.2280317,
+      46.0765092
+    ]
   },
   "453": {
     "name": "Adolfo Viterbi",
@@ -7923,6 +9487,10 @@
     "origin": "Mantua [Mantova], Italien",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      10.670836515673878,
+      45.1692628
     ]
   },
   "555": {
@@ -7943,7 +9511,11 @@
       1876.9,
       1877.4
     ],
-    "origin": "Uehlfeld, Bayern"
+    "origin": "Uehlfeld, Bayern",
+    "pos": [
+      10.7204206,
+      49.6706753
+    ]
   },
   "561": {
     "name": "Paul Voigt",
@@ -7959,7 +9531,11 @@
     "sns": [
       1909.0
     ],
-    "origin": "Erfurt"
+    "origin": "Erfurt",
+    "pos": [
+      11.0287364,
+      50.9777974
+    ]
   },
   "147": {
     "name": "Vito Volterra",
@@ -7974,7 +9550,11 @@
     "sns": [
       1891.0
     ],
-    "origin": "Ancona, Italien"
+    "origin": "Ancona, Italien",
+    "pos": [
+      13.218790609151764,
+      43.480120400000004
+    ]
   },
   "864": {
     "name": "Emil Waelsch",
@@ -7992,6 +9572,10 @@
     "sns": [
       1884.5,
       1885.0
+    ],
+    "pos": [
+      15.3381061,
+      49.7439047
     ]
   },
   "614": {
@@ -8007,7 +9591,11 @@
     "sns": [
       1905.0
     ],
-    "origin": "Burgdorf, Hannover"
+    "origin": "Burgdorf, Hannover",
+    "pos": [
+      10.0078364,
+      52.4438008
+    ]
   },
   "563": {
     "name": "Gotthold Wagner",
@@ -8025,6 +9613,10 @@
     "origin": "Greiz",
     "sns": [
       1908.5
+    ],
+    "pos": [
+      12.0763533,
+      50.7783814
     ]
   },
   "90": {
@@ -8040,6 +9632,10 @@
     },
     "sns": [
       1897.5
+    ],
+    "pos": [
+      -2.2458192,
+      51.8653705
     ]
   },
   "316": {
@@ -8052,6 +9648,10 @@
     "origin": "Graz, Österreich-Ungarn",
     "sns": [
       1899.0
+    ],
+    "pos": [
+      15.4382786,
+      47.0708678
     ]
   },
   "115": {
@@ -8068,7 +9668,11 @@
     "sns": [
       1903.0
     ],
-    "origin": "Charlottenburg [Berlin]"
+    "origin": "Charlottenburg [Berlin]",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "999": {
     "name": "Wilhelm Wecken",
@@ -8085,7 +9689,11 @@
       1901.5,
       1902.0
     ],
-    "origin": "Römstedt, Hannover"
+    "origin": "Römstedt, Hannover",
+    "pos": [
+      10.6495665,
+      53.0956912
+    ]
   },
   "9": {
     "name": "Ludwig Wedekind",
@@ -8111,7 +9719,11 @@
       1874.5,
       1875.5
     ],
-    "origin": "Palermo, Italien"
+    "origin": "Palermo, Italien",
+    "pos": [
+      13.3524434,
+      38.1112268
+    ]
   },
   "953": {
     "name": "Charlotte Wedell",
@@ -8127,7 +9739,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Dänemark"
+    "origin": "Dänemark",
+    "pos": [
+      10.3333283,
+      55.670249
+    ]
   },
   "217": {
     "name": "Otto Weerth",
@@ -8144,7 +9760,11 @@
     "sns": [
       1872.0
     ],
-    "origin": "Blomberg"
+    "origin": "Blomberg",
+    "pos": [
+      9.0967908,
+      51.9434473
+    ]
   },
   "610": {
     "name": "Emil Wegmann",
@@ -8159,7 +9779,11 @@
     "sns": [
       1898.0
     ],
-    "origin": "Langendreer [Bochum]"
+    "origin": "Langendreer [Bochum]",
+    "pos": [
+      7.2196635,
+      51.4818111
+    ]
   },
   "946": {
     "name": "Guido Weicholdt [Weichold]",
@@ -8181,7 +9805,11 @@
       1882.0,
       1882.5
     ],
-    "origin": "London, England, UK"
+    "origin": "London, England, UK",
+    "pos": [
+      -0.14405508452768728,
+      51.4893335
+    ]
   },
   "198": {
     "name": "Georg Weigand",
@@ -8196,6 +9824,10 @@
     "origin": "Speier [Speyer]",
     "sns": [
       1876.4
+    ],
+    "pos": [
+      8.433615,
+      49.3165553
     ]
   },
   "885": {
@@ -8214,7 +9846,11 @@
       1872.0,
       1873.0
     ],
-    "origin": "Winterthur, Schweiz"
+    "origin": "Winterthur, Schweiz",
+    "pos": [
+      8.7291498,
+      47.4991723
+    ]
   },
   "583": {
     "name": "Hermann Weinreich",
@@ -8243,6 +9879,10 @@
     "sns": [
       1884.5,
       1885.0
+    ],
+    "pos": [
+      15.3381061,
+      49.7439047
     ]
   },
   "192": {
@@ -8259,7 +9899,11 @@
       "AV 1902.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B68%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=52382"
     },
-    "origin": "Lexington, Kentucky, USA (geb. in Leipzig)"
+    "origin": "Lexington, Kentucky, USA (geb. in Leipzig)",
+    "pos": [
+      -84.4970393,
+      38.0464066
+    ]
   },
   "490": {
     "name": "J. E. Westfall",
@@ -8274,7 +9918,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "Moravia [New York?], USA"
+    "origin": "Moravia [New York?], USA",
+    "pos": [
+      -74.0060152,
+      40.7127281
+    ]
   },
   "879": {
     "name": "Hermann Weyl",
@@ -8291,7 +9939,11 @@
     "sns": [
       1909.5
     ],
-    "origin": "Elmshorn"
+    "origin": "Elmshorn",
+    "pos": [
+      9.6524559,
+      53.7532486
+    ]
   },
   "857": {
     "name": "Henry Seely White",
@@ -8311,7 +9963,11 @@
       1888.5,
       1889.5
     ],
-    "origin": "Cazenovia, New York, USA"
+    "origin": "Cazenovia, New York, USA",
+    "pos": [
+      -75.8526969,
+      42.9300668
+    ]
   },
   "472": {
     "name": "James Kelsey Whittemore",
@@ -8326,6 +9982,10 @@
     "origin": "Boston, Massachusetts, USA",
     "sns": [
       1898.5
+    ],
+    "pos": [
+      -71.060511,
+      42.3554334
     ]
   },
   "515": {
@@ -8346,7 +10006,11 @@
       1892.5,
       1893.0
     ],
-    "origin": "Braunschweig"
+    "origin": "Braunschweig",
+    "pos": [
+      10.5236066,
+      52.2646577
+    ]
   },
   "889": {
     "name": "Wilhelm Wiechern",
@@ -8361,7 +10025,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lauenbrück, Hannover"
+    "origin": "Lauenbrück, Hannover",
+    "pos": [
+      9.5563333,
+      53.2019324
+    ]
   },
   "324": {
     "name": "Emil? Wiechert",
@@ -8397,7 +10065,11 @@
       1903.0,
       1903.5
     ],
-    "origin": "Bergeborbeck [Essen]"
+    "origin": "Bergeborbeck [Essen]",
+    "pos": [
+      7.0158171,
+      51.4582235
+    ]
   },
   "426": {
     "name": "Hermann Wiener",
@@ -8416,7 +10088,11 @@
       1881.5,
       1882.0
     ],
-    "origin": "Karlsruhe"
+    "origin": "Karlsruhe",
+    "pos": [
+      8.4034195,
+      49.0068705
+    ]
   },
   "210": {
     "name": "Józef Wierusz-Kowalski [Joseph von Kowalski]",
@@ -8435,7 +10111,11 @@
       1886.0,
       1886.5
     ],
-    "origin": "Olbiencien, Russland [Puławy, Polen]"
+    "origin": "Olbiencien, Russland [Puławy, Polen]",
+    "pos": [
+      21.985301401055878,
+      51.4262598
+    ]
   },
   "411": {
     "name": "Julius Wigger",
@@ -8467,6 +10147,10 @@
     "sns": [
       1898.5,
       1899.5
+    ],
+    "pos": [
+      8.8071646,
+      53.0758196
     ]
   },
   "788": {
@@ -8484,7 +10168,11 @@
       1896.5,
       1897.0
     ],
-    "origin": "Oldenburg"
+    "origin": "Oldenburg",
+    "pos": [
+      8.2146017,
+      53.1389753
+    ]
   },
   "1012": {
     "name": "Max Winkelmann",
@@ -8504,7 +10192,11 @@
       1901.5,
       1902.0
     ],
-    "origin": "Friedenau [Berlin]"
+    "origin": "Friedenau [Berlin]",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "167": {
     "name": "W. E. Winship",
@@ -8518,7 +10210,11 @@
     "sns": [
       1896.5
     ],
-    "origin": "St. Diego, California, USA"
+    "origin": "St. Diego, California, USA",
+    "pos": [
+      -116.95666425,
+      32.5525188
+    ]
   },
   "383": {
     "name": "Mary Frances Winston",
@@ -8540,7 +10236,11 @@
       1894.5,
       1895.0
     ],
-    "origin": "Forreston, Illinois, USA"
+    "origin": "Forreston, Illinois, USA",
+    "pos": [
+      -89.579115,
+      42.1261742
+    ]
   },
   "872": {
     "name": "Hermann Winter",
@@ -8555,7 +10255,11 @@
     "sns": [
       1902.5
     ],
-    "origin": "Wismar"
+    "origin": "Wismar",
+    "pos": [
+      11.4647932,
+      53.8909832
+    ]
   },
   "850": {
     "name": "Karl Wirtz",
@@ -8574,7 +10278,11 @@
       1885.5,
       1886.0
     ],
-    "origin": "Darmstadt"
+    "origin": "Darmstadt",
+    "pos": [
+      8.6736295,
+      49.8851869
+    ]
   },
   "392": {
     "name": "Alexander Witting",
@@ -8596,7 +10304,11 @@
       1885.5,
       1886.0
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "156": {
     "name": "Alexej Konstantinowitsch Wlassoff",
@@ -8612,7 +10324,11 @@
     "sns": [
       1904.0
     ],
-    "origin": "Vlasovka, Gouvernement Wladimir, Russland"
+    "origin": "Vlasovka, Gouvernement Wladimir, Russland",
+    "pos": [
+      39.9067228,
+      48.2700383
+    ]
   },
   "1036": {
     "name": "Christoph Wolff",
@@ -8643,7 +10359,11 @@
       1901.5,
       1903.0
     ],
-    "origin": "Einbeck, Hannover"
+    "origin": "Einbeck, Hannover",
+    "pos": [
+      9.8678465,
+      51.8185067
+    ]
   },
   "1001": {
     "name": "Frederick Shenstone Woods",
@@ -8663,7 +10383,11 @@
       1892.5,
       1893.5
     ],
-    "origin": "Westfield [Massachusetts?], USA"
+    "origin": "Westfield [Massachusetts?], USA",
+    "pos": [
+      -72.032366,
+      42.3788774
+    ]
   },
   "980": {
     "name": "Takuji Yoshiye",
@@ -8679,7 +10403,11 @@
     "sns": [
       1899.5
     ],
-    "origin": "Tokio, Japan"
+    "origin": "Tokio, Japan",
+    "pos": [
+      139.762221,
+      35.6821936
+    ]
   },
   "174": {
     "name": "Everett Irving Yowell",
@@ -8694,7 +10422,11 @@
     "sns": [
       1895.0
     ],
-    "origin": "Cincinnati, Ohio, USA"
+    "origin": "Cincinnati, Ohio, USA",
+    "pos": [
+      -84.5124602,
+      39.1014537
+    ]
   },
   "1153": {
     "name": "Rudolf Zahler",
@@ -8710,7 +10442,11 @@
     "sns": [
       1903.0
     ],
-    "origin": "Türkheim, Bayern"
+    "origin": "Türkheim, Bayern",
+    "pos": [
+      10.6394156,
+      48.0601151
+    ]
   },
   "454": {
     "name": "Anton Zeilbehr",
@@ -8741,7 +10477,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Budapest, Österreich-Ungarn (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])"
+    "origin": "Budapest, Österreich-Ungarn (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])",
+    "pos": [
+      16.9923923,
+      46.4548261
+    ]
   },
   "846": {
     "name": "Ernst Zermelo",
@@ -8759,7 +10499,11 @@
     "sns": [
       1897.5
     ],
-    "origin": "Berlin"
+    "origin": "Berlin",
+    "pos": [
+      13.3888599,
+      52.5170365
+    ]
   },
   "371": {
     "name": "Otto Zoll",
@@ -8774,7 +10518,11 @@
     "sns": [
       1899.0
     ],
-    "origin": "Düren"
+    "origin": "Düren",
+    "pos": [
+      6.4820806,
+      50.8031684
+    ]
   },
   "346": {
     "name": "Theodor Zorn",
@@ -8792,7 +10540,11 @@
       1911.0,
       1912.0
     ],
-    "origin": "Basel, Schweiz"
+    "origin": "Basel, Schweiz",
+    "pos": [
+      7.5878261,
+      47.5581077
+    ]
   },
   "273": {
     "name": "Richard Suppantschitsch [Rihard Zupančič]",
@@ -8809,7 +10561,11 @@
     "sns": [
       1910.5
     ],
-    "origin": "Ljubljana, Österreich-Ungarn [Slowenien]"
+    "origin": "Ljubljana, Österreich-Ungarn [Slowenien]",
+    "pos": [
+      14.8153333,
+      46.1199444
+    ]
   },
   "389": {
     "name": "Walther Zurhellen",
@@ -8826,7 +10582,11 @@
       1901.0,
       1901.5
     ],
-    "origin": "Mülheim an der Ruhr"
+    "origin": "Mülheim an der Ruhr",
+    "pos": [
+      6.8829192,
+      51.4272925
+    ]
   },
   "62": {
     "name": "Albert Zühlke",
@@ -8841,7 +10601,11 @@
     "sns": [
       1900.0
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "16": {
     "name": "Walther [später: von] Dyck",
@@ -8878,7 +10642,11 @@
       1880.5,
       1883.0
     ],
-    "origin": "München"
+    "origin": "München",
+    "pos": [
+      11.5753822,
+      48.1371079
+    ]
   },
   "854": {
     "name": "Ferdinand [später: von]Lindemann",
@@ -8917,7 +10685,11 @@
       1875.0,
       1875.5
     ],
-    "origin": "Hannover"
+    "origin": "Hannover",
+    "pos": [
+      9.7385532,
+      52.3744779
+    ]
   },
   "994": {
     "name": "Eduard Ritter Grimmus von Grimburg",
@@ -8932,7 +10704,11 @@
     "sns": [
       1904.5
     ],
-    "origin": "Wien, Österreich-Ungarn"
+    "origin": "Wien, Österreich-Ungarn",
+    "pos": [
+      16.3725042,
+      48.2083537
+    ]
   },
   "1052": {
     "name": "N. v. Zitowitsch",
@@ -8944,7 +10720,11 @@
     "sns": [
       1898.0
     ],
-    "origin": "St. Petersburg?, Russland"
+    "origin": "St. Petersburg?, Russland",
+    "pos": [
+      30.316229,
+      59.938732
+    ]
   },
   "291": {
     "name": "Helene von Bortkewitsch [Helena Bortkiewicz]",
@@ -8958,7 +10738,11 @@
       1895.0,
       1895.5
     ],
-    "origin": "St. Petersburg, Russland"
+    "origin": "St. Petersburg, Russland",
+    "pos": [
+      30.316229,
+      59.938732
+    ]
   },
   "423": {
     "name": "Anton von Braunmühl",
@@ -8986,7 +10770,11 @@
       1878.0,
       1878.5
     ],
-    "origin": "geb. in Tiflis, Russland [Georgien]"
+    "origin": "geb. in Tiflis, Russland [Georgien]",
+    "pos": [
+      44.0287806,
+      41.6808672
+    ]
   },
   "1076": {
     "name": "Alexander [später: von] Brill",
@@ -9005,7 +10793,11 @@
       1875.0,
       1875.5
     ],
-    "origin": "Darmstadt"
+    "origin": "Darmstadt",
+    "pos": [
+      8.6736295,
+      49.8851869
+    ]
   },
   "592": {
     "name": "Albert von Brunn",
@@ -9023,7 +10815,11 @@
       1902.0,
       1904.0
     ],
-    "origin": "Cöthen [Köthen], Anhalt"
+    "origin": "Cöthen [Köthen], Anhalt",
+    "pos": [
+      11.973698,
+      51.751033
+    ]
   },
   "704": {
     "name": "Franz von Krieg",
@@ -9056,7 +10852,11 @@
       1907.5,
       1909.0
     ],
-    "origin": "Budapest, Österreich-Ungarn"
+    "origin": "Budapest, Österreich-Ungarn",
+    "pos": [
+      19.0402383,
+      47.4978789
+    ]
   },
   "532": {
     "name": "Max von Laue",
@@ -9074,7 +10874,11 @@
     "sns": [
       1903.5
     ],
-    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz]) [Strasbourg, Frankreich]"
+    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz]) [Strasbourg, Frankreich]",
+    "pos": [
+      7.5943951,
+      50.3533278
+    ]
   },
   "1187": {
     "name": "Wladimir von Philippow",
@@ -9090,6 +10894,10 @@
     },
     "sns": [
       1909.0
+    ],
+    "pos": [
+      30.316229,
+      59.938732
     ]
   },
   "937": {
@@ -9109,7 +10917,11 @@
       1896.5,
       1897.0
     ],
-    "origin": "Potsdam"
+    "origin": "Potsdam",
+    "pos": [
+      13.0591397,
+      52.4009309
+    ]
   },
   "307": {
     "name": "Alexandra von Stebnitzky [Aleksandra Stebnicka]",
@@ -9123,7 +10935,11 @@
       1895.0,
       1895.5
     ],
-    "origin": "St. Petersburg, Russland (geb. in Tiflis, Russland [Georgien])"
+    "origin": "St. Petersburg, Russland (geb. in Tiflis, Russland [Georgien])",
+    "pos": [
+      44.0287806,
+      41.6808672
+    ]
   },
   "125": {
     "name": "Ludwig von Struve",
@@ -9139,6 +10955,10 @@
     "origin": "St. Petersburg, Russland",
     "sns": [
       1884.5
+    ],
+    "pos": [
+      30.316229,
+      59.938732
     ]
   },
   "466": {
@@ -9156,6 +10976,10 @@
     "sns": [
       1891.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczuki, Polen)"
+    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczuki, Polen)",
+    "pos": [
+      21.071432235636493,
+      52.2337172
+    ]
   }
 }
