@@ -622,7 +622,6 @@ $(document).ready(function () {
 
 			hideprev(newPage, volume); // Adapted to check if it is the first or last in sequence
 			var bildurl = $('#hauptbild').attr("longprefix") + newPage + '_low.jpg';
-			console.log(currentPage, newPage, bildurl);
 			$('#hauptbild').attr("src", bildurl);
 			$('#hauptbild').attr("seite", newPage);
 			$('.magnify-large').css("background", "url('" + bildurl + "') no-repeat");
