@@ -2378,11 +2378,13 @@
     "last": "Gernet [Gernett]",
     "name_non_latin": "Надежда Николаевна Гернет",
     "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Nadeschda_Nikolajewna_Gernet",
       "TO 2021 S. 396": ""
     },
     "sns": [
       1899.0
-    ]
+    ],
+    "origin": "Simbirsk, Russland"
   },
   "1100": {
     "name": "Gustav Gersting",
@@ -3601,7 +3603,7 @@
     ]
   },
   "64": {
-    "name": "Dr. Otto Hölder",
+    "name": "Otto Hölder",
     "ids_to_signatures": {
       "395": "Dr. O[tto]. Hölder"
     },
@@ -3613,7 +3615,8 @@
     },
     "sns": [
       1884.0
-    ]
+    ],
+    "origin" : "Stuttgart"
   },
   "402": {
     "name": "Augustin Hölscher",
