@@ -345,7 +345,7 @@
     "origin": "Bremen"
   },
   "582": {
-    "name": "Dr. Anton Baule",
+    "name": "Anton Baule",
     "ids_to_signatures": {
       "3": "Dr. A[nton]. Baule"
     },
@@ -451,7 +451,7 @@
     "origin": "Hannover"
   },
   "171": {
-    "name": "L. Behse.",
+    "name": "L. Behse",
     "ids_to_signatures": {
       "529": "L[?]. Behse?"
     },
@@ -1669,7 +1669,7 @@
     "origin": "Ballenstedt"
   },
   "639": {
-    "name": "Wacław Michał Dziewulski.",
+    "name": "Wacław Michał Dziewulski",
     "ids_to_signatures": {
       "861": "W[acław Michał] Dziewulski."
     },
@@ -2353,7 +2353,7 @@
     ]
   },
   "950": {
-    "name": "Dr. Francesco Gerbaldi ",
+    "name": "Francesco Gerbaldi ",
     "ids_to_signatures": {
       "364": "Dr. F[rancesco]. Gerbaldi"
     },
@@ -2468,7 +2468,7 @@
     "origin": "Aspel(?)"
   },
   "138": {
-    "name": "R. Glaser",
+    "name": "Glaser",
     "ids_to_signatures": {},
     "first": "R.",
     "last": "Glaser",
@@ -2882,7 +2882,7 @@
     "origin": "Dorpat, Russland [Tartu, Estland]"
   },
   "654": {
-    "name": "Roderich Hartenstein.",
+    "name": "Roderich Hartenstein",
     "ids_to_signatures": {
       "946": "R[oderich]. Hartenstein.",
       "977": "R[oderich]. Hartenstein."
@@ -3117,7 +3117,7 @@
     ]
   },
   "545": {
-    "name": "Dr. Gustav Herglotz",
+    "name": "Gustav Herglotz",
     "ids_to_signatures": {
       "905": "Dr. G[ustav] Herglotz"
     },
@@ -3303,7 +3303,7 @@
     "origin": "Helsinfors [Helsinki, Finnland]"
   },
   "874": {
-    "name": "Heinrich Hochschild.",
+    "name": "Heinrich Hochschild",
     "ids_to_signatures": {
       "1057": "H[einrich]. Hochschild."
     },
@@ -3775,7 +3775,7 @@
     ]
   },
   "493": {
-    "name": "Manfred Jäger.",
+    "name": "Manfred Jäger",
     "ids_to_signatures": {
       "1041": "M[anfred] Jäger."
     },
@@ -4194,7 +4194,7 @@
     ]
   },
   "7": {
-    "name": "Dr. Paul Koebe",
+    "name": "Paul Koebe",
     "ids_to_signatures": {
       "1010": "[Felix Klein aufgeschrieben von Paul] Koebe",
       "1011": "Dr. P[aul]. Koebe"
@@ -4585,7 +4585,7 @@
     "origin": "Aachen"
   },
   "77": {
-    "name": "C. Laubert. stud. math.",
+    "name": "C. Laubert",
     "ids_to_signatures": {
       "673": "K. [C.] Laubert. stud. math.",
       "686": "K. [C.] Laubert. stud. math.",
@@ -5442,7 +5442,7 @@
     ]
   },
   "625": {
-    "name": "Otto Mühlendyck.",
+    "name": "Otto Mühlendyck",
     "ids_to_signatures": {
       "1084": "O[tto] Mühlendyck."
     },
@@ -7248,7 +7248,7 @@
     "origin": "New York, USA"
   },
   "112": {
-    "name": "Gustaf Robert Snellman.",
+    "name": "Gustaf Robert Snellman",
     "ids_to_signatures": {
       "532": "G[ustaf]. R[obert]. Snellman."
     },
@@ -7597,7 +7597,7 @@
     "origin": "Dresden"
   },
   "501": {
-    "name": "Matvej Tichomaridritzky\\newline Docent an der Universität Charkow.",
+    "name": "Matvej Tichomaridritzky",
     "ids_to_signatures": {
       "402": "M[atvej]. Tichomaridritzky\\newline Docent an der Universität Charkow."
     },
@@ -7661,7 +7661,7 @@
     "origin": "Schpotowka, Gouvernement Tschernigow, Russland"
   },
   "699": {
-    "name": "Anton Aloys Timpe.",
+    "name": "Anton Aloys Timpe",
     "ids_to_signatures": {
       "867": "[Anton] A[loys]. Timpe",
       "874": "[Anton] A[loys]. Timpe",
@@ -8217,7 +8217,7 @@
     "origin": "Winterthur, Schweiz"
   },
   "583": {
-    "name": "Dr. Hermann Weinreich",
+    "name": "Hermann Weinreich",
     "ids_to_signatures": {
       "1187": "Dr. H[ermann]. Weinreich"
     },
@@ -8697,7 +8697,7 @@
     "origin": "Cincinnati, Ohio, USA"
   },
   "1153": {
-    "name": "Dr. Rudolf Zahler.",
+    "name": "Rudolf Zahler",
     "ids_to_signatures": {
       "881": "Dr. Rudolf Zahler."
     },
@@ -8762,7 +8762,7 @@
     "origin": "Berlin"
   },
   "371": {
-    "name": "Otto Zoll.",
+    "name": "Otto Zoll",
     "ids_to_signatures": {
       "748": "O[tto] Zoll."
     },
@@ -8812,7 +8812,7 @@
     "origin": "Ljubljana, Österreich-Ungarn [Slowenien]"
   },
   "389": {
-    "name": "Walther Zurhellen, stud. astr.",
+    "name": "Walther Zurhellen",
     "ids_to_signatures": {
       "824": "W[alther] Zurhellen, stud. astr.",
       "815": "Walther Zurhellen\\newline stud. astr."
