@@ -5,6 +5,117 @@ let protokolle = [];
 let teilnehmer = [];
 let show_teilnehmer = false;
 
+var customPages = {
+	'1': ["001", "...",
+		"320", "321a", "..."],
+	'2': ["000a", "000", "...",],
+	'3': ["...", "041", "042a", "042b", "042", "...",
+		"049", "050a", "050b", "050c", "050d", "050e", "050", "...",
+		"057", "057a", "..."],
+	'4': ["000a", "000", "...",
+		"204", "205a", "205", "...",
+		"223", "224a", "224", "...",
+		"225", "226a", "226", "...",
+		"227", "228a", "228", "...",
+		"229", "230a", "230", "...",
+		"231", "232a", "232", "..."],
+	'5': ["000a", "000", "..."],
+	'6': ["000a", "000", "...",
+		"242", "243a", "243", "..."],
+	'7': ["000a", "000b", "000c", "000d", "000e", "000f", "001", "...",
+		"098", "099a", "099b", "099", "...",
+		"139", "140a", "140", "..."],
+	'8': ["000a", "000b", "000", "...",
+		"125", "126a", "126b", "126c", "126d", "126e", "126f", "126", "...",
+		"220", "221a", "221b", "221", "..."],
+	'9': ["...", "052", "052a", "053", "...",
+		"054", "054a", "055", "..."],
+	'10': ["000a", "000b", "000c", "000d", "001", "..."],
+	'11': ["000a", "000b", "000c", "000d", "001", "..."],
+	'12': ["000a", "000b", "000", "...",
+		"239", "240a", "240b", "240c", "240", "..."],
+	'13': ["000a", "000b", "000c", "000d", "001", "...",
+		"053", "054a", "054b", "054", "...",
+		"063", "064a", "064b", "064", "...",
+		"227", "228a", "228b", "228", "..."],
+	'14': ["000a", "000b", "000c", "000d", "000e", "000f", "001", "...",
+		"229", "230a", "230b", "230", "...",
+		"285", "286a", "286b", "286", "...",
+		"295", "296a", "296b", "296", "...",
+		"297", "298a", "298b", "298", "...",
+		"307", "308a", "308b", "308", "...",
+		"311", "312a", "312b", "312", "...",
+		"342", "343a", "343", "...",
+		"362", "363a", "363b", "363c", "363", "...",
+		"366", "367a", "367b", "367c", "367", "...",
+		"368", "369a", "369b", "369c", "369d", "369e", "369f", "369g", "369h", "369i", "369j", "369k", "369l", "369m", "369n", "369o", "369p", "369q", "369r", "369", "..."],
+	'15': ["000a", "000b", "000c", "000d", "001", "..."],
+	'16': ["000a", "000b", "000c", "000d", "001", "..."],
+	'16-part2': ["000a", "000b", "001", "..."],
+	'17': ["000a", "000b", "000c", "000d", "001", "..."],
+	'18': ["000a", "000b", "000c", "000d", "001", "...",
+		"024", "025a", "025b", "025", "...",
+		"028", "029a", "029b", "029", "...",
+		"057a", "057", "..."],
+	'19': ["000a", "000b", "000c", "000d", "001", "...",
+		"029", "030a", "030b", "030", "...",
+		"039", "040a", "040b", "040", "...",
+		"061", "062a", "062b", "062", "..."],
+	'20': ["000a", "000b", "000c", "000d", "001", "...",
+		"065", "066a", "066b", "066", "...", "093", "094a", "094b", "094", "...",
+		"210", "211a", "211", "212a", "212", "...",
+		"256", "257a", "257", "...",
+		"266", "267aa", "267b", "267", "...",
+		"280", "281a", "281b", "281c", "281d", "281", "...",
+		"293", "294a", "294b", "294d", "294", "..."],
+	'21': ["000a", "000b", "000c", "000d", "001", "..."],
+	'22': ["000a", "000b", "000c", "000d", "001", "...", "049", "050a", "050b", "050", "...",
+		"125", "126a", "126", "...",
+		"155", "156b", "156", "..."],
+	'23': ["000a", "000b", "000c", "000d", "001", "..."],
+	'24': ["000a", "000b", "000c", "000d", "001", "...",
+		"119", "120a", "120b", "120c", "120", "..."],
+	'25': ["000a", "000b", "000c", "000d", "000e", "000f", "001", "...",
+		"073", "074a", "074b", "074", "...",
+		"262", "263a", "263b", "263c", "263d", "263e", "263", "...",
+		"264", "265a", "265b", "265c", "265", "..."],
+	'26': ["000a", "000b", "000c", "000d", "001", "..."],
+	'27': ["000a", "000b", "000c", "000d", "001", "...",
+		"085", "086a", "086b", "086c", "086", "...",
+		"177", "178a", "178b", "178", "...",
+		"234", "235a", "235b", "235", "...",
+		"254", "255a", "255b", "255", "...",
+		"262", "263a", "263b", "263", "..."],
+	'28': ["000a", "000b", "000c", "000d", "001", "...",
+		"029", "030a", "030b", "030", "...",
+		"037", "038a", "038b", "038", "...",
+		"047", "048a", "048b", "048", "..."],
+	'29': ["000a", "000b", "000c", "000d", "001", "...",
+		"273", "274a", "274b", "274", "..."]
+};
+
+
+function getNextPage(currentPage, volume) {
+	if (customPages[volume] && customPages[volume].includes(currentPage)) {
+		let currentIndex = customPages[volume].indexOf(currentPage);
+		if ((customPages[volume][currentIndex + 1]) != "...") {
+			return customPages[volume][currentIndex + 1]
+		}
+	}
+	return pad(parseInt(currentPage) + 1); // Fallback to normal increment
+}
+
+function getPrevPage(currentPage, volume) {
+	if (customPages[volume] && customPages[volume].includes(currentPage)) {
+		let currentIndex = customPages[volume].indexOf(currentPage);
+		if ((customPages[volume][currentIndex - 1]) != "...") {
+			return customPages[volume][currentIndex - 1]
+		}
+	}
+	return pad(parseInt(currentPage) - 1); // Fallback to normal decrement
+}
+
+
 function processProtokolle() {
 	var RMonat = new Array("I", "II", "III", "IV", "V", "VI",
 		"VII", "VIII", "IX", "X", "XI", "XII");
@@ -221,9 +332,15 @@ function meinsort(record, queryValue) {
 
 }
 
-function pad(n) {
-	return (n < 10) ? ("00" + n) : (n < 100) ? ("0" + n) : n;
+
+function pad(page) {
+	return isNaN(page) ? page : (parseInt(page) < 10 ? "00" + page : (parseInt(page) < 100 ? "0" + page : page));
 }
+function unpad(page) {
+	// The function will remove leading zeros, ensuring at least one digit remains, and captures all following characters
+	return page.replace(/^0+(\d.*)/, '$1');
+}
+
 function genseitenlink(record) {
 	var prefix = htmlprefixbaende[record.band - 1];
 	var teil = '';
@@ -307,7 +424,7 @@ function updateDynatable() {
 	});
 	// Sorting the array alphabetically by name
 	teilnehmerArray.sort(function (a, b) {
-    return a.last.localeCompare(b.last, 'de', { sensitivity: 'base' }); // 'de' for German
+		return a.last.localeCompare(b.last, 'de', { sensitivity: 'base' }); // 'de' for German
 	});
 
 
@@ -470,10 +587,10 @@ $(document).ready(function () {
 			var prefix = $(event.target).attr("prefix")
 			var band = e.attr("band")
 			var teil = e.attr("teil")
-			var seite = e.attr("seite")
-			var bildurl = 'http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p' + pad(seite) + '_low.jpg'
+			var seite = pad(e.attr("seite"))
+			var bildurl = 'http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p' + seite + '_low.jpg'
 			var longprefix = 'http:\/\/www.uni-math.gwdg.de\/aufzeichnungen\/klein-scans\/klein\/' + prefix + '/V' + band + teil + '-p'
-			hideprev(seite);
+			hideprev(seite, band);
 
 			processbild = "ico/proc.gif";
 			$('#hauptbild').attr("src", processbild);
@@ -497,55 +614,38 @@ $(document).ready(function () {
 			$('#hauptbild').attr("src", processbild);
 			$('.magnify-large').css("background", "url('" + processbild + "') no-repeat");
 		})
-
 		$('#myModal .controls').click(function (event) {
-			var seite = parseInt($('#hauptbild').attr("seite"));
-			var prevint = parseInt(seite) - 1
-			var nextint = parseInt(prevint) + 2
-			var neuseite
-			$('#hauptbild').hide()
-			processbild = "ico/proc.gif";
-			$('#hauptbild').attr("src", processbild);
-			$('.magnify-large').css("background", "url('" + processbild + "') no-repeat");
-			$('#hauptbild').show()
-			$('#myModal').modal({
-				"backdrop": "true",
-				"show": true
-			})
-			if ($(this).hasClass('previous')) {
-				neuseite = prevint;
-			}
-			else {
-				neuseite = nextint;
-			}
-			hideprev(neuseite);
+			var currentPage = $('#hauptbild').attr("seite");
+			var volume = $('#hauptbild').attr("band");
 
+			var newPage = $(this).hasClass('previous') ? getPrevPage(currentPage, volume) : getNextPage(currentPage, volume);
 
-			var bildurl = $('#hauptbild').attr("longprefix") + pad(neuseite) + '_low.jpg';
+			hideprev(newPage, volume); // Adapted to check if it is the first or last in sequence
+			var bildurl = $('#hauptbild').attr("longprefix") + newPage + '_low.jpg';
+			console.log(currentPage, newPage, bildurl);
 			$('#hauptbild').attr("src", bildurl);
-			$('#hauptbild').attr("seite", neuseite);
+			$('#hauptbild').attr("seite", newPage);
 			$('.magnify-large').css("background", "url('" + bildurl + "') no-repeat");
 			fuellelowmedhigh();
 			return false;
 		});
-		function hideprev(seite) {
-			if (seite == 1) {
-				$('#myModal .prev').addClass("disabled");
 
-			}
-			else {
+		function hideprev(page, volume) {
+			var isFirstPage = customPages[volume] ? customPages[volume][0] === page : page === "000a";
+			if (isFirstPage) {
+				$('#myModal .prev').addClass("disabled");
+			} else {
 				$('#myModal .prev').removeClass("disabled");
 			}
-			return false;
 		}
 		function fuellelowmedhigh() {
 			var longprefix = $('#hauptbild').attr("longprefix");
 			var seite = $('#hauptbild').attr("seite");
 			var band = $('#hauptbild').attr("band");
-			$('#kleinpic').attr("href", longprefix + pad(seite) + '_low.jpg');
-			$('#mittelpic').attr("href", longprefix + pad(seite) + '_normal.jpg');
-			$('#grosspic').attr("href", longprefix + pad(seite) + '_high.jpg');
-			$('#myModalLabel').html("Band " + band + ", Seite " + seite);
+			$('#kleinpic').attr("href", longprefix + seite + '_low.jpg');
+			$('#mittelpic').attr("href", longprefix + seite + '_normal.jpg');
+			$('#grosspic').attr("href", longprefix + seite + '_high.jpg');
+			$('#myModalLabel').html("Band " + band + ", Seite " + unpad(seite));
 			return false;
 		}
 
@@ -572,13 +672,13 @@ $(document).ready(function () {
 		console.error('Failed to load protokolle or teilnehmer:', error);
 	});
 
-	$("#kalenderlink").click(function(){
-			// AJAX call to load content from another HTML file
-			$("#kalender").load("kalender.html", function(response, status, xhr) {
-				if (status == "error") {
-					var msg = "Sorry but there was an error: ";
-					$("#kalender").html(msg + xhr.status + " " + xhr.statusText);
-				}
-			});
+	$("#kalenderlink").click(function () {
+		// AJAX call to load content from another HTML file
+		$("#kalender").load("kalender.html", function (response, status, xhr) {
+			if (status == "error") {
+				var msg = "Sorry but there was an error: ";
+				$("#kalender").html(msg + xhr.status + " " + xhr.statusText);
+			}
 		});
+	});
 });
