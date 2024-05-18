@@ -30,19 +30,16 @@
     }).addTo(map);
     const markers = L.markerClusterGroup();
     (async () => {
-      const response = await fetch('../js/data/locations.geojson');
-      const jsonData = await response.json();
       const teilnehmer_response = await fetch('../js/data/teilnehmer.json');
       const teilnehmerData = await teilnehmer_response.json();
 
-      for (let i = 0; i < jsonData.features.length; i++) {
-        const feature = jsonData.features[i];
-        teilnehmer = teilnehmerData[feature.properties.id]
-        const url = `../#tn-${feature.properties.id}`;
-        const marker = L.marker(new L.LatLng(feature.geometry.coordinates[1], feature.geometry.coordinates[0]), { title: teilnehmer.name });
-        marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.origin}`);
-        //marker.bindPopup(`${title}`);
-        markers.addLayer(marker);
+      for (const [key, teilnehmer] of Object.entries(teilnehmerData)) {
+        if ("pos" in teilnehmer) {
+          const url = `../#tn-${key}`;
+          const marker = L.marker(new L.LatLng(teilnehmer.pos[1], teilnehmer.pos[0]), { title: teilnehmer.name });
+          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.origin}`);
+          markers.addLayer(marker);
+        }
       }
 
       map.addLayer(markers);
