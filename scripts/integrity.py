@@ -142,7 +142,7 @@ def test_dates(prot_data, errors):
 def test_structure_teilnehmer_dict(teil_data, errors):
     # check that teilnehmer has expected structure
     for teilnehmer_key, teilnehmer in teil_data.items():
-        if not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'origin', 'sources', 'sns']):
+        if not teilnehmer.keys() <= set(['name', 'ids_to_signatures', 'first', 'last', 'name_non_latin', 'pos', 'origin', 'sources', 'sns']):
             errors.append(f"unexpected keys in teilnehmer nr {teilnehmer_key}: {teilnehmer}")
         if not set(['name', 'ids_to_signatures', 'first', 'last', 'sns']) <= teilnehmer.keys():
             errors.append(f"missing required key in teilnehmer nr {teilnehmer_key}: {teilnehmer}")

@@ -1,0 +1,51 @@
+<html>
+
+<head>
+  <title>Karte der Teilnehmer in Felix Kleins Seminaren</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Leaflet.MarkerCluster -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js'></script>
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css' rel='stylesheet' />
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css'
+    rel='stylesheet' />
+  <style>
+    #map {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+  <script>
+    const map = new L.Map('map', { maxZoom: 22 }).setView([0, 20], 1);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    const markers = L.markerClusterGroup();
+    (async () => {
+      const teilnehmer_response = await fetch('../js/data/teilnehmer.json');
+      const teilnehmerData = await teilnehmer_response.json();
+
+      for (const [key, teilnehmer] of Object.entries(teilnehmerData)) {
+        if ("pos" in teilnehmer) {
+          const url = `../#tn-${key}`;
+          const marker = L.marker(new L.LatLng(teilnehmer.pos[1], teilnehmer.pos[0]), { title: teilnehmer.name });
+          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.origin}`);
+          markers.addLayer(marker);
+        }
+      }
+
+      map.addLayer(markers);
+    })();
+
+  </script>
+</body>
+
+</html>
