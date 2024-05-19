@@ -597,7 +597,11 @@
     },
     "first": "Alfred",
     "last": "Benecke",
-    "origin": "Neuhaldesleben",
+    "origin": "Neuhaldensleben",
+    "pos": [
+      11.4149591,
+      52.4321599
+    ],
     "sources": {
       "AV 1903.5 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
@@ -1638,7 +1642,11 @@
     "sns": [
       1897.0
     ],
-    "origin": "Helmsburgh, Schottland, UK"
+    "origin": "Helensburgh, Schottland, UK",
+    "pos": [
+      -4.7342935,
+      56.0033464
+    ]
   },
   "1147": {
     "name": "Pierre Ceresole",
@@ -1864,6 +1872,10 @@
       "P Bd. 12 S. 371": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V12-1894-1896/V12-p371_normal.jpg"
     },
     "origin": "Alypascha, Tschirpan, Bulgarien",
+    "pos": [
+      25.3256972,
+      42.199981
+    ],
     "sns": [
       1894.5
     ]
@@ -2853,7 +2865,11 @@
     },
     "first": "Gustav",
     "last": "Gersting",
-    "origin": "Gr. Lengden, Hannover",
+    "origin": "Groß Lengden, Hannover",
+    "pos": [
+      10.0326565,
+      51.5082847
+    ],
     "sources": {
       "AV 1904.0 S.47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
@@ -2933,10 +2949,10 @@
     "sns": [
       1902.0
     ],
-    "origin": "Aspel(?)",
+    "origin": "Aspel",
     "pos": [
-      -86.1655374,
-      34.6209198
+      6.4327753,
+      51.7735024
     ]
   },
   "138": {
@@ -3101,8 +3117,8 @@
     ],
     "origin": "Zerbst [Anhalt]",
     "pos": [
-      -98.475574,
-      29.7941091
+      11.974820,
+      51.755718
     ]
   },
   "130": {
@@ -5243,7 +5259,11 @@
     "sns": [
       1906.5
     ],
-    "origin": "Budapast, Österreich-Ungarn"
+    "origin": "Budapest, Österreich-Ungarn",
+    "pos": [
+      19.0402383,
+      47.4978789
+    ]
   },
   "917": {
     "name": "Robert König",
@@ -6267,7 +6287,11 @@
     "sns": [
       1906.0
     ],
-    "origin": "Hannover oder Einbeck"
+    "origin": "Einbeck, Hannover",
+    "pos": [
+      9.8678465,
+      51.8185067
+    ]
   },
   "645": {
     "name": "Ludwig Meyeringh",
@@ -8182,7 +8206,7 @@
     },
     "first": "Dietrich",
     "last": "Schlüter",
-    "origin": "Wulsten",
+    "origin": "Wulften",
     "sources": {
       "AV 1899.5 S.58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B58%5D%7D",
       "KT foll. 192": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B392%5D%7D"
@@ -8191,8 +8215,8 @@
       1899.5
     ],
     "pos": [
-      -105.7380624,
-      38.2513874
+      10.172900,
+      51.663200
     ]
   },
   "544": {
@@ -9174,7 +9198,11 @@
     "sns": [
       1909.0
     ],
-    "origin": "Schpotowka, Gouvernement Tschernigow, Russland"
+    "origin": "Schpotowka, Gouvernement Tschernigow, Russland",
+    "pos": [
+      31.294332,
+      51.494099
+    ]
   },
   "699": {
     "name": "Anton Aloys Timpe",
@@ -10130,7 +10158,11 @@
     "sns": [
       1894.0
     ],
-    "origin": "Sankow [Carlow], Mecklenburg-Schwerin"
+    "origin": "Samkow [Carlow], Mecklenburg-Schwerin",
+    "pos": [
+      10.940910,
+      53.776190
+    ]
   },
   "662": {
     "name": "Fritz Wilde",
