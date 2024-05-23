@@ -108,7 +108,7 @@
     "sns": [
       1906.0
     ],
-    "origin": "Kassimow, Gouvernement Rjasan, Russland",
+    "origin": "Kassimow, Gouvernement Rjasan [Oblast Rjasan], Russland",
     "pos": [
       41.39518,
       54.939693
@@ -133,7 +133,7 @@
     },
     "first": "Friedrich[?]",
     "last": "Alfke",
-    "origin": "Bruchhausen",
+    "origin": "Bruchhausen[-Vilsen]",
     "sources": {
       "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
     },
@@ -178,7 +178,7 @@
     "sns": [
       1906.0
     ],
-    "origin": "Nieby, Schleswig-Holstein",
+    "origin": "Nieby",
     "pos": [
       9.934754,
       54.7723415
@@ -540,7 +540,7 @@
     },
     "first": "L.",
     "last": "Behse",
-    "origin": "Helmstedt, Br[aunschweig]",
+    "origin": "Helmstedt",
     "sources": {
       "AV 1892.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
@@ -802,7 +802,7 @@
     },
     "first": "Heinrich",
     "last": "Biesterfeld",
-    "origin": "Raden, Hessen-Nassau",
+    "origin": "Raden [Auetal]",
     "sources": {
       "AV 1905.0 S.40": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1905_SS?tify=%7B%22pages%22%3A%5B40%5D%7D"
     },
@@ -848,7 +848,7 @@
     "sns": [
       1896.0
     ],
-    "origin": "Brooklyn [New York], USA",
+    "origin": "Brooklyn, New York City, USA",
     "pos": [
       -74.0060152,
       40.7127281
@@ -971,7 +971,7 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lehrte, Hannover",
+    "origin": "Lehrte",
     "pos": [
       9.9748557,
       52.3749334
@@ -1140,7 +1140,7 @@
     "sns": [
       1887.0
     ],
-    "origin": "Wustrow, Mecklenburg-Schwerin",
+    "origin": "Wustrow [Fischland]",
     "pos": [
       12.9698436,
       53.2253478
@@ -1220,7 +1220,7 @@
     "sns": [
       1887.0
     ],
-    "origin": "Jägersburg, Brandenburg",
+    "origin": "Jägersburg [Lipinka (Gmina Dobiegniew), Polen]",
     "pos": [
       7.3232996,
       49.3708834
@@ -1524,7 +1524,7 @@
     "sns": [
       1896.5
     ],
-    "origin": "Russel, USA",
+    "origin": "Russel, [State?] USA",
     "pos": [
       -89.979615,
       36.663989
@@ -1650,7 +1650,7 @@
     "sns": [
       1897.0
     ],
-    "origin": "Helensburgh, Schottland, UK",
+    "origin": "Helensburgh, Scotland, UK",
     "pos": [
       -4.7342935,
       56.0033464
@@ -1788,7 +1788,7 @@
     },
     "first": "Wilhelm",
     "last": "Cordes",
-    "origin": "Northeim, Hannover",
+    "origin": "Northeim",
     "sources": {
       "AV 1903.5 S.42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B42%5D%7D"
     },
@@ -2396,7 +2396,7 @@
     },
     "first": "Heinrich",
     "last": "Fitschen",
-    "origin": "Worpswede, Hannover",
+    "origin": "Worpswede",
     "sources": {
       "AV 1890.0 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
@@ -2452,7 +2452,7 @@
     "sns": [
       1875.0
     ],
-    "origin": "Rendsburg, Schleswig-Holstein",
+    "origin": "Rendsburg",
     "pos": [
       9.6516356,
       54.3000225
@@ -2544,7 +2544,7 @@
       1884.5,
       1885.0
     ],
-    "origin": "Helmstedt, Braunschweig",
+    "origin": "Helmstedt",
     "pos": [
       10.8926011,
       52.1247218
@@ -2608,7 +2608,7 @@
     "sns": [
       1905.0
     ],
-    "origin": "Berel, Braunschwein",
+    "origin": "Berel",
     "pos": [
       10.2176555,
       52.1646173
@@ -2669,7 +2669,7 @@
     "sns": [
       1887.0
     ],
-    "origin": "Linden, Hannover",
+    "origin": "Linden [Linden-Limmer, Hannover]",
     "pos": [
       9.695234673382409,
       52.36167845
@@ -2864,7 +2864,7 @@
     "sns": [
       1899.0
     ],
-    "origin": "Simbirsk, Russland",
+    "origin": "Simbirsk [Uljanowsk], Russland",
     "pos": [
       48.38341656199037,
       54.3413021
@@ -2877,7 +2877,7 @@
     },
     "first": "Gustav",
     "last": "Gersting",
-    "origin": "Groß Lengden, Hannover",
+    "origin": "Groß Lengden",
     "pos": [
       10.0326565,
       51.5082847
@@ -3127,7 +3127,7 @@
       1899.5,
       1900.5
     ],
-    "origin": "Zerbst [Anhalt]",
+    "origin": "Zerbst [Zerbst/Anhalt]",
     "pos": [
       11.974820,
       51.755718
@@ -3380,7 +3380,7 @@
     "sns": [
       1905.0
     ],
-    "origin": "Geismar, Hannover [Göttingen]",
+    "origin": "Geismar [Göttingen]",
     "pos": [
       9.9351811,
       51.5328328
@@ -3529,7 +3529,7 @@
     },
     "first": "Julius",
     "last": "Hartung",
-    "origin": "Niedernstöcken, Hannover",
+    "origin": "Niedernstöcken",
     "sources": {
       "AV 1902.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
@@ -3940,7 +3940,7 @@
     "sns": [
       1892.0
     ],
-    "origin": "Süpplingen, Braunschweig",
+    "origin": "Süpplingen",
     "pos": [
       10.9040619,
       52.2271049
@@ -4348,7 +4348,7 @@
     },
     "first": "Augustin",
     "last": "Hölscher",
-    "origin": "Westerode, Hannover",
+    "origin": "Westerode [Duderstadt]",
     "sources": {
       "AV 1892.0 S.45": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1892_SS?tify=%7B%22pages%22%3A%5B45%5D%7D",
       "westeroeder-buerger": "https://westerode.de/unserdorf/westeroeder-buerger/"
@@ -4418,7 +4418,7 @@
     },
     "first": "Karl",
     "last": "Janke",
-    "origin": "Schwerin, Mecklenburg",
+    "origin": "Schwerin",
     "sources": {
       "AV 1908.5 S. 57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_1909_WS?tify=%7B%22pages%22%3A%5B57%5D%7D"
     },
@@ -4696,7 +4696,7 @@
     },
     "first": "Walther",
     "last": "Klebe",
-    "origin": "Garssen, Hannover",
+    "origin": "Garssen [Garßen, Celle]",
     "sources": {
       "AV 1910.5 S.64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1910_1911_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
     },
@@ -4972,7 +4972,7 @@
     "sns": [
       1910.5
     ],
-    "origin": "Artlenburg, Hannover",
+    "origin": "Artlenburg",
     "pos": [
       10.4899048,
       53.373402
@@ -5031,7 +5031,7 @@
     "sns": [
       1906.5
     ],
-    "origin": "Luckenwalde, Brandenburg",
+    "origin": "Luckenwalde",
     "pos": [
       13.1741882,
       52.0902045
@@ -5221,7 +5221,7 @@
       1903.0,
       1903.5
     ],
-    "origin": "Wismar, Mecklenburg-Schwerin",
+    "origin": "Wismar",
     "pos": [
       11.4529392,
       53.8994353
@@ -5415,7 +5415,7 @@
     "sns": [
       1903.5
     ],
-    "origin": "Oberndorf, Hannover",
+    "origin": "Oberndorf [Oste]",
     "pos": [
       8.5711222,
       48.2908613
@@ -5521,7 +5521,7 @@
     },
     "first": "Heinrich",
     "last": "Laubert",
-    "origin": "Hildesheim, Hannover",
+    "origin": "Hildesheim",
     "sources": {
       "AV 1903.0 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B55%5D%7D",
       "AV 1903.5 S.53": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B53%5D%7D",
@@ -5666,7 +5666,7 @@
     "sns": [
       1902.5
     ],
-    "origin": "Sehlde, Hannover",
+    "origin": "Sehlde",
     "pos": [
       10.2638817,
       52.039418
@@ -5843,7 +5843,7 @@
     "sns": [
       1912.0
     ],
-    "origin": "Ülzen, Hannover",
+    "origin": "Ülzen [Uelzen]",
     "pos": [
       7.728513774256951,
       51.5441231
@@ -6142,7 +6142,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Bergen b. Celle, Hannover",
+    "origin": "Bergen [Landkreis Celle]",
     "pos": [
       9.9757312,
       52.8098517
@@ -6307,7 +6307,7 @@
     "sns": [
       1906.0
     ],
-    "origin": "Einbeck, Hannover",
+    "origin": "Einbeck",
     "pos": [
       9.8678465,
       51.8185067
@@ -6327,7 +6327,7 @@
     "sns": [
       1912.0
     ],
-    "origin": "Weener, Hannover",
+    "origin": "Weener",
     "pos": [
       7.3536239,
       53.1645939
@@ -6365,7 +6365,7 @@
     "sns": [
       1896.5
     ],
-    "origin": "Glasgow, Schottland",
+    "origin": "Glasgow, Scotland, UK",
     "pos": [
       -4.2501687,
       55.861155
@@ -6745,7 +6745,7 @@
       1894.5,
       1895.0
     ],
-    "origin": "Soquel, Kalifornien, USA",
+    "origin": "Soquel, California, USA",
     "pos": [
       -121.942859743031,
       36.992568000000006
@@ -6806,7 +6806,7 @@
       1902.5,
       1903.0
     ],
-    "origin": "Lesse, Braunschweig",
+    "origin": "Lesse [Salzgitter]",
     "pos": [
       6.5052,
       48.9641
@@ -6929,7 +6929,7 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anna_Helene_Palmie"
     },
-    "origin": "New York, USA",
+    "origin": "Brooklyn, New York City, USA",
     "sns": [
       1898.5
     ],
@@ -7058,7 +7058,7 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lübow, Mecklenburg-Schwerin",
+    "origin": "Lübow [Dorf Mecklenburg-Bad Kleinen]",
     "pos": [
       11.5245017,
       53.852032
@@ -7703,7 +7703,7 @@
     "sns": [
       1891.0
     ],
-    "origin": "Waltershausen, Sachsen-Gotha [Thüringen]",
+    "origin": "Waltershausen",
     "pos": [
       11.0377839,
       50.9014721
@@ -7849,7 +7849,7 @@
     },
     "first": "Emil",
     "last": "Rottgardt",
-    "origin": "Geschendorf, Schleswig-Holstein",
+    "origin": "Geschendorf",
     "sources": {
       "AV 1903.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B62%5D%7D",
       "AV 1904.0 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B64%5D%7D",
@@ -8012,7 +8012,7 @@
       1896.5,
       1897.0
     ],
-    "origin": "Dankov, Gouvernement Rjasan, Russland",
+    "origin": "Dankov, Gouvernement Rjasan [Lipetsk Oblast], Russland",
     "pos": [
       18.2233408,
       49.1967563
@@ -8026,7 +8026,7 @@
     },
     "first": "Andreas",
     "last": "Sass",
-    "origin": "Flensburg, Schleswig-Holstein",
+    "origin": "Flensburg",
     "sns": [
       1903.0,
       1903.5
@@ -8069,7 +8069,7 @@
     "sns": [
       1890.0
     ],
-    "origin": "Themar, Sachsen-Gotha [Thüringen]",
+    "origin": "Themar",
     "pos": [
       11.0377839,
       50.9014721
@@ -8178,7 +8178,7 @@
       1902.0,
       1912.0
     ],
-    "origin": "Verden (Aller), Hannover",
+    "origin": "Verden (Aller)",
     "pos": [
       9.2286737,
       52.9219073
@@ -8273,7 +8273,7 @@
     },
     "first": "Heinrich",
     "last": "Schmidt",
-    "origin": "Leer, Hannover",
+    "origin": "Leer",
     "sources": {
       "AV 1904.5 S.65": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_1905_WS?tify=%7B%22pages%22%3A%5B65%5D%7D"
     },
@@ -8453,9 +8453,9 @@
     },
     "first": "Karl",
     "last": "Schulz",
-    "origin": "Guben, Brandenburg",
+    "origin": "Guben [Guben, Brandenburg bzw. Gubin, Polen]",
     "sources": {
-      "AV 1903.0. S.66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B66%5D%7D"
+      "AV 1903.0. S.66": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B66%5D%7D"
     },
     "sns": [
       1903.0,
@@ -8641,7 +8641,7 @@
     "sns": [
       1901.5
     ],
-    "origin": "Pößneck, Schlesien [Thüringen?]",
+    "origin": "Pößneck",
     "pos": [
       11.0377839,
       50.9014721
@@ -8721,10 +8721,14 @@
     },
     "first": "Percy Franklyn",
     "last": "Smith",
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Percey_F._Smith",
+      "wiki-en": "https://en.wikipedia.org/wiki/Percey_F._Smith"
+    },
     "sns": [
       1894.5
     ],
-    "origin": "New York, USA",
+    "origin": "Nyack, New York, USA",
     "pos": [
       -74.0060152,
       40.7127281
@@ -8922,7 +8926,7 @@
       1880.5,
       1881.0
     ],
-    "origin": "New York, USA",
+    "origin": "Yorkshire, New York, USA",
     "pos": [
       -74.0060152,
       40.7127281
@@ -9046,7 +9050,7 @@
     "sources": {
       "AV 1903.5 S. 69": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_1904_WS?tify=%7B%22pages%22%3A%5B69%5D%7D"
     },
-    "origin": "Wittmund, Hannover",
+    "origin": "Wittmund",
     "sns": [
       1903.5
     ],
@@ -9226,7 +9230,7 @@
     "sns": [
       1909.0
     ],
-    "origin": "Schpotowka, Gouvernement Tschernigow, Russland",
+    "origin": "Schepotowka, Gouvernement Tschernigow, Russland [Schepetiwka, Ukraine]",
     "pos": [
       31.294332,
       51.494099
@@ -9648,7 +9652,7 @@
     "sns": [
       1905.0
     ],
-    "origin": "Burgdorf, Hannover",
+    "origin": "Burgdorf [Region Hannover]",
     "pos": [
       10.0078364,
       52.4438008
@@ -9746,7 +9750,7 @@
       1901.5,
       1902.0
     ],
-    "origin": "Römstedt, Hannover",
+    "origin": "Römstedt",
     "pos": [
       10.6495665,
       53.0956912
@@ -10083,7 +10087,7 @@
     "sns": [
       1910.5
     ],
-    "origin": "Lauenbrück, Hannover",
+    "origin": "Lauenbrück",
     "pos": [
       9.5563333,
       53.2019324
@@ -10169,7 +10173,7 @@
       1886.0,
       1886.5
     ],
-    "origin": "Oblęcin, Russland [Polen]",
+    "origin": "Olbiencien, Russland [Olbięcin, Polen]",
     "pos": [
       21.985301401055878,
       51.4262598
@@ -10188,7 +10192,7 @@
     "sns": [
       1894.0
     ],
-    "origin": "Samkow [Carlow], Mecklenburg-Schwerin",
+    "origin": "Samkow [Carlow]",
     "pos": [
       10.940910,
       53.776190
@@ -10386,7 +10390,7 @@
     "sns": [
       1904.0
     ],
-    "origin": "Vlasovka, Gouvernement Wladimir, Russland",
+    "birthplace": "Vlasovka, Gouvernement Wladimir [Voronezh Oblast], Russland",
     "pos": [
       39.9067228,
       48.2700383
@@ -10421,7 +10425,7 @@
       1901.5,
       1903.0
     ],
-    "origin": "Einbeck, Hannover",
+    "origin": "Einbeck",
     "pos": [
       9.8678465,
       51.8185067
