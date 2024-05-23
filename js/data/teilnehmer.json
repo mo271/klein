@@ -291,7 +291,7 @@
     },
     "first": "Friedrich",
     "last": "Arensmeier",
-    "origin": "Riepen [Niedersachsen]",
+    "origin": "Riepen [Bad Nenndorf]",
     "sources": {
       "AV 1900.5 S.36": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B36%5D%7D"
     },
@@ -600,7 +600,7 @@
     },
     "first": "Alfred",
     "last": "Benecke",
-    "origin": "Neuhaldensleben",
+    "origin": "Neuhaldensleben [Haldensleben]",
     "pos": [
       11.4149591,
       52.4321599
@@ -3018,7 +3018,7 @@
     },
     "first": "Meier",
     "last": "Goldman",
-    "origin": "Lodz, Russland [Polen]",
+    "origin": "Lodz, Russland [Łódź, Polen]",
     "sources": {
       "Ciesielska et al. 2017 S. 292": "",
       "AV 1906.0 S.49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B49%5D%7D"
@@ -3083,7 +3083,7 @@
     "sources": {
       "AV 1906.5 S. 49": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_1907_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
-    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "origin": "Prag, Österreich-Ungarn [Praha, Tschechien]",
     "sns": [
       1906.0,
       1906.5
@@ -3221,7 +3221,7 @@
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=64803",
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/josef_gruenwald.html"
     },
-    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "origin": "Prag, Österreich-Ungarn [Praha, Tschechien]",
     "sns": [
       1899.5
     ],
@@ -4144,7 +4144,7 @@
     "sns": [
       1904.5
     ],
-    "origin": "Madelungen bei Eisenach",
+    "origin": "Madelungen [Eisenach]",
     "pos": [
       10.3193565,
       50.9747134
@@ -4166,7 +4166,7 @@
       1902.5,
       1903.0
     ],
-    "origin": "Madelungen bei Eisenach",
+    "origin": "Madelungen [Eisenach]",
     "pos": [
       10.3193565,
       50.9747134
@@ -7277,7 +7277,7 @@
     "sns": [
       1899.0
     ],
-    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "origin": "Prag, Österreich-Ungarn [Praha, Tschechien]",
     "pos": [
       15.3381061,
       49.7439047
@@ -8090,7 +8090,7 @@
       1892.0,
       1893.0
     ],
-    "origin": "Tagelswangen bei Lindau, Schweiz",
+    "origin": "Tagelswangen [Lindau, Zürich], Schweiz",
     "pos": [
       8.6722839,
       47.4426676
@@ -9629,7 +9629,7 @@
       "Významní matematici v českých zemích": "https://web.math.muni.cz/biografie/emil_waelsch.html",
       "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
-    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "origin": "Prag, Österreich-Ungarn [Praha, Tschechien]",
     "sns": [
       1884.5,
       1885.0
@@ -9936,7 +9936,7 @@
       "wiki-cs": "https://cs.wikipedia.org/wiki/Wilhelm_Weiss",
       "P Bd. 6 S. 253": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V06-1884-1885/V6-p253_normal.jpg"
     },
-    "origin": "Prag, Österreich-Ungarn [Tschechien]",
+    "origin": "Prag, Österreich-Ungarn [Praha, Tschechien]",
     "sns": [
       1884.5,
       1885.0
