@@ -133,7 +133,7 @@
     },
     "first": "Friedrich[?]",
     "last": "Alfke",
-    "origin": "Bruchhausen, Hannover[?]",
+    "origin": "Bruchhausen",
     "sources": {
       "AV 1912.0 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1912_SS?tify=%7B%22pages%22%3A%5B41%5D%7D"
     },
@@ -232,6 +232,7 @@
       1900.5
     ],
     "origin": "Gotha",
+    "birthplace": "Ruhla",
     "pos": [
       10.7014435,
       50.9494849
@@ -359,7 +360,7 @@
       1875.5,
       1876.5
     ],
-    "origin": "Seligenstadt",
+    "birthplace": "Seligenstadt",
     "pos": [
       8.9755128,
       50.0441737
@@ -403,6 +404,7 @@
       1905.0
     ],
     "origin": "Bremen",
+    "birthplace": "Bremen",
     "pos": [
       8.8071646,
       53.0758196
@@ -459,6 +461,7 @@
       1899.5
     ],
     "origin": "Leer",
+    "birthplace": "Leer",
     "pos": [
       7.459463962492224,
       53.20509275
@@ -690,7 +693,8 @@
     "sns": [
       1897.0
     ],
-    "origin": "Somerville, Massachussets, USA (geb. in Charleston [Boston])",
+    "origin": "Somerville, Massachussets, USA",
+    "birthplace": "Charleston [Boston], Massachusetts, USA",
     "pos": [
       -71.060511,
       42.3554334
@@ -1397,12 +1401,14 @@
     "first": "Paul",
     "last": "Böhmer",
     "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Paul_B%C3%B6hmer_(Mathematiker)",
       "AV 1900.5 S. 38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1900_1901_WS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1900.5
     ],
-    "origin": "Marienwerder",
+    "origin": "Marienwerder, Westpreußen [Kwidzyn, Polen]",
+    "birthplace": "Goschütz, Schlesien [Goszcz, Polen]",
     "pos": [
       18.937464130662192,
       53.7204653
@@ -1579,7 +1585,7 @@
       1893.5,
       1894.0
     ],
-    "origin": "Derry, USA (geb. in Hastings, Minnesota, USA)",
+    "birthplace": "Hastings, Minnesota, USA",
     "pos": [
       -7.3213056,
       54.9978678
@@ -1622,7 +1628,8 @@
       1902.0,
       1904.0
     ],
-    "origin": "Brüssel, Belgien (geb. in Berlin)",
+    "origin": "Brüssel, Belgien",
+    "birthplace": "Berlin",
     "pos": [
       4.3512333761166175,
       50.8550018
@@ -3604,7 +3611,8 @@
     "sns": [
       1887.0
     ],
-    "origin": "Dresden (geb. in Auerbach [Zwickau])",
+    "origin": "Dresden",
+    "birthplace": "Auerbach [Zwickau]",
     "pos": [
       12.4939267,
       50.7185043
@@ -3747,7 +3755,8 @@
     "sns": [
       1903.5
     ],
-    "origin": "Wien, Österreich-Ungarn (geb. in Wallern, Österreich-Ungarn [Volary, Tschechien])",
+    "origin": "Wien, Österreich-Ungarn",
+    "birthplace": "Wallern, Österreich-Ungarn [Volary, Tschechien]",
     "pos": [
       13.8883971,
       48.9095977
@@ -3868,7 +3877,8 @@
     "sns": [
       1904.0
     ],
-    "origin": "Augsburg (geb. in Stuttgart)",
+    "origin": "Augsburg",
+    "birthplace": "Stuttgart",
     "pos": [
       10.8979522,
       48.3690341
@@ -5577,7 +5587,8 @@
     "sns": [
       1896.5
     ],
-    "origin": "Jena (geb. in Straßburg [Strasbourg, Frankreich])",
+    "origin": "Jena",
+    "birthplace": "Straßburg [Strasbourg, Frankreich]",
     "pos": [
       7.7507127,
       48.584614
@@ -5967,7 +5978,8 @@
       "AV 1897.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B50%5D%7D",
       "P Bd. 13 S. 312ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p312_low.jpg"
     },
-    "origin": "Ann Arbor, Michigan, USA (geb. in East Nantmeal Township, Pennsylvania)",
+    "origin": "Ann Arbor, Michigan, USA",
+    "birthplace": "East Nantmeal Township, Pennsylvania, USA",
     "sns": [
       1895.5,
       1896.0,
@@ -6144,7 +6156,8 @@
     "sns": [
       1887.0
     ],
-    "origin": "Lüneburg (geb. in Nordholz)",
+    "origin": "Lüneburg",
+    "birthplace": "Nordholz",
     "pos": [
       10.407855,
       53.248706
@@ -7232,7 +7245,8 @@
     "sns": [
       1911.5
     ],
-    "origin": "Oberlößnitz [Radebeul] (geb. in Mittweida, Sachsen)",
+    "origin": "Oberlößnitz [Radebeul]",
+    "birthplace": "Mittweida",
     "pos": [
       13.6799641,
       51.1066072
@@ -8738,7 +8752,8 @@
       1894.0,
       1894.5
     ],
-    "origin": "Ithaca, New York, USA (geb. in Dyxon, Iowa)",
+    "origin": "Ithaca, New York, USA",
+    "birthplace": "Dyxon, Iowa, USA",
     "pos": [
       -76.4968019,
       42.4396039
@@ -9264,7 +9279,8 @@
       1894.5,
       1895.0
     ],
-    "origin": "Dresden (geb. in Graz, Österreich-Ungarn)",
+    "origin": "Dresden",
+    "birthplace": "Graz, Österreich-Ungarn",
     "pos": [
       13.7381437,
       51.0493286
@@ -9927,7 +9943,8 @@
       "AV 1902.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B68%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=52382"
     },
-    "origin": "Lexington, Kentucky, USA (geb. in Leipzig)",
+    "origin": "Lexington, Kentucky, USA",
+    "birthplace": "Leipzig",
     "pos": [
       -84.4970393,
       38.0464066
@@ -10509,7 +10526,8 @@
     "sns": [
       1904.5
     ],
-    "origin": "Budapest, Österreich-Ungarn (geb. in Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn])",
+    "origin": "Budapest, Österreich-Ungarn",
+    "birthplace": "Großkirchen, Österreich-Ungarn [Nagykanizsa, Ungarn]",
     "pos": [
       16.9923923,
       46.4548261
@@ -10802,7 +10820,8 @@
       1878.0,
       1878.5
     ],
-    "origin": "geb. in Tiflis, Russland [Georgien]",
+    "origin": "München",
+    "birthplace": "Tiflis, Russland [Georgien]",
     "pos": [
       44.0287806,
       41.6808672
@@ -10906,7 +10925,8 @@
     "sns": [
       1903.5
     ],
-    "origin": "Straßburg (geb. in Pfaffendorf [Koblenz]) [Strasbourg, Frankreich]",
+    "origin": "Straßburg [Strasbourg, Frankreich]",
+    "birthplace": "Pfaffendorf [Koblenz] ",
     "pos": [
       7.5943951,
       50.3533278
@@ -10967,7 +10987,8 @@
       1895.0,
       1895.5
     ],
-    "origin": "St. Petersburg, Russland (geb. in Tiflis, Russland [Georgien])",
+    "origin": "St. Petersburg, Russland",
+    "birthplace": "Tiflis, Russland [Georgien]",
     "pos": [
       44.0287806,
       41.6808672
