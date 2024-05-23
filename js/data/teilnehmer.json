@@ -4576,7 +4576,7 @@
     "ids_to_signatures": {},
     "first": "Seligmann",
     "last": "Kantor",
-    "origin": "Soborten, Österreich-Ungarn [Sobědruhy, Tschechien]",
+    "origin": "Soborten, Österreich-Ungarn [Sobědruhy, Teplice, Tschechien]",
     "sources": {
       "wiki-en": "https://en.wikipedia.org/wiki/Seligmann_Kantor",
       "Klein-Protokolle Bd. 3 S. 148": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V03-1881-1882/V3-p148_normal.jpg",
@@ -6130,7 +6130,7 @@
     ]
   },
   "578": {
-    "name": "Frant Meinecke",
+    "name": "Franz Meinecke",
     "ids_to_signatures": {
       "944": "F[ranz]. Meinecke"
     },
@@ -7405,7 +7405,7 @@
     "sources": {
       "wiki-de": "https://de.wikipedia.org/wiki/Anton_Puchta"
     },
-    "origin": "Altsattel, Österreich-Ungardn [Staré Sedlo, Tschechien]",
+    "origin": "Altsattel, Österreich-Ungarn [Staré Sedlo, Tschechien]",
     "sns": [
       1875.5,
       1876.5,
@@ -10390,6 +10390,7 @@
     "sns": [
       1904.0
     ],
+    "origin": "Wlassofskoje, Gouvernement Wladimir [Vlasovka, Voronezh Oblast], Russland",
     "birthplace": "Vlasovka, Gouvernement Wladimir [Voronezh Oblast], Russland",
     "pos": [
       40.1506507,
@@ -11046,7 +11047,8 @@
     "sns": [
       1891.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczurzyn bei Ciechanów, Russland [Polen])",
+    "origin": "Warschau, Russland [Warszawa, Polen]",
+    "birthplace": "Szczurzyn bei Ciechanów, Russland [Polen])",
     "pos": [
       21.0067249,
       52.2319581
