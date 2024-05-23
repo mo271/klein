@@ -1214,6 +1214,7 @@
     "first": "Adolf",
     "last": "Brosinsky",
     "sources": {
+      "astrogenealogy": "https://astrogen.aas.org/front/searchdetails.php?agnumber=59764",
       "AV 1888.0 S. 30": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1888_SS?tify=%7B%22pages%22%3A%5B30%5D%7D"
     },
     "sns": [
@@ -2012,13 +2013,15 @@
     ]
   },
   "639": {
-    "name": "Wacław Michał Dziewulski",
+    "name": "Władysław  Dziewulski",
     "ids_to_signatures": {
-      "861": "W[acław Michał] Dziewulski."
+      "861": "W[ładysław]  Dziewulski."
     },
-    "first": "Wacław Michał",
+    "first": "Władysław ",
     "last": "Dziewulski",
     "sources": {
+      "wiki-en": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Dziewulski",
+      "wiki-pl": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Dziewulski_(astronom)",
       "AV 1902.5 S. 43": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B43%5D%7D"
     },
     "sns": [
@@ -2252,6 +2255,7 @@
     "first": "Michał [Michael]",
     "last": "Feldblum",
     "sources": {
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Micha%C5%82_Feldblum",
       "AV 1898.5 S.41": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B41%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7335"
     },
@@ -2569,14 +2573,15 @@
     ]
   },
   "548": {
-    "name": "Theophil Friesendorff",
+    "name": "Theophil Friesendorf",
     "ids_to_signatures": {
-      "599": "Th[eophil]. Friesendorff",
-      "618": "Th[eophil]. Friesendorff",
-      "627": "Th[eophil]. Friesendorff"
+      "599": "Th[eophil]. Friesendorf",
+      "618": "Th[eophil]. Friesendorf",
+      "627": "Th[eophil]. Friesendorf"
     },
     "first": "Theophil",
-    "last": "Friesendorff",
+    "last": "Friesendorf",
+    "name_non_latin": "Теофил Фризендорф",
     "sources": {
       "AV 1895.0 S. 42": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B42%5D%7D"
     },
@@ -5383,6 +5388,7 @@
     "first": "Stanisław",
     "last": "Kępiński [Kepinski]",
     "sources": {
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_K%C4%99pi%C5%84ski",
       "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg"
     },
     "origin": "Salzberg, Österreich-Ungarn [Bochnia, Polen]",
@@ -5416,14 +5422,15 @@
     ]
   },
   "653": {
-    "name": "Stanislaus Landau",
+    "name": "Stanislaus Landau [later Stanisław Ziemecki]",
     "ids_to_signatures": {
       "1065": "[Stanislaus] Landau",
       "1066": "[Stanislaus] Landau"
     },
     "first": "Stanislaus",
-    "last": "Landau",
+    "last": "Landau [later Stanisław Ziemecki]",
     "sources": {
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Ziemecki",
       "AV 1908.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
     },
     "sns": [
@@ -6365,17 +6372,21 @@
     ]
   },
   "146": {
-    "name": "Mlodzienowski",
+    "name": "Boleslav Kornelievich Mlodzienowski [Mlodzievski]",
     "ids_to_signatures": {},
-    "first": "",
-    "last": "Mlodzienowski",
+    "first": "Boleslav Kornelievich",
+    "last": "Mlodzienowski [Mlodzievski]",
+    "name_non_latin": "Болеслав Корнелиевич Млодзиевский",
     "sources": {
+      "wiki-ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%BE%D0%B4%D0%B7%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%91%D0%BE%D0%BB%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D0%B5%D0%B2%D0%B8%D1%87",
+      "gigancinauki": "https://gigancinauki.pl/gn/biogramy/83326,Mlodziejewski-Boleslaw.html",
       "P Bd. 10 S. 186": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p186_normal.jpg",
       "KT S. 342": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B342%5D%7D"
     },
     "sns": [
       1891.0
-    ]
+    ],
+    "origin": "Moskau, Russland"
   },
   "368": {
     "name": "Theodor Molien",
@@ -7155,6 +7166,7 @@
     "first": "Norbert",
     "last": "Pinkus",
     "sources": {
+      "wiki-pl": "https://pl.wikipedia.org/wiki/Norbert_Pinkus",
       "AV 1904.0 S. 62": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B62%5D%7D"
     },
     "sns": [
@@ -7602,13 +7614,14 @@
     ]
   },
   "960": {
-    "name": "Tscheslaw Retschinsky",
+    "name": "Tscheslaw Retschinsky [Czesław Reczyński]",
     "ids_to_signatures": {
       "859": "[Tscheslaw] Retschinsky"
     },
-    "first": "Tscheslaw",
-    "last": "Retschinsky",
+    "first": "Tscheslaw [Czesław]",
+    "last": "Retschinsky [Reczyński]",
     "sources": {
+      "gigancinauki": "https://gigancinauki.pl/gn/biogramy/82616,Reczynski-Czeslaw.html",
       "AV 1902.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
     "sns": [
@@ -10156,7 +10169,7 @@
       1886.0,
       1886.5
     ],
-    "origin": "Olbiencien, Russland [Puławy, Polen]",
+    "origin": "Oblęcin, Russland [Polen]",
     "pos": [
       21.985301401055878,
       51.4262598
@@ -11029,7 +11042,7 @@
     "sns": [
       1891.0
     ],
-    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczuki, Polen)",
+    "origin": "Warschau, Russland [Warszawa, Polen] (geb. in Szczurzyn bei Ciechanów, Russland [Polen])",
     "pos": [
       21.071432235636493,
       52.2337172

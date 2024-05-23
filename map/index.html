@@ -2,7 +2,6 @@
 
 <head>
   <title>Karte der Teilnehmer in Felix Kleins Seminaren</title>
-  <link rel="shortcut icon" href="../ico/FK.ico">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <!-- Leaflet.MarkerCluster -->
@@ -10,104 +9,27 @@
   <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css' rel='stylesheet' />
   <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css'
     rel='stylesheet' />
-
-  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js"></script>
-  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css" rel="stylesheet" />
-
-  <script src="https://unpkg.com/mapbox-gl-leaflet@0.0.15/leaflet-mapbox-gl.js"></script>
-  <script src="decimaldate.js"></script>
-  <script src="leaflet-ohm-timeslider.js"></script>
-  <link href="leaflet-ohm-timeslider.css" rel="stylesheet" />
-  <!--
-    <script src="decimaldate.min.js"></script>
-    <script src="leaflet-ohm-timeslider.min.js"></script>
-    <link href="leaflet-ohm-timeslider.min.css" rel="stylesheet" />
-    -->
-
-  <!-- a map style-->
-  <script src="mapstyle.js"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-</head>
-
-<body>
-
-
-  <div id="map"></div>
-
-
-  <div id="languagepicker"></div>
-
-
   <style>
-    body,
-    html {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
-
     #map {
       position: absolute;
       top: 0;
       right: 0;
       bottom: 0;
       left: 0;
-      background-color: #ccc;
-      width: 100vw;
-      height: 100vh;
     }
   </style>
+</head>
 
-
+<body>
+  <div id="map"></div>
   <script>
-    const START_ZOOM = 4.0;
-    const START_CENTER = [51.52853, 9.93226];
-
-    let MAP, TIMESLIDER, OHMLAYER;
-
-    document.addEventListener('DOMContentLoaded', async function () {
-      MAP = L.map('map', {
-        zoomSnap: 0.1,
-        maxZoom: 19,
-      })
-        .setView(START_CENTER, START_ZOOM);
-
-      L.control.scale().addTo(MAP);
-
-      OHMLAYER = new L.MapboxGL({
-        attribution: "<a href='http://wiki.openstreetmap.org/wiki/OHM'>OHM</a>",
-        style: OHM_MAP_STYLE,
-        accessToken: "no-token",
-        maxZoom: 19,
-      });
-      OHMLAYER.addTo(MAP);
-
-      const tsoptions = {
-        vectorLayer: OHMLAYER,
-        vectorSourceName: 'osm',
-        range: ['1872-05-07', '1912-07-26'],
-        date: '1892-04-10',
-        stepInterval: 1,
-        stepAmount: '10year',
-        onDateChange: function (date) {
-          console.debug(['timeslider.js onDateChange', date, this]);
-        },
-        onRangeChange: function (range) {
-          console.debug(['timeslider.js onRangeChange', range, this]);
-        },
-        onReady: function () {
-          console.debug(['timeslider.js onReady', this]);
-        },
-      };
-      const selectedlanguage = (new URLSearchParams(document.location.search)).get('lang');
-      if (selectedlanguage) {
-        tsoptions.language = selectedlanguage;
-      }
-      TIMESLIDER = new L.Control.OHMTimeSlider(tsoptions).addTo(MAP);
-
-
-      const markers = L.markerClusterGroup();
+    const map = new L.Map('map', { maxZoom: 22 }).setView([0, 20], 1);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    const markers = L.markerClusterGroup();
+    (async () => {
       const teilnehmer_response = await fetch('../js/data/teilnehmer.json');
       const teilnehmerData = await teilnehmer_response.json();
 
@@ -119,14 +41,11 @@
           markers.addLayer(marker);
         }
       }
-      markers.setZIndex(5000);
-      markers.addTo(MAP);
 
+      map.addLayer(markers);
+    })();
 
-
-    });
   </script>
-
 </body>
 
 </html>
