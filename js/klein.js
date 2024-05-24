@@ -385,7 +385,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			return '<a href="' + href + '">' + name + '</a>';
 		}).join(', ') : '';
 
-		origin_span = record.origin ? '<span id="origin_span"> aus ' + record.origin + '</span>' : '';
+		origin_span = record.origin ? '<span id="origin_span"> aus ' + (record.pos ? '<a href="./map/?tn='+record.id+'">' + record.origin+'</a>': record.origin) + '</span>' : '';
 		let semesters = record.sns
 			.map(semester => `<a href="#sn-${semester}">${semester_titles[semester.toFixed(1)][0].replace("Wintersemester", "WS").replace("Sommersemester", "SS")}</a>`)
 			.join(', ');
@@ -415,6 +415,7 @@ function updateDynatable() {
 			name: item.name,
 			name_non_latin: item.hasOwnProperty('name_non_latin') ? item.name_non_latin : '',
 			origin: item.hasOwnProperty('origin') ? item.origin : '',
+			pos: item.hasOwnProperty('pos') ? item.pos : '',
 			first: item.first,
 			last: item.last,
 			sources: item.hasOwnProperty('sources') ? item.sources : '',

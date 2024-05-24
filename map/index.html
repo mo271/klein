@@ -23,15 +23,26 @@
 <body>
   <div id="map"></div>
   <script>
-    const map = new L.Map('map', { maxZoom: 22 }).setView([0, 20], 1);
+    const START_ZOOM = 4.0;
+    const START_CENTER = [51.52853, 9.93226];
+    const map = new L.Map('map', { maxZoom: 19 }).setView(START_CENTER, START_ZOOM);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+
     const markers = L.markerClusterGroup();
+
+    // Function to get URL parameters
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
     (async () => {
       const teilnehmer_response = await fetch('../js/data/teilnehmer.json');
       const teilnehmerData = await teilnehmer_response.json();
+      let targetMarker = null; // Store the marker to focus on
 
       for (const [key, teilnehmer] of Object.entries(teilnehmerData)) {
         if ("pos" in teilnehmer) {
@@ -39,10 +50,23 @@
           const marker = L.marker(new L.LatLng(teilnehmer.pos[1], teilnehmer.pos[0]), { title: teilnehmer.name });
           marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.origin}`);
           markers.addLayer(marker);
+
+          // Check if this is the target marker from URL parameter
+          const targetId = getQueryParam("tn");
+          if (targetId && targetId === key) {
+            targetMarker = marker;
+          }
         }
       }
 
       map.addLayer(markers);
+
+      // After markers are added, focus on the target marker (if found)
+      if (targetMarker) {
+        map.setView(targetMarker.getLatLng(), 11); // Adjust zoom level
+
+        targetMarker.openPopup();
+      }
     })();
 
   </script>
