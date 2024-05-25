@@ -23,8 +23,6 @@ def js_obj_to_py_dict(file_path, start_line, end_line):
         print(f"Error converting JS object to Python dict: {e}")
         return {}
 
-
-
 def is_valid_date(date_string):
     try:
         datetime.strptime(date_string, DATE_FORMAT)
@@ -189,6 +187,19 @@ def test_struture_protokolle_dict(prot_data, teil_data, errors):
             pass
             # errors.append(f"neither titel not klein_titel given in {id=}")
 
+UNKNOWN_PLACES = ["Gut Feilz[?]"]
+
+def test_pos_justified(teil_data, errors):
+    for teilnehmer_key, teilnehmer in teil_data.items():
+        if "pos" in teilnehmer:
+            if not ("origin" in teilnehmer or "birthplace" in teilnehmer):
+                errors.append(f"teilnehmer {teilnehmer_key} has pos = {teilnehmer['pos']}, but neither origin nor birthplace")
+        if "origin" in teilnehmer or "birthplace" in teilnehmer:
+            origin = teilnehmer.get('origin', None)
+            birthplace = teilnehmer.get('birthplace', None)
+            if "pos" not in teilnehmer and not (origin in UNKNOWN_PLACES or birthplace in UNKNOWN_PLACES):
+                errors.append(f"teilnehmer {teilnehmer_key} has origin = {origin} or birthplace = {birthplace}, but no pos")
+
 if __name__ == "__main__":
     prot_path = "./js/data/protokolle.json"
     teil_path = "./js/data/teilnehmer.json"
@@ -212,6 +223,7 @@ if __name__ == "__main__":
         test_struture_protokolle_dict(prot_data, teil_data, errors)
         test_valid_seminar_numbers(teil_data, prot_data, errors)
         test_dates(prot_data, errors)
+        test_pos_justified(teil_data, errors)
 
     if errors:
        print("Errors found during tests:")

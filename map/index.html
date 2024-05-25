@@ -2,6 +2,7 @@
 
 <head>
   <title>Karte der Teilnehmer in Felix Kleins Seminaren</title>
+	<link rel="shortcut icon" href="../ico/FK.ico">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <!-- Leaflet.MarkerCluster -->
@@ -48,7 +49,7 @@
         if ("pos" in teilnehmer) {
           const url = `../#tn-${key}`;
           const marker = L.marker(new L.LatLng(teilnehmer.pos[1], teilnehmer.pos[0]), { title: teilnehmer.name });
-          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.hasOwnProperty(origin) ?  teilnehmer.origin : teilnehmer.birthplace}`);
+          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${"origin" in teilnehmer ?  teilnehmer.origin : teilnehmer.birthplace}`);
           markers.addLayer(marker);
 
           // Check if this is the target marker from URL parameter

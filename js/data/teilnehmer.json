@@ -6386,7 +6386,11 @@
     "sns": [
       1891.0
     ],
-    "origin": "Moskau, Russland"
+    "origin": "Moskau, Russland",
+    "pos": [
+      37.6063916,
+      55.625578
+    ]
   },
   "368": {
     "name": "Theodor Molien",
