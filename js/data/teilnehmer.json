@@ -2352,6 +2352,11 @@
     "sns": [
       1885.0,
       1891.0
+    ], 
+    "birthplace" : "Chambersburg, Pennsylvania, USA",
+    "pos" : [
+      -77.6612586,
+      39.9375112
     ]
   },
   "909": {
