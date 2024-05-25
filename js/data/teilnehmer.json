@@ -2983,7 +2983,7 @@
     ]
   },
   "138": {
-    "name": "Glaser",
+    "name": "R. Glaser",
     "ids_to_signatures": {},
     "first": "R.",
     "last": "Glaser",
@@ -3260,6 +3260,11 @@
     "sns": [
       1888.5,
       1896.0
+    ],
+    "birthplace" : "Oslo, Norwegen",
+    "pos" : [
+      10.7389701,
+      59.9133301
     ]
   },
   "258": {
