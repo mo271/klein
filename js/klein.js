@@ -414,7 +414,7 @@ function updateDynatable() {
 			id: key,
 			name: item.name,
 			name_non_latin: item.hasOwnProperty('name_non_latin') ? item.name_non_latin : '',
-			origin: item.hasOwnProperty('origin') ? item.origin : '',
+			origin: item.hasOwnProperty('origin') ? item.origin : (item.hasOwnProperty('birthplace') ? item.birthplace : ''),
 			pos: item.hasOwnProperty('pos') ? item.pos : '',
 			first: item.first,
 			last: item.last,

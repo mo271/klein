@@ -48,7 +48,7 @@
         if ("pos" in teilnehmer) {
           const url = `../#tn-${key}`;
           const marker = L.marker(new L.LatLng(teilnehmer.pos[1], teilnehmer.pos[0]), { title: teilnehmer.name });
-          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.origin}`);
+          marker.bindPopup(`<a href="${url}" target="_blank">${teilnehmer.name}</a><br>${teilnehmer.hasOwnProperty(origin) ?  teilnehmer.origin : teilnehmer.birthplace}`);
           markers.addLayer(marker);
 
           // Check if this is the target marker from URL parameter
