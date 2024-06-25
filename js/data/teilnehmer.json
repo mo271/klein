@@ -1683,13 +1683,13 @@
     ]
   },
   "163": {
-    "name": "Nicolaus [Nikolaos] Chatzidakis [Hatzidakis]",
+    "name": "Nicolaus [Nikolaos] Hatzidakis",
     "ids_to_signatures": {
-      "717": "[Hazzidakis [Chatzidakis]]",
+      "717": "[Hazzidakis]",
       "743": "Dr N[icolas] J[?]. Hatzidakis"
     },
     "first": "Nicolaus [Nikolaos]",
-    "last": "Chatzidakis [Hatzdakis]",
+    "last": "Hatzdakis",
     "origin": "Athen, Griechenland",
     "name_non_latin": "Νικόλαος Χατζιδάκις",
     "sources": {
@@ -2352,7 +2352,7 @@
     "sns": [
       1885.0,
       1891.0
-    ], 
+    ],
     "birthplace" : "Chambersburg, Pennsylvania, USA",
     "pos" : [
       -77.6612586,
