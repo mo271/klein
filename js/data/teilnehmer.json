@@ -1194,16 +1194,24 @@
     ]
   },
   "160": {
-    "name": "Carl Brochmann",
+    "name": "Carl Brodmann",
     "ids_to_signatures": {
-      "466": "C[arl]. Brochmann",
-      "505": "[Brochmann.?]"
+      "466": "C[arl]. Brodmann",
+      "505": "[Brodmann.?]"
     },
     "first": "Carl",
-    "last": "Brochmann",
+    "last": "Brodmann",
+    "sources": {
+      "AV 1889.5 S. 33": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1889_1890_WS?tify=%7B%22pages%22%3A%5B33%5D%7D"
+    },
     "sns": [
       1887.0,
       1889.5
+    ],
+    "origin": "Halberstadt",
+    "pos": [
+      11.0520563,
+      51.8953514
     ]
   },
   "880": {
