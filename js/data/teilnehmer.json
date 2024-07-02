@@ -8725,24 +8725,25 @@
     ]
   },
   "329": {
-    "name": "Carl LudwigSiegel",
+    "name": "Carl Siegel",
     "ids_to_signatures": {
       "567": "C[arl] Siegel",
       "563": "C[arl] Siegel"
     },
-    "first": "Carl Ludwig",
+    "first": "Carl",
     "last": "Siegel",
     "sources": {
-      "wiki-de": "https://de.wikipedia.org/wiki/Carl_Ludwig_Siegel",
-      "wiki-en": "https://en.wikipedia.org/wiki/Carl_Ludwig_Siegel"
+      "biographien.ac.at": "https://www.biographien.ac.at/oebl/oebl_S/Siegel_Carl_1872_1943.xml",
+      "AV 1893.0 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1893_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
     },
     "sns": [
       1893.0
     ],
-    "origin": "Berlin",
+    "origin": "Wien, Österreich-Ungarn",
+    "birthplace": "Neuwaldegg",
     "pos": [
-      13.3888599,
-      52.5170365
+      16.3725042,
+      48.2083537
     ]
   },
   "36": {
