@@ -96,22 +96,24 @@
     ]
   },
   "651": {
-    "name": "Michael Akimoff",
+    "name": "Michael I. Akimoff [Akimov]",
     "ids_to_signatures": {
-      "999": "Michael Akimoff"
+      "999": "Michael Akimoff [Akimov]"
     },
-    "first": "Michael",
-    "last": "Akimoff",
+    "first": "Michael I.",
+    "last": "Akimoff [Akimov]",
     "sources": {
+      "www.gff-lgi.spb.ru": "http://www.gff-lgi.spb.ru/teachers/leading_scientists/ls_akimov_m_i.htm",
       "AV 1906.0 S.38": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1906_SS?tify=%7B%22pages%22%3A%5B38%5D%7D"
     },
     "sns": [
       1906.0
     ],
-    "origin": "Kassimow, Gouvernement Rjasan [Oblast Rjasan], Russland",
+    "origin": "St. Petersburg, Russland",
+    "birth": "Kassimow, Gouvernement Rjasan [Oblast Rjasan], Russland",
     "pos": [
-      41.39518,
-      54.939693
+      30.316229,
+      59.938732
     ]
   },
   "110": {
