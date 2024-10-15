@@ -309,7 +309,7 @@ function meinsort(record, queryValue) {
 		if (anfrage[0] == "tn") {
 			return record.id == anfrage[1];
 		}
-		// Iterate over the ids_to_signatures to find a match
+		// Iterate over the "ids_to_signatures" to find a match
 		for (var key in record.ids_to_signatures) {
 			if (record.ids_to_signatures.hasOwnProperty(key)) {
 				var adjusted_key = parseInt(key) - 1;
@@ -319,6 +319,7 @@ function meinsort(record, queryValue) {
 					var prot_record = protokolle[adjusted_key];
 
 					// Check if the anfrage matches the prot_record
+					// TODO: make sn in sns strings?!
 					if (anfrage[1] == prot_record[anfrage[0]]) {
 						return true;
 					}
@@ -326,6 +327,10 @@ function meinsort(record, queryValue) {
 					console.log("unexpected out of range adjusted key:", adjusted_key);
 				}
 			}
+		}
+		// Find a match in "sns"
+		if (record.sns.includes(parseFloat(anfrage[1]))){
+			return true
 		}
 		return false;
 	}
@@ -390,7 +395,7 @@ function meinRowWriter(rowIndex, record, columns, cellWriter) {
 			.map(semester => `<a href="#sn-${semester}">${semester_titles[semester.toFixed(1)][0].replace("Wintersemester", "WS").replace("Sommersemester", "SS")}</a>`)
 			.join(', ');
 
-		li = '<li class="' + cssClass + '"><div><p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">Vorträge: ' + talks + ', Semester: ' + semesters + '</p></div></li>';
+		li = '<li class="' + cssClass + '"><div><p class="namep"> <span id="namespan">' + record.first + ' ' + record.last + name_non_latin_span + origin_span + sources_link + '</span> <a href="#tn-' + record.id + '" data-toggle="tooltip" data-placement="right" title="Einzelansicht"><i class="fa fa-link"></i></a></p><p class="linkp">Vorträge: ' + (talks ? talks : "keine (nur Teilnehmer)") + ', Semester: ' + semesters + '</p></div></li>';
 		return li;
 
 	}
