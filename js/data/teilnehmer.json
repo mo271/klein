@@ -796,7 +796,11 @@
       1884.5,
       1885.0
     ],
-    "origin": "Zittau"
+    "origin": "Zittau",
+    "pos": [
+      14.8064807,
+      50.8960964
+    ]
   },
   "1138": {
     "name": "Heinrich Biesterfeld",
@@ -2597,7 +2601,11 @@
       1884.5,
       1885.0
     ],
-    "origin": "Dresden"
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "548": {
     "name": "Theophil Friesendorf",
@@ -6046,7 +6054,11 @@
       "astrogenealogy": "https://astrogen.aas.org/front/searchdetails.php?agnumber=70823"
     },
     "origin": "Dresden",
-    "birthplace": "Oppeln [Opole, Polen]"
+    "birthplace": "Oppeln [Opole, Polen]",
+    "pos": [
+      13.7381437,
+      51.0493286
+    ]
   },
   "271": {
     "name": "Sophus Marxsen",
