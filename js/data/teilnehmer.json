@@ -795,6 +795,11 @@
       1884.0,
       1884.5,
       1885.0
+    ],
+    "origin": "Zittau",
+    "pos": [
+      14.8064807,
+      50.8960964
     ]
   },
   "1138": {
@@ -2595,6 +2600,11 @@
       1884.0,
       1884.5,
       1885.0
+    ],
+    "origin": "Dresden",
+    "pos": [
+      13.7381437,
+      51.0493286
     ]
   },
   "548": {
@@ -4977,7 +4987,7 @@
     },
     "first": "Johannes",
     "last": "Klien",
-    "origin": "Dresden, Sachsen",
+    "origin": "Dresden",
     "sources": {
       "AV 1904.0 S.54": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1904_SS?tify=%7B%22pages%22%3A%5B54%5D%7D"
     },
@@ -6039,6 +6049,15 @@
     "sns": [
       1878.5,
       1879.0
+    ],
+    "sources":{
+      "astrogenealogy": "https://astrogen.aas.org/front/searchdetails.php?agnumber=70823"
+    },
+    "origin": "Dresden",
+    "birthplace": "Oppeln [Opole, Polen]",
+    "pos": [
+      13.7381437,
+      51.0493286
     ]
   },
   "271": {
