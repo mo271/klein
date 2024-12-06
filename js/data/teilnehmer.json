@@ -1788,16 +1788,22 @@
     ]
   },
   "131": {
-    "name": "N. Cór(?)",
+    "name": "Nicolas Narcisse Cor [Cór]",
     "ids_to_signatures": {},
-    "first": "N.",
-    "last": "Cór(?)",
+    "first": "N[icolas].",
+    "last": "Cor [Cór]",
     "sources": {
+      "man8rove.com": "https://man8rove.com/en/profile/uzceu9cqt-nicolas-narcisse-cor",
       "KT S. 302": "https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3173244?tify=%7B%22pages%22%3A%5B320%5D%7D",
       "P Bd. 8 S. 264": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V08-1886-1887/V8-p263_normal.jpg"
     },
     "sns": [
       1886.5
+    ],
+    "origin": "Kerling-lès-Sierck [Kerlingen]",
+    "pos": [
+      6.349722,
+      49.398056
     ]
   },
   "935": {
