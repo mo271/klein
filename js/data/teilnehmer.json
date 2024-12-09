@@ -583,6 +583,7 @@
     "first": "Torsten Ragner",
     "last": "Bendz",
     "sources": {
+      "Sveriges statskalender": "https://runeberg.org/statskal/1921/0599.html",
       "AV 1899.0 S. 37": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B37%5D%7D"
     },
     "sns": [
@@ -849,6 +850,7 @@
     "first": "Edwin Mortimer",
     "last": "Blake",
     "sources": {
+      "archives.lib.purdue.edu": "https://archives.lib.purdue.edu/agents/people/486",
       "AV 1896.0 S. 35": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_SS?tify=%7B%22pages%22%3A%5B35%5D%7D"
     },
     "sns": [
@@ -1121,6 +1123,7 @@
     "first": "James",
     "last": "Boyd",
     "sources": {
+      "University of Toledo": "https://canadaycenter.utoledo.edu/repositories/2/resources/431",
       "AV 1891.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
     },
     "sns": [
@@ -4587,6 +4590,7 @@
     "first": "Manfred",
     "last": "Jäger",
     "sources": {
+      "Eckert 2019": "https://hup.sub.uni-hamburg.de/oa-pub/catalog/download/220/ebook/1291?inline=1",
       "AV 1908.0 S. 57": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B57%5D%7D"
     },
     "sns": [
@@ -4645,6 +4649,7 @@
     "first": "Heinrich",
     "last": "Karstens",
     "sources": {
+      "wikidata.org": "https://www.wikidata.org/wiki/Q14465865",
       "AV 1898.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
     "sns": [
@@ -4724,6 +4729,7 @@
     "first": "Hugo",
     "last": "Kistler",
     "sources": {
+      "bibliobiel.ch": "https://www.bibliobiel.ch/de-wAssets/docs/angebot/chroniken/1969-1960/bj_1963.pdf",
       "AV 1903.0 S. 52": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1903_SS?tify=%7B%22pages%22%3A%5B52%5D%7D"
     },
     "sns": [
@@ -6028,6 +6034,7 @@
     "first": "Joseph Lybrand",
     "last": "Markley",
     "sources": {
+      "aadl.org": "https://aadl.org/aa_news_19300421_p1-dr_markley_passes_away_at_age_of_70",
       "AV 1897.0 S.50": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B50%5D%7D",
       "P Bd. 13 S. 312ff": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p312_low.jpg"
     },
@@ -6276,6 +6283,9 @@
       1893.5
     ],
     "origin": "Odessa, Ontario, Kanada",
+    "sources":{
+      "babel.hathitrust.org": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015064582425&seq=2"
+    },
     "pos": [
       -76.722712,
       44.276984
@@ -6711,6 +6721,7 @@
     "first": "Burt L.",
     "last": "Newkirk [Neukirch]",
     "sources": {
+      "findagrace.com": "https://de.findagrave.com/memorial/166292482/burt-leroy-newkirk",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=61003",
       "AV 1902.5 S. 60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
@@ -7331,6 +7342,7 @@
     "first": "Egon",
     "last": "Pollak",
     "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Egon_Pollak_(Dirigent)",
       "AV 1899.0 S. 56": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_SS?tify=%7B%22pages%22%3A%5B56%5D%7D"
     },
     "sns": [
@@ -7582,8 +7594,9 @@
     "first": "Legh Wilber",
     "last": "Reid",
     "sources": {
-      "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D",
-      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7337"
+      "wikidata.org": "https://www.wikidata.org/wiki/Q102156191",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7337",
+      "AV 1898.5 S.55": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B55%5D%7D"      
     },
     "origin": "Alexandria, Virginia, USA",
     "sns": [
@@ -8802,6 +8815,9 @@
     "first": "Gustaf Robert",
     "last": "Snellman",
     "origin": "Helsinki, Finnland",
+    "sources":{
+      "wiki-fi": "https://fi.wikipedia.org/wiki/Gustaf_Snellman"
+    },
     "sns": [
       1892.0
     ],
@@ -8940,6 +8956,7 @@
     "first": "Adolf",
     "last": "Steichen",
     "sources": {
+      "Eckert 2019": "https://hup.sub.uni-hamburg.de/oa-pub/catalog/download/220/ebook/1291?inline=1",
       "AV 1908.0 S. 78": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1908_SS?tify=%7B%22pages%22%3A%5B78%5D%7D"
     },
     "sns": [
@@ -8964,7 +8981,7 @@
     "sns": [
       1895.0
     ],
-    "origin": "O'Gyalla, Österreich-Ungarn [Hurbanovo, Slowakei]",
+    "origin": "Ógyalla, Österreich-Ungarn [Hurbanovo, Slowakei]",
     "pos": [
       18.198313,
       47.8761227
@@ -9410,6 +9427,7 @@
     "last": "Toxopeus",
     "sources": {
       "mathgenealogy": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=145209",
+      "resolver.kb.nl": "https://resolver.kb.nl/resolve?urn=MMSFUBA02:000008505",
       "AV 1897.0 S. 59": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_SS?tify=%7B%22pages%22%3A%5B59%5D%7D",
       "P Bd. 13 S. 316": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V13-1896-1898/V13-p316_normal.jpg"
     },
@@ -9430,8 +9448,9 @@
     "first": "Edgar Jerome",
     "last": "Townsend",
     "sources": {
-      "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D",
-      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7343"
+      "wikidata.org": "https://www.wikidata.org/wiki/Q94837958",
+      "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=7343",
+      "AV 1898.5 S.60": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1898_1899_WS?tify=%7B%22pages%22%3A%5B60%5D%7D"
     },
     "origin": "Champaign, Illinois, USA",
     "sns": [
@@ -9767,6 +9786,9 @@
     "first": "Alois",
     "last": "Walter",
     "origin": "Graz, Österreich-Ungarn",
+    "sources":{
+      "Uni Leoben": "https://pure.unileoben.ac.at/de/publications/institut-f%C3%BCr-mathematik-und-angewandte-geometrie-abteilung-f%C3%BCr-ma"
+    },
     "sns": [
       1899.0
     ],
@@ -10017,6 +10039,7 @@
       1902.5
     ],
     "sources": {
+      "stackexchange.com": "https://hsm.stackexchange.com/questions/14210/biographical-details-for-paul-wernicke",
       "AV 1902.5 S. 68": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1902_1903_WS?tify=%7B%22pages%22%3A%5B68%5D%7D",
       "mathgenealogy": "https://www.mathgenealogy.org/id.php?id=52382"
     },
@@ -10028,13 +10051,15 @@
     ]
   },
   "490": {
-    "name": "J. E. Westfall",
+    "name": "John van Etten Westfall",
     "ids_to_signatures": {
-      "674": "J. E. Westfall"
+      "674": "J[ohn]. [van] E[tten]. Westfall"
     },
-    "first": "J. E.",
+    "first": "John van Etten",
     "last": "Westfall",
     "sources": {
+      "centuryarchives.org": "https://centuryarchives.org/member-directory/?PersonID=3219",
+      "babel.hathitrust.org": "https://catalog.hathitrust.org/Record/100398172",
       "AV 1896.5 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1896_1897_WS?tify=%7B%22pages%22%3A%5B58%5D%7D"
     },
     "sns": [
@@ -10525,6 +10550,8 @@
     "last": "Yoshiye",
     "name_non_latin": "吉江琢兒",
     "sources": {
+      "wiki-ja": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%B1%9F%E7%90%A2%E5%85%90",
+      "wikidata.org": "https://www.wikidata.org/wiki/Q121355747",
       "AV 1899.5 S. 64": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1899_1900_WS?tify=%7B%22pages%22%3A%5B64%5D%7D"
     },
     "sns": [
@@ -10544,6 +10571,7 @@
     "first": "Everett Irving",
     "last": "Yowell",
     "sources": {
+      "wikitree": "https://www.wikitree.com/wiki/Yowell-186",
       "AV 1895.0 S. 58": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1895_SS?tify=%7B%22pages%22%3A%5B58%5D%7D"
     },
     "sns": [
