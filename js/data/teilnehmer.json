@@ -517,7 +517,7 @@
       "1088": "[Wilhelm] Behrens",
       "1093": "[Wilhelm] Behrens",
       "1132": "[Wilhelm Behrens, aufgeschrieben von Felix Klein]",
-      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
+      "1139": "[Wilhelm Behrens, Alfred Errera, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Wilhelm",
     "last": "Behrens",
@@ -2193,15 +2193,17 @@
     ]
   },
   "242": {
-    "name": "Alfred Errara",
+    "name": "Alfred Errera",
     "ids_to_signatures": {
-      "1126": "[Alfred] Errara",
+      "1126": "[Alfred] Errera",
       "1128": "[Alfred Errera, aufgeschrieben von Felix Klein]",
-      "1139": "[Wilhelm Behrens, Alfred Errara, Hermann Weyl, aufgeschrieben von Felix Klein]"
+      "1139": "[Wilhelm Behrens, Alfred Errera, Hermann Weyl, aufgeschrieben von Felix Klein]"
     },
     "first": "Alfred",
-    "last": "Errara",
+    "last": "Errera",
     "sources": {
+      "wiki-nl": "https://nl.wikipedia.org/wiki/Alfred_Errera",
+      "wiki-de": "https://de.wikipedia.org/wiki/Alfred_Errera",
       "AV 1909.5 S. 51": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B51%5D%7D"
     },
     "sns": [
