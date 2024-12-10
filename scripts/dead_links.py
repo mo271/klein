@@ -33,11 +33,14 @@ def read_json_file(file_path):
 
 
 def is_url_reachable(url, max_retries=4, initial_delay=1):
+    headers = {
+        'User-Agent': 'curl/7.64.1'  # or another common user-agent
+    }
     retries = 0
     while retries < max_retries:
         try:
             print(f'Checking {url} (Attempt {retries + 1}/{max_retries})...')
-            response = requests.head(url, allow_redirects=True)
+            response = requests.head(url, allow_redirects=True, headers=headers)
 
             if response.status_code >= 200 and response.status_code < 400:
                 print('... success!')
