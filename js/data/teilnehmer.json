@@ -1885,8 +1885,9 @@
     "first": "Paul",
     "last": "Decoster",
     "sources": {
-      "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1897_1898_WS?tify=%7B%22pages%22%3A%5B48%5D%7D",
-      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Decoster"
+      "wiki-fr": "https://fr.wikipedia.org/wiki/Paul_Decoster",
+      "pdcnet.org": "https://www.pdcnet.org/wcp11/content/wcp11_1953XIII_0200_0205",
+      "AV 1909.5 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1909_1910_WS?tify=%7B%22pages%22%3A%5B49%5D%7D"
     },
     "origin": "Löwen, Belgien",
     "sns": [
