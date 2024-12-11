@@ -10872,19 +10872,22 @@
     ]
   },
   "1052": {
-    "name": "N. v. Zitowitsch",
+    "name": "Nikolay Tsytovich [von Zitowitsch]",
     "ids_to_signatures": {
-      "710": "N[?]. v. Zitowitsch"
+      "710": "N[ikolay]. v. Zitowitsch"
     },
-    "first": "N.",
-    "last": "v. Zitowitsch",
+    "first": "Nikolay",
+    "last": "Tsytovich [von Zitowitsch]",
     "sns": [
       1898.0
     ],
-    "origin": "St. Petersburg?, Russland",
+    "sources":{
+      "wiki-ru": "https://ru.wikipedia.org/wiki/Цытович,_Николай_Платонович"
+    },
+    "origin": "Smolesnk, Russland",
     "pos": [
-      30.316229,
-      59.938732
+      32.05,
+      54.783333
     ]
   },
   "291": {
