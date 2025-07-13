@@ -1031,6 +1031,25 @@
       49.1028075
     ]
   },
+  "325": {
+    "name": "Henry Bourget",
+    "ids_to_signatures": {},
+    "first": "Henry",
+    "last": "Bourget",
+    "sources": {
+      "henripoincare.fr": "https://henripoincare.fr/s/accueil/item/690",
+      "AV 1890.5 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_1891_WS?tify=%7B%22pages%22%3A%5B39%5D%7D",
+      "P Bd. 10 S. 185": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p185_normal.jpg"
+    },
+    "sns": [
+      1890.5
+    ],
+    "origin": "Clermont-Ferrand, Frankreich",
+    "pos": [
+      3.0824,
+      45.7831
+    ]
+  },
   "356": {
     "name": "Max Born",
     "ids_to_signatures": {
@@ -1127,6 +1146,7 @@
       "AV 1891.0 S. 39": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1891_SS?tify=%7B%22pages%22%3A%5B39%5D%7D"
     },
     "sns": [
+      1890.5,
       1891.0,
       1892.5
     ],
@@ -1408,6 +1428,7 @@
     "sns": [
       1889.5,
       1890.0,
+      1890.5,
       1891.0
     ],
     "origin": "Boston, Massachusetts, USA",
@@ -4688,6 +4709,24 @@
       40.7127281
     ]
   },
+  "326": {
+    "name": "K. Kaufmann",
+    "ids_to_signatures": {},
+    "first": "K.",
+    "last": "Kaufmann",
+    "origin": "Frankfurt am Main",
+    "pos": [
+      8.6820917,
+      50.1106444
+    ],
+    "sources": {
+      "AV 1890.5 S. 46": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_1891_WS?tify=%7B%22pages%22%3A%5B46%5D%7D",
+      "P Bd. 10 S. 185": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p185_normal.jpg"
+    },
+    "sns": [
+      1890.5
+    ]
+  },
   "629": {
     "name": "Otto Kindling",
     "ids_to_signatures": {
@@ -4949,6 +4988,7 @@
       1885.0,
       1886.0,
       1888.5,
+      1890.5,
       1892.5,
       1893.5,
       1897.5,
@@ -5229,6 +5269,7 @@
     },
     "origin": "Sobichur, Österreich-Ungarn [Soběkury, Tschechien]",
     "sns": [
+      1890.5,
       1891.0
     ],
     "pos": [
@@ -5545,6 +5586,25 @@
     "pos": [
       6.083862,
       50.776351
+    ]
+  },
+    "328": {
+    "name": "Emanuel Lasker",
+    "ids_to_signatures": {},
+    "first": "Emanuel",
+    "last": "Lasker",
+    "origin": "Berlinchen [Barlinek, Polen]",
+    "pos": [
+      15.2,
+      53 
+    ],
+    "sources": {
+      "wiki-de": "https://de.wikipedia.org/wiki/Emanuel_Lasker",
+      "wiki-en": "https://en.wikipedia.org/wiki/Emanuel_Lasker",
+      "P Bd. 10 S. 185": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V10-1889-1892/V10-p185_normal.jpg"
+    },
+    "sns": [
+      1890.5
     ]
   },
   "77": {
@@ -6943,7 +7003,8 @@
       "wiki-fr": "https://fr.wikipedia.org/wiki/Henri_Pad%C3%A9"
     },
     "sns": [
-      1890.0
+      1890.0,
+      1890.5
     ],
     "origin": "Abbeville, Frankreich",
     "pos": [
@@ -7779,6 +7840,7 @@
       "AV 1890.0 S. 47": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B47%5D%7D"
     },
     "sns": [
+      1890.5,
       1891.0
     ],
     "origin": "Waltershausen",
@@ -8146,7 +8208,8 @@
       "AV 1890.0 S. 48": "https://gdz.sub.uni-goettingen.de/id/PPN658958380_1890_SS?tify=%7B%22pages%22%3A%5B48%5D%7D"
     },
     "sns": [
-      1890.0
+      1890.0,
+      1890.5
     ],
     "origin": "Themar",
     "pos": [
@@ -8232,6 +8295,7 @@
     },
     "sns": [
       1890.0,
+      1890.5,
       1891.0,
       1892.5
     ],
@@ -9566,6 +9630,7 @@
       "P Bd. 11 S. 345": "https://www.uni-math.gwdg.de/aufzeichnungen/klein-scans/klein/V11-1892-1894/V11-p345_low.jpg"
     },
     "sns": [
+      1890.5,
       1891.0,
       1892.5
     ],
@@ -11143,6 +11208,7 @@
       "wiki-pl": "https://pl.wikipedia.org/wiki/Kazimierz_Żorawski"
     },
     "sns": [
+      1890.5,
       1891.0
     ],
     "origin": "Warschau, Russland [Warszawa, Polen]",

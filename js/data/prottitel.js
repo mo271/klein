@@ -81,6 +81,7 @@ titeldict = (
  "sn-1887.0" : "Sommer-Semester 1887" ,
  "sn-1900.5" : "Winter-Semester<br> 1900/1901<br> Fortsetzung (Projective Geometrie)" ,
  "sn-1890.0" : "Sommersemester 1890." ,
+ "sn-1890.5" : "Wintersemester 1890/91 (nur Vorlesungen von Felix Klein)",
  "sn-1891.0" : "Sommersemester 1891." ,
  "sn-1892.0" : "Sommersemester 1892" ,
  "sn-1893.0" : "<span class='nonorigtitel'>Sommersemester 1893</span>" ,
